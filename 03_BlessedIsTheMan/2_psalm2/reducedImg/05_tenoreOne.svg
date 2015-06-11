@@ -1,0 +1,4458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.2"
+   width="467.7168"
+   height="412.44977"
+   viewBox="0 0 75.115303 66.239417"
+   id="svg29902">
+  <metadata
+     id="metadata31512">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs31510" />
+  <text
+     y="-1.0222485"
+     id="text29904"
+     style="font-size:2.17400002px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+    <tspan
+       id="tspan29906" />
+  </text>
+  <text
+     x="33.870201"
+     y="1.4118515"
+     id="text29908"
+     style="font-size:1.93669999px;font-weight:bold;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+    <tspan
+       id="tspan29910">Psalm 2</tspan>
+  </text>
+  <line
+     x1="8.5859003"
+     y1="10.589151"
+     x2="75.0653"
+     y2="10.589151"
+     id="line29912"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="8.5859003"
+     y1="9.5891514"
+     x2="75.0653"
+     y2="9.5891514"
+     id="line29914"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="8.5859003"
+     y1="8.5891514"
+     x2="75.0653"
+     y2="8.5891514"
+     id="line29916"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="8.5859003"
+     y1="7.5891514"
+     x2="75.0653"
+     y2="7.5891514"
+     id="line29918"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="8.5859003"
+     y1="6.5891514"
+     x2="75.0653"
+     y2="6.5891514"
+     id="line29920"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:46:47"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29922">
+    <text
+       transform="translate(61.5252,19.4672)"
+       id="text29924"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan29926">so</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="58.757999"
+     y="7.7747517"
+     id="rect29928"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:5:20:21"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29930">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,66.2616,13.1638)"
+       id="path29932"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29934">
+    <text
+       transform="translate(66.2616,19.4672)"
+       id="text29936"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan29938">strak</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="62.847301"
+     y="7.7747517"
+     id="rect29940"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:32:33"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29942">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,52.693,13.1638)"
+       id="path29944"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:37:38"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29946">
+    <text
+       transform="translate(51.9776,19.4672)"
+       id="text29948"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan29950">de</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="49.278702"
+     y="7.7747517"
+     id="rect29952"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:35:36"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29954">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,56.7823,13.1638)"
+       id="path29956"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:43:44"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29958">
+    <text
+       transform="translate(56.7823,19.4672)"
+       id="text29960"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan29962">vi</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.0249"
+     ry="0.039999999"
+     x="53.368"
+     y="7.7747517"
+     id="rect29964"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:42:43"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29966">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,59.2273,14.6638)"
+       id="path29968"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="2.2939999"
+     ry="0.039999999"
+     x="55.813"
+     y="9.2747517"
+     id="rect29970"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:5:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29972">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,62.1723,13.1638)"
+       id="path29974"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:8:9"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29976">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(71.8143,19.4672)"
+       id="rect29978"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:5:22:23"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29980">
+    <path
+       d="m 0.52152756,-2.1935115 c 0.73097914,-1.2617207 3.02157984,-1.9743449 4.33932914,-1.35 -1.2821016,-0.509762 -3.5727023,0.2028622 -4.33932914,1.35 z"
+       transform="translate(66.2616,14.1638)"
+       id="path29982"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:5:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29984">
+    <line
+       transform="translate(62.1723,8.8198)"
+       x1="0"
+       y1="0"
+       x2="6.5767002"
+       y2="0.66659999"
+       id="line29986"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(62.1723,8.8198)"
+       x1="0"
+       y1="0"
+       x2="6.5767002"
+       y2="-0.66659999"
+       id="line29988"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:38:39"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29990">
+    <path
+       d="m 0.89283849,-2.1935115 c 1.04459971,-0.2674205 2.21529541,0.5226251 2.44498281,1.65 -0.296814,-1.0279063 -1.4675097,-1.8179518 -2.44498281,-1.65 z"
+       transform="translate(56.7823,14.1638)"
+       id="path29992"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:40:41"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29994">
+    <polygon
+       points="2.535,0.61 2.535,1.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(56.7823,16.3538)"
+       id="polygon29996"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:40:41"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a29998">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(55.4157,19.4672)"
+       id="rect30000"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:34:35"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30002">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(50.676,19.4672)"
+       id="rect30004"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:22:23"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30006">
+    <path
+       d="m 0.59448219,-2.1935115 c 0.62496611,-0.7710098 1.89380711,-0.9357954 2.69498281,-0.35 -0.785721,-0.4667948 -2.054562,-0.3020092 -2.69498281,0.35 z"
+       transform="translate(47.303,14.1638)"
+       id="path30008"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30010">
+    <polygon
+       points="2.785,-0.39 2.785,0.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(47.303,16.1638)"
+       id="polygon30012"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:28:29"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30014">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(46.3803,19.4672)"
+       id="rect30016"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:41:42"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30018">
+    <path
+       d="m 0.72940431,-3.0435115 c 0.83758979,-0.5449901 2.10863099,-0.3091739 2.69498279,0.5 -0.6082419,-0.6911873 -1.879283,-0.9270035 -2.69498279,-0.5 z"
+       transform="translate(37.8237,14.1638)"
+       id="path30020"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:43:44"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30022">
+    <polygon
+       points="2.785,-0.01 2.785,0.39 0.04,0.2 0.04,-0.2 "
+       transform="translate(37.8237,15.1638)"
+       id="polygon30024"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30026">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(36.5937,19.4672)"
+       id="rect30028"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:35:36"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30030">
+    <line
+       transform="translate(34.7181,10.0821)"
+       x1="0"
+       y1="0.66659999"
+       x2="6.7955999"
+       y2="0"
+       id="line30032"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(34.7181,10.0821)"
+       x1="0"
+       y1="-0.66659999"
+       x2="6.7955999"
+       y2="0"
+       id="line30034"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:11:12"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30036">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(31.1581,19.4672)"
+       id="rect30038"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:5:6"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30040">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(24.8197,19.4672)"
+       id="rect30042"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:22:23"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30044">
+    <path
+       d="m 1.6006365,-0.5435115 c 0.551255,-1.0021681 2.0676678,-1.4912423 3.1005783,-1 -0.9960764,-0.3770352 -2.5124891,0.1120389 -3.1005783,1 z"
+       transform="translate(19.6593,14.1638)"
+       id="path30046"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:19:20"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30048">
+    <line
+       transform="translate(22.0266,10.0821)"
+       x1="0"
+       y1="0"
+       x2="12.0248"
+       y2="0.66659999"
+       id="line30050"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(22.0266,10.0821)"
+       x1="0"
+       y1="0"
+       x2="12.0248"
+       y2="-0.66659999"
+       id="line30052"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:5:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30054">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,70.6009,11.6638)"
+       id="path30056"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:5:28:29"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30058">
+    <g
+       transform="translate(69.749,9.4198)"
+       id="g30060">
+      <path
+         d="m -41,146 c 26,76 82,153 149,153 22,0 36,-20 41,-45 22,26 51,45 81,45 23,0 38,-21 44,-46 22,27 51,46 80,46 33,0 59,-35 59,-69 0,-5 -1,-10 -2,-15 L 376,66 c 0,-2 -1,-4 -1,-5 0,-5 2,-8 7,-8 9,0 27,11 48,31 4,4 9,6 13,6 6,0 11,-4 11,-10 0,-4 -3,-8 -7,-12 -40,-38 -85,-75 -131,-75 -20,0 -32,13 -32,32 0,4 0,7 1,11 l 39,165 c 1,5 2,9 2,14 0,10 -4,18 -14,18 -16,0 -33,-16 -39,-32 L 220,18 C 217,8 208,0 198,0 h -41 c -10,0 -16,8 -13,18 l 52,183 c 2,6 3,11 3,16 0,9 -4,16 -13,16 -16,0 -35,-15 -41,-32 L 83,18 C 80,8 69,0 59,0 H 18 C 8,0 3,8 6,18 l 63,183 c 2,5 2,10 2,15 0,10 -3,17 -13,17 -29,0 -54,-53 -66,-87 -4,-11 -15,-17 -23,-17 -7,0 -12,4 -12,11 0,2 1,4 2,6 z"
+         transform="scale(0.004,-0.004)"
+         id="path30062"
+         style="fill:currentColor" />
+      <path
+         d="M 253,245 203,82 C 173,-17 82,-173 -15,-173 c -45,0 -87,27 -87,69 0,39 17,77 52,77 24,0 44,-20 44,-44 0,-30 -38,-24 -38,-54 0,-10 11,-11 23,-11 h 6 c 48,0 61,58 73,108 l 68,273 H 77 c -11,0 -19,8 -19,19 0,11 8,19 19,19 h 60 c 32,96 118,191 213,191 45,0 87,-27 87,-69 0,-39 -17,-77 -52,-77 -24,0 -44,19 -44,43 0,30 38,25 38,55 0,10 -10,11 -22,11 h -7 c -62,0 -70,-88 -86,-154 h 55 c 11,0 19,-8 19,-19 0,-11 -8,-19 -19,-19 h -66 z"
+         transform="matrix(0.004,0,0,-0.004,1.7413,0)"
+         id="path30064"
+         style="fill:currentColor" />
+    </g>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="67.1866"
+     y="6.2747517"
+     id="rect30066"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:5:35:36"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30068">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,74.4403,13.1638)"
+       id="path30070"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:11:12"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30072">
+    <text
+       transform="translate(72.7006,19.4672)"
+       id="text30074"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30076">hom</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="71.026001"
+     y="7.7747517"
+     id="rect30078"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30080">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,23.8385,13.6638)"
+       id="path30082"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="20.4242"
+     y="8.2747517"
+     id="rect30084"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:28:29"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30086">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,28.1778,12.1638)"
+       id="path30088"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:8:9"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30090">
+    <text
+       transform="translate(27.4988,19.4672)"
+       id="text30092"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30094">bo</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.2416999"
+     ry="0.039999999"
+     x="24.7635"
+     y="6.8474512"
+     id="rect30096"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:32:33"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30098">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,33.7344,12.6638)"
+       id="path30100"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:14:15"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30102">
+    <text
+       transform="translate(32.7458,19.4672)"
+       id="text30104"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30106">tay</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="30.320101"
+     y="7.2747517"
+     id="rect30108"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:38:39"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30110">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,37.8237,12.1638)"
+       id="path30112"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30114">
+    <text
+       transform="translate(37.8237,19.4672)"
+       id="text30116"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30118">te</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8188"
+     ry="0.039999999"
+     x="34.409401"
+     y="6.7747517"
+     id="rect30120"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:5:32:33"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30122">
+    <line
+       transform="translate(73.7536,8.8198)"
+       x1="0"
+       y1="0.66659999"
+       x2="3.776"
+       y2="0"
+       id="line30124"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(73.7536,8.8198)"
+       x1="0"
+       y1="-0.66659999"
+       x2="3.776"
+       y2="0"
+       id="line30126"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30128">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,19.6593,14.6638)"
+       id="path30130"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30132">
+    <path
+       d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+       transform="matrix(0.004,0,0,-0.004,19.5926,10.6821)"
+       id="path30134"
+       style="fill:currentColor" />
+  </a>
+  <path
+     d="m 10.8399,8.5411515 c 0.016,0 0.036,-0.004 0.052,-0.004 0.62,0 1.024,0.512 1.024,1.044 0,0.304 -0.132,0.6159995 -0.428,0.8399995 -0.088,0.068 -0.188,0.112 -0.292,0.144 0.012,0.14 0.02,0.28 0.02,0.42 0,0.076 -0.004,0.156 -0.008,0.232 -0.028,0.48 -0.36,0.912 -0.832,0.912 -0.432,0 -0.78,-0.352 -0.78,-0.788 0,-0.232 0.212,-0.412 0.448,-0.412 0.216,0 0.38,0.188 0.38,0.412 0,0.208 -0.172,0.38 -0.38,0.38 -0.044,0 -0.084,-0.008 -0.124,-0.024 0.104,0.156 0.272,0.26 0.468,0.26 0.384,0 0.628,-0.368 0.652,-0.764 0.004,-0.072 0.008,-0.148 0.008,-0.22 0,-0.124 -0.004,-0.244 -0.016,-0.368 -0.116,0.02 -0.232,0.032 -0.356,0.032 -0.752,0 -1.332,-0.6879995 -1.332,-1.4959995 0,-0.708 0.524,-1.224 0.992,-1.764 -0.076,-0.248 -0.148,-0.5 -0.18,-0.76 -0.024,-0.208 -0.028,-0.416 -0.028,-0.624 0,-0.46 0.22,-0.896 0.596,-1.168 0.012,-0.008 0.028,-0.012 0.04,-0.012 0.016,0 0.028,0 0.04,0.012 0.284,0.336 0.532,0.98 0.532,1.432 0,0.572 -0.344,1.02 -0.72,1.456 0.084,0.272 0.156,0.552 0.224,0.828 z m 0.34,1.8599995 c 0.272,-0.096 0.452,-0.38 0.452,-0.6559995 0,-0.36 -0.264,-0.716 -0.692,-0.76 0.096,0.464 0.184,0.924 0.24,1.4159995 z M 9.6319,9.4771515 c 0,0.5399995 0.516,0.9879995 1.056,0.9879995 0.112,0 0.22,-0.008 0.328,-0.024 -0.056,-0.5079995 -0.148,-0.9799995 -0.252,-1.4559995 -0.316,0.032 -0.496,0.244 -0.496,0.476 0,0.176 0.1,0.364 0.324,0.492 0.02,0.02 0.028,0.04 0.028,0.059999 0,0.044 -0.04,0.088 -0.088,0.088 -0.012,0 -0.024,-0.004 -0.036,-0.008 -0.32,-0.172 -0.468,-0.46 -0.468,-0.74 0,-0.352 0.232,-0.696 0.64,-0.788 -0.056,-0.232 -0.116,-0.468 -0.184,-0.7 -0.428,0.484 -0.852,0.972 -0.852,1.612 z m 1.336,-4.068 c -0.396,0.192 -0.648,0.596 -0.648,1.036 0,0.296 0.072,0.532 0.144,0.776 0.32,-0.388 0.584,-0.792 0.584,-1.296 0,-0.22 -0.016,-0.316 -0.08,-0.516 z"
+     id="path30136"
+     style="fill:currentColor" />
+  <text
+     x="10.2276"
+     y="13.055251"
+     id="text30138"
+     style="font-size:1.36979997px;font-style:italic;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+    <tspan
+       id="tspan30140">8</tspan>
+  </text>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/VoicesPrint.ly:29:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30142">
+    <path
+       d="m 27,41 -1,-66 v -11 c 0,-22 1,-44 4,-66 45,38 93,80 93,139 0,33 -14,67 -43,67 C 49,104 28,74 27,41 z m -42,-179 -12,595 c 8,5 18,8 27,8 9,0 19,-3 27,-8 L 20,112 c 25,21 58,34 91,34 52,0 89,-48 89,-102 0,-80 -86,-117 -147,-169 -15,-13 -24,-38 -45,-38 -13,0 -23,11 -23,25 z"
+       transform="matrix(0.004,0,0,-0.004,16.3688,14.1638)"
+       id="path30144"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30146">
+    <text
+       transform="translate(19.6593,19.4672)"
+       id="text30148"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30150">Ra</tspan>
+    </text>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:2:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30152">
+    <rect
+       width="2.2404001"
+       height="0.1"
+       ry="0"
+       x="-0.352"
+       y="-0.1"
+       transform="translate(16.3911,11.3138)"
+       id="rect30154"
+       style="fill:currentColor" />
+    <rect
+       width="2.2404001"
+       height="0.1"
+       ry="0"
+       x="-0.352"
+       y="-0.1"
+       transform="translate(16.3911,8.7296)"
+       id="rect30156"
+       style="fill:currentColor" />
+    <rect
+       width="0.1"
+       height="2.4842999"
+       ry="0"
+       x="0"
+       y="-2.164"
+       transform="translate(16.0391,10.8936)"
+       id="rect30158"
+       style="fill:currentColor" />
+    <rect
+       width="0.1"
+       height="2.4842999"
+       ry="0"
+       x="0"
+       y="-2.164"
+       transform="translate(18.1795,10.8936)"
+       id="rect30160"
+       style="fill:currentColor" />
+    <text
+       transform="translate(16.3911,10.8936)"
+       id="text30162"
+       style="font-size:2.73909998px;font-weight:bold;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30164">5</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="17.4156"
+     y="5.5891514"
+     id="rect30166"
+     style="fill:currentColor" />
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="39.7994"
+     y="7.7747517"
+     id="rect30168"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:19:20"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30170">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,47.303,13.1638)"
+       id="path30172"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:31:32"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30174">
+    <text
+       transform="translate(47.303,19.4672)"
+       id="text30176"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30178">po</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8099999"
+     ry="0.039999999"
+     x="43.888699"
+     y="7.7747517"
+     id="rect30180"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:26:27"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30182">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,49.998,12.6638)"
+       id="path30184"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.1287999"
+     ry="0.039999999"
+     x="46.583698"
+     y="7.2747517"
+     id="rect30186"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:3:45:46"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30188">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,40.5187,12.6638)"
+       id="path30190"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="2.5"
+     ry="0.039999999"
+     x="37.104401"
+     y="7.2747517"
+     id="rect30192"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:19:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30194">
+    <text
+       transform="translate(41.6106,19.4672)"
+       id="text30196"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30198">Gos</tspan>
+    </text>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30200">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,43.2137,13.1638)"
+       id="path30202"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:4:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30204">
+    <path
+       d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+       transform="matrix(0.004,0,0,-0.004,43.147,10.6821)"
+       id="path30206"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.19"
+     height="4"
+     ry="0"
+     x="74.925301"
+     y="19.123751"
+     id="rect30208"
+     style="fill:currentColor" />
+  <line
+     x1="0.050000001"
+     y1="23.123751"
+     x2="75.0653"
+     y2="23.123751"
+     id="line30210"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="22.123751"
+     x2="75.0653"
+     y2="22.123751"
+     id="line30212"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="21.123751"
+     x2="75.0653"
+     y2="21.123751"
+     id="line30214"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="20.123751"
+     x2="75.0653"
+     y2="20.123751"
+     id="line30216"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="19.123751"
+     x2="75.0653"
+     y2="19.123751"
+     id="line30218"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:10:20:21"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30220">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,60.6398,25.1984)"
+       id="path30222"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="57.225498"
+     y="19.809351"
+     id="rect30224"
+     style="fill:currentColor" />
+  <path
+     d="m 57.3555,23.083751 h -0.064 v -1 h 0.064 c 0.392,-0.232 0.908,-0.592 0.908,-1.036 0,-0.228 -0.064,-0.448 -0.164,-0.652 -0.012,-0.064 0.04,-0.108 0.092,-0.108 0.028,0 0.06,0.012 0.08,0.044 0.1,0.224 0.16,0.468 0.16,0.716 0,0.816 -1.076,1.22 -1.076,2.036 z"
+     id="path30226"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:10:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30228">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,63.2561,25.6984)"
+       id="path30230"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="59.841801"
+     y="20.309351"
+     id="rect30232"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:11:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30234">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,67.1882,26.1984)"
+       id="path30236"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:21:10:11"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30238">
+    <text
+       transform="translate(66.4728,31.9739)"
+       id="text30240"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30242">pe</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="63.773899"
+     y="20.809351"
+     id="rect30244"
+     style="fill:currentColor" />
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="42.186298"
+     y="19.809351"
+     id="rect30246"
+     style="fill:currentColor" />
+  <path
+     d="m 42.3163,23.083751 h -0.064 v -1 h 0.064 c 0.392,-0.232 0.908,-0.592 0.908,-1.036 0,-0.228 -0.064,-0.448 -0.164,-0.652 -0.012,-0.064 0.04,-0.108 0.092,-0.108 0.028,0 0.06,0.012 0.08,0.044 0.1,0.224 0.16,0.468 0.16,0.716 0,0.816 -1.076,1.22 -1.076,2.036 z"
+     id="path30248"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:41:42"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30250">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,48.2169,24.6984)"
+       id="path30252"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="44.802601"
+     y="19.309351"
+     id="rect30254"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:44:45"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30256">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,51.8449,27.1984)"
+       id="path30258"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="49.6012"
+     y="18.123751"
+     id="rect30260"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:10:12:13"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30262">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,55.9381,25.6984)"
+       id="path30264"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:10:15:16"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30266">
+    <path
+       d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+       transform="matrix(0.004,0,0,-0.004,55.8715,22.1384)"
+       id="path30268"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:21:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30270">
+    <text
+       transform="translate(55.9381,31.9739)"
+       id="text30272"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30274">stre</tspan>
+    </text>
+  </a>
+  <path
+     d="m 54.2692,19.623751 c 0,-0.124 0.1,-0.224 0.224,-0.224 0.124,0 0.224,0.1 0.224,0.224 0,0.124 -0.1,0.224 -0.224,0.224 -0.124,0 -0.224,-0.1 -0.224,-0.224 z"
+     id="path30276"
+     style="fill:currentColor" />
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="52.5238"
+     y="20.309351"
+     id="rect30278"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:21:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30280">
+    <rect
+       width="0.36430001"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(69.2742,31.9739)"
+       id="rect30282"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:21:7:8"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30284">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(62.924,31.9739)"
+       id="rect30286"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:10:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30288">
+    <path
+       d="m 0.65031825,-2.1935115 c 1.48453105,-1.2858669 5.83346235,-1.2858669 7.31799345,0 -1.4845311,-1.1658669 -5.8334624,-1.1658669 -7.31799345,0 z"
+       transform="translate(55.9381,26.6984)"
+       id="path30290"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:36:37"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30292">
+    <path
+       d="m 0.70803953,-3.5435115 c 2.08505557,-1.2492261 9.42945147,-0.2574999 11.10850347,1.5 -1.695111,-1.6385792 -9.0395059,-2.6303053 -11.10850347,-1.5 z"
+       transform="translate(40.899,26.6984)"
+       id="path30294"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:33:34"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30296">
+    <line
+       transform="translate(41.8826,21.5384)"
+       x1="0"
+       y1="0.66659999"
+       x2="12.3555"
+       y2="0"
+       id="line30298"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(41.8826,21.5384)"
+       x1="0"
+       y1="-0.66659999"
+       x2="12.3555"
+       y2="0"
+       id="line30300"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:43:44"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30302">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(39.4549,31.9739)"
+       id="rect30304"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:19:20"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30306">
+    <path
+       d="m 0.59283277,-2.1935115 c 0.60716703,-0.7560117 1.83179983,-0.9198371 2.61633243,-0.35 -0.7686213,-0.4508966 -1.9932541,-0.2870713 -2.61633243,0.35 z"
+       transform="translate(35.6663,26.6984)"
+       id="path30308"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30310">
+    <line
+       transform="translate(35.6663,21.5384)"
+       x1="0"
+       y1="0"
+       x2="5.5496001"
+       y2="0.66659999"
+       id="line30312"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(35.6663,21.5384)"
+       x1="0"
+       y1="0"
+       x2="5.5496001"
+       y2="-0.66659999"
+       id="line30314"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30316">
+    <polygon
+       points="2.7063,-0.01 2.7063,0.39 0.04,0.2 0.04,-0.2 "
+       transform="translate(14.9555,27.6984)"
+       id="polygon30318"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30320">
+    <polygon
+       points="2.7063,-0.39 2.7063,0.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(35.6663,28.6984)"
+       id="polygon30322"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:33:34"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30324">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(29.6447,31.9739)"
+       id="rect30326"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:27:28"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30328">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(26.6345,31.9739)"
+       id="rect30330"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:34:35"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30332">
+    <line
+       transform="translate(20.8098,21.2515)"
+       x1="0"
+       y1="0.66659999"
+       x2="4.3610001"
+       y2="0"
+       id="line30334"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(20.8098,21.2515)"
+       x1="0"
+       y1="-0.66659999"
+       x2="4.3610001"
+       y2="0"
+       id="line30336"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:20:21"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30338">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(19.5104,31.9739)"
+       id="rect30340"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:22:23"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30342">
+    <path
+       d="m 0.65031825,-3.0435115 c 1.18703895,-1.077226 4.04562585,-1.077226 5.23266475,0 -1.1870389,-0.957226 -4.0456258,-0.957226 -5.23266475,0 z"
+       transform="translate(14.9555,26.6984)"
+       id="path30344"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30346">
+    <line
+       transform="translate(11.0235,21.2515)"
+       x1="0"
+       y1="0"
+       x2="4.6110001"
+       y2="0.66659999"
+       id="line30348"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(11.0235,21.2515)"
+       x1="0"
+       y1="0"
+       x2="4.6110001"
+       y2="-0.66659999"
+       id="line30350"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <path
+     d="m 63.2009,21.871751 c 0,0.04 -0.032,0.076 -0.072,0.076 -0.04,0 -0.076,-0.036 -0.076,-0.076 v -0.58 l -0.332,0.124 v 0.632 c 0,0.04 -0.036,0.076 -0.076,0.076 -0.04,0 -0.072,-0.036 -0.072,-0.076 v -0.58 l -0.128,0.048 c -0.008,0.004 -0.02,0.004 -0.028,0.004 -0.044,0 -0.08,-0.036 -0.08,-0.08 v -0.24 c 0,-0.032 0.02,-0.064 0.052,-0.076 l 0.184,-0.064 v -0.64 l -0.128,0.044 c -0.008,0.004 -0.02,0.004 -0.028,0.004 -0.044,0 -0.08,-0.036 -0.08,-0.08 v -0.24 c 0,-0.032 0.02,-0.06 0.052,-0.072 l 0.184,-0.068 v -0.632 c 0,-0.04 0.032,-0.076 0.072,-0.076 0.04,0 0.076,0.036 0.076,0.076 v 0.58 l 0.332,-0.124 v -0.632 c 0,-0.04 0.036,-0.076 0.076,-0.076 0.04,0 0.072,0.036 0.072,0.076 v 0.58 l 0.128,-0.048 c 0.008,-0.004 0.02,-0.004 0.028,-0.004 0.044,0 0.08,0.036 0.08,0.08 v 0.24 c 0,0.032 -0.02,0.064 -0.052,0.076 l -0.184,0.064 v 0.64 l 0.128,-0.044 c 0.008,-0.004 0.02,-0.004 0.028,-0.004 0.044,0 0.08,0.036 0.08,0.08 v 0.24 c 0,0.032 -0.02,0.06 -0.052,0.072 l -0.184,0.068 v 0.632 z m -0.48,-1.508 v 0.64 l 0.332,-0.12 v -0.64 z"
+     id="path30352"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:11:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30354">
+    <path
+       d="m 215,112 c -50,0 -69,-43 -69,-88 0,-77 57,-136 134,-136 50,0 69,43 69,88 0,77 -57,136 -134,136 z M 495,0 c 0,-43 -35,-76 -73,-97 -53,-30 -113,-41 -174,-41 -61,0 -122,11 -175,41 -38,21 -73,54 -73,97 0,43 35,76 73,97 53,30 114,41 175,41 61,0 121,-11 174,-41 38,-21 73,-54 73,-97 z"
+       transform="matrix(0.004,0,0,-0.004,71.1202,25.6984)"
+       id="path30356"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:21:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30358">
+    <text
+       transform="translate(69.7085,31.9739)"
+       id="text30360"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30362">tom.</tspan>
+    </text>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:17:18"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30364">
+    <text
+       transform="translate(14.9555,31.9739)"
+       id="text30366"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30368">ra</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8189001"
+     ry="0.039999999"
+     x="11.5412"
+     y="19.309351"
+     id="rect30370"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:26:27"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30372">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,17.5718,25.1984)"
+       id="path30374"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:30:31"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30376">
+    <g
+       transform="translate(16.6345,21.8515)"
+       id="g30378">
+      <path
+         d="m -41,146 c 26,76 82,153 149,153 22,0 36,-20 41,-45 22,26 51,45 81,45 23,0 38,-21 44,-46 22,27 51,46 80,46 33,0 59,-35 59,-69 0,-5 -1,-10 -2,-15 L 376,66 c 0,-2 -1,-4 -1,-5 0,-5 2,-8 7,-8 9,0 27,11 48,31 4,4 9,6 13,6 6,0 11,-4 11,-10 0,-4 -3,-8 -7,-12 -40,-38 -85,-75 -131,-75 -20,0 -32,13 -32,32 0,4 0,7 1,11 l 39,165 c 1,5 2,9 2,14 0,10 -4,18 -14,18 -16,0 -33,-16 -39,-32 L 220,18 C 217,8 208,0 198,0 h -41 c -10,0 -16,8 -13,18 l 52,183 c 2,6 3,11 3,16 0,9 -4,16 -13,16 -16,0 -35,-15 -41,-32 L 83,18 C 80,8 69,0 59,0 H 18 C 8,0 3,8 6,18 l 63,183 c 2,5 2,10 2,15 0,10 -3,17 -13,17 -29,0 -54,-53 -66,-87 -4,-11 -15,-17 -23,-17 -7,0 -12,4 -12,11 0,2 1,4 2,6 z"
+         transform="scale(0.004,-0.004)"
+         id="path30380"
+         style="fill:currentColor" />
+      <path
+         d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+         transform="matrix(0.004,0,0,-0.004,1.7413,0)"
+         id="path30382"
+         style="fill:currentColor" />
+    </g>
+  </a>
+  <rect
+     width="0.13"
+     height="2.4999001"
+     ry="0.039999999"
+     x="14.1575"
+     y="19.809351"
+     id="rect30384"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:37:38"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30386">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,20.1882,24.6984)"
+       id="path30388"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="16.773899"
+     y="19.309351"
+     id="rect30390"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:42:43"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30392">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,23.8702,26.1984)"
+       id="path30394"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30396">
+    <text
+       transform="translate(22.5402,31.9739)"
+       id="text30398"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30400">duy</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="20.4559"
+     y="20.809351"
+     id="rect30402"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:47:48"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30404">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,27.8022,25.6984)"
+       id="path30406"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:30:31"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30408">
+    <text
+       transform="translate(27.4282,31.9739)"
+       id="text30410"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30412">te</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="24.387899"
+     y="20.309351"
+     id="rect30414"
+     style="fill:currentColor" />
+  <path
+     d="m 2.304,21.075751 c 0.016,0 0.036,-0.004 0.052,-0.004 0.62,0 1.024,0.512 1.024,1.044 0,0.304 -0.132,0.616 -0.428,0.84 -0.088,0.068 -0.188,0.112 -0.292,0.144 0.012,0.14 0.02,0.28 0.02,0.42 0,0.076 -0.004,0.156 -0.008,0.232 -0.028,0.48 -0.36,0.912 -0.832,0.912 -0.432,0 -0.78,-0.352 -0.78,-0.788 0,-0.232 0.212,-0.412 0.448,-0.412 0.216,0 0.38,0.188 0.38,0.412 0,0.208 -0.172,0.38 -0.38,0.38 -0.044,0 -0.084,-0.008 -0.124,-0.024 0.104,0.156 0.272,0.26 0.468,0.26 0.384,0 0.628,-0.368 0.652,-0.764 0.004,-0.072 0.008,-0.148 0.008,-0.22 0,-0.124 -0.004,-0.244 -0.016,-0.368 -0.116,0.02 -0.232,0.032 -0.356,0.032 -0.752,0 -1.332,-0.688 -1.332,-1.496 0,-0.708 0.524,-1.224 0.992,-1.764 -0.076,-0.248 -0.148,-0.5 -0.18,-0.76 -0.024,-0.208 -0.028,-0.416 -0.028,-0.624 0,-0.46 0.22,-0.896 0.596,-1.168 0.012,-0.008 0.028,-0.012 0.04,-0.012 0.016,0 0.028,0 0.04,0.012 0.284,0.336 0.532,0.98 0.532,1.432 0,0.572 -0.344,1.02 -0.72,1.456 0.084,0.272 0.156,0.552 0.224,0.828 z m 0.34,1.86 c 0.272,-0.096 0.452,-0.38 0.452,-0.656 0,-0.36 -0.264,-0.716 -0.692,-0.76 0.096,0.464 0.184,0.924 0.24,1.416 z m -1.548,-0.924 c 0,0.54 0.516,0.988 1.056,0.988 0.112,0 0.22,-0.008 0.328,-0.024 -0.056,-0.508 -0.148,-0.98 -0.252,-1.456 -0.316,0.032 -0.496,0.244 -0.496,0.476 0,0.176 0.1,0.364 0.324,0.492 0.02,0.02 0.028,0.04 0.028,0.06 0,0.044 -0.04,0.088 -0.088,0.088 -0.012,0 -0.024,-0.004 -0.036,-0.008 -0.32,-0.172 -0.468,-0.46 -0.468,-0.74 0,-0.352 0.232,-0.696 0.64,-0.788 -0.056,-0.232 -0.116,-0.468 -0.184,-0.7 -0.428,0.484 -0.852,0.972 -0.852,1.612 z m 1.336,-4.068 c -0.396,0.192 -0.648,0.596 -0.648,1.036 0,0.296 0.072,0.532 0.144,0.776 0.32,-0.388 0.584,-0.792 0.584,-1.296 0,-0.22 -0.016,-0.316 -0.08,-0.516 z"
+     id="path30416"
+     style="fill:currentColor" />
+  <text
+     x="1.6918"
+     y="25.589752"
+     id="text30418"
+     style="font-size:1.36979997px;font-style:italic;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+    <tspan
+       id="tspan30420">8</tspan>
+  </text>
+  <path
+     d="m 4.5266,20.959751 -0.004,0.264 v 0.044 c 0,0.088 0.004,0.176 0.016,0.264 0.18,-0.152 0.372,-0.32 0.372,-0.556 0,-0.132 -0.056,-0.268 -0.172,-0.268 -0.124,0 -0.208,0.12 -0.212,0.252 z m -0.168,0.716 -0.048,-2.38 c 0.032,-0.02 0.072,-0.032 0.108,-0.032 0.036,0 0.076,0.012 0.108,0.032 l -0.028,1.38 c 0.1,-0.084 0.232,-0.136 0.364,-0.136 0.208,0 0.356,0.192 0.356,0.408 0,0.32 -0.344,0.468 -0.588,0.676 -0.06,0.052 -0.096,0.152 -0.18,0.152 -0.052,0 -0.092,-0.044 -0.092,-0.1 z"
+     id="path30422"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30424">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,11.0235,24.1984)"
+       id="path30426"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:15:16"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30428">
+    <text
+       transform="translate(11.4007,31.9739)"
+       id="text30430"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30432">i</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="7.6092"
+     y="18.809351"
+     id="rect30434"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:19:20"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30436">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,14.9555,24.6984)"
+       id="path30438"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30440">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,38.2826,25.1984)"
+       id="path30442"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.1289001"
+     ry="0.039999999"
+     x="34.868301"
+     y="19.809351"
+     id="rect30444"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30446">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,40.899,24.6984)"
+       id="path30448"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:46:47"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30450">
+    <text
+       transform="translate(40.899,31.9739)"
+       id="text30452"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30454">mu</tspan>
+    </text>
+  </a>
+  <path
+     d="m 39.23,18.623751 c 0,-0.124 0.1,-0.224 0.224,-0.224 0.124,0 0.224,0.1 0.224,0.224 0,0.124 -0.1,0.224 -0.224,0.224 -0.124,0 -0.224,-0.1 -0.224,-0.224 z"
+     id="path30456"
+     style="fill:currentColor" />
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="37.484699"
+     y="19.309351"
+     id="rect30458"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:38:39"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30460">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,45.6006,25.1984)"
+       id="path30462"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:6:49:50"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30464">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,31.7343,26.1984)"
+       id="path30466"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:36:37"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30468">
+    <text
+       transform="translate(30.4726,31.9739)"
+       id="text30470"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30472">sya</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="28.32"
+     y="20.809351"
+     id="rect30474"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:7:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30476">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,35.6663,25.6984)"
+       id="path30478"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:20:40:41"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30480">
+    <text
+       transform="translate(35.6663,31.9739)"
+       id="text30482"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30484">Ye</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8099"
+     ry="0.039999999"
+     x="32.251999"
+     y="20.309351"
+     id="rect30486"
+     style="fill:currentColor" />
+  <line
+     x1="0.050000001"
+     y1="36.107952"
+     x2="75.0653"
+     y2="36.107952"
+     id="line30488"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="35.107952"
+     x2="75.0653"
+     y2="35.107952"
+     id="line30490"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="34.107952"
+     x2="75.0653"
+     y2="34.107952"
+     id="line30492"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="33.107952"
+     x2="75.0653"
+     y2="33.107952"
+     id="line30494"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="32.107952"
+     x2="75.0653"
+     y2="32.107952"
+     id="line30496"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <rect
+     width="0.19"
+     height="4"
+     ry="0"
+     x="74.925301"
+     y="32.107952"
+     id="rect30498"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30500">
+    <text
+       transform="translate(54.6466,44.4581)"
+       id="text30502"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30504">al</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="51.537998"
+     y="32.293552"
+     id="rect30506"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:14:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30508">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,58.8553,37.6826)"
+       id="path30510"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:8:9"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30512">
+    <text
+       transform="translate(58.9593,44.4581)"
+       id="text30514"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30516">li</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="55.441002"
+     y="32.293552"
+     id="rect30518"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:14:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30520">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,62.5083,38.6826)"
+       id="path30522"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:14:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30524">
+    <path
+       d="m 130,-20 h -260 c -11,0 -20,9 -20,20 0,11 9,20 20,20 h 260 c 11,0 20,-9 20,-20 0,-11 -9,-20 -20,-20 z"
+       transform="matrix(0.004,0,0,-0.004,63.1951,37.1826)"
+       id="path30526"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:33:34"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30528">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,40.6415,37.1826)"
+       id="path30530"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.1289001"
+     ry="0.039999999"
+     x="37.2272"
+     y="31.793552"
+     id="rect30532"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:39:40"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30534">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,43.2433,37.6826)"
+       id="path30536"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:42:43"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30538">
+    <path
+       d="m 130,-20 h -260 c -11,0 -20,9 -20,20 0,11 9,20 20,20 h 260 c 11,0 20,-9 20,-20 0,-11 -9,-20 -20,-20 z"
+       transform="matrix(0.004,0,0,-0.004,43.8936,36.86)"
+       id="path30540"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:14:15"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30542">
+    <text
+       transform="translate(42.323,44.4581)"
+       id="text30544"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30546">luy</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="39.828999"
+     y="32.293552"
+     id="rect30548"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:45:46"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30550">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,47.1463,37.6826)"
+       id="path30552"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30554">
+    <text
+       transform="translate(47.5235,44.4581)"
+       id="text30556"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30558">i</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="43.731998"
+     y="32.293552"
+     id="rect30560"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:48:49"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30562">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,51.0493,37.6826)"
+       id="path30564"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30566">
+    <text
+       transform="translate(50.6753,44.4581)"
+       id="text30568"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30570">a,</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="47.634998"
+     y="32.293552"
+     id="rect30572"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:14:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30574">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,54.9523,37.6826)"
+       id="path30576"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30578">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(70.4051,44.4581)"
+       id="rect30580"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30582">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(66.1523,44.4581)"
+       id="rect30584"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:14:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30586">
+    <line
+       transform="translate(62.5083,35.3647)"
+       x1="0"
+       y1="0.66659999"
+       x2="11.9278"
+       y2="0"
+       id="line30588"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(62.5083,35.3647)"
+       x1="0"
+       y1="-0.66659999"
+       x2="11.9278"
+       y2="0"
+       id="line30590"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:11:12"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30592">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(60.5082,44.4581)"
+       id="rect30594"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:5:6"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30596">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(57.429,44.4581)"
+       id="rect30598"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30600">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(49.0425,44.4581)"
+       id="rect30602"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30604">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(46.1638,44.4581)"
+       id="rect30606"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:11:12"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30608">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(40.3976,44.4581)"
+       id="rect30610"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30612">
+    <path
+       d="m 0.56849943,-3.0435115 c 0.56495377,-0.7915992 1.78369197,-1.0258083 2.60181637,-0.5 -0.795478,-0.4079646 -2.0142162,-0.1737555 -2.60181637,0.5 z"
+       transform="translate(38.0397,39.6826)"
+       id="path30614"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:31:32"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30616">
+    <polygon
+       points="2.6918,-0.39 2.6918,0.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(38.0397,40.6826)"
+       id="polygon30618"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:5:6"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30620">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(35.895,44.4581)"
+       id="rect30622"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30624">
+    <path
+       d="m 0.59906067,-2.1935115 c 0.67914813,-0.81642 2.08774143,-0.9841327 2.93959803,-0.35 -0.8376691,-0.5149743 -2.2462625,-0.3472617 -2.93959803,0.35 z"
+       transform="translate(32.4982,39.6826)"
+       id="path30626"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30628">
+    <polygon
+       points="3.0296,-0.39 3.0296,0.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(32.4982,41.6826)"
+       id="polygon30630"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30632">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(25.47,44.4581)"
+       id="rect30634"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:30:31"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30636">
+    <path
+       d="m 0.60260519,-2.1935115 c 0.72670851,-0.8558996 2.26461311,-1.0261852 3.16096291,-0.35 -0.8831434,-0.5569141 -2.421048,-0.3866285 -3.16096291,0.35 z"
+       transform="translate(22.8325,39.6826)"
+       id="path30638"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:32:33"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30640">
+    <polygon
+       points="3.251,-0.39 3.251,0.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(22.8325,41.6826)"
+       id="polygon30642"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30644">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(21.6614,44.4581)"
+       id="rect30646"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:11:12"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30648">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(16.7861,44.4581)"
+       id="rect30650"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:5:6"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30652">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(13.6684,44.4581)"
+       id="rect30654"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:14:15"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30656">
+    <text
+       transform="translate(61.6245,44.4581)"
+       id="text30658"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30660">luy</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.2416999"
+     ry="0.039999999"
+     x="59.094002"
+     y="33.366253"
+     id="rect30662"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:14:27:28"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30664">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,67.7854,38.6826)"
+       id="path30666"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30668">
+    <text
+       transform="translate(68.199,44.4581)"
+       id="text30670"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30672">i</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.2416999"
+     ry="0.039999999"
+     x="64.371101"
+     y="33.366253"
+     id="rect30674"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:14:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30676">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,73.0625,38.6826)"
+       id="path30678"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:14:34:35"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30680">
+    <path
+       d="m -67,48 c 0,37 30,67 67,67 37,0 67,-30 67,-67 0,-37 -30,-67 -67,-67 -37,0 -67,30 -67,67 z M 0,363 c 157,0 332,-176 332,-366 0,-9 -10,-15 -19,-15 -9,0 -17,5 -19,18 C 268,148 148,262 0,262 -148,262 -268,148 -294,0 c -2,-13 -10,-18 -19,-18 -9,0 -19,6 -19,15 0,190 175,366 332,366 z"
+       transform="matrix(0.004,0,0,-0.004,73.7493,37.3575)"
+       id="path30682"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:25:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30684">
+    <text
+       transform="translate(72.725,44.4581)"
+       id="text30686"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30688">a.</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.2416999"
+     ry="0.039999999"
+     x="69.648201"
+     y="33.366253"
+     id="rect30690"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:20:21"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30692">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,15.0265,38.6826)"
+       id="path30694"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:8:9"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30696">
+    <text
+       transform="translate(15.1305,44.4581)"
+       id="text30698"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30700">li</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="11.6122"
+     y="33.293552"
+     id="rect30702"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:22:23"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30704">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,18.9295,38.6826)"
+       id="path30706"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30708">
+    <path
+       d="m 130,-20 h -260 c -11,0 -20,9 -20,20 0,11 9,20 20,20 h 260 c 11,0 20,-9 20,-20 0,-11 -9,-20 -20,-20 z"
+       transform="matrix(0.004,0,0,-0.004,19.5798,37.1826)"
+       id="path30710"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:14:15"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30712">
+    <text
+       transform="translate(18.0092,44.4581)"
+       id="text30714"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30716">luy</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="15.5152"
+     y="33.293552"
+     id="rect30718"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:27:28"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30720">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,22.8325,38.6826)"
+       id="path30722"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30724">
+    <text
+       transform="translate(22.8325,44.4581)"
+       id="text30726"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30728">i</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8106999"
+     ry="0.039999999"
+     x="19.4182"
+     y="33.293552"
+     id="rect30730"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:34:35"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30732">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,25.9934,38.1826)"
+       id="path30734"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.1282001"
+     ry="0.039999999"
+     x="22.5791"
+     y="32.793552"
+     id="rect30736"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:11:30:31"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30738">
+    <rect
+       width="2.2404001"
+       height="0.1"
+       ry="0"
+       x="-0.352"
+       y="-0.1"
+       transform="translate(7.8553,35.1695)"
+       id="rect30740"
+       style="fill:currentColor" />
+    <rect
+       width="2.2404001"
+       height="0.1"
+       ry="0"
+       x="-0.352"
+       y="-0.1"
+       transform="translate(7.8553,32.5169)"
+       id="rect30742"
+       style="fill:currentColor" />
+    <rect
+       width="0.1"
+       height="2.5525999"
+       ry="0"
+       x="0"
+       y="-2.2323"
+       transform="translate(7.5033,34.7492)"
+       id="rect30744"
+       style="fill:currentColor" />
+    <rect
+       width="0.1"
+       height="2.5525999"
+       ry="0"
+       x="0"
+       y="-2.2323"
+       transform="translate(9.6437,34.7492)"
+       id="rect30746"
+       style="fill:currentColor" />
+    <text
+       transform="translate(7.8553,34.7492)"
+       id="text30748"
+       style="font-size:2.73909998px;font-weight:bold;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30750">6</tspan>
+    </text>
+  </a>
+  <path
+     d="m 2.304,34.059951 c 0.016,0 0.036,-0.004 0.052,-0.004 0.62,0 1.024,0.512 1.024,1.044 0,0.304 -0.132,0.616 -0.428,0.84 -0.088,0.068 -0.188,0.112 -0.292,0.144 0.012,0.14 0.02,0.28 0.02,0.42 0,0.076 -0.004,0.156 -0.008,0.232 -0.028,0.48 -0.36,0.912 -0.832,0.912 -0.432,0 -0.78,-0.352 -0.78,-0.788 0,-0.232 0.212,-0.412 0.448,-0.412 0.216,0 0.38,0.188 0.38,0.412 0,0.208 -0.172,0.38 -0.38,0.38 -0.044,0 -0.084,-0.008 -0.124,-0.024 0.104,0.156 0.272,0.26 0.468,0.26 0.384,0 0.628,-0.368 0.652,-0.764 0.004,-0.072 0.008,-0.148 0.008,-0.22 0,-0.124 -0.004,-0.244 -0.016,-0.368 -0.116,0.02 -0.232,0.032 -0.356,0.032 -0.752,0 -1.332,-0.688 -1.332,-1.496 0,-0.708 0.524,-1.224 0.992,-1.764 -0.076,-0.248 -0.148,-0.5 -0.18,-0.76 -0.024,-0.208 -0.028,-0.416 -0.028,-0.624 0,-0.46 0.22,-0.896 0.596,-1.168 0.012,-0.008 0.028,-0.012 0.04,-0.012 0.016,0 0.028,0 0.04,0.012 0.284,0.336 0.532,0.98 0.532,1.432 0,0.572 -0.344,1.02 -0.72,1.456 0.084,0.272 0.156,0.552 0.224,0.828 z m 0.34,1.86 c 0.272,-0.096 0.452,-0.38 0.452,-0.656 0,-0.36 -0.264,-0.716 -0.692,-0.76 0.096,0.464 0.184,0.924 0.24,1.416 z m -1.548,-0.924 c 0,0.54 0.516,0.988 1.056,0.988 0.112,0 0.22,-0.008 0.328,-0.024 -0.056,-0.508 -0.148,-0.98 -0.252,-1.456 -0.316,0.032 -0.496,0.244 -0.496,0.476 0,0.176 0.1,0.364 0.324,0.492 0.02,0.02 0.028,0.04 0.028,0.06 0,0.044 -0.04,0.088 -0.088,0.088 -0.012,0 -0.024,-0.004 -0.036,-0.008 -0.32,-0.172 -0.468,-0.46 -0.468,-0.74 0,-0.352 0.232,-0.696 0.64,-0.788 -0.056,-0.232 -0.116,-0.468 -0.184,-0.7 -0.428,0.484 -0.852,0.972 -0.852,1.612 z m 1.336,-4.068 c -0.396,0.192 -0.648,0.596 -0.648,1.036 0,0.296 0.072,0.532 0.144,0.776 0.32,-0.388 0.584,-0.792 0.584,-1.296 0,-0.22 -0.016,-0.316 -0.08,-0.516 z"
+     id="path30752"
+     style="fill:currentColor" />
+  <text
+     x="1.6918"
+     y="38.573952"
+     id="text30754"
+     style="font-size:1.36979997px;font-style:italic;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+    <tspan
+       id="tspan30756">8</tspan>
+  </text>
+  <path
+     d="m 4.5266,33.943951 -0.004,0.264 v 0.044 c 0,0.088 0.004,0.176 0.016,0.264 0.18,-0.152 0.372,-0.32 0.372,-0.556 0,-0.132 -0.056,-0.268 -0.172,-0.268 -0.124,0 -0.208,0.12 -0.212,0.252 z m -0.168,0.716 -0.048,-2.38 c 0.032,-0.02 0.072,-0.032 0.108,-0.032 0.036,0 0.076,0.012 0.108,0.032 l -0.028,1.38 c 0.1,-0.084 0.232,-0.136 0.364,-0.136 0.208,0 0.356,0.192 0.356,0.408 0,0.32 -0.344,0.468 -0.588,0.676 -0.06,0.052 -0.096,0.152 -0.18,0.152 -0.052,0 -0.092,-0.044 -0.092,-0.1 z"
+     id="path30758"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30760">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,11.1235,38.6826)"
+       id="path30762"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30764">
+    <g
+       transform="translate(10.1861,36.4522)"
+       id="g30766">
+      <path
+         d="m -41,146 c 26,76 82,153 149,153 22,0 36,-20 41,-45 22,26 51,45 81,45 23,0 38,-21 44,-46 22,27 51,46 80,46 33,0 59,-35 59,-69 0,-5 -1,-10 -2,-15 L 376,66 c 0,-2 -1,-4 -1,-5 0,-5 2,-8 7,-8 9,0 27,11 48,31 4,4 9,6 13,6 6,0 11,-4 11,-10 0,-4 -3,-8 -7,-12 -40,-38 -85,-75 -131,-75 -20,0 -32,13 -32,32 0,4 0,7 1,11 l 39,165 c 1,5 2,9 2,14 0,10 -4,18 -14,18 -16,0 -33,-16 -39,-32 L 220,18 C 217,8 208,0 198,0 h -41 c -10,0 -16,8 -13,18 l 52,183 c 2,6 3,11 3,16 0,9 -4,16 -13,16 -16,0 -35,-15 -41,-32 L 83,18 C 80,8 69,0 59,0 H 18 C 8,0 3,8 6,18 l 63,183 c 2,5 2,10 2,15 0,10 -3,17 -13,17 -29,0 -54,-53 -66,-87 -4,-11 -15,-17 -23,-17 -7,0 -12,4 -12,11 0,2 1,4 2,6 z"
+         transform="scale(0.004,-0.004)"
+         id="path30768"
+         style="fill:currentColor" />
+      <path
+         d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+         transform="matrix(0.004,0,0,-0.004,1.7413,0)"
+         id="path30770"
+         style="fill:currentColor" />
+    </g>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30772">
+    <text
+       transform="translate(10.6812,44.4581)"
+       id="text30774"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30776">Al</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="7.7091999"
+     y="33.293552"
+     id="rect30778"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:20:21"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30780">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,35.4378,38.1826)"
+       id="path30782"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.1284001"
+     ry="0.039999999"
+     x="32.023499"
+     y="32.793552"
+     id="rect30784"
+     style="fill:currentColor" />
+  <path
+     d="m 30.9538,31.107951 c 0.032,-0.016 0.068,-0.028 0.104,-0.028 0.036,0 0.068,0.012 0.1,0.028 l -0.012,0.732 0.424,-0.08 h 0.012 c 0.04,0 0.072,0.028 0.072,0.068 l 0.028,2.28 c -0.032,0.016 -0.064,0.028 -0.1,0.028 -0.036,0 -0.068,-0.012 -0.1,-0.028 l 0.012,-0.732 -0.424,0.08 h -0.012 c -0.04,0 -0.072,-0.028 -0.072,-0.068 z m 0.556,1.052 -0.368,0.068 -0.012,0.828 0.368,-0.068 z"
+     id="path30786"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:27:28"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30788">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,38.0397,37.6826)"
+       id="path30790"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:8:9"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30792">
+    <text
+       transform="translate(38.0397,44.4581)"
+       id="text30794"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30796">li</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8099"
+     ry="0.039999999"
+     x="34.625401"
+     y="32.293552"
+     id="rect30798"
+     style="fill:currentColor" />
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="25.180901"
+     y="33.293552"
+     id="rect30800"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:23:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30802">
+    <text
+       transform="translate(28.2213,44.4581)"
+       id="text30804"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30806">a,</tspan>
+    </text>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:13:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30808">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,32.4982,38.6826)"
+       id="path30810"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:12:41:42"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30812">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,28.5952,38.6826)"
+       id="path30814"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:24:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30816">
+    <text
+       transform="translate(32.4982,44.4581)"
+       id="text30818"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30820">al</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8104"
+     ry="0.039999999"
+     x="29.0839"
+     y="33.293552"
+     id="rect30822"
+     style="fill:currentColor" />
+  <path
+     d="m 21.5466,32.443951 -0.004,0.264 v 0.044 c 0,0.088 0.004,0.176 0.016,0.264 0.18,-0.152 0.372,-0.32 0.372,-0.556 0,-0.132 -0.056,-0.268 -0.172,-0.268 -0.124,0 -0.208,0.12 -0.212,0.252 z m -0.168,0.716 -0.048,-2.38 c 0.032,-0.02 0.072,-0.032 0.108,-0.032 0.036,0 0.076,0.012 0.108,0.032 l -0.028,1.38 c 0.1,-0.084 0.232,-0.136 0.364,-0.136 0.208,0 0.356,0.192 0.356,0.408 0,0.32 -0.344,0.468 -0.588,0.676 -0.06,0.052 -0.096,0.152 -0.18,0.152 -0.052,0 -0.092,-0.044 -0.092,-0.1 z"
+     id="path30824"
+     style="fill:currentColor" />
+  <line
+     x1="0.050000001"
+     y1="48.107952"
+     x2="75.0653"
+     y2="48.107952"
+     id="line30826"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="47.107952"
+     x2="75.0653"
+     y2="47.107952"
+     id="line30828"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="46.107952"
+     x2="75.0653"
+     y2="46.107952"
+     id="line30830"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="45.107952"
+     x2="75.0653"
+     y2="45.107952"
+     id="line30832"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="44.107952"
+     x2="75.0653"
+     y2="44.107952"
+     id="line30834"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:38:39"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30836">
+    <text
+       transform="translate(59.0626,56.9581)"
+       id="text30838"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30840">shchi</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="57.866001"
+     y="44.293552"
+     id="rect30842"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:15:16"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30844">
+    <path
+       d="m 0.725743,-2.1935115 c 1.0626858,-0.6915362 2.9178471,-0.3637923 3.6792594,0.65 -0.7822889,-0.8956222 -2.6374502,-1.2233661 -3.6792594,-0.65 z"
+       transform="translate(11.1235,51.6826)"
+       id="path30846"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30848">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,64.9405,49.6826)"
+       id="path30850"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:47:48"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30852">
+    <text
+       transform="translate(64.9405,56.9581)"
+       id="text30854"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30856">i</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8190999"
+     ry="0.039999999"
+     x="61.526199"
+     y="44.293552"
+     id="rect30858"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:25:26"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30860">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,67.4227,50.1826)"
+       id="path30862"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="2.4997001"
+     ry="0.039999999"
+     x="64.0084"
+     y="44.793552"
+     id="rect30864"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:34:17:18"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30866">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,49.6945,50.1826)"
+       id="path30868"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="46.280201"
+     y="44.793552"
+     id="rect30870"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:34:22:23"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30872">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,53.3546,49.6826)"
+       id="path30874"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="49.9403"
+     y="44.293552"
+     id="rect30876"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:34:26:27"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30878">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,57.0148,50.1826)"
+       id="path30880"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:32:33"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30882">
+    <text
+       transform="translate(56.3677,56.9581)"
+       id="text30884"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30886">yu</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="53.600498"
+     y="44.793552"
+     id="rect30888"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:12:13"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30890">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,61.2803,49.6826)"
+       id="path30892"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:15:16"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30894">
+    <path
+       d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+       transform="matrix(0.004,0,0,-0.004,61.2136,47.5069)"
+       id="path30896"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:44:45"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30898">
+    <polygon
+       points="2.5722,-0.01 2.5722,0.39 0.04,0.2 0.04,-0.2 "
+       transform="translate(73.5651,53.4926)"
+       id="polygon30900"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:39:40"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30902">
+    <path
+       d="m 0.65031825,-2.1935115 c 1.32505165,-1.1785847 4.81736265,-1.1785847 6.14241435,0 -1.3250517,-1.0585847 -4.8173627,-1.0585847 -6.14241435,0 z"
+       transform="translate(69.9049,51.6826)"
+       id="path30904"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:49:50"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30906">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(67.3659,56.9581)"
+       id="rect30908"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30910">
+    <path
+       d="m 0.73592812,-3.0435115 c 0.79279098,-0.5007674 1.94515118,-0.2686467 2.48224318,0.5 -0.5607877,-0.6510095 -1.713148,-0.8831302 -2.48224318,-0.5 z"
+       transform="translate(64.9405,51.6826)"
+       id="path30912"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30914">
+    <polygon
+       points="2.5722,-0.01 2.5722,0.39 0.04,0.2 0.04,-0.2 "
+       transform="translate(64.9405,52.6826)"
+       id="polygon30916"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:34:19:20"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30918">
+    <line
+       transform="translate(50.6781,46.9069)"
+       x1="0"
+       y1="0.66659999"
+       x2="8.9021997"
+       y2="0"
+       id="line30920"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(50.6781,46.9069)"
+       x1="0"
+       y1="-0.66659999"
+       x2="8.9021997"
+       y2="0"
+       id="line30922"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:34:15:16"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30924">
+    <path
+       d="m 0.60031318,-2.1935115 c 1.33234242,-1.453423 5.69041142,-1.9594593 7.32034232,-0.85 -1.6160901,-0.9902601 -5.9741592,-0.4842239 -7.32034232,0.85 z"
+       transform="translate(46.0343,51.6826)"
+       id="path30926"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:26:27"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30928">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(44.8822,56.9581)"
+       id="rect30930"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:33:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30932">
+    <line
+       transform="translate(38.714,46.9069)"
+       x1="0"
+       y1="0"
+       x2="11.2975"
+       y2="0.66659999"
+       id="line30934"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(38.714,46.9069)"
+       x1="0"
+       y1="0"
+       x2="11.2975"
+       y2="-0.66659999"
+       id="line30936"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:33:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30938">
+    <path
+       d="m 0.55816402,-1.5435115 c 0.85054898,-1.3851574 3.66870028,-2.2089541 5.13139608,-1.5 -1.4290266,-0.5937743 -4.2471779,0.2300224 -5.13139608,1.5 z"
+       transform="translate(33.5529,51.6826)"
+       id="path30940"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:42:43"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30942">
+    <path
+       d="m 0.71085005,-2.5435115 c 0.75575855,-0.5421645 1.90586145,-0.3799983 2.48224315,0.35 -0.5931362,-0.6111736 -1.743239,-0.7733399 -2.48224315,-0.35 z"
+       transform="translate(28.5884,51.6826)"
+       id="path30944"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:44:45"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30946">
+    <polygon
+       points="2.5722,-0.01 2.5722,0.39 0.04,0.2 0.04,-0.2 "
+       transform="translate(28.5884,53.4926)"
+       id="polygon30948"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:32:33"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30950">
+    <polygon
+       points="2.5722,-0.39 2.5722,0.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(23.6239,52.8726)"
+       id="polygon30952"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30954">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(25.301,56.9581)"
+       id="rect30956"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:27:28"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30958">
+    <path
+       d="m 0.6867855,-3.0435115 c 1.4894732,-1.2890221 5.8673364,-1.2890221 7.3568096,0 -1.4894732,-1.1690221 -5.8673364,-1.1690221 -7.3568096,0 z"
+       transform="translate(18.7129,51.6826)"
+       id="path30960"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:31:32"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30962">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,69.9049,50.6826)"
+       id="path30964"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:33:34"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30966">
+    <path
+       d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+       transform="matrix(0.004,0,0,-0.004,69.8383,48.4228)"
+       id="path30968"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:52:53"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30970">
+    <text
+       transform="translate(69.9049,56.9581)"
+       id="text30972"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan30974">sya</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="66.490601"
+     y="45.293552"
+     id="rect30976"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:41:42"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30978">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,73.5651,50.1826)"
+       id="path30980"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.1291001"
+     ry="0.039999999"
+     x="70.150803"
+     y="44.793552"
+     id="rect30982"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:46:47"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30984">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,76.0474,50.6826)"
+       id="path30986"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="2.8097"
+     ry="0.039999999"
+     x="72.633102"
+     y="45.293552"
+     id="rect30988"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:6:7"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30990">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(16.3636,56.9581)"
+       id="rect30992"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:20:21"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a30994">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,14.8027,51.1826)"
+       id="path30996"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="11.3884"
+     y="45.793552"
+     id="rect30998"
+     style="fill:currentColor" />
+  <path
+     d="m 10.3187,44.107951 c 0.032,-0.016 0.068,-0.028 0.104,-0.028 0.036,0 0.068,0.012 0.1,0.028 l -0.012,0.732 0.424,-0.08 h 0.012 c 0.04,0 0.072,0.028 0.072,0.068 l 0.028,2.28 c -0.032,0.016 -0.064,0.028 -0.1,0.028 -0.036,0 -0.068,-0.012 -0.1,-0.028 l 0.012,-0.732 -0.424,0.08 h -0.012 c -0.04,0 -0.072,-0.028 -0.072,-0.068 z m 0.556,1.052 -0.368,0.068 -0.012,0.828 0.368,-0.068 z"
+     id="path31000"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31002">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,18.7129,49.6826)"
+       id="path31004"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:9:10"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31006">
+    <text
+       transform="translate(18.7129,56.9581)"
+       id="text31008"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31010">zhe</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.2416999"
+     ry="0.039999999"
+     x="15.2986"
+     y="44.366253"
+     id="rect31012"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31014">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,23.6239,50.1826)"
+       id="path31016"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="2.4997001"
+     ry="0.039999999"
+     x="20.2096"
+     y="44.793552"
+     id="rect31018"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:34:35"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31020">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,26.1062,49.6826)"
+       id="path31022"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="2.8190999"
+     ry="0.039999999"
+     x="22.6919"
+     y="44.293552"
+     id="rect31024"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:40:41"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31026">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,28.5884,50.1826)"
+       id="path31028"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31030">
+    <text
+       transform="translate(28.5884,56.9581)"
+       id="text31032"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31034">ni</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.1291001"
+     ry="0.039999999"
+     x="25.174101"
+     y="44.793552"
+     id="rect31036"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:35:36:37"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31038">
+    <line
+       transform="translate(72.2723,47.8228)"
+       x1="0"
+       y1="0"
+       x2="5.2572999"
+       y2="0.66659999"
+       id="line31040"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(72.2723,47.8228)"
+       x1="0"
+       y1="0"
+       x2="5.2572999"
+       y2="-0.66659999"
+       id="line31042"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:31:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31044">
+    <rect
+       width="2.2404001"
+       height="0.1"
+       ry="0"
+       x="-0.352"
+       y="-0.1"
+       transform="translate(7.8553,48.8326)"
+       id="rect31046"
+       style="fill:currentColor" />
+    <rect
+       width="2.2404001"
+       height="0.1"
+       ry="0"
+       x="-0.352"
+       y="-0.1"
+       transform="translate(7.8553,46.3166)"
+       id="rect31048"
+       style="fill:currentColor" />
+    <rect
+       width="0.1"
+       height="2.4159999"
+       ry="0"
+       x="0"
+       y="-2.164"
+       transform="translate(7.5033,48.4806)"
+       id="rect31050"
+       style="fill:currentColor" />
+    <rect
+       width="0.1"
+       height="2.4159999"
+       ry="0"
+       x="0"
+       y="-2.164"
+       transform="translate(9.6437,48.4806)"
+       id="rect31052"
+       style="fill:currentColor" />
+    <text
+       transform="translate(7.8553,48.4806)"
+       id="text31054"
+       style="font-size:2.73909998px;font-weight:bold;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31056">7</tspan>
+    </text>
+  </a>
+  <path
+     d="m 2.304,46.059951 c 0.016,0 0.036,-0.004 0.052,-0.004 0.62,0 1.024,0.512 1.024,1.044 0,0.304 -0.132,0.616 -0.428,0.84 -0.088,0.068 -0.188,0.112 -0.292,0.144 0.012,0.14 0.02,0.28 0.02,0.42 0,0.076 -0.004,0.156 -0.008,0.232 -0.028,0.48 -0.36,0.912 -0.832,0.912 -0.432,0 -0.78,-0.352 -0.78,-0.788 0,-0.232 0.212,-0.412 0.448,-0.412 0.216,0 0.38,0.188 0.38,0.412 0,0.208 -0.172,0.38 -0.38,0.38 -0.044,0 -0.084,-0.008 -0.124,-0.024 0.104,0.156 0.272,0.26 0.468,0.26 0.384,0 0.628,-0.368 0.652,-0.764 0.004,-0.072 0.008,-0.148 0.008,-0.22 0,-0.124 -0.004,-0.244 -0.016,-0.368 -0.116,0.02 -0.232,0.032 -0.356,0.032 -0.752,0 -1.332,-0.688 -1.332,-1.496 0,-0.708 0.524,-1.224 0.992,-1.764 -0.076,-0.248 -0.148,-0.5 -0.18,-0.76 -0.024,-0.208 -0.028,-0.416 -0.028,-0.624 0,-0.46 0.22,-0.896 0.596,-1.168 0.012,-0.008 0.028,-0.012 0.04,-0.012 0.016,0 0.028,0 0.04,0.012 0.284,0.336 0.532,0.98 0.532,1.432 0,0.572 -0.344,1.02 -0.72,1.456 0.084,0.272 0.156,0.552 0.224,0.828 z m 0.34,1.86 c 0.272,-0.096 0.452,-0.38 0.452,-0.656 0,-0.36 -0.264,-0.716 -0.692,-0.76 0.096,0.464 0.184,0.924 0.24,1.416 z m -1.548,-0.924 c 0,0.54 0.516,0.988 1.056,0.988 0.112,0 0.22,-0.008 0.328,-0.024 -0.056,-0.508 -0.148,-0.98 -0.252,-1.456 -0.316,0.032 -0.496,0.244 -0.496,0.476 0,0.176 0.1,0.364 0.324,0.492 0.02,0.02 0.028,0.04 0.028,0.06 0,0.044 -0.04,0.088 -0.088,0.088 -0.012,0 -0.024,-0.004 -0.036,-0.008 -0.32,-0.172 -0.468,-0.46 -0.468,-0.74 0,-0.352 0.232,-0.696 0.64,-0.788 -0.056,-0.232 -0.116,-0.468 -0.184,-0.7 -0.428,0.484 -0.852,0.972 -0.852,1.612 z m 1.336,-4.068 c -0.396,0.192 -0.648,0.596 -0.648,1.036 0,0.296 0.072,0.532 0.144,0.776 0.32,-0.388 0.584,-0.792 0.584,-1.296 0,-0.22 -0.016,-0.316 -0.08,-0.516 z"
+     id="path31058"
+     style="fill:currentColor" />
+  <text
+     x="1.6918"
+     y="50.573952"
+     id="text31060"
+     style="font-size:1.36979997px;font-style:italic;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+    <tspan
+       id="tspan31062">8</tspan>
+  </text>
+  <path
+     d="m 4.5266,45.943951 -0.004,0.264 v 0.044 c 0,0.088 0.004,0.176 0.016,0.264 0.18,-0.152 0.372,-0.32 0.372,-0.556 0,-0.132 -0.056,-0.268 -0.172,-0.268 -0.124,0 -0.208,0.12 -0.212,0.252 z m -0.168,0.716 -0.048,-2.38 c 0.032,-0.02 0.072,-0.032 0.108,-0.032 0.036,0 0.076,0.012 0.108,0.032 l -0.028,1.38 c 0.1,-0.084 0.232,-0.136 0.364,-0.136 0.208,0 0.356,0.192 0.356,0.408 0,0.32 -0.344,0.468 -0.588,0.676 -0.06,0.052 -0.096,0.152 -0.18,0.152 -0.052,0 -0.092,-0.044 -0.092,-0.1 z"
+     id="path31064"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31066">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,11.1235,50.6826)"
+       id="path31068"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:17:18"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31070">
+    <path
+       d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+       transform="matrix(0.004,0,0,-0.004,11.0568,48.4522)"
+       id="path31072"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31074">
+    <text
+       transform="translate(11.1235,56.9581)"
+       id="text31076"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31078">Bla</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="7.7091999"
+     y="45.293552"
+     id="rect31080"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:33:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31082">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,38.714,49.6826)"
+       id="path31084"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="35.299702"
+     y="44.293552"
+     id="rect31086"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:33:26:27"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31088">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,42.3741,50.1826)"
+       id="path31090"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31092">
+    <text
+       transform="translate(41.6587,56.9581)"
+       id="text31094"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31096">na</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="38.959801"
+     y="44.793552"
+     id="rect31098"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:34:12:13"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31100">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,46.0343,50.6826)"
+       id="path31102"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31104">
+    <text
+       transform="translate(46.0343,56.9581)"
+       id="text31106"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31108">de</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="42.619999"
+     y="45.293552"
+     id="rect31110"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:32:46:47"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31112">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,31.0707,50.6826)"
+       id="path31114"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="2.8097"
+     ry="0.039999999"
+     x="27.656401"
+     y="45.293552"
+     id="rect31116"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:33:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31118">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,33.5529,51.1826)"
+       id="path31120"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:19:20"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31122">
+    <text
+       transform="translate(33.5529,56.9581)"
+       id="text31124"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31126">vsi</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.2416999"
+     ry="0.039999999"
+     x="30.138599"
+     y="45.866253"
+     id="rect31128"
+     style="fill:currentColor" />
+  <line
+     x1="0.050000001"
+     y1="62.19215"
+     x2="75.0653"
+     y2="62.19215"
+     id="line31130"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="61.19215"
+     x2="75.0653"
+     y2="61.19215"
+     id="line31132"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="60.19215"
+     x2="75.0653"
+     y2="60.19215"
+     id="line31134"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="59.19215"
+     x2="75.0653"
+     y2="59.19215"
+     id="line31136"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="0.050000001"
+     y1="58.19215"
+     x2="75.0653"
+     y2="58.19215"
+     id="line31138"
+     style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  <rect
+     width="0.19"
+     height="4"
+     ry="0"
+     x="18.8557"
+     y="58.19215"
+     id="rect31140"
+     style="fill:currentColor" />
+  <rect
+     width="0.19"
+     height="4"
+     ry="0"
+     x="74.925301"
+     y="58.19215"
+     id="rect31142"
+     style="fill:currentColor" />
+  <rect
+     width="0.13"
+     height="3.1296"
+     ry="0.039999999"
+     x="55.5518"
+     y="59.87775"
+     id="rect31144"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:24:25"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31146">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,58.9661,65.2668)"
+       id="path31148"
+       style="fill:currentColor" />
+  </a>
+  <path
+     d="m 52.2278,58.692151 c 0.032,-0.016 0.068,-0.028 0.104,-0.028 0.036,0 0.068,0.012 0.1,0.028 l -0.012,0.732 0.424,-0.08 h 0.012 c 0.04,0 0.072,0.028 0.072,0.068 l 0.028,2.28 c -0.032,0.016 -0.064,0.028 -0.1,0.028 -0.036,0 -0.068,-0.012 -0.1,-0.028 l 0.012,-0.732 -0.424,0.08 h -0.012 c -0.04,0 -0.072,-0.028 -0.072,-0.068 z m 0.556,1.052 -0.368,0.068 -0.012,0.828 0.368,-0.068 z"
+     id="path31150"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:30:31"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31152">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,61.2204,65.7668)"
+       id="path31154"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:8:9"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31156">
+    <text
+       transform="translate(61.2204,71.2821)"
+       id="text31158"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31160">li</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.6091001"
+     ry="0.039999999"
+     x="57.806099"
+     y="60.37775"
+     id="rect31162"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:36:37"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31164">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,63.7246,64.7668)"
+       id="path31166"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.0197001"
+     ry="0.039999999"
+     x="60.310299"
+     y="59.37775"
+     id="rect31168"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31170">
+    <text
+       transform="translate(48.7891,71.2821)"
+       id="text31172"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31174">i</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8092"
+     ry="0.039999999"
+     x="45.374802"
+     y="59.37775"
+     id="rect31176"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:31:32"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31178">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,51.0434,64.2668)"
+       id="path31180"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.1296"
+     ry="0.039999999"
+     x="47.629101"
+     y="58.87775"
+     id="rect31182"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:37:38"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31184">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,53.2976,64.7668)"
+       id="path31186"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31188">
+    <text
+       transform="translate(52.9236,71.2821)"
+       id="text31190"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31192">a,</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="49.883301"
+     y="59.37775"
+     id="rect31194"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31196">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,56.7119,65.7668)"
+       id="path31198"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31200">
+    <path
+       d="M 233,243 C 177,243 131,136 131,70 c 0,-22 8,-38 30,-38 64,0 97,126 97,178 0,18 -7,33 -25,33 z M 112,-146 c -38,0 -78,5 -116,5 -39,0 -78,-5 -115,-5 -9,0 -14,7 -14,14 0,18 31,15 48,16 22,1 47,5 54,25 L 71,209 c 2,7 4,14 4,20 0,8 -2,14 -11,14 -33,0 -63,-60 -79,-97 -5,-12 -15,-17 -24,-17 -8,0 -14,4 -14,12 0,2 1,5 2,8 30,68 72,143 132,143 35,0 59,-21 66,-52 29,31 67,52 103,52 69,0 107,-49 107,-114 0,-21 -4,-44 -12,-67 C 325,53 254,-8 198,-8 c -27,0 -52,5 -73,17 -4,2 -7,3 -11,3 -7,0 -14,-3 -16,-9 L 69,-83 c -1,-2 -1,-5 -1,-7 0,-20 21,-26 44,-28 9,-1 13,-8 13,-14 0,-7 -4,-14 -13,-14 z"
+       transform="matrix(0.004,0,0,-0.004,56.6452,62.5364)"
+       id="path31202"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31204">
+    <text
+       transform="translate(56.7119,71.2821)"
+       id="text31206"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31208">al</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="2.8092"
+     ry="0.039999999"
+     x="53.2976"
+     y="60.37775"
+     id="rect31210"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31212">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(72.1639,71.2821)"
+       id="rect31214"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31216">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(69.0523,71.2821)"
+       id="rect31218"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:45:46"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31220">
+    <line
+       transform="translate(65.9789,61.4375)"
+       x1="0"
+       y1="0.66659999"
+       x2="9.6452999"
+       y2="0"
+       id="line31222"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(65.9789,61.4375)"
+       x1="0"
+       y1="-0.66659999"
+       x2="9.6452999"
+       y2="0"
+       id="line31224"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:11:12"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31226">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(63.374,71.2821)"
+       id="rect31228"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:34:35"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31230">
+    <path
+       d="m 0.48953902,-1.1935115 c 0.41135727,-0.8964633 1.58854598,-1.36654 2.50424758,-1 -0.8712,-0.2550968 -2.04838862,0.21498 -2.50424758,1 z"
+       transform="translate(61.2204,65.7668)"
+       id="path31232"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:32:33"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31234">
+    <polygon
+       points="2.5942,-0.82 2.5942,-0.42 0.04,0.2 0.04,-0.2 "
+       transform="translate(61.2204,68.5768)"
+       id="polygon31236"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:5:6"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31238">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(59.5921,71.2821)"
+       id="rect31240"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:20:21"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31242">
+    <path
+       d="m 0.58380188,-1.1935115 c 0.52271322,-1.1958704 1.54859322,-1.355151 2.25424762,-0.35 -0.6872435,-0.8865718 -1.7131235,-0.7272911 -2.25424762,0.35 z"
+       transform="translate(56.7119,65.7668)"
+       id="path31244"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:22:23"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31246">
+    <polygon
+       points="2.3442,-0.39 2.3442,0.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(56.7119,68.7668)"
+       id="polygon31248"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31250">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(50.7995,71.2821)"
+       id="rect31252"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31254">
+    <path
+       d="m 0.58380188,-2.1935115 c 0.52271322,-0.6844952 1.54859322,-0.8437758 2.25424762,-0.35 -0.6872435,-0.3751966 -1.7131235,-0.215916 -2.25424762,0.35 z"
+       transform="translate(48.7891,65.7668)"
+       id="path31256"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:28:29"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31258">
+    <polygon
+       points="2.3442,-0.39 2.3442,0.01 0.04,0.2 0.04,-0.2 "
+       transform="translate(48.7891,67.7668)"
+       id="polygon31260"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31262">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(47.9903,71.2821)"
+       id="rect31264"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:19:20"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31266">
+    <line
+       transform="translate(45.6305,61.9364)"
+       x1="0"
+       y1="0.66659999"
+       x2="8.4917002"
+       y2="0"
+       id="line31268"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(45.6305,61.9364)"
+       x1="0"
+       y1="-0.66659999"
+       x2="8.4917002"
+       y2="0"
+       id="line31270"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:11:12"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31272">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(43.7344,71.2821)"
+       id="rect31274"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:5:6"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31276">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(41.1678,71.2821)"
+       id="rect31278"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31280">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(34.2702,71.2821)"
+       id="rect31282"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31284">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(32.136,71.2821)"
+       id="rect31286"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:11:12"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31288">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(27.8165,71.2821)"
+       id="rect31290"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:5:6"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31292">
+    <rect
+       width="0.66000003"
+       height="0.13"
+       ry="0.039999999"
+       x="0"
+       y="-0.55000001"
+       transform="translate(25.4432,71.2821)"
+       id="rect31294"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:37:20:21"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31296">
+    <line
+       transform="translate(26.4231,61.8339)"
+       x1="0"
+       y1="0"
+       x2="4.4651999"
+       y2="0.66659999"
+       id="line31298"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(26.4231,61.8339)"
+       x1="0"
+       y1="0"
+       x2="4.4651999"
+       y2="-0.66659999"
+       id="line31300"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:36:18:19"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31302">
+    <path
+       d="m 0.90342264,-1.5435115 c 1.11598196,-1.2636601 4.24840086,-1.6257419 5.62323916,-0.65 -1.3610591,-0.8565356 -4.4934779,-0.4944539 -5.62323916,0.65 z"
+       transform="translate(11.0235,65.7668)"
+       id="path31304"
+       style="fill:currentColor;stroke:currentColor;stroke-width:0.08;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:36:15:16"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31306">
+    <line
+       transform="translate(11.0235,62.188)"
+       x1="0"
+       y1="0.66659999"
+       x2="7.5798998"
+       y2="0"
+       id="line31308"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+    <line
+       transform="translate(11.0235,62.188)"
+       x1="0"
+       y1="-0.66659999"
+       x2="7.5798998"
+       y2="0"
+       id="line31310"
+       style="stroke:currentColor;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:42:43"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31312">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,65.9789,65.2668)"
+       id="path31314"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:48:49"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31316">
+    <path
+       d="m 130,-20 h -260 c -11,0 -20,9 -20,20 0,11 9,20 20,20 h 260 c 11,0 20,-9 20,-20 0,-11 -9,-20 -20,-20 z"
+       transform="matrix(0.004,0,0,-0.004,66.6657,64.2668)"
+       id="path31318"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:14:15"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31320">
+    <text
+       transform="translate(65.0951,71.2821)"
+       id="text31322"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31324">luy</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.2416999"
+     ry="0.039999999"
+     x="62.564602"
+     y="59.950451"
+     id="rect31326"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:51:52"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31328">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,70.1147,65.7668)"
+       id="path31330"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31332">
+    <text
+       transform="translate(70.5284,71.2821)"
+       id="text31334"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31336">i</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.075"
+     ry="0.039999999"
+     x="66.700401"
+     y="60.450451"
+     id="rect31338"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:53:54"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31340">
+    <path
+       d="m 315,65 c 0,24 -21,41 -42,41 -4,0 -8,0 -12,-1 C 230,96 184,65 147,41 110,17 63,-12 43,-37 36,-45 32,-55 32,-65 c 0,-24 21,-41 42,-41 4,0 8,0 12,1 31,9 78,40 115,64 37,24 84,53 104,78 7,8 10,18 10,28 z m -51,72 c 47,0 83,-21 83,-72 0,-19 -4,-37 -10,-56 -12,-38 -32,-74 -65,-96 -54,-36 -113,-51 -188,-51 -47,0 -84,22 -84,73 0,19 5,37 11,56 12,38 31,74 64,96 54,36 114,50 189,50 z"
+       transform="matrix(0.004,0,0,-0.004,74.2506,65.2668)"
+       id="path31342"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:41:58:59"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31344">
+    <path
+       d="m -67,48 c 0,37 30,67 67,67 37,0 67,-30 67,-67 0,-37 -30,-67 -67,-67 -37,0 -67,30 -67,67 z M 0,363 c 157,0 332,-176 332,-366 0,-9 -10,-15 -19,-15 -9,0 -17,5 -19,18 C 268,148 148,262 0,262 -148,262 -268,148 -294,0 c -2,-13 -10,-18 -19,-18 -9,0 -19,6 -19,15 0,190 175,366 332,366 z"
+       transform="matrix(0.004,0,0,-0.004,74.9374,63.4417)"
+       id="path31346"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:49:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31348">
+    <text
+       transform="translate(73.9131,71.2821)"
+       id="text31350"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31352">a.</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.2416999"
+     ry="0.039999999"
+     x="70.836304"
+     y="59.950451"
+     id="rect31354"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:37:13:14"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31356">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,23.2705,65.2668)"
+       id="path31358"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:37:16:17"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31360">
+    <g
+       transform="translate(22.4185,62.4339)"
+       id="g31362">
+      <path
+         d="m -41,146 c 26,76 82,153 149,153 22,0 36,-20 41,-45 22,26 51,45 81,45 23,0 38,-21 44,-46 22,27 51,46 80,46 33,0 59,-35 59,-69 0,-5 -1,-10 -2,-15 L 376,66 c 0,-2 -1,-4 -1,-5 0,-5 2,-8 7,-8 9,0 27,11 48,31 4,4 9,6 13,6 6,0 11,-4 11,-10 0,-4 -3,-8 -7,-12 -40,-38 -85,-75 -131,-75 -20,0 -32,13 -32,32 0,4 0,7 1,11 l 39,165 c 1,5 2,9 2,14 0,10 -4,18 -14,18 -16,0 -33,-16 -39,-32 L 220,18 C 217,8 208,0 198,0 h -41 c -10,0 -16,8 -13,18 l 52,183 c 2,6 3,11 3,16 0,9 -4,16 -13,16 -16,0 -35,-15 -41,-32 L 83,18 C 80,8 69,0 59,0 H 18 C 8,0 3,8 6,18 l 63,183 c 2,5 2,10 2,15 0,10 -3,17 -13,17 -29,0 -54,-53 -66,-87 -4,-11 -15,-17 -23,-17 -7,0 -12,4 -12,11 0,2 1,4 2,6 z"
+         transform="scale(0.004,-0.004)"
+         id="path31364"
+         style="fill:currentColor" />
+      <path
+         d="M 253,245 203,82 C 173,-17 82,-173 -15,-173 c -45,0 -87,27 -87,69 0,39 17,77 52,77 24,0 44,-20 44,-44 0,-30 -38,-24 -38,-54 0,-10 11,-11 23,-11 h 6 c 48,0 61,58 73,108 l 68,273 H 77 c -11,0 -19,8 -19,19 0,11 8,19 19,19 h 60 c 32,96 118,191 213,191 45,0 87,-27 87,-69 0,-39 -17,-77 -52,-77 -24,0 -44,19 -44,43 0,30 38,25 38,55 0,10 -10,11 -22,11 h -7 c -62,0 -70,-88 -86,-154 h 55 c 11,0 19,-8 19,-19 0,-11 -8,-19 -19,-19 h -66 z"
+         transform="matrix(0.004,0,0,-0.004,1.7413,0)"
+         id="path31366"
+         style="fill:currentColor" />
+    </g>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31368">
+    <text
+       transform="translate(22.8282,71.2821)"
+       id="text31370"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31372">Al</tspan>
+    </text>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:36:37:38"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31374">
+    <rect
+       width="2.2404001"
+       height="0.1"
+       ry="0"
+       x="-0.352"
+       y="-0.1"
+       transform="translate(21.5967,60.7789)"
+       id="rect31376"
+       style="fill:currentColor" />
+    <rect
+       width="2.2404001"
+       height="0.1"
+       ry="0"
+       x="-0.352"
+       y="-0.1"
+       transform="translate(21.5967,58.1263)"
+       id="rect31378"
+       style="fill:currentColor" />
+    <rect
+       width="0.1"
+       height="2.5525999"
+       ry="0"
+       x="0"
+       y="-2.2323"
+       transform="translate(21.2448,60.3586)"
+       id="rect31380"
+       style="fill:currentColor" />
+    <rect
+       width="0.1"
+       height="2.5525999"
+       ry="0"
+       x="0"
+       y="-2.2323"
+       transform="translate(23.3852,60.3586)"
+       id="rect31382"
+       style="fill:currentColor" />
+    <text
+       transform="translate(21.5967,60.3586)"
+       id="text31384"
+       style="font-size:2.73909998px;font-weight:bold;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31386">8</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="19.856199"
+     y="59.87775"
+     id="rect31388"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:37:23:24"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31390">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,26.429,64.7668)"
+       id="path31392"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:8:9"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31394">
+    <text
+       transform="translate(26.5331,71.2821)"
+       id="text31396"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31398">li</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="23.0147"
+     y="59.37775"
+     id="rect31400"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:37:26:27"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31402">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,29.5876,65.2668)"
+       id="path31404"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:37:31:32"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31406">
+    <path
+       d="m 130,-20 h -260 c -11,0 -20,9 -20,20 0,11 9,20 20,20 h 260 c 11,0 20,-9 20,-20 0,-11 -9,-20 -20,-20 z"
+       transform="matrix(0.004,0,0,-0.004,30.2379,64.2668)"
+       id="path31408"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:14:15"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31410">
+    <text
+       transform="translate(28.6673,71.2821)"
+       id="text31412"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31414">luy</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="26.1733"
+     y="59.87775"
+     id="rect31416"
+     style="fill:currentColor" />
+  <path
+     d="m 2.304,60.144151 c 0.016,0 0.036,-0.004 0.052,-0.004 0.62,0 1.024,0.512 1.024,1.044 0,0.304 -0.132,0.616 -0.428,0.84 -0.088,0.068 -0.188,0.112 -0.292,0.144 0.012,0.14 0.02,0.28 0.02,0.42 0,0.076 -0.004,0.156 -0.008,0.232 -0.028,0.48 -0.36,0.912 -0.832,0.912 -0.432,0 -0.78,-0.352 -0.78,-0.788 0,-0.232 0.212,-0.412 0.448,-0.412 0.216,0 0.38,0.188 0.38,0.412 0,0.208 -0.172,0.38 -0.38,0.38 -0.044,0 -0.084,-0.008 -0.124,-0.024 0.104,0.156 0.272,0.26 0.468,0.26 0.384,0 0.628,-0.368 0.652,-0.764 0.004,-0.072 0.008,-0.148 0.008,-0.22 0,-0.124 -0.004,-0.244 -0.016,-0.368 -0.116,0.02 -0.232,0.032 -0.356,0.032 -0.752,0 -1.332,-0.688 -1.332,-1.496 0,-0.708 0.524,-1.224 0.992,-1.764 -0.076,-0.248 -0.148,-0.5 -0.18,-0.76 -0.024,-0.208 -0.028,-0.416 -0.028,-0.624 0,-0.46 0.22,-0.896 0.596,-1.168 0.012,-0.008 0.028,-0.012 0.04,-0.012 0.016,0 0.028,0 0.04,0.012 0.284,0.336 0.532,0.98 0.532,1.432 0,0.572 -0.344,1.02 -0.72,1.456 0.084,0.272 0.156,0.552 0.224,0.828 z m 0.34,1.86 c 0.272,-0.096 0.452,-0.38 0.452,-0.656 0,-0.36 -0.264,-0.716 -0.692,-0.76 0.096,0.464 0.184,0.924 0.24,1.416 z m -1.548,-0.924 c 0,0.54 0.516,0.988 1.056,0.988 0.112,0 0.22,-0.008 0.328,-0.024 -0.056,-0.508 -0.148,-0.98 -0.252,-1.456 -0.316,0.032 -0.496,0.244 -0.496,0.476 0,0.176 0.1,0.364 0.324,0.492 0.02,0.02 0.028,0.04 0.028,0.06 0,0.044 -0.04,0.088 -0.088,0.088 -0.012,0 -0.024,-0.004 -0.036,-0.008 -0.32,-0.172 -0.468,-0.46 -0.468,-0.74 0,-0.352 0.232,-0.696 0.64,-0.788 -0.056,-0.232 -0.116,-0.468 -0.184,-0.7 -0.428,0.484 -0.852,0.972 -0.852,1.612 z m 1.336,-4.068 c -0.396,0.192 -0.648,0.596 -0.648,1.036 0,0.296 0.072,0.532 0.144,0.776 0.32,-0.388 0.584,-0.792 0.584,-1.296 0,-0.22 -0.016,-0.316 -0.08,-0.516 z"
+     id="path31418"
+     style="fill:currentColor" />
+  <text
+     x="1.6918"
+     y="64.65815"
+     id="text31420"
+     style="font-size:1.36979997px;font-style:italic;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+    <tspan
+       id="tspan31422">8</tspan>
+  </text>
+  <path
+     d="m 4.5266,60.028151 -0.004,0.264 v 0.044 c 0,0.088 0.004,0.176 0.016,0.264 0.18,-0.152 0.372,-0.32 0.372,-0.556 0,-0.132 -0.056,-0.268 -0.172,-0.268 -0.124,0 -0.208,0.12 -0.212,0.252 z m -0.168,0.716 -0.048,-2.38 c 0.032,-0.02 0.072,-0.032 0.108,-0.032 0.036,0 0.076,0.012 0.108,0.032 l -0.028,1.38 c 0.1,-0.084 0.232,-0.136 0.364,-0.136 0.208,0 0.356,0.192 0.356,0.408 0,0.32 -0.344,0.468 -0.588,0.676 -0.06,0.052 -0.096,0.152 -0.18,0.152 -0.052,0 -0.092,-0.044 -0.092,-0.1 z"
+     id="path31424"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:36:12:13"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31426">
+    <path
+       d="m 215,112 c -50,0 -69,-43 -69,-88 0,-77 57,-136 134,-136 50,0 69,43 69,88 0,77 -57,136 -134,136 z M 495,0 c 0,-43 -35,-76 -73,-97 -53,-30 -113,-41 -174,-41 -61,0 -122,11 -175,41 -38,21 -73,54 -73,97 0,43 35,76 73,97 53,30 114,41 175,41 61,0 121,-11 174,-41 38,-21 73,-54 73,-97 z"
+       transform="matrix(0.004,0,0,-0.004,11.0235,65.2668)"
+       id="path31428"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:45:62:63"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31430">
+    <text
+       transform="translate(11.0235,71.2821)"
+       id="text31432"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31434">nan'.</tspan>
+    </text>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:36:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31436">
+    <path
+       d="m 215,112 c -50,0 -69,-43 -69,-88 0,-77 57,-136 134,-136 50,0 69,43 69,88 0,77 -57,136 -134,136 z M 495,0 c 0,-43 -35,-76 -73,-97 -53,-30 -113,-41 -174,-41 -61,0 -122,11 -175,41 -38,21 -73,54 -73,97 0,43 35,76 73,97 53,30 114,41 175,41 61,0 121,-11 174,-41 38,-21 73,-54 73,-97 z"
+       transform="matrix(0.004,0,0,-0.004,16.6467,64.7668)"
+       id="path31438"
+       style="fill:currentColor" />
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="35.649101"
+     y="59.87775"
+     id="rect31440"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:15:16"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31442">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,42.2219,65.2668)"
+       id="path31444"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:8:9"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31446">
+    <text
+       transform="translate(42.326,71.2821)"
+       id="text31448"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31450">li</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="38.807598"
+     y="59.87775"
+     id="rect31452"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:17:18"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31454">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,45.6305,64.2668)"
+       id="path31456"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:22:23"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31458">
+    <path
+       d="m 130,-20 h -260 c -11,0 -20,9 -20,20 0,11 9,20 20,20 h 260 c 11,0 20,-9 20,-20 0,-11 -9,-20 -20,-20 z"
+       transform="matrix(0.004,0,0,-0.004,46.2808,63.2668)"
+       id="path31460"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:14:15"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31462">
+    <text
+       transform="translate(44.7103,71.2821)"
+       id="text31464"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31466">luy</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="42.216202"
+     y="58.87775"
+     id="rect31468"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:25:26"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31470">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,48.7891,64.7668)"
+       id="path31472"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:37:34:35"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31474">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,32.7462,65.2668)"
+       id="path31476"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:21:22"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31478">
+    <text
+       transform="translate(33.1234,71.2821)"
+       id="text31480"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31482">i</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="29.3319"
+     y="59.87775"
+     id="rect31484"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:37:36:37"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31486">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,35.9048,65.2668)"
+       id="path31488"
+       style="fill:currentColor" />
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:47:29:30"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31490">
+    <text
+       transform="translate(35.5308,71.2821)"
+       id="text31492"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31494">a,</tspan>
+    </text>
+  </a>
+  <rect
+     width="0.13"
+     height="3.3144"
+     ry="0.039999999"
+     x="32.490501"
+     y="59.87775"
+     id="rect31496"
+     style="fill:currentColor" />
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:48:2:3"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31498">
+    <text
+       transform="translate(38.7577,71.2821)"
+       id="text31500"
+       style="font-size:2.44020009px;text-anchor:start;fill:currentColor;font-family:'\'Noto Sans\',Helvetica,Arial,sans-serif'">
+      <tspan
+         id="tspan31502">al</tspan>
+    </text>
+  </a>
+  <a
+     xlink:href="textedit:///home/harald/Music/Rachmaninoff/03_SeligIstDerMann/psalm2/05_tenoreOneNotes.ly:40:12:13"
+     transform="translate(-3.4143,-5.5746485)"
+     id="a31504">
+    <path
+       d="m 220,138 c 56,0 109,-29 109,-91 0,-72 -56,-121 -103,-149 -36,-21 -76,-36 -117,-36 -56,0 -109,29 -109,91 0,72 56,121 103,149 36,21 76,36 117,36 z"
+       transform="matrix(0.004,0,0,-0.004,39.0634,65.2668)"
+       id="path31506"
+       style="fill:currentColor" />
+  </a>
+</svg>

@@ -2,7 +2,8 @@
 
 
 \header {
-  subsubtitle = "Title"
+
+  meter = "Lento assai"
   tagline = ##f
 }
 
@@ -26,17 +27,16 @@
 }
 
 global = {
-  \key f \major
+  \key es \major
   \numericTimeSignature
+  %\compressFullBarRests
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
   \override Score.TimeSignature #'stencil = ##f
-  \set Score.markFormatter = #format-mark-box-numbers
 }
 
-obreak = {\break}
+obreak = {}
 
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"
@@ -49,14 +49,14 @@ obreak = {\break}
 
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
-
+\include "09_bassoThreeNotes.ly"
 
 %---------- Soprano-------------------------------
 \book {
   \bookOutputName "01_sopranoOne"
   \score {
     \new Staff \with {
-    } { \global  \sopranoOneVoice }
+    } {\dynamicUp \global  \sopranoOneVoice }
     \addlyrics { \sopranoOneVerse }
   }
 }
@@ -66,7 +66,7 @@ obreak = {\break}
   \bookOutputName "02_sopranoTwo"
   \score {
     \new Staff \with {
-    } { \global \sopranoTwoVoice }
+    } {\dynamicUp \global \sopranoTwoVoice }
     \addlyrics { \sopranoTwoVerse }
   }
 }
@@ -83,7 +83,7 @@ obreak = {\break}
   \bookOutputName "04_altoTwo"
   \score {
     \new Staff \with {
-    } { \global  \altoTwoVoice }
+    } {\dynamicUp \global  \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
   }
 }
@@ -93,7 +93,7 @@ obreak = {\break}
   \bookOutputName "05_tenoreOne"
   \score {
     \new Staff \with {
-    } {\clef "treble_8" \global \tenoreOneVoice }
+    } {\dynamicUp \clef "treble_8" \global \tenoreOneVoice }
     \addlyrics { \tenoreOneVerse }
   }
 }
@@ -101,7 +101,7 @@ obreak = {\break}
   \bookOutputName "06_tenoreTwo"
   \score {
     \new Staff \with {
-    } { \clef "treble_8" \global  \tenoreTwoVoice }
+    } {\dynamicUp \clef "treble_8" \global  \tenoreTwoVoice }
     \addlyrics { \tenoreTwoVerse }
   }
 }
@@ -111,7 +111,7 @@ obreak = {\break}
   \bookOutputName "07_bassoOne"
   \score {
     \new Staff \with {
-    } { \clef bass \global  \bassoOneVoice }
+    } {\dynamicUp \clef bass \global  \bassoOneVoice }
     \addlyrics { \bassoOneVerse }
   }
 }
@@ -119,8 +119,16 @@ obreak = {\break}
   \bookOutputName "08_bassoTwo"
   \score {
     \new Staff \with {
-    } { \clef bass \global   \bassoTwoVoice }
+    } {\dynamicUp \global \clef bass  \bassoTwoVoice }
     \addlyrics { \bassoTwoVerse }
   }
 }
 
+\book {
+  \bookOutputName "09_bassoThree"
+  \score {
+    \new Staff \with {
+    } {\dynamicUp \global \clef bass  \bassoThreeVoice }
+    \addlyrics { \bassoThreeVerse }
+  }
+}

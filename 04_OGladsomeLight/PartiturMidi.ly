@@ -3,7 +3,8 @@
 #(ly:set-option 'midi-extension "mid")
 
 \header {
-  title = "Title"
+  title = "4. Du mildes Licht"
+  % Remove default LilyPond tagline
   tagline = ##f
 }
 
@@ -14,20 +15,19 @@ obreak = { \break }
 }
 
 global = {
-  \key f \major
+  \key es \major
   \numericTimeSignature
-  \compressFullBarRests
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
   \override Score.TimeSignature #'stencil = ##f
-  \set Score.markFormatter = #format-mark-box-numbers
 }
 
 obreak = {}
 
 \include "articulate.ly"
+
+\include "10_tenoreSoloNotes.ly"
 
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"
@@ -40,7 +40,7 @@ obreak = {}
 
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
-
+\include "09_bassoThreeNotes.ly"
 
 
 
@@ -49,46 +49,54 @@ obreak = {}
 \score {
 
   \new ChoirStaff   <<
+    \new Staff \with {
+      instrumentName = "T. solo"
+    } { \clef "treble_8" \tenoreSoloVoice }
+    \addlyrics { \tenoreSoloVerse }
 
     \new Staff \with {
       instrumentName = "S. I"
-    } { \global \sopranoOneVoice }
+    } { \sopranoOneVoice }
     \addlyrics { \sopranoOneVerse }
     \new Staff \with {
       instrumentName = "S. II"
-    } { \global \sopranoTwoVoice }
+    } { \sopranoTwoVoice }
     \addlyrics { \sopranoTwoVerse }
-
     \new Staff \with {
       instrumentName = "A. I"
-    } {  \global \altoOneVoice}
+    } { \altoOneVoice}
     \addlyrics { \altoOneVerse }
     \new Staff \with {
       instrumentName = "A. II"
-    } {  \global \altoTwoVoice }
+    } { \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
 
     \new Staff \with {
       instrumentName = "T. I"
-    } { \global \clef "treble_8" \tenoreOneVoice }
+    } { \clef "treble_8" \tenoreOneVoice }
     \addlyrics { \tenoreOneVerse }
     \new Staff \with {
       instrumentName = "T. II"
-    } { \global \clef "treble_8" \tenoreTwoVoice }
+    } { \clef "treble_8" \tenoreTwoVoice }
+
     \addlyrics { \tenoreTwoVerse }
 
     \new Staff \with {
       instrumentName = "B. I"
-    } {\global \clef bass \bassoOneVoice }
+    } { \clef bass \bassoOneVoice }
     \addlyrics { \bassoOneVerse }
     \new Staff \with {
       instrumentName = "B. II"
-    } {\global \clef bass \bassoTwoVoice }
+    } { \clef bass \bassoTwoVoice }
     \addlyrics { \bassoTwoVerse }
+
+    \new Staff \with {
+      instrumentName = "B. III"
+    } { \clef bass \bassoThreeVoice }
+    \addlyrics { \bassoThreeVerse }
+
+
   >>
-
-
-
   \layout { }
 }
 
@@ -107,17 +115,11 @@ obreak = {}
       \new Staff = "T 2" \tenoreTwoVoice
       \new Staff = "B 1" \bassoOneVoice
       \new Staff = "B 2" \bassoTwoVoice
+      \new Staff = "B 3" \bassoThreeVoice
+
+      \new Staff = "T solo" \tenoreSoloVoice
 
       \new Staff = "Female"   {
-        <<
-          \sopranoOneVoice \\
-          \sopranoTwoVoice \\
-          \altoOneVoice \\
-          \altoTwoVoice
-        >>
-      }
-
-      \new Staff = "FemaleViolin"   {
         <<
           \sopranoOneVoice \\
           \sopranoTwoVoice \\
@@ -131,13 +133,13 @@ obreak = {}
           \tenoreTwoVoice \\
           \bassoOneVoice \\
           \bassoTwoVoice \\
+          \bassoThreeVoice
         >>
       }
-      \new Staff = "SubBass" \bassoTwoVoice
     >>
   >>
   \midi {
-    \tempo 4=84
+    \tempo 4=64
   }
 }
 

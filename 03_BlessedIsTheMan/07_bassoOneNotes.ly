@@ -1,6 +1,0 @@
-bassoOneVoice = {
- c
-}
-
-bassoOneVerse = {
-}

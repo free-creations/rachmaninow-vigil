@@ -2,7 +2,8 @@
 
 
 \header {
-  subsubtitle = "Title"
+  subsubtitle = "Psalm 1"
+  meter = "Allegro molto, ma tranquillo e dolce"
   tagline = ##f
 }
 
@@ -36,7 +37,7 @@ global = {
   \set Score.markFormatter = #format-mark-box-numbers
 }
 
-obreak = {\break}
+obreak = {}
 
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"

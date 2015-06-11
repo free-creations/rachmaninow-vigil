@@ -1,0 +1,6 @@
+bassoTwoVoice = {
+ c
+}
+
+bassoTwoVerse = {
+}

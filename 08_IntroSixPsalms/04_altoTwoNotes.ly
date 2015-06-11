@@ -1,0 +1,6 @@
+altoTwoVoice = {
+ c
+}
+
+altoTwoVerse = {
+}

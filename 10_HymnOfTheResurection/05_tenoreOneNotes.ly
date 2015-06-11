@@ -1,0 +1,6 @@
+tenoreOneVoice = {
+ c
+}
+
+tenoreOneVerse = {
+}

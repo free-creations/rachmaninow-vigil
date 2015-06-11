@@ -1,0 +1,6 @@
+bassoOneVoice = {
+ c
+}
+
+bassoOneVerse = {
+}

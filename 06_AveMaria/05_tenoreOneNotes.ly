@@ -1,6 +1,0 @@
-tenoreOneVoice = {
- c
-}
-
-tenoreOneVerse = {
-}

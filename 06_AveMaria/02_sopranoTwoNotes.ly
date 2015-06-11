@@ -1,6 +1,0 @@
-sopranoTwoVoice = {
- c
-}
-
-sopranoTwoVerse = {
-}

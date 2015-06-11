@@ -2,7 +2,8 @@
 
 
 \header {
-  subsubtitle = "Title"
+  
+  meter = "Tranquillo, non veloce"
   tagline = ##f
 }
 
@@ -27,100 +28,91 @@
 
 global = {
   \key f \major
-  \numericTimeSignature
-  \dynamicUp
-  \autoBeamOff
-  \cadenzaOn
-  \accidentalStyle "modern-voice-cautionary"
-  \override Score.TimeSignature #'stencil = ##f
-  \set Score.markFormatter = #format-mark-box-numbers
+  \time 4/4
 }
 
-obreak = {\break}
+obreak = {}
 
-\include "01_sopranoOneNotes.ly"
-\include "02_sopranoTwoNotes.ly"
+\include "1_SopranoOneNotes.ly"
+\include "2_SopranoTwoNotes.ly"
 
-\include "03_altoOneNotes.ly"
-\include "04_altoTwoNotes.ly"
+\include "3_AltoOneNotes.ly"
+\include "4_AltoTwoNotes.ly"
 
-\include "05_tenoreOneNotes.ly"
-\include "06_tenoreTwoNotes.ly"
+\include "5_TenoreOneNotes.ly"
+\include "6_TenoreTwoNotes.ly"
 
-\include "07_bassoOneNotes.ly"
-\include "08_bassoTwoNotes.ly"
-
+\include "7_BassoOneNotes.ly"
+\include "8_BassoTwoNotes.ly"
 
 %---------- Soprano-------------------------------
 \book {
-  \bookOutputName "01_sopranoOne"
+  \bookOutputName "1_SopranoOne"
   \score {
     \new Staff \with {
-    } { \global  \sopranoOneVoice }
+    } {\dynamicUp \global \partial 2 \sopranoOne }
     \addlyrics { \sopranoOneVerse }
   }
 }
 
-
 \book {
-  \bookOutputName "02_sopranoTwo"
+  \bookOutputName "2_SopranoTwo"
   \score {
     \new Staff \with {
-    } { \global \sopranoTwoVoice }
+    } {\dynamicUp \global \partial 2 \sopranoTwo }
     \addlyrics { \sopranoTwoVerse }
   }
 }
 %---------- Alto -------------------------------
 \book {
-  \bookOutputName "03_altoOne"
+  \bookOutputName "3_AltoOne"
   \score {
     \new Staff \with {
-    } {\dynamicUp \global  \altoOneVoice }
+    } {\dynamicUp \global \partial 2 \altoOne }
     \addlyrics { \altoOneVerse }
   }
 }
 \book {
-  \bookOutputName "04_altoTwo"
+  \bookOutputName "4_AltoTwo"
   \score {
     \new Staff \with {
-    } { \global  \altoTwoVoice }
+    } {\dynamicUp \global \partial 2 \altoTwo }
     \addlyrics { \altoTwoVerse }
   }
 }
 
 %---------- Tenore -------------------------------
 \book {
-  \bookOutputName "05_tenoreOne"
+  \bookOutputName "5_TenoreOne"
   \score {
     \new Staff \with {
-    } {\clef "treble_8" \global \tenoreOneVoice }
+    } {\dynamicUp \clef "treble_8" \global \partial 2 \tenoreOne }
     \addlyrics { \tenoreOneVerse }
   }
 }
 \book {
-  \bookOutputName "06_tenoreTwo"
+  \bookOutputName "6_TenoreTwo"
   \score {
     \new Staff \with {
-    } { \clef "treble_8" \global  \tenoreTwoVoice }
+    } {\dynamicUp \clef "treble_8" \global \partial 2 \tenoreTwo }
     \addlyrics { \tenoreTwoVerse }
   }
 }
 
 %---------- Basso -------------------------------
 \book {
-  \bookOutputName "07_bassoOne"
+  \bookOutputName "7_BassoOne"
   \score {
     \new Staff \with {
-    } { \clef bass \global  \bassoOneVoice }
+    } {\dynamicUp \clef bass \global \partial 2 \bassoOne }
     \addlyrics { \bassoOneVerse }
   }
 }
 \book {
-  \bookOutputName "08_bassoTwo"
+  \bookOutputName "8_BassoTwo"
   \score {
     \new Staff \with {
-    } { \clef bass \global   \bassoTwoVoice }
+    } {\dynamicUp \global \clef bass \partial 2 \bassoTwo }
     \addlyrics { \bassoTwoVerse }
   }
 }
-

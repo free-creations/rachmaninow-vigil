@@ -1,6 +1,0 @@
-altoOneVoice = {
- c
-}
-
-altoOneVerse = {
-}

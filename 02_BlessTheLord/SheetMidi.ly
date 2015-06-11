@@ -3,7 +3,7 @@
 #(ly:set-option 'midi-extension "mid")
 
 \header {
-  title = "Title"
+  title = "Lobe den Herrn"
   tagline = ##f
 }
 
@@ -14,16 +14,22 @@ obreak = { \break }
 }
 
 global = {
-  \key f \major
+  \key c \major
   \numericTimeSignature
   \compressFullBarRests
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
-  \override Score.TimeSignature #'stencil = ##f
+  %\override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
 }
+
+firstMeasure = {
+   \partial 2
+}
+
+
+
 
 obreak = {}
 
@@ -52,38 +58,38 @@ obreak = {}
 
     \new Staff \with {
       instrumentName = "S. I"
-    } { \global \sopranoOneVoice }
+    } { \global \firstMeasure \sopranoOneVoice }
     \addlyrics { \sopranoOneVerse }
     \new Staff \with {
       instrumentName = "S. II"
-    } { \global \sopranoTwoVoice }
+    } { \global \firstMeasure \sopranoTwoVoice }
     \addlyrics { \sopranoTwoVerse }
 
     \new Staff \with {
       instrumentName = "A. I"
-    } {  \global \altoOneVoice}
+    } {  \global  \altoOneVoice}
     \addlyrics { \altoOneVerse }
     \new Staff \with {
       instrumentName = "A. II"
-    } {  \global \altoTwoVoice }
+    } {  \global  \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
 
     \new Staff \with {
       instrumentName = "T. I"
-    } { \global \clef "treble_8" \tenoreOneVoice }
+    } { \global \clef "treble_8"  \tenoreOneVoice }
     \addlyrics { \tenoreOneVerse }
     \new Staff \with {
       instrumentName = "T. II"
-    } { \global \clef "treble_8" \tenoreTwoVoice }
+    } { \global \clef "treble_8"  \tenoreTwoVoice }
     \addlyrics { \tenoreTwoVerse }
 
     \new Staff \with {
       instrumentName = "B. I"
-    } {\global \clef bass \bassoOneVoice }
+    } {\global \clef bass  \bassoOneVoice }
     \addlyrics { \bassoOneVerse }
     \new Staff \with {
       instrumentName = "B. II"
-    } {\global \clef bass \bassoTwoVoice }
+    } {\global \clef bass  \bassoTwoVoice }
     \addlyrics { \bassoTwoVerse }
   >>
 
@@ -110,30 +116,30 @@ obreak = {}
 
       \new Staff = "Female"   {
         <<
-          \sopranoOneVoice \\
-          \sopranoTwoVoice \\
-          \altoOneVoice \\
-          \altoTwoVoice
+          { \sopranoOneVoice} \\
+          { \sopranoTwoVoice} \\
+          { \altoOneVoice} \\
+          { \altoTwoVoice}
         >>
       }
 
       \new Staff = "FemaleViolin"   {
         <<
-          \sopranoOneVoice \\
-          \sopranoTwoVoice \\
-          \altoOneVoice \\
-          \altoTwoVoice
+          { \sopranoOneVoice} \\
+          { \sopranoTwoVoice} \\
+          { \altoOneVoice} \\
+          { \altoTwoVoice}
         >>
       }
       \new Staff = "Male"   {
         <<
-          \tenoreOneVoice \\
-          \tenoreTwoVoice \\
-          \bassoOneVoice \\
-          \bassoTwoVoice \\
+          { \tenoreOneVoice} \\
+          { \tenoreTwoVoice} \\
+          { \bassoOneVoice} \\
+          { \bassoTwoVoice} \\
         >>
       }
-      \new Staff = "SubBass" \bassoTwoVoice
+      \new Staff = "SubBass" { \bassoTwoVoice}
     >>
   >>
   \midi {

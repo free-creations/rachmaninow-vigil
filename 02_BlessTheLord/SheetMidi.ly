@@ -3,7 +3,7 @@
 #(ly:set-option 'midi-extension "mid")
 
 \header {
-  title = "Lobe den Herrn"
+  title = "2. Lobe den Herrn"
   tagline = ##f
 }
 
@@ -22,10 +22,11 @@ global = {
   \accidentalStyle "modern-voice-cautionary"
   %\override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
+  \override Score.BarNumber #'break-visibility = #'#(#t #t #t)
 }
 
 firstMeasure = {
-   \partial 2
+  \partial 2
 }
 
 

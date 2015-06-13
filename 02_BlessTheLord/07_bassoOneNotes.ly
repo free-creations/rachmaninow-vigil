@@ -57,21 +57,21 @@ bassoOneVoice = \relative c {
   \time 4/2  f2 ) r r1 | % 3
   R1*2 | % 4
   \time 2/2  R1
-  
+
   \time 4/2 d1 \p e | % 6
   e2 ( f4 g ) g2. (  f4  | % 7
   g1  ~ g2  f |
-  
+
   %page 10
   \time 2/2 e2 d | % 2
   \time 4/2  c2 ) r r1 | % 3
   R1*2 | % 4
   \time 2/2  R1
-  
+
   %page 11
   \time 4/2 R1*4 | % 3
   r2 e \p f f |
-    e\breve \pp \bar "|."
+  e\breve \pp \bar "|."
 }
 
 bassoOneVerse = \lyricmode {
@@ -82,5 +82,5 @@ bassoOneVerse = \lyricmode {
   Bla -- go -- slo  -- "vi." __
   Bla -- go -- slo  -- "vi." __
   Bla -- go -- slo  -- "vi." __
-  Bla -- go -- slo  -- "vi." 
+  Bla -- go -- slo  -- "vi."
 }

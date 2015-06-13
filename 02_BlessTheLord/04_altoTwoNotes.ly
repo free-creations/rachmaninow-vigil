@@ -76,7 +76,7 @@ altoTwoVoice = \relative c' {
   a1 \mf g4 g \> f f | % 2
   e2. \p ( f4  ) g2 f | % 3
   e1 ( d |
-  e\breve ) |
+  e\breve ) \pp \bar "|."
 
 
 

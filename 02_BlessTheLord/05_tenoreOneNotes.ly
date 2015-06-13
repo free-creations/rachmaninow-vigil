@@ -8,7 +8,7 @@ tenoreOneVoice = \relative c' {
   \time 4/2  c1 ~ c2( b
 
   % page 2
-  \time 4/2 a4 ) r r2  r2 r8 c \pp c c | % 2
+  \time 4/2 a4 ) r r1 r8 c \pp c c | % 2
   f4. ( e8 f2 e4. f8 d4 c8 [ b ] | % 3
   c4. d8 ) e4 f e4. ( c8 d4 ) d | % 4
   c1 ~ c2 r |

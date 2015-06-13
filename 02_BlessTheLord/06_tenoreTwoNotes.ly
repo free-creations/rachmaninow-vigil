@@ -35,10 +35,54 @@ tenoreTwoVoice = \relative c' {
   c2 e, f g | % 4
   a2 ) r r1 |
 
+  %page 6
+  \time 4/2 R1*2 | % 2
+  \time 2/2  R1 | % 3
+  \time 4/2 f1 \p g | % 4
+  a2. ( b4 ) c1 ( ~ |
+
+  %page 7
+  \time 4/2 c\breve ~ | % 2
+  c2 \pp  a g f4 g | % 3
+  a2 ) r r1 | % 4
+  R1*2 |
+
+  %page 8
+  \time 2/2 R2*2
+  \time 4/2  a2 \p ( g ) f g | % 3
+  a1 ( ~ a4 g \> a b  | % 4
+  c\breve \pp ~ )
+
+  %page 9
+  \time 2/2 c1 ~ | % 2
+  \time 4/2  c2 r2 r1 | % 3
+  R1*2 | % 4
+  \time 2/2  R1  | % 5
+
+  \time 4/2  bes2 \p ( a4 gis ) a2. ( b4 ) | % 6
+  c2. ( d4 ) c1( ~ | % 7
+  c4. d8 e4 d c2. a4  |
+
+  %page 10
+  \time 2/2 g2 f4 g  | % 2
+  \time 4/2  a2) r r1 | % 3
+  R1*2 | % 4
+  \time 2/2  R1
+
+  %page 11
+  \time 4/2 R1*4 | % 3
+  r2 g \p g a |
+  g\breve \pp \bar "|."
+
 }
 
 tenoreTwoVerse = \lyricmode {
-  A -- "min'." Bla -- go -- slo  -- "vi." __
+  A -- "min'." 
   Bla -- go -- slo  -- "vi." __
   Bla -- go -- slo  -- "vi." __
+  Bla -- go -- slo  -- "vi." __
+  Bla -- go -- slo  -- "vi." __
+  Bla -- go -- slo  -- "vi." __
+  Bla -- go -- slo  -- "vi." __
+  Bla -- go -- slo  -- "vi."
 }

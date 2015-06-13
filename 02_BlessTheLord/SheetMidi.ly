@@ -54,54 +54,77 @@ obreak = {}
 
 %%% ------ Print Score
 \score {
-
-  \new ChoirStaff   <<
-
+  \new ChoirStaff <<
     \new Staff \with {
       instrumentName = "S. I"
-    } { \global \firstMeasure \sopranoOneVoice }
-    \addlyrics { \sopranoOneVerse }
+      shortInstrumentName = "S. I"
+    } \new Voice = "soprano1" { \global \firstMeasure \sopranoOneVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "soprano1" \sopranoOneVerse
+    
     \new Staff \with {
       instrumentName = "S. II"
-    } { \global \firstMeasure \sopranoTwoVoice }
-    \addlyrics { \sopranoTwoVerse }
-
+      shortInstrumentName = "S. II"
+    } \new Voice = "soprano2" { \global \firstMeasure \sopranoTwoVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "soprano2" \sopranoTwoVerse
+    
     \new Staff \with {
       instrumentName = "A. I"
-    } {  \global  \altoOneVoice}
-    \addlyrics { \altoOneVerse }
+      shortInstrumentName = "A. I"
+    } \new Voice = "alto1" { \global \firstMeasure \altoOneVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "alto1" \altoOneVerse
+    
     \new Staff \with {
       instrumentName = "A. II"
-    } {  \global  \altoTwoVoice }
-    \addlyrics { \altoTwoVerse }
-
+      shortInstrumentName = "A. II"
+    } \new Voice = "alto2" { \global \firstMeasure \altoTwoVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "alto2" \altoTwoVerse
+    
     \new Staff \with {
       instrumentName = "T. I"
-    } { \global \clef "treble_8"  \tenoreOneVoice }
-    \addlyrics { \tenoreOneVerse }
+      shortInstrumentName = "T. I"
+    }  \new Voice = "tenor1" { \clef "treble_8" \global \firstMeasure \tenoreOneVoice }
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "tenor1" \tenoreOneVerse
+    
     \new Staff \with {
       instrumentName = "T. II"
-    } { \global \clef "treble_8"  \tenoreTwoVoice }
-    \addlyrics { \tenoreTwoVerse }
-
+      shortInstrumentName = "T. II"
+    } \new Voice = "tenor2" { \clef "treble_8" \global \firstMeasure \tenoreTwoVoice }
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "tenor2" \tenoreTwoVerse
+    
     \new Staff \with {
       instrumentName = "B. I"
-    } {\global \clef bass  \bassoOneVoice }
-    \addlyrics { \bassoOneVerse }
+      shortInstrumentName = "B. I"
+    }  \new Voice = "bass1" { \clef bass \global \firstMeasure \bassoOneVoice }
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "bass1" \bassoOneVerse
+    
     \new Staff \with {
       instrumentName = "B. II"
-    } {\global \clef bass  \bassoTwoVoice }
-    \addlyrics { \bassoTwoVerse }
+      shortInstrumentName = "B. II"
+    }  \new Voice = "bass2" { \clef bass \global \firstMeasure \bassoTwoVoice }
+        \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "bass2" \bassoTwoVerse
   >>
-
-
-
   \layout { }
 }
 
 %%% ------ Midi Score
 
-
+%{
 \score {
   <<
     \articulate
@@ -148,5 +171,5 @@ obreak = {}
   }
 }
 
-
+%}
 

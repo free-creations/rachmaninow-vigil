@@ -68,7 +68,7 @@ altoOneVoice = \relative c' {
 
   %page 11
   \time 4/2 c2 \mf ( b4 a ) c g \> a8 ( [ g ) ] a ( [ b ) ] | % 2
-  c2 \p ( b4 a ) g ( f8 [ e ) ] f ( [ e ] d4 \pp ) | % 3
+  c2 \p ( b4 a ) g ( f8 [ e ) ] f ( [ e ] d4  ) | % 3
   c'\breve ~
   c\breve \pp \bar "|."
 

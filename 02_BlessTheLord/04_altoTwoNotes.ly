@@ -9,9 +9,6 @@ altoTwoVoice = \relative c' {
 
   %page 2
   \time 4/2 c\breve \pp ~ | % 2
-
-
-
   c\breve ~ | % 3
   c\breve ~ | % 4
   c2 r2 r1 |
@@ -53,8 +50,8 @@ altoTwoVoice = \relative c' {
   \time 4/2  R1*2 | % 3
   R1*2 |
   R1*2 |
-  
-    %page 9
+
+  %page 9
   \time 2/2 R1 | % 2
   \time 4/2  c\breve ~  | % 3
   c\breve ~ | % 4
@@ -63,40 +60,32 @@ altoTwoVoice = \relative c' {
   \time 4/2  R2*4 | % 6
   R2*4 | % 7
   R2*4 |
-  
+
   %page 10
   \time 2/2 R1 | % 2
   \time 4/2  | % 2
   a'1 \p a4 f g ( e | % 3
   f2. a4 g2 a8 [ g ) ] f4 | % 4
   \time 2/2  e4 c ( f ) e |
-  
+
   %page 11
   \time 4/2 | % 1
   a1 \mf g4 g \> f f | % 2
   e2. \p ( f4  ) g2 f | % 3
   e1 ( d |
   e\breve ) \pp \bar "|."
-
-
-
 }
 
 altoTwoVerse = \lyricmode {
   A -- "min'."
   Hmm __
-
   Hmm __
 
 
   Bla -- go -- slo -- ven __ ye --  "si," Gos -- po -- "di."
-
   Hmm __
-  
-    Hmm __
+  Hmm __
 
-
-    Slav -- a "ti," Gos -- po -- "di," so -- tvo   riv -- she -- "mu,"
+  Slav -- a "ti," Gos -- po -- "di," so -- tvo   riv -- she -- "mu,"
   so -- tvo -- riv -- she -- mu "vsya." __
-  
 }

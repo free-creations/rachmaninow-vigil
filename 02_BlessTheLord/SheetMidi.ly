@@ -48,6 +48,8 @@ obreak = {}
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
 
+\include "09_altoSoloNotes.ly"
+
 
 
 
@@ -56,13 +58,21 @@ obreak = {}
 \score {
   \new ChoirStaff <<
     \new Staff \with {
+      instrumentName = "A. S"
+      shortInstrumentName = "A. S"
+    } \new Voice = "altoSolo" { \global \firstMeasure \altoSoloVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "altoSolo" \altoSoloVerse
+
+    \new Staff \with {
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
     } \new Voice = "soprano1" { \global \firstMeasure \sopranoOneVoice}
     \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "soprano1" \sopranoOneVerse
-    
+
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
@@ -70,7 +80,7 @@ obreak = {}
     \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "soprano2" \sopranoTwoVerse
-    
+
     \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
@@ -78,7 +88,7 @@ obreak = {}
     \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "alto1" \altoOneVerse
-    
+
     \new Staff \with {
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
@@ -86,7 +96,7 @@ obreak = {}
     \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "alto2" \altoTwoVerse
-    
+
     \new Staff \with {
       instrumentName = "T. I"
       shortInstrumentName = "T. I"
@@ -94,7 +104,7 @@ obreak = {}
     \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "tenor1" \tenoreOneVerse
-    
+
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"
@@ -102,7 +112,7 @@ obreak = {}
     \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "tenor2" \tenoreTwoVerse
-    
+
     \new Staff \with {
       instrumentName = "B. I"
       shortInstrumentName = "B. I"
@@ -110,12 +120,12 @@ obreak = {}
     \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "bass1" \bassoOneVerse
-    
+
     \new Staff \with {
       instrumentName = "B. II"
       shortInstrumentName = "B. II"
     }  \new Voice = "bass2" { \clef bass \global \firstMeasure \bassoTwoVoice }
-        \new Lyrics \with {
+    \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "bass2" \bassoTwoVerse
   >>

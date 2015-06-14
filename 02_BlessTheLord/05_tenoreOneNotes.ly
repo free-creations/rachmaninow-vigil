@@ -27,7 +27,7 @@ tenoreOneVoice = \relative c' {
   \time 9/4  r2. \bar "!" r1 \bar "!" r2 |
   %page 5
   \time 4/2 R1*2 |
-  c\breve ~ |
+  c\breve \pp ~ |
   c\breve ~ |
 
   %page 6

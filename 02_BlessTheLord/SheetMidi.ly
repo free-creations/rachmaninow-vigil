@@ -134,7 +134,7 @@ obreak = {}
 
 %%% ------ Midi Score
 
-%{
+
 \score {
   <<
     \articulate
@@ -147,6 +147,8 @@ obreak = {}
       \new Staff = "T 2" \tenoreTwoVoice
       \new Staff = "B 1" \bassoOneVoice
       \new Staff = "B 2" \bassoTwoVoice
+
+      \new Staff = "AltoSolo" { \altoSoloVoice}
 
       \new Staff = "Female"   {
         <<
@@ -181,5 +183,5 @@ obreak = {}
   }
 }
 
-%}
+
 

@@ -14,7 +14,7 @@ altoSoloVoice = \relative c' {
   r1 a'2 \f g4 \< f8 ( [ e ) ]
 
   %page 3
-  \time 3/2 g4 f \> e2 e4 \! f | % 2
+  \time 3/2 g4 f \> e2 e4 \f f | % 2
   \time 4/2  e4. d8 c4. ( d8 \< e [ f ) ] g4 a4. ( g8 \! | % 3
   \time 3/2  g4 f \> e4. c8 d4 \! ) c  | % 4
   \time 4/2  c\breve |

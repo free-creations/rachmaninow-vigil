@@ -2,13 +2,12 @@
 
 
 \header {
-  subsubtitle = "Title"
   tagline = ##f
 }
 
 
 \paper {
-  paper-height = 220\mm
+  paper-height = 300\mm
   paper-width = 140\mm
   top-margin = 8\mm
   bottom-margin = 2\mm
@@ -26,17 +25,22 @@
 }
 
 global = {
-  \key f \major
+  \key c \major
   \numericTimeSignature
+  \compressFullBarRests
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
   \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
+  %\override Score.BarNumber #'break-visibility = #'#(#t #t #t)
 }
 
 obreak = {\break}
+
+firstMeasure = {
+  \partial 2
+}
 
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"

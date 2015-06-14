@@ -27,7 +27,7 @@ sopranoOneVoice = \relative c'' {
   \time 9/4  r2.
 
   %page 5
-  \bar "!" r1 \bar "!" r2 |
+  \bar ";" r1 \bar ";" r2 |
   \time 4/2 R1*2 |
   r1 r2 r8 c \pp c c | % 4
   f4.( e8 f2 e4. f8 d4 c8 [ b ] |
@@ -50,7 +50,7 @@ sopranoOneVoice = \relative c'' {
 
   %page 9
   \time 2/2 R1 | % 2
-  \time 4/2  f4. ( e8 f2 ) e4 e8 ( [ f ) ] d4 (  c8 [ b ] | % 3
+  \time 4/2  f4. \pp ( e8 f2 ) e4 e8 ( [ f ) ] d4 (  c8 [ b ] | % 3
   c4. d8 ) e4 f e4. ( c8 d4 ) c | % 4
   \time 2/2  c1  |
 

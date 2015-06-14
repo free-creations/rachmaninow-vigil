@@ -27,7 +27,7 @@ altoOneVoice = \relative c' {
   \time 9/4  r2.
 
   %page 5
-  \bar "!" r1 \bar "!" r2 |
+  \bar ";" r1 \bar ";" r2 |
   \time 4/2 R1*2 |
   R1*2 |
   a4. \pp ( g8 ) a4 f8 ( [ g ) ] a4 ( e f8 [ e ] d4 |
@@ -52,7 +52,7 @@ altoOneVoice = \relative c' {
 
   %page 9
   \time 2/2 R1 | % 2
-  \time 4/2  a4. ( g8 a4 f ) a e f8 ( [ e ] d4  | % 3
+  \time 4/2  a4. \pp ( g8 a4 f ) a e f8 ( [ e ] d4  | % 3
   e4. f8 ) e4 f8 ( [ g ) ] a4 ( e f8 [ e ) ] d4 | % 4
   \time 2/2  c1
 

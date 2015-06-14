@@ -24,7 +24,7 @@ tenoreOneVoice = \relative c' {
   c4. d8 ) e4 f e4. ( c8 d4 ) d | % 3
   \time 2/2  c1 | % 4
   \time 4/2  R1*2 | % 5
-  \time 9/4  r2. \bar "!" r1 \bar "!" r2 |
+  \time 9/4  r2. \bar ";" r1 \bar ";" r2 |
   %page 5
   \time 4/2 R1*2 |
   c\breve \pp ~ |
@@ -45,7 +45,7 @@ tenoreOneVoice = \relative c' {
   %page 8
   \time 2/2 c1 | % 2
   \time 4/2  R1*2 | % 3
-  r4 c, d ( e ) f ( g ) a( b  | % 4
+  r4 c, \pp d ( e ) f ( g ) a( b  | % 4
   c4 \pp -- b8 [ a ] b4 -- a8 [ g ] a4 -- g8 [ f ] g [ f e f ] |
 
   %page 9

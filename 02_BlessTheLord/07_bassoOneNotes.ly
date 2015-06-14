@@ -24,10 +24,10 @@ bassoOneVoice = \relative c {
   \time 2/2  R1 | % 4
   \time 4/2  | % 4
   d,1 \p d2 e | % 5
-  \time 9/4  e2.( \bar "!"
+  \time 9/4  e2.( \bar ";"
 
   %page 5
-  e4 e f g4 \bar "!" g2 |
+  e4 e f g4 \bar ";" g2 |
   \time 4/2 g1 ~ g4 a2  f4 | % 3
   e1 d | % 4
   c2) r r1 |

@@ -27,7 +27,7 @@ altoTwoVoice = \relative c' {
   \time 9/4  r2.
 
   %page 5
-  \bar "!" r1 \bar "!" r2 |
+  \bar ";" r1 \bar ";" r2 |
   \time 4/2 R1*2 |
   R1*2 |
   a'2 \pp a4 a a2 ( f |
@@ -41,7 +41,7 @@ altoTwoVoice = \relative c' {
 
   %page 7
   \time 4/2  R2*4
-  c\breve ~ |
+  c\breve \pp ~ |
   c\breve ~ | % 4
   c\breve ~  |
 
@@ -53,7 +53,7 @@ altoTwoVoice = \relative c' {
 
   %page 9
   \time 2/2 R1 | % 2
-  \time 4/2  c\breve ~  | % 3
+  \time 4/2  c\breve \pp ~  | % 3
   c\breve ~ | % 4
   \time 2/2  c4 r4 r2 |
 

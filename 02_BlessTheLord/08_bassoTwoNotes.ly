@@ -26,10 +26,10 @@ bassoTwoVoice = \relative c {
   \time 2/2  R1 | % 4
   \time 4/2  | % 4
   f1 \p f2 a | % 5
-  \time 9/4  a2.( ~ \bar "!"
+  \time 9/4  a2.( ~ \bar ";"
 
   %page 5
-  a2. b4 \bar "!"  c4 \< d4 | % 2
+  a2. b4 \bar ";"  c4 \< d4 | % 2
   \time 4/2 e4.  d8 \! c4 g a8 [ g f e ] f4 g | % 3
   a1 ~ a2 g | % 4
   f2 ) r r1 |

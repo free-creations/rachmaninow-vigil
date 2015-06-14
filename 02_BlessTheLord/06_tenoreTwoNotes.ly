@@ -27,9 +27,9 @@ tenoreTwoVoice = \relative c' {
   \time 2/2  R1 | % 4
   \time 4/2  a'1 \p a2 a | % 5
 
-  \time 9/4  a2 ( b4 \bar "!"
+  \time 9/4  a2 ( b4 \bar ";"
   %page 5
-  c2.  d4 \bar "!" c2 |
+  c2.  d4 \bar ";" c2 |
 
   \time 4/2 c4. \< d8 e4 \! \> d c2 d \! | % 3
   c2 e, f g | % 4

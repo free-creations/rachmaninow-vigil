@@ -146,8 +146,6 @@ obreak = {}
       \new Staff = "B 1" \bassoOneVoice
       \new Staff = "B 2" \bassoTwoVoice
 
-      \new Staff = "AltoSolo" { \altoSoloVoice}
-
       \new Staff = "Female"   {
         <<
           { \sopranoOneVoice} \\
@@ -174,6 +172,8 @@ obreak = {}
         >>
       }
       \new Staff = "SubBass" { \bassoTwoVoice}
+
+      \new Staff = "AltoSolo" { \altoSoloVoice}
     >>
   >>
   \midi {

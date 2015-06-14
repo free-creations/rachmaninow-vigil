@@ -1,11 +1,12 @@
 channel 1 -8 Voices: synphonic piano
 
-channels 9 - 13 Orchestra: Jeux14 + Symphonic strings 1st Violins Sustain
+channels 9 - 14 Orchestra: Jeux14 + Symphonic strings 1st Violins Sustain
 
 
 09) Female: 0/51 Gedackt 8
 11) Female Violon: 2/0 Symphonic strings
 12) Male: 1/32 Soft pos. 8-4
 13) Male subbass: 0/ 111 Subbasso 16
+14) Alto Solo: 0/3 Montre 8 Prestant 4
 
 .config/rncbc.org/Qsynth.conf

@@ -14,18 +14,19 @@ obreak = { \break }
 }
 
 global = {
-  \key f \major
+  \key c \major
   \numericTimeSignature
-  \compressFullBarRests
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
+  %\cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
-  \override Score.TimeSignature #'stencil = ##f
+  % \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
+  \override Score.BarNumber #'break-visibility = #'#(#t #t #t)
 }
 
 obreak = {}
+hbar = { | } % hidden bar
 
 \include "articulate.ly"
 
@@ -93,7 +94,7 @@ obreak = {}
 }
 
 %%% ------ Midi Score
-
+%{
 
 \score {
   <<
@@ -141,5 +142,6 @@ obreak = {}
   }
 }
 
+%}
 
 

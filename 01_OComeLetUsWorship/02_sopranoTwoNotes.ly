@@ -29,7 +29,7 @@ sopranoTwoVoice = \relative c'' {
   \time 5/4  d8  \f d8 cis2 cis8 [( b8 a8 b8 ]) \hbar
   \time 6/4  cis4 b8 [( cis8 ]) d4( e4) cis2 \hbar
   \time 6/4  e4 \< ( fis4 ) g2  \ff ( f4 ) e4 \hbar
-  \time 6/4  f4 \>  ( e4 d4 c4 d2 ) \p \hbar
+  \time 6/4  f4 \>  ( e4 d4 c4 d2 )  \hbar
 
   %page 3
   \time 3/4  d8 \p ( [ c8 ) ] b8 ( [ c8 ) ] d4 \hbar

@@ -18,7 +18,7 @@ sopranoOneVoice = \relative c'' {
   \time 5/4  d8  \f d8 e2 e8[ ( d8 cis8 d8 ] ) \hbar
   \time 6/4  e4 d8 ([ e8 )] f4 ( g4 ) e2 \hbar
   \time 6/4  e4 \< ( fis4 ) g2  \ff ( f4 ) e4 \hbar
-  \time 6/4  f4 \>  ( e4 d4 c4 d2 ) \p \hbar
+  \time 6/4  f4 \>  ( e4 d4 c4 d2 )  \hbar
 
   %page 3
   \time 3/4  d8 \p ( [ c8 ) ] b8 ( [ c8 ) ] d4 \hbar

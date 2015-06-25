@@ -39,7 +39,7 @@ sopranoTwoVoice = \relative c'' {
   \time 5/4  d8 \f d8 cis2 cis8 [( b8 a8 b8 ])  \hbar
   \time 10/4 cis4 d8 [( e8 ]) f2 ( \< g2 ) \ff  f4.( \> e8 d4 ) c4  \hbar
   \time 8/4  b2 \mf -- b4 ( -- c4) -- b4( -- a4) -- b4( -- c4) | % 8
-  \time 6/2  b2 \>  ( -- c2 \< c4  d4 c2 \>  b1  \pp )  \fermata \bar "|."
+  \time 6/2  b2 \>  ( -- c2 \< c4  d4\> c2   b1  \pp )  \fermata \bar "|."
 }
 
 sopranoTwoVerse = \lyricmode {

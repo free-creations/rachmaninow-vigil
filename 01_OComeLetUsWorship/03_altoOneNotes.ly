@@ -29,7 +29,7 @@ altoOneVoice = \relative c '' {
   \time 5/4  a8 \f a8 a2 a4 ( e4 ) \hbar
   \time 10/4 a4 b8 ( [ cis8 ] ) d2 \< ( e2 \ff ) c2. \>  a4  \hbar
   \time 8/4  f2 \mf -- f2 -- f2 -- f2 -- \hbar
-  \time 6/2  f2 \> g2 ~  g1  ~ g1  \pp  \fermata \bar "|."
+  \time 6/2  f2 ( \> g2 ~  g1  ~ g1 ) \pp  \fermata \bar "|."
 }
 
 altoOneVerse = \lyricmode {

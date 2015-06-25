@@ -29,7 +29,7 @@ altoTwoVoice = \relative c ' {
   \time 5/4  a'8 \f a8 a2 a4 ( e4 ) \hbar
   \time 10/4 a4 a4 a2 \< ( c2 \ff ) a4. \> ( g8 f4 ) e4 \hbar
   \time 8/4  f2 \mf -- f2 -- f2 -- f2 -- \hbar
-  \time 6/2  f2 \> ( e2 \< ~ e4 ) f4 \> e2  d1 \pp  \fermata \bar "|."
+  \time 6/2  f2 \> ( e2 \< ~ e4  f4 \> e2  d1 ) \pp  \fermata \bar "|."
 
 }
 

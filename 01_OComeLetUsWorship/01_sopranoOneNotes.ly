@@ -27,7 +27,7 @@ sopranoOneVoice = \relative c'' {
   \time 7/4  c2 \> bes2 a2. \bar "|" \mark #6
   \time 5/4  d8 \f d8  e2 e8 ([ d8 cis8 d8 ]) \hbar
   \time 10/4 e4 d8 [( e8 ]) f2 ( \< g2 ) \ff  f4.( \> e8 d4 ) c4 \! \hbar
-  \time 8/4  d2 \mf -- d4 ( -- e4 ) -- d4 ( -- c4 ) -- d4 ( -- e4 ) \hbar
+  \time 8/4  d2 \mf -- d4 ( -- e4 )  d4 ( -- c4 )  d4 ( -- e4 ) \hbar
   \time 6/2  d2 \>  ( -- c2 \< c4  d4 \> c2  b1  \pp )  \fermata \bar "|."
 
  

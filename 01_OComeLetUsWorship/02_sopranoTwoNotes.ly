@@ -24,7 +24,7 @@ sopranoTwoVoice = \relative c'' {
   %page 3
   \time 3/4  d8 \p ( [ c8 ) ] b8 ( [ c8 ) ] d4 \hbar
   \time 6/4  d4 d4 c4 d8 ( -- [ c8 b8 c8 ) ] d4 \hbar
-  \time 9/4  c8 ( [ b8 ) ] c2 \< ( d2 \> c4 b4 \p ) a4 ( b4 ) \hbar
+  \time 9/4  c8 ( [ b8 ) ] c2 \< ( d2 \> c4 b4  ) a4 \p ( b4 ) \hbar
   \time 7/4  c2 \> bes2 a2. \bar "|" \mark #6
   \time 5/4  d8 \f d8 cis2 cis8 [( b8 a8 b8 ])  \hbar
   \time 10/4 cis4 d8 [( e8 ]) f2 ( \< g2 ) \ff  f4.( \> e8 d4 ) c4  \hbar
@@ -39,7 +39,7 @@ sopranoTwoVerse = \lyricmode {
   Pri -- i -- di "tye," po -- klo -- nim -- sya i pri -- pa -- dyom
   Khri -- stu Tsa -- re -- vi na -- she -- mu Bo -- "gu."
 
-  Pri -- i -- di -- "tye," po -- klo -- nim -- sya i pri -- pa -- dyom
+  Pri -- i -- di -- "tye," po -- klo -- nim -- sya i pri -- pa -- dyom __
 
   sa -- mo -- mu Khris -- tu Tsa -- re -- vi i Bo -- gu na -- she -- "mu."
 

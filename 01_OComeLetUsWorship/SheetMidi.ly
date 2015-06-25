@@ -117,7 +117,6 @@ hbar = { | } % hidden bar
 }
 
 %%% ------ Midi Score
-%{
 
 \score {
   <<
@@ -165,6 +164,6 @@ hbar = { | } % hidden bar
   }
 }
 
-%}
+
 
 

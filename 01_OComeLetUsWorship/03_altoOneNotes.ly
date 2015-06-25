@@ -4,7 +4,7 @@ altoOneVoice = \relative c '' {
   \time 4/4  g1 \fermata \bar "||"
   \time 5/4  a8 \f a a2 a \hbar
   \time 7/4  a4 e a2 ~ a a4 \hbar
-  \time 5/4  a4  \<  a2. a4 \> \hbar
+  \time 5/4  a4  \<  a2. \> a4  \hbar
   \time 11/4 a2 \p  g4 \>  f4 e1  \p e2.  \bar "|" \mark #4
   \time 5/4  a8 \f a a2 a \hbar
   \time 7/4  a4 a a2 \< ~ a \>  a4  \! \hbar
@@ -29,7 +29,7 @@ altoOneVoice = \relative c '' {
   \time 5/4  a8 \f a8 a2 a4 ( e4 ) \hbar
   \time 10/4 a4 b8 ( [ cis8 ] ) d2 \< ( e2 \ff ) c2. \>  a4  \hbar
   \time 8/4  f2 \mf -- f2 -- f2 -- f2 -- \hbar
-  \time 6/2  f2 ( \> g2 ~  g1  ~ g1 ) \pp  \fermata \bar "|."
+  \time 6/2  f2 ( -- \> g2 ~  g1  ~ g1 ) \pp  \fermata \bar "|."
 }
 
 altoOneVerse = \lyricmode {
@@ -39,7 +39,7 @@ altoOneVerse = \lyricmode {
   Pri -- i -- di "tye," po -- klo -- nim -- sya i pri -- pa -- dyom
   Khri -- stu Tsa -- re -- vi na -- she -- mu Bo -- "gu."
 
-  Pri -- i -- di -- "tye," po -- klo -- nim -- sya i pri -- pa -- dyom
+  Pri -- i -- di -- "tye," po -- klo -- nim -- sya i pri -- pa -- dyom __
 
   sa -- mo -- mu Khris -- tu Tsa -- re -- vi i Bo -- gu na -- she -- "mu."
 

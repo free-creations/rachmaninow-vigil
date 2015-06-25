@@ -5,7 +5,7 @@ tenoreTwoVoice = \relative c' {
   \time 5/4  d'8 \f d cis2 cis \hbar
   \time 7/4  cis8 [( b ]) a [( b ]) cis4( b8 [ cis ] d4 cis) b \hbar
   \time 5/4  a4\< a2.\> a4  \! \hbar
-  \time 11/4  a2 g4 g g2( bes ) a2. \bar "|" \mark #4
+  \time 11/4  a2 \p g4\> g g2 \p ( bes ) a2. \bar "|" \mark #4
   \time 5/4  d8 \f d cis2 cis \hbar
   \time 7/4  cis8 [( b ]) a [( b ]) cis4 ( \< b8 [ cis ] d2 ) \> cis4 \! \hbar
   \time 6/4   c4 \< d( c \> b ) a8 [( b ]) c4 \hbar
@@ -28,7 +28,7 @@ tenoreTwoVoice = \relative c' {
   \time 5/4  d8 \f d8 cis2 cis8 [( b8 a8 b8 ]) \hbar
   \time 10/4 cis4 b8 [( cis8 ]) d2( \< e2) \ff c2.\> a4 \hbar
   \time 8/4  b2 -- \mf b4 -- ( c4 ) b4 -- ( a4 ) b4 -- ( c4 ) \hbar
-  \time 6/2  b2( \> g1 \<  ~ g4 \> a4   b1)  \pp \bar "|."
+  \time 6/2  b2( -- \> g1 \<  ~ g4 \> a4   b1)  \pp \bar "|."
 }
 
 tenoreTwoVerse = \lyricmode {
@@ -39,7 +39,7 @@ tenoreTwoVerse = \lyricmode {
   Pri -- i -- di "tye," po -- klo -- nim -- sya i pri -- pa -- dyom
   Khri -- stu Tsa -- re -- vi na -- she -- mu Bo -- "gu."
 
-  Pri -- i -- di -- "tye," po -- klo -- nim -- sya i pri -- pa -- dyom
+  Pri -- i -- di -- "tye," po -- klo -- nim -- sya i pri -- pa -- dyom __
 
   sa -- mo -- mu Khris -- tu Tsa -- re -- vi i Bo -- gu na -- she -- "mu."
 

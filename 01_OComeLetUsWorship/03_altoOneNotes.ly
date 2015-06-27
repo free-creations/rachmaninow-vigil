@@ -18,7 +18,7 @@ altoOneVoice = \relative c '' {
   \time 5/4  a8 \f a8 a2 a4(  e4 ) \hbar
   \time 6/4  a4 a4 a2 a2 \hbar
   \time 6/4  a4 \< ( d4 ) d2. \ff des4 \hbar
-  \time 6/4  c2 \> ( a2 a2 )  \hbar
+  \time 6/4  c2 \> ( a2 ~ a2 )  \hbar
 
 
   %page 3

@@ -27,7 +27,7 @@ bassoTwoVoice = \relative c {
   \time 7/4  c2\>  g2 a2.  \bar "|" \mark #6
   \time 5/4  f'8 \f f8 a2 a4 ( e4 ) \hbar
   \time 10/4 a4 a4 d2\< ( c2 \ff \> ) f,4.  ( g8 a4 ) g4  \hbar
-  \time 8/4  g,2 \mf -- g2 -- g2 -- g2 -- | % 8
+  \time 8/4  g,2 \mf -- g2 -- g2 -- g2 -- \hbar
   \time 6/2  g2 (\> -- c2 \< ~ c4 b4 \> c2 g1 ) \pp \fermata \bar "|."
 }
 

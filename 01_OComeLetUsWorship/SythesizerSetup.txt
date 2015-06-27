@@ -1,4 +1,4 @@
-channel 1 -8 Voices: synphonic piano
+channel 1 -8 Voices: Kawai CS7 Digitalpiano (5 Mellow Grand)
 
 channels 9 - 14 Orchestra: Jeux14 + Symphonic strings 1st Violins Sustain
 

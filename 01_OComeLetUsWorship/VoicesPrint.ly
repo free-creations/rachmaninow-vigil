@@ -2,7 +2,7 @@
 
 
 \header {
-  subsubtitle = "1. Kommt lasst uns anbeten"
+  %subsubtitle = "1. Kommt lasst uns anbeten"
   tagline = ##f
 }
 
@@ -26,15 +26,19 @@
 }
 
 global = {
-  \key f \major
+  \key c \major
   \numericTimeSignature
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
-  \accidentalStyle "modern-voice-cautionary"
+  %\cadenzaOn
+  \accidentalStyle "neo-modern"
   \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
+  \override Score.BarNumber #'break-visibility = #'#(#f #f #f)
 }
+
+obreak = {}
+hbar = { \bar "" } % hidden bar
 
 obreak = {\break}
 

@@ -5,8 +5,8 @@ bassoTwoVoice = \relative c {
   \time 5/4  f8 \f f a2 a \hbar
   \time 7/4  a4 e a2 ( ~ a4 g ) f \hbar
   \time 5/4  e8 \< ( [ d ) ] cis2 ( d4 \> ) e \hbar
-  \time 11/4 f8 \! ( e d4) \> g g, c2( g2)  \p c2. \bar "|" \mark #4
-  \time 5/4  f8 \f f a2 a \hbar
+  \time 11/4 f8[ \! ( e] d4) \> g g, c2( g2)  \p a2. \bar "|" \mark #4
+  \time 5/4  f'8 \f f a2 a \hbar
   \time 7/4  g8 [( f ) ] e ( [ f ) ] g4 \< ( f8 [ e ] d4 \> f  ) a4 \hbar
   \time 6/4  bes4  \< a ( g \> f  ) e8 ( [ d ) ] c4  \hbar
 
@@ -22,8 +22,8 @@ bassoTwoVoice = \relative c {
 
   %page 3
   \time 3/4  d8 \p ( [ a8 ) ] f8 ( [ a8 ) ] d4 \hbar
-  \time 6/4  d4 d4 e4 d8( [ a8 f8 a8 ] ) d4 \hbar
-  \time 9/4  g,4 c2 (\< d2 \> c4  d4 )  e4( \p d4) \hbar
+  \time 6/4  d4 d4 a4 d8( [ a8 f8 a8 ] ) d4 \hbar
+  \time 9/4  g,4 c2 (\< b2 \> c4  d4 )  e4( \p d4) \hbar
   \time 7/4  c2\>  g2 a2.  \bar "|" \mark #6
   \time 5/4  f'8 \f f8 a2 a4 ( e4 ) \hbar
   \time 10/4 a4 a4 d2\< ( c2 \ff \> ) f,4.  ( g8 a4 ) g4  \hbar

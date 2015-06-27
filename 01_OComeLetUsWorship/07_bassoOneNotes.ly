@@ -5,7 +5,7 @@ bassoOneVoice = \relative c {
   \time 5/4 f8 \f f a2 a \hbar
   \time 7/4  a4 e a2 ( ~ a4 g ) f \hbar
   \time 5/4  e8 \< ( [ d ) ] cis2 ( d4 \> ) e \hbar
-  \time 11/4  f8 \p ( e d4) \> g g, e'1 \! \p e2. \bar "|" \mark #4
+  \time 11/4  f8[ \p ( e] d4) \> g g, e'1 \! \p e2. \bar "|" \mark #4
   \time 5/4   f8 \f f a2 a \hbar
   \time 7/4  g8 [( f ) ] e ( [ f ) ] g4 \< ( f8 [ e ] d4 \> f  ) a4 \hbar
   \time 6/4   bes4  \< a ( g \> f  ) e8 ( [ d ) ] c4  \hbar

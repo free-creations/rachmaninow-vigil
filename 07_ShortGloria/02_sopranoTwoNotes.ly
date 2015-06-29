@@ -51,5 +51,5 @@ sopranoTwoVerse = \lyricmode {
 
   Gos -- po -- "di," ust --
   ne mo -- i ot -- ver -- ze -- "shi,"
-  i u -- sta mo -- ya voz -- vest -- yat khva -- lu Tvo -- "yu."
+  i us -- ta mo -- ya voz -- vest -- yat khva -- lu Tvo -- "yu."
 }

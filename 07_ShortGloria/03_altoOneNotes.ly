@@ -47,6 +47,6 @@ altoOneVerse = \lyricmode {
   i na zem -- li "mir," "v che" -- lo -- ve -- tsekh bla -- go -- vo -- le -- ni -- "ye."
   Sla -- "va." __
   Gos -- po -- "di,"
-  ust-- ne mo -- i ot -- ver -- ze -- "shi,"
-  i u -- sta mo -- ya voz -- vest -- yat khva -- lu Tvo -- "yu."
+  ust -- ne mo -- i ot -- ver -- ze -- "shi,"
+  i us -- ta mo -- ya voz -- vest -- yat khva -- lu Tvo -- "yu."
 }

@@ -41,6 +41,7 @@ hbar = { | } % hidden bar
 
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
+\include "10_bassoThreeNotes.ly"
 
 
 
@@ -121,6 +122,14 @@ hbar = { | } % hidden bar
     \new Lyrics \with {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "bass2" \bassoTwoVerse
+
+    \new Staff \with {
+      instrumentName = "B. III"
+      shortInstrumentName = "B. III"
+    }  \new Voice = "bass3" { \clef bass \global  \bassoThreeVoice }
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "bass3" \bassoThreeVerse
   >>
   \layout { }
 }

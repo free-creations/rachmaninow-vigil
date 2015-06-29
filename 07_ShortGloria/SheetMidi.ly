@@ -3,7 +3,7 @@
 #(ly:set-option 'midi-extension "mid")
 
 \header {
-  title = "Title"
+  title = "7. Sechster Psalm"
   tagline = ##f
 }
 
@@ -14,23 +14,24 @@ obreak = { \break }
 }
 
 global = {
-  \key f \major
+  \key es \major
   \numericTimeSignature
-  \compressFullBarRests
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
-  \override Score.TimeSignature #'stencil = ##f
+  % \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
+  \override Score.BarNumber #'break-visibility = #'#(#t #t #t)
 }
 
 obreak = {}
+hbar = { | } % hidden bar
 
 \include "articulate.ly"
 
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"
+\include "09_sopranoThreeNotes.ly"
 
 \include "03_altoOneNotes.ly"
 \include "04_altoTwoNotes.ly"
@@ -47,53 +48,85 @@ obreak = {}
 
 %%% ------ Print Score
 \score {
-
-  \new ChoirStaff   <<
-
+  \new ChoirStaff <<
     \new Staff \with {
       instrumentName = "S. I"
-    } { \global \sopranoOneVoice }
-    \addlyrics { \sopranoOneVerse }
+      shortInstrumentName = "S. I"
+    } \new Voice = "soprano1" { \global  \sopranoOneVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "soprano1" \sopranoOneVerse
+
+
     \new Staff \with {
       instrumentName = "S. II"
-    } { \global \sopranoTwoVoice }
-    \addlyrics { \sopranoTwoVerse }
+      shortInstrumentName = "S. II"
+    } \new Voice = "soprano2" { \global  \sopranoTwoVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "soprano2" \sopranoTwoVerse
+
+    \new Staff \with {
+      instrumentName = "S. III"
+      shortInstrumentName = "S. III"
+    } \new Voice = "soprano3" { \global  \sopranoThreeVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "soprano3" \sopranoThreeVerse
 
     \new Staff \with {
       instrumentName = "A. I"
-    } {  \global \altoOneVoice}
-    \addlyrics { \altoOneVerse }
+      shortInstrumentName = "A. I"
+    } \new Voice = "alto1" { \global  \altoOneVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "alto1" \altoOneVerse
+
     \new Staff \with {
       instrumentName = "A. II"
-    } {  \global \altoTwoVoice }
-    \addlyrics { \altoTwoVerse }
+      shortInstrumentName = "A. II"
+    } \new Voice = "alto2" { \global  \altoTwoVoice}
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "alto2" \altoTwoVerse
 
     \new Staff \with {
       instrumentName = "T. I"
-    } { \global \clef "treble_8" \tenoreOneVoice }
-    \addlyrics { \tenoreOneVerse }
+      shortInstrumentName = "T. I"
+    }  \new Voice = "tenor1" { \clef "treble_8" \global  \tenoreOneVoice }
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "tenor1" \tenoreOneVerse
+
     \new Staff \with {
       instrumentName = "T. II"
-    } { \global \clef "treble_8" \tenoreTwoVoice }
-    \addlyrics { \tenoreTwoVerse }
+      shortInstrumentName = "T. II"
+    } \new Voice = "tenor2" { \clef "treble_8" \global  \tenoreTwoVoice }
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "tenor2" \tenoreTwoVerse
 
     \new Staff \with {
       instrumentName = "B. I"
-    } {\global \clef bass \bassoOneVoice }
-    \addlyrics { \bassoOneVerse }
+      shortInstrumentName = "B. I"
+    }  \new Voice = "bass1" { \clef bass \global  \bassoOneVoice }
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "bass1" \bassoOneVerse
+
     \new Staff \with {
       instrumentName = "B. II"
-    } {\global \clef bass \bassoTwoVoice }
-    \addlyrics { \bassoTwoVerse }
+      shortInstrumentName = "B. II"
+    }  \new Voice = "bass2" { \clef bass \global  \bassoTwoVoice }
+    \new Lyrics \with {
+      \override VerticalAxisGroup #'staff-affinity = #CENTER
+    } \lyricsto "bass2" \bassoTwoVerse
   >>
-
-
-
   \layout { }
 }
 
 %%% ------ Midi Score
-
+%{
 
 \score {
   <<
@@ -140,6 +173,4 @@ obreak = {}
     \tempo 4=84
   }
 }
-
-
-
+%}

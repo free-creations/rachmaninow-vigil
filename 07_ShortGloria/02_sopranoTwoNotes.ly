@@ -22,7 +22,7 @@ sopranoTwoVoice = \relative c' {
 
   %page 5
   \time 4/2 c8 [ bes8 as8 bes8 ]) c8 ( -- [ bes8 as8 bes8 ) ] c8 \< ( -- [ bes8 as8 bes8 ) ] c8 ( -- [ bes8 as8 bes8 \! ] |
-  \time 4/2 c1 \f ~ c2 ) \fermata r2 | % 3
+  \time 4/2 c1 \f \> ~ c2 ) \! \fermata r2 | % 3
   g2 \p \> -- f2 g2  \pp r4 as4 \< |
 
   % page 6

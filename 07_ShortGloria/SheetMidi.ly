@@ -135,25 +135,27 @@ hbar = { | } % hidden bar
 }
 
 %%% ------ Midi Score
-%{
 
 \score {
   <<
     \articulate
     <<
-      \new Staff = "S 1" \sopranoOneVoice
-      \new Staff = "S 2" \sopranoTwoVoice
-      \new Staff = "A 1" \altoOneVoice
-      \new Staff = "A 2" \altoTwoVoice
-      \new Staff = "T 1" \tenoreOneVoice
-      \new Staff = "T 2" \tenoreTwoVoice
-      \new Staff = "B 1" \bassoOneVoice
-      \new Staff = "B 2" \bassoTwoVoice
+      \new Staff = "S 1" {\global \sopranoOneVoice}
+      \new Staff = "S 2" {\global \sopranoTwoVoice}
+      \new Staff = "S 3" {\global \sopranoThreeVoice}
+      \new Staff = "A 1" {\global \altoOneVoice}
+      \new Staff = "A 2" {\global \altoTwoVoice}
+      \new Staff = "T 1" {\global \tenoreOneVoice}
+      \new Staff = "T 2" {\global \tenoreTwoVoice}
+      \new Staff = "B 1" {\global \bassoOneVoice}
+      \new Staff = "B 2" {\global \bassoTwoVoice}
+      \new Staff = "B 3" {\global \bassoThreeVoice}
 
       \new Staff = "Female"   {
         <<
           \sopranoOneVoice \\
           \sopranoTwoVoice \\
+          \sopranoThreeVoice \\
           \altoOneVoice \\
           \altoTwoVoice
         >>
@@ -163,6 +165,7 @@ hbar = { | } % hidden bar
         <<
           \sopranoOneVoice \\
           \sopranoTwoVoice \\
+          \sopranoThreeVoice \\
           \altoOneVoice \\
           \altoTwoVoice
         >>
@@ -172,14 +175,15 @@ hbar = { | } % hidden bar
           \tenoreOneVoice \\
           \tenoreTwoVoice \\
           \bassoOneVoice \\
-          \bassoTwoVoice \\
+          \bassoTwoVoice \\         
+          \bassoThreeVoice \\
         >>
       }
-      \new Staff = "SubBass" \bassoTwoVoice
+      \new Staff = "SubBass" {\global \bassoThreeVoice}
     >>
   >>
   \midi {
     \tempo 4=84
   }
 }
-%}
+

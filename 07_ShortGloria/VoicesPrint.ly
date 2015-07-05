@@ -2,13 +2,12 @@
 
 
 \header {
-  subsubtitle = "Title"
   tagline = ##f
 }
 
 
 \paper {
-  paper-height = 220\mm
+  paper-height = 300\mm
   paper-width = 140\mm
   top-margin = 8\mm
   bottom-margin = 2\mm
@@ -26,20 +25,21 @@
 }
 
 global = {
-  \key f \major
+  \key es \major
   \numericTimeSignature
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
   \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
+  %\override Score.BarNumber #'break-visibility = #'#(#t #t #t)
 }
 
 obreak = {\break}
 
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"
+\include "09_sopranoThreeNotes.ly"
 
 \include "03_altoOneNotes.ly"
 \include "04_altoTwoNotes.ly"
@@ -49,6 +49,7 @@ obreak = {\break}
 
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
+\include "10_bassoThreeNotes.ly"
 
 
 %---------- Soprano-------------------------------
@@ -68,6 +69,15 @@ obreak = {\break}
     \new Staff \with {
     } { \global \sopranoTwoVoice }
     \addlyrics { \sopranoTwoVerse }
+  }
+}
+
+\book {
+  \bookOutputName "09_sopranoThree"
+  \score {
+    \new Staff \with {
+    } { \global \sopranoThreeVoice }
+    \addlyrics { \sopranoThreeVerse }
   }
 }
 %---------- Alto -------------------------------
@@ -124,3 +134,11 @@ obreak = {\break}
   }
 }
 
+\book {
+  \bookOutputName "10_bassoThree"
+  \score {
+    \new Staff \with {
+    } { \clef bass \global   \bassoThreeVoice }
+    \addlyrics { \bassoThreeVerse }
+  }
+}

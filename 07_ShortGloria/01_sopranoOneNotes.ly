@@ -14,7 +14,7 @@ sopranoOneVoice = \relative c'' {
   \time 5/2  R2*5 |
 
   %page 4
-  \time 4/2 R1*2 | % 2
+  \time 4/2 R1*2 | \obreak
   r1 r2 es2 \ppp  ( ~ -> | % 3
   es8 [ d8 c8 d8 ) ] es2 ( ~ es8 [ d8 c8 d8 ) ] es2( -- ~ |
 

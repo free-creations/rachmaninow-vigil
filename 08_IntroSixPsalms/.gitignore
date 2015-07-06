@@ -1,3 +1,7 @@
 *.pdf
 *.mid
 *.svg
+/scans/
+/lyrics/
+/reducedImg/
+/audio/

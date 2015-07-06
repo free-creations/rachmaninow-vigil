@@ -3,7 +3,7 @@
 #(ly:set-option 'midi-extension "mid")
 
 \header {
-  title = "Title"
+  title = "8. Lobt den Namen des Herrn"
   tagline = ##f
 }
 
@@ -14,15 +14,14 @@ obreak = { \break }
 }
 
 global = {
-  \key f \major
+  \key as \major
   \numericTimeSignature
-  \compressFullBarRests
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
-  \override Score.TimeSignature #'stencil = ##f
+  % \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
+  \override Score.BarNumber #'break-visibility = #'#(#t #t #t)
 }
 
 obreak = {}
@@ -54,6 +53,7 @@ obreak = {}
       instrumentName = "S. I"
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneVerse }
+    \addlyrics { \sopranoOneCyrillic }
     \new Staff \with {
       instrumentName = "S. II"
     } { \global \sopranoTwoVoice }
@@ -93,7 +93,7 @@ obreak = {}
 }
 
 %%% ------ Midi Score
-
+%{
 
 \score {
   <<
@@ -141,5 +141,5 @@ obreak = {}
   }
 }
 
-
+%}
 

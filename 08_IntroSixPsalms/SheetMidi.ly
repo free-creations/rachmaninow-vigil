@@ -58,6 +58,7 @@ obreak = {}
       instrumentName = "S. II"
     } { \global \sopranoTwoVoice }
     \addlyrics { \sopranoTwoVerse }
+    \addlyrics { \sopranoTwoCyrillic }
 
     \new Staff \with {
       instrumentName = "A. I"

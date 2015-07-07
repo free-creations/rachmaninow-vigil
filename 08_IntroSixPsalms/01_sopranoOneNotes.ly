@@ -1,6 +1,6 @@
 sopranoOneVoice = \relative c'' {
-  \time 4/4 r4 es4 \p es4 es4 |
-  es8 ( [ f8 es8 des8 ] ) c8  ( [ bes8 ) ] c8 ( [ des8 ) ] |
+  \time 4/4 r4 es4 -- \p es4 -- es4 -- |
+  es8 -- ( [ f8 es8 des8 ] ) c8 -- ( [ bes8 ) ] c8 -- ( [ des8 ) ] |
   es1 -- \p |
   \time 6/4  es1 -- es4 -- es4 -- |
   \time 4/4  es1 ~ |
@@ -9,8 +9,8 @@ sopranoOneVoice = \relative c'' {
   \time 6/4  es2 -- es4 -- es4 \< -- ( f8 \> [ es8 ) ] des4 |
 
   %page 2
-  \time 4/4 es4 \< f4 g4 \! \f ( f8 \> [ es8 ] |
-  f4 ) es4 \! es8 \p ( [ bes8 c8 des8 ] |
+  \time 4/4 es4 \< f4 g4  \f  \> ( f8  [ es8 ] |
+  f4 ) es4  es8 \p ( [ bes8 c8 des8 ] |
   es4 ) es8 ( [ f8 es8 des8 ]) c8 \> ( [ bes8 ] ) |
   c8 des8 es2. ~ \pp |
   es1 ~ |
@@ -76,8 +76,8 @@ sopranoOneVerse = \lyricmode {
   %page 4
   Wo -- gu nje -- bjes -- no -- "mu."
   Al -- li -- luj -- i -- "a,"
-  al -- li -- luj -- i -- "a,"
-  al -- li -- luj -- i -- "a,"
+  al -- li -- luj -- i -- "a," __
+  al -- li -- luj -- i -- "a," __
   al -- li -- luj -- i -- "a," __
   al -- li -- luj -- i -- "a." __
 }
@@ -105,15 +105,15 @@ sopranoOneCyrillic = \lyricmode {
   я -- ко "Благ."
 
   Ал -- ли -- луй -- и -- "а,"
-  aл -- ли -- луй -- и -- "а."
+  aл -- ли -- луй -- и -- "а." __
 
   Ис -- по -- ве -- дай -- те -- ся
 
   %page 4
   Во -- гу не -- бес -- но -- "му."
   Ал -- ли -- луй -- и -- "а,"
-  ал -- ли -- луй -- и -- "а,"
-  ал -- ли -- луй -- и -- "а,"
+  ал -- ли -- луй -- и -- "а," __
+  ал -- ли -- луй -- и -- "а," __
   ал -- ли -- луй -- и -- "а," __
   aл -- ли -- луй -- и -- "а." __
 

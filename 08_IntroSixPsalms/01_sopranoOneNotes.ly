@@ -8,6 +8,7 @@ sopranoOneVoice = \relative c'' {
   es2 \p es4 -- es4 -- |
   \time 6/4  es2 -- es4 -- es4 \< -- ( f8 \> [ es8 ) ] des4 |
 
+  \opage
   %page 2
   \time 4/4 es4 \< f4 g4  \f  \> ( f8  [ es8 ] |
   f4 ) es4  es8 \p ( [ bes8 c8 des8 ] |
@@ -19,6 +20,7 @@ sopranoOneVoice = \relative c'' {
   c4 \p \< des4 c2  ( | % 12
   bes8 \> [ c8 ) ] c8 [( bes8 ] ) as2  \p |
 
+  \opage
   %page 3
   \time 6/4 es'4  es8 ( [ f8 ) ] es8 ( [ c8 des8 es8 ] f4 ) es4 -- |
   \time 4/4  es2 \p -- es4 -- es4 -- |
@@ -31,9 +33,10 @@ sopranoOneVoice = \relative c'' {
   \time 6/4  es4 es4 es8 bes8 c8 ( [ des8 ] es4 ) es8 \mf es8 |
   \time 4/4  es2 -- es4 -- es8 es8 |
 
+  \opage
   %page 4
-  \time 4/4 es2 -- es8 ( [ c8 ]  )des8 [( es8 ) ] |
-  f8 ( [ es8 ) ] des4 es4 f8 \f f8 |
+  \time 4/4 es2 -- es8 ( [ c8 ]  )des8 \< [( es8 ) ] |
+  f8 \> ( [ es8 ) ] des4 \! es4 f8 \f f8 |
   ges2 f4 es4 |
   f4 \< ( g4 as4. \ff ) g8 |
   f4 \>  f4  f4 ( \! es8 [ des8 ] )|
@@ -42,7 +45,7 @@ sopranoOneVoice = \relative c'' {
   es4 ) es8 ( [ f8 es8 des8 ) ] c8 ( \> [ g8 ] ) |
   c8  des8 es2.  \pp ~ |
   es2 ~ es8 r8 r4 |
-  c4 \p \< des4 c2 \> ( |
+  c4 \p \< des4 c2 -- \> ( |
   bes8  [ c8 ) ] c8 ( [ bes8 ) ] as2 \pp  ~ |
   as1  \fermata \bar "||"
 }

@@ -7,7 +7,6 @@
   tagline = ##f
 }
 
-obreak = { \break }
 
 \paper {
   #(set-paper-size "a4")
@@ -25,11 +24,13 @@ global = {
 }
 
 obreak = {}
+opage ={\pageBreak}
 
 \include "articulate.ly"
 
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"
+\include "10_sopranoThreeNotes.ly"
 
 \include "03_altoOneNotes.ly"
 \include "04_altoTwoNotes.ly"
@@ -61,13 +62,22 @@ obreak = {}
     \addlyrics { \sopranoTwoCyrillic }
 
     \new Staff \with {
+      instrumentName = "S. III"
+    } { \global \sopranoThreeVoice }
+    \addlyrics { \sopranoThreeVerse }
+    \addlyrics { \sopranoThreeCyrillic }
+
+    \new Staff \with {
       instrumentName = "A. I"
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneVerse }
+    \addlyrics { \altoOneCyrillic }
+
     \new Staff \with {
       instrumentName = "A. II"
     } {  \global \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
+    \addlyrics { \altoTwoCyrillic }
 
     \new Staff \with {
       instrumentName = "T. I"

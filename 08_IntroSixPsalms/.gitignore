@@ -1,6 +1,7 @@
 *.pdf
 *.mid
 *.svg
+*.xws
 /scans/
 /lyrics/
 /reducedImg/

@@ -24,7 +24,7 @@ altoOneVoiceB = \relative c' {
   es1 \p ( ~ |
   es4 \> f4 g2 ) |
   as4  \p \<  f4 as4  \! ( es4 |
-  ges4 \> ) f4  f4 ( \p c4 |
+  ges4 \> ) f4  f4 ( \p c4 ~ |
 }
 
 altoOneVoiceC = \relative c' {

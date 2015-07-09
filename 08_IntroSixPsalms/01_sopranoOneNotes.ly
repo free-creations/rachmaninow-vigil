@@ -42,7 +42,7 @@ sopranoOneVoice = \relative c'' {
   f4 \>  f4  f4 ( \! es8 [ des8 ] )|
   es4  \< -- f4 g4 (\f \> f8  [ es8 ]  |
   f4 ) es4  es8 \p ( [ bes8 c8 des8 ] |
-  es4 ) es8 ( [ f8 es8 des8 ) ] c8 ( \> [ g8 ] ) |
+  es4 ) es8 ( [ f8 es8 des8 ) ] c8 ( \> [ bes8 ] ) |
   c8  des8 es2.  \pp ~ |
   es2 ~ es8 r8 r4 |
   c4 \p \< des4 c2 -- \> ( |

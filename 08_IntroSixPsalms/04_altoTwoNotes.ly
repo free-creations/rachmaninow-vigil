@@ -3,7 +3,7 @@ altoTwoVoiceB = \relative c' {
   es1\p ~|
   es1 \> |
   as4  \p  \< f4 as4 \! (   es4 ~ | % 12
-  es4 \> ) es8 ([ des8 ]) f4  \p ( c4 |
+  es4 \> ) es8 ([ des8 ]) f4  \p ( c4 ~ |
 
 }
 

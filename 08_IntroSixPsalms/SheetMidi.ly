@@ -27,11 +27,11 @@ obreak = {}
 opage ={\pageBreak}
 
 \include "articulate.ly"
-
+%{
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"
 \include "10_sopranoThreeNotes.ly"
-
+%}
 \include "03_altoOneNotes.ly"
 \include "04_altoTwoNotes.ly"
 
@@ -49,51 +49,66 @@ opage ={\pageBreak}
 \score {
 
   \new ChoirStaff   <<
-
+    %{
     \new Staff \with {
       instrumentName = "S. I"
+      shortInstrumentName = "S. I"
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneVerse }
     \addlyrics { \sopranoOneCyrillic }
+
     \new Staff \with {
       instrumentName = "S. II"
+      shortInstrumentName = "S. II"
     } { \global \sopranoTwoVoice }
     \addlyrics { \sopranoTwoVerse }
     \addlyrics { \sopranoTwoCyrillic }
 
     \new Staff \with {
       instrumentName = "S. III"
+      shortInstrumentName = "S. III"
     } { \global \sopranoThreeVoice }
     \addlyrics { \sopranoThreeVerse }
     \addlyrics { \sopranoThreeCyrillic }
-
+    %}
     \new Staff \with {
       instrumentName = "A. I"
+      shortInstrumentName = "A. I"
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneVerse }
     \addlyrics { \altoOneCyrillic }
-
+    %{
     \new Staff \with {
       instrumentName = "A. II"
+      shortInstrumentName = "A. II"
     } {  \global \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
     \addlyrics { \altoTwoCyrillic }
-
+    %}
     \new Staff \with {
       instrumentName = "T. I"
+      shortInstrumentName = "T. I"
     } { \global \clef "treble_8" \tenoreOneVoice }
     \addlyrics { \tenoreOneVerse }
+    \addlyrics { \tenoreOneCyrillic }
+%{
     \new Staff \with {
       instrumentName = "T. II"
+      shortInstrumentName = "T. II"
     } { \global \clef "treble_8" \tenoreTwoVoice }
     \addlyrics { \tenoreTwoVerse }
-
+    \addlyrics { \tenoreTwoCyrillic }
+    %}
     \new Staff \with {
       instrumentName = "B. I"
+      shortInstrumentName = "B. I"
     } {\global \clef bass \bassoOneVoice }
     \addlyrics { \bassoOneVerse }
+    \addlyrics { \bassoOneCyrillic }
+
     \new Staff \with {
       instrumentName = "B. II"
+      shortInstrumentName = "B. II"
     } {\global \clef bass \bassoTwoVoice }
     \addlyrics { \bassoTwoVerse }
   >>

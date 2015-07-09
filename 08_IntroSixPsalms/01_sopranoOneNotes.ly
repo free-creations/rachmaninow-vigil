@@ -46,7 +46,7 @@ sopranoOneVoice = \relative c'' {
   c8  des8 es2.  \pp ~ |
   es2 ~ es8 r8 r4 |
   c4 \p \< des4 c2 -- \> ( |
-  bes8  [ c8 ) ] c8 ( [ bes8 ) ] as2 \pp  ~ |
+  bes8 \< [ c8 ) ] c8 \> ( [ bes8 ) ] as2 \pp  ~ |
   as1  \fermata \bar "||"
 }
 
@@ -65,7 +65,7 @@ sopranoOneVerse = \lyricmode {
   Al -- li -- luj -- i -- "a,"
 
   %page 3
-  al -- li -- luj -- i  -- "a,"
+  al -- li -- luj -- i  -- "a."
 
   Is -- po -- wje -- daj -- tje -- sja
   Gos -- po -- dje -- "wi,"
@@ -101,7 +101,7 @@ sopranoOneCyrillic = \lyricmode {
   Ал -- ли -- луй -- и -- "а,"
 
   %page 3
-  ал -- ли -- луй -- и  -- "а,"
+  ал -- ли -- луй -- и  -- "а."
 
   Ис -- по -- ве -- дай -- те -- ся
   Гос -- по -- де -- "ви,"

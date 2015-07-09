@@ -37,7 +37,7 @@ altoOneVoiceC = \relative c' {
   bes4 bes16 ( [ c16 des8 ~ -- ] des8 ) des8 des16 ( -- [ c16 bes8 ) ]  |
   des4 -> c8 c8 bes2 |
   c4 \f des4 c2 ( |
-  \time 6/4  bes8 [ c8 ) ] c8 ( [ bes8 ] ) as2 ~ as8 r8 bes8  bes8 |
+  \time 6/4  bes8 [ c8 ) ] c8 ( [ bes8 ] ) as2 ~ as8 r8 bes8 \f bes8 |
   \time 4/4  c8 c8 c8 c8 c4 c8 bes8
 
   %page 4

@@ -46,7 +46,7 @@ sopranoTwoVoice = \relative c'' {
   as8  bes8 c2.  \pp ~ | 
   c2  ~ c8  r8 r4 |
   c4 \p \< des4 c2 -- \> ( |
-  bes8  [ c8 ) ] c8 ( [ bes8 ) ] as2 \pp  ~ |
+  bes8 \< [ c8 ) ] c8 \> ( [ bes8 ) ] as2 \pp  ~ |
   as1  \fermata \bar "||"
 }
 

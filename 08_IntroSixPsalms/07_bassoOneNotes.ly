@@ -53,7 +53,46 @@ bassoOneVoice = \relative  c' {
 
 }
 
-bassoOneVerse = {
+bassoOneVerse = \lyricmode {
+  Hwa -- li -- tje i -- mja  Gos --  pod -- "nje." 
+ 
+  Al -- li -- luj -- i --  "a." 
+ 
+  Hwa -- li -- "tje," 
+  ra -- "bi," 
+  Gos -- po -- "da." 
+ 
+  %page 2 
+  Al -- li -- luj -- i -- "a." __ 
+ 
+  Bla -- go -- slo -- wjen Gos -- pod'   ot Si -- o -- "na," 
+  shi -- wyj -- wo -- I -- je -- ru -- sa -- li -- "mje." 
+ 
+ 
+  Al -- li -- luj -- i -- "a." __ 
+ 
+  %page 3 
+  Is -- po -- wje -- daj -- tje -- sja 
+  Gos -- po -- dje -- "wi," 
+  ja -- ko "Blag." 
+ 
+  Al -- li -- luj -- i -- "a," 
+  al -- li -- luj -- i -- "a." __ 
+ 
+  Ja -- ko -- "w wjek" -- mi -- lost' Je -- go. 
+  Al -- li -- luj -- i -- "a." 
+ 
+  Is -- po -- wje -- daj -- tje -- sja 
+ 
+  %page 4 
+  Wo -- gu nje -- bjes -- no -- "mu." 
+  Al -- li -- luj -- i  -- "a," 
+  al -- li -- luj -- i -- "a." 
+ 
+  Ja -- ko -- "w wjek" -- mi -- lost' Je -- go. 
+  Al -- li -- luj -- i  -- "a," __ 
+  al -- li -- luj -- i -- "a." __ 
+  
 }
 
 bassoOneCyrillic = \lyricmode {

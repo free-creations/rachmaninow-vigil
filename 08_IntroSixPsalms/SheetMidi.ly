@@ -27,11 +27,11 @@ obreak = {}
 opage ={\pageBreak}
 
 \include "articulate.ly"
-%{
+
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"
 \include "10_sopranoThreeNotes.ly"
-%}
+
 \include "03_altoOneNotes.ly"
 \include "04_altoTwoNotes.ly"
 
@@ -40,6 +40,7 @@ opage ={\pageBreak}
 
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
+\include "09_bassoThreeNotes.ly"
 
 
 
@@ -49,7 +50,7 @@ opage ={\pageBreak}
 \score {
 
   \new ChoirStaff   <<
-    %{
+
     \new Staff \with {
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
@@ -70,35 +71,35 @@ opage ={\pageBreak}
     } { \global \sopranoThreeVoice }
     \addlyrics { \sopranoThreeVerse }
     \addlyrics { \sopranoThreeCyrillic }
-    %}
+
     \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneVerse }
     \addlyrics { \altoOneCyrillic }
-    %{
+
     \new Staff \with {
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
     } {  \global \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
     \addlyrics { \altoTwoCyrillic }
-    %}
+
     \new Staff \with {
       instrumentName = "T. I"
       shortInstrumentName = "T. I"
     } { \global \clef "treble_8" \tenoreOneVoice }
     \addlyrics { \tenoreOneVerse }
     \addlyrics { \tenoreOneCyrillic }
-%{
+
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"
     } { \global \clef "treble_8" \tenoreTwoVoice }
     \addlyrics { \tenoreTwoVerse }
     \addlyrics { \tenoreTwoCyrillic }
-    %}
+
     \new Staff \with {
       instrumentName = "B. I"
       shortInstrumentName = "B. I"
@@ -111,6 +112,14 @@ opage ={\pageBreak}
       shortInstrumentName = "B. II"
     } {\global \clef bass \bassoTwoVoice }
     \addlyrics { \bassoTwoVerse }
+    \addlyrics { \bassoTwoCyrillic }
+
+    \new Staff \with {
+      instrumentName = "B. III"
+      shortInstrumentName = "B. III"
+    } {\global \clef bass \bassoThreeVoice }
+    \addlyrics { \bassoThreeVerse }
+    \addlyrics { \bassoThreeCyrillic }
   >>
 
 
@@ -119,25 +128,27 @@ opage ={\pageBreak}
 }
 
 %%% ------ Midi Score
-%{
 
 \score {
   <<
     \articulate
     <<
-      \new Staff = "S 1" \sopranoOneVoice
-      \new Staff = "S 2" \sopranoTwoVoice
-      \new Staff = "A 1" \altoOneVoice
-      \new Staff = "A 2" \altoTwoVoice
-      \new Staff = "T 1" \tenoreOneVoice
-      \new Staff = "T 2" \tenoreTwoVoice
-      \new Staff = "B 1" \bassoOneVoice
-      \new Staff = "B 2" \bassoTwoVoice
+      \new Staff = "S 1" {\global \sopranoOneVoice}
+      \new Staff = "S 2" {\global \sopranoTwoVoice}
+      \new Staff = "S 3" {\global \sopranoThreeVoice}
+      \new Staff = "A 1" {\global \altoOneVoice}
+      \new Staff = "A 2" {\global \altoTwoVoice}
+      \new Staff = "T 1" {\global \tenoreOneVoice}
+      \new Staff = "T 2" {\global \tenoreTwoVoice}
+      \new Staff = "B 1" {\global \bassoOneVoice}
+      \new Staff = "B 2" {\global \bassoTwoVoice}
+      \new Staff = "B 3" {\global \bassoThreeVoice}
 
       \new Staff = "Female"   {
         <<
           \sopranoOneVoice \\
           \sopranoTwoVoice \\
+          \sopranoThreeVoice \\
           \altoOneVoice \\
           \altoTwoVoice
         >>
@@ -147,6 +158,7 @@ opage ={\pageBreak}
         <<
           \sopranoOneVoice \\
           \sopranoTwoVoice \\
+          \sopranoThreeVoice \\
           \altoOneVoice \\
           \altoTwoVoice
         >>
@@ -157,15 +169,14 @@ opage ={\pageBreak}
           \tenoreTwoVoice \\
           \bassoOneVoice \\
           \bassoTwoVoice \\
+          \bassoThreeVoice \\
         >>
       }
-      \new Staff = "SubBass" \bassoTwoVoice
+      \new Staff = "SubBass" {\global \bassoThreeVoice}
     >>
   >>
   \midi {
     \tempo 4=84
   }
 }
-
-%}
 

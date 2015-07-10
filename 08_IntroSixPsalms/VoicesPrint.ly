@@ -8,7 +8,7 @@
 
 
 \paper {
-  paper-height = 220\mm
+  paper-height = 450\mm
   paper-width = 140\mm
   top-margin = 8\mm
   bottom-margin = 2\mm
@@ -26,20 +26,25 @@
 }
 
 global = {
-  \key f \major
+  \key as \major
   \numericTimeSignature
   \dynamicUp
   \autoBeamOff
-  \cadenzaOn
   \accidentalStyle "modern-voice-cautionary"
   \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
+  %\override Score.BarNumber #'break-visibility = #'#(#t #t #t)
+
 }
 
-obreak = {\break}
+obreak = {}
+opage = {}
+
+greyText = {  \override Lyrics.LyricText #'color =  #(x11-color 'grey40) }
 
 \include "01_sopranoOneNotes.ly"
 \include "02_sopranoTwoNotes.ly"
+\include "10_sopranoThreeNotes.ly"
 
 \include "03_altoOneNotes.ly"
 \include "04_altoTwoNotes.ly"
@@ -49,15 +54,18 @@ obreak = {\break}
 
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
+\include "09_bassoThreeNotes.ly"
 
 
 %---------- Soprano-------------------------------
+
 \book {
   \bookOutputName "01_sopranoOne"
   \score {
     \new Staff \with {
     } { \global  \sopranoOneVoice }
     \addlyrics { \sopranoOneVerse }
+    \addlyrics { \greyText \sopranoOneCyrillic }
   }
 }
 
@@ -68,6 +76,17 @@ obreak = {\break}
     \new Staff \with {
     } { \global \sopranoTwoVoice }
     \addlyrics { \sopranoTwoVerse }
+    \addlyrics { \greyText \sopranoTwoCyrillic }
+  }
+}
+
+\book {
+  \bookOutputName "10_sopranoThree"
+  \score {
+    \new Staff \with {
+    } { \global \sopranoThreeVoice }
+    \addlyrics { \sopranoThreeVerse }
+    \addlyrics { \greyText \sopranoThreeCyrillic }
   }
 }
 %---------- Alto -------------------------------
@@ -77,6 +96,7 @@ obreak = {\break}
     \new Staff \with {
     } {\dynamicUp \global  \altoOneVoice }
     \addlyrics { \altoOneVerse }
+    \addlyrics { \greyText \altoOneCyrillic }
   }
 }
 \book {
@@ -85,6 +105,7 @@ obreak = {\break}
     \new Staff \with {
     } { \global  \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
+    \addlyrics { \greyText \altoTwoCyrillic }
   }
 }
 
@@ -95,14 +116,17 @@ obreak = {\break}
     \new Staff \with {
     } {\clef "treble_8" \global \tenoreOneVoice }
     \addlyrics { \tenoreOneVerse }
+    \addlyrics { \greyText \tenoreOneCyrillic }
   }
 }
+
 \book {
   \bookOutputName "06_tenoreTwo"
   \score {
     \new Staff \with {
     } { \clef "treble_8" \global  \tenoreTwoVoice }
     \addlyrics { \tenoreTwoVerse }
+    \addlyrics { \greyText \tenoreTwoCyrillic }
   }
 }
 
@@ -113,6 +137,7 @@ obreak = {\break}
     \new Staff \with {
     } { \clef bass \global  \bassoOneVoice }
     \addlyrics { \bassoOneVerse }
+    \addlyrics { \greyText \bassoOneCyrillic }
   }
 }
 \book {
@@ -121,6 +146,16 @@ obreak = {\break}
     \new Staff \with {
     } { \clef bass \global   \bassoTwoVoice }
     \addlyrics { \bassoTwoVerse }
+    \addlyrics { \greyText \bassoTwoCyrillic }
   }
 }
 
+\book {
+  \bookOutputName "09_bassoThree"
+  \score {
+    \new Staff \with {
+    } { \clef bass \global   \bassoThreeVoice }
+    \addlyrics { \bassoThreeVerse }
+    \addlyrics { \greyText \bassoThreeCyrillic }
+  }
+}

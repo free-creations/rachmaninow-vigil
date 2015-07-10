@@ -52,7 +52,7 @@ tenoreOneVoice = \relative c ''{
 }
 
 tenoreOneVerse = \lyricmode {
- Hwa -- li -- tje i -- mja  Gos --  pod -- "nje." 
+  Hwa -- li -- tje i -- mja  Gos --  pod -- "nje." 
  
   Al -- li -- luj -- i --  "a." 
  
@@ -92,6 +92,7 @@ tenoreOneVerse = \lyricmode {
 }
 
 tenoreOneCyrillic = \lyricmode {
+
   Хва -- ли -- те и -- мя  Гос --  под -- "не."
 
   Ал -- ли -- луй -- и --  "а."

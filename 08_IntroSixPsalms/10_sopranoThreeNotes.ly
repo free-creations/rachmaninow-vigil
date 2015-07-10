@@ -23,7 +23,7 @@ sopranoThreeVoice = \relative c'' {
   bes8 \> [ c8 ) ] c8 [ bes8 ] as2  \p |
 
   %page 3
-  \time 6/4   as4  as4 as2 ( ~ as4 ) g4 |
+  \time 6/4   as4  as4 as2  ~ as4  g4 |
   \time 4/4  |
   as2 -- \p g4 -- g4 -- |
   f4 ( g4 ) as4 as4 |

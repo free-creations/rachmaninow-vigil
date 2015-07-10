@@ -23,8 +23,8 @@ tenoreTwoVoice = \relative c ' {
   bes4 \> ) f4 as2 \p |
 
   %page 3
-  es'4 -- es8 -- ( [ des8 ) ] es4 ( f8 [ es8 ] des4 ) bes8 -- ( [ des8 ) ] |
-  \time 4/4    c2 -- \p c4 -- c4 -- |
+  \time 6/4  es'4 -- es8 -- ( [ des8 ) ] es4 ( f8 [ es8 ] des4 ) bes8 -- ( [ des8 ) ] |
+  \time 4/4  c2 -- \p c4 -- c4 -- |
   c4 ( des4 ) c4 c4 |
   des8 ( -- c4 \> bes8 c4 \< des4 ) |
   es2 \mf des4 c4 |

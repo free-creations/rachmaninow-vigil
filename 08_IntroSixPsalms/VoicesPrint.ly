@@ -2,7 +2,7 @@
 
 
 \header {
-  subsubtitle = "Title"
+
   tagline = ##f
 }
 

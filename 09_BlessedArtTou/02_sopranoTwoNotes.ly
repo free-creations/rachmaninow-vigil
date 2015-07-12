@@ -9,11 +9,11 @@ sopranoTwoVoiceA = \relative c '' {
   \time 4/4  d4 \! -- d4 -- d4 -- d4 -- |
   \time 4/4  bes2 -> c4 -- bes4 -- |
   \time 6/4  d2 -- d4 -- d4 -- c8 c8 bes4 -- |
-  
+
 }
 
 sopranoTwoVoiceB = \relative c '' {
-  
+
   \opage %p2
   \time 6/4   d2 -- \ff d2 -- c16 ( -- [ d16 e8 -- ) ] d8 r8 | % 2
   \time 6/4  f4.  -> d8 -- e2 -> \> d2 \! |
@@ -155,6 +155,18 @@ sopranoTwoVerse = \lyricmode {
   is  Tje -- bje    wo -- plo -- ti -- wyj -- sja Bog i tschje -- lo -- "wjek."
   Al -- li -- luj -- i -- a,
 
+  %p9
+  al -- li -- luj -- i -- a,
+  al -- li -- luj -- i -- a,
+  sla -- wa  Tje -- "bje," Bo --  "shje."
+
+  Al -- li -- luj -- i -- a,
+
+  sla -- "wa,"
+  Tje -- "bje," Bo -- "shje."
+
+  Sla -- wa Tje -- "bje," Bo -- "shje."
+
 }
 
 sopranoTwoCyrillic =  \lyricmode {
@@ -201,6 +213,7 @@ sopranoTwoCyrillic =  \lyricmode {
   из  Те -- бе    во -- пло -- ти -- вый -- ся Бог и че -- ло -- "век."
   Ал -- ли -- луй -- и -- а,
 
+  %p9
   ал -- ли -- луй -- и -- а,
   ал -- ли -- луй -- и -- а,
   сла -- ва  Те -- "бе," Бо --  "же."

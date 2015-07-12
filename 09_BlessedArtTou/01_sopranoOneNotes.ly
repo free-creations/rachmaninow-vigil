@@ -66,6 +66,41 @@ sopranoOneVoice = \relative c'' {
   \time 4/4  R1 |
   \time 4/4  R1
 
+  \opage %p6
+  \time 4/4 R1 |
+  \time 4/4  r2 e,4 \p \> ( f4 ) |
+  \time 4/4  f4  \pp r4 r2 |
+  \time 4/4  R1 |
+  \time 5/4  R4*5 |
+  \time 6/4  R1. |
+  \time 4/4  a1 \p ( ~ |
+  \time 5/4  a2. gis4 a4 ) |
+  \time 4/4  a1 |
+
+  \opage %p7
+  \time 4/4  b4 \p \< ( c4 ) d4 \> ( c4 ~ |
+  \time 3/4  c4 b4  a4 \pp ) |
+  \time 4/4  g4  \p f8 g8 a4 -- g4 -- |
+  \time 6/4  a8 bes4 -> a8 a8 a8 a16 [( g16 ]) f8 g8 g8 a4 -- |
+  \time 5/4  c4 \mf -- c8 c8 bes8 \< c8 d4 \> -- c4 -- |
+  \time 3/4  d8 \! d8 e4 -> d4 |
+  \time 6/4  d8 c8 d4 -- d8 d8 d8 -- ( [ e8 )  ] e8 c8 d4 -> |
+  \time 4/4  f4 \f -- f16 ( [ e16 ) ] d8 e4 \> ( -> d4 ) |
+  \time 3/4  f8  \mf f8 e8 e8 d4 -- |
+
+  \opage %p8
+  \time 3/4 f8 f8 e8 e8 d4 |
+  \time 3/4  e8 f8 g8 e8 f4 -- |
+  \time 4/4  f8 \> f8 f8 f8 e4 \! d4 |
+  \time 3/4   d4 -> \f d4 -> d4 -> |
+  \time 3/4  d4 -> d4 -> d4 -> |
+  \time 3/4  d4 \mf ( c4 \> ) bes4 |
+  \time 4/4  a4 \! g4 g4 \p f4 |
+  \time 3/4  R2. |
+  \time 3/4  R2. |
+  \time 3/4  R2. |
+  \time 6/4  f8 -- \p f8 -- f8 -- f8 -- e2 --\>  d2  \pp \fermata \bar "|."
+
 }
 
 sopranoOneVerse = \lyricmode {
@@ -87,18 +122,41 @@ sopranoOneVerse = \lyricmode {
   ko gro -- bu Two -- je -- mu ry -- da -- ju -- schtschi -- "ja,"
   ry -- da -- ni -- ja wrje -- mja prje --
 
-  %p5 
-  "sta," 
-  mm __ 
- 
-  Mi -- ro -- no -- si -- zy Shje -- "ny," "s mi" -- ry pri -- schjed -- schi -- ja ko   gro -- bu Two -- je -- mu, 
+  %p5
+  "sta,"
+  mm __
 
-  %p6 
-  Spa -- "sje," ry -- da -- "hu." 
- 
-  Tschto "s  mjert" -- wy -- mi Shi -- wa -- go po -- mysch -- lja -- je -- "tje?" 
- 
-  Ja -- ko Bog bo wos -- krje -- sje ot gro -- "ba." 
+  Mi -- ro -- no -- si -- zy Shje -- "ny,"
+  "s mi" -- ry pri -- schjed -- schi -- ja ko   gro -- bu Two -- je -- mu,
+
+  %p6
+  Spa -- "sje," ry -- da -- "hu."
+
+  Tschto "s  mjert" -- wy -- mi Shi -- wa -- go po -- mysch -- lja -- je -- "tje?"
+
+  Ja -- ko Bog bo wos -- krje -- sje ot gro -- "ba."
+
+  %p7
+  Sla -- "wa."  Sla -- "wa,"
+
+  %p8
+  sla -- "wa." __
+  Ra -- dost' shje   Je -- wje
+  "w pje" -- tscha -- li mjes -- to po -- da -- la    je -- "si;"
+  Pad -- schi -- ja shje ot shis -- ni "k sjej" na -- pra -- wi,
+  is  Tje -- bje    wo -- plo -- ti -- wyj -- sja Bog i tschje -- lo -- "wjek."
+  Al -- li -- luj -- i -- a,
+
+  %p9
+  al -- li -- luj -- i -- a,
+  al -- li -- luj -- i -- a,
+  sla -- wa  Tje -- "bje," Bo --  "shje."
+  Sla -- "wa,"
+  Tje -- "bje," Bo -- "shje,"
+  sla -- "wa,"
+  Tje -- "bje," Bo -- "shje."
+
+  Sla -- wa Tje -- "bje," Bo -- "shje."
 
 }
 
@@ -126,7 +184,8 @@ sopranoOneCyrillic = \lyricmode {
   "ста,"
   мм __
 
-  Ми -- ро -- но -- си -- цы Же -- "ны," "с ми" -- ры при -- шед -- ши -- я ко   гро -- бу Тво -- е -- му,
+  Ми -- ро -- но -- си -- цы Же -- "ны,"
+  "с ми" -- ры при -- шед -- ши -- я ко   гро -- бу Тво -- е -- му,
 
   %p6
   Спа -- "се," ры -- да -- "ху."
@@ -134,5 +193,27 @@ sopranoOneCyrillic = \lyricmode {
   Что "с  мерт" -- вы -- ми Жи -- ва -- го по -- мыш -- ля -- е -- "те?"
 
   Я -- ко Бог бо вос -- кре -- се от гро -- "ба."
+
+  %p7
+  Сла -- "ва."  Сла -- "ва,"
+
+  %p8
+  сла -- "ва." __
+  Ра -- дость же   Е -- ве
+  "в пе" -- ча -- ли мес -- то по -- да -- ла    е -- "си;"
+  Пад -- ши -- я же от жиз -- ни "к сей" на -- пра -- ви,
+  из  Те -- бе    во -- пло -- ти -- вый -- ся Бог и че -- ло -- "век."
+  Ал -- ли -- луй -- и -- а,
+
+  %p9
+  ал -- ли -- луй -- и -- а,
+  ал -- ли -- луй -- и -- а,
+  сла -- ва  Те -- "бе," Бо --  "же."
+  Сла -- "ва,"
+  Те -- "бе," Бо -- "же,"
+  сла -- "ва,"
+  Те -- "бе," Бо -- "же."
+
+  Сла -- ва Те -- "бе," Бо -- "же."
 
 }

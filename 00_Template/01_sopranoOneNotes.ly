@@ -1,0 +1,8 @@
+sopranoOneVoice = {
+ c
+}
+
+sopranoOneVerse = {
+}
+
+sopranoOneCyrillic = {}

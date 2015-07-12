@@ -19,7 +19,7 @@ sopranoOneVoice = \relative c'' {
   \time 6/4  R1. |
   \time 4/4  R1 |
   \time 6/4  c2  \p -- c2 -- a4 a4 |
-  \time 6/4  c2 -- c2 -- a4 a4
+  \time 6/4  c2 -- c2 -- a4 a4 |
 
   \opage %p3
   \time 6/4   c1 -- \pp ( a2 |
@@ -64,9 +64,9 @@ sopranoOneVoice = \relative c'' {
   \time 4/4  e4  \> -> d4 \p  \fermata r2 |
   \time 5/4  R4*5 |
   \time 4/4  R1 |
-  \time 4/4  R1
+  \time 4/4  R1 |
 
-  \opage %p6
+  \opage %p7
   \time 4/4 R1 |
   \time 4/4  r2 e,4 \p \> ( f4 ) |
   \time 4/4  f4  \pp r4 r2 |
@@ -77,7 +77,7 @@ sopranoOneVoice = \relative c'' {
   \time 5/4  a2. gis4 a4 ) |
   \time 4/4  a1 |
 
-  \opage %p7
+  \opage %p8
   \time 4/4  b4 \p \< ( c4 ) d4 \> ( c4 ~ |
   \time 3/4  c4 b4  a4 \pp ) |
   \time 4/4  g4  \p f8 g8 a4 -- g4 -- |
@@ -88,14 +88,14 @@ sopranoOneVoice = \relative c'' {
   \time 4/4  f4 \f -- f16 ( [ e16 ) ] d8 e4 \> ( -> d4 ) |
   \time 3/4  f8  \mf f8 e8 e8 d4 -- |
 
-  \opage %p8
+  \opage %p9
   \time 3/4 f8 f8 e8 e8 d4 |
   \time 3/4  e8 f8 g8 e8 f4 -- |
   \time 4/4  f8 \> f8 f8 f8 e4 \! d4 |
   \time 3/4   d4 -> \f d4 -> d4 -> |
   \time 3/4  d4 -> d4 -> d4 -> |
-  \time 3/4  d4 \mf ( c4 \> ) bes4 |
-  \time 4/4  a4 \! g4 g4 \p f4 |
+  \time 3/4  d4 -- \mf ( c4 \> ) bes4 |
+  \time 4/4  a4 \! g4 g4 -- \p f4 |
   \time 3/4  R2. |
   \time 3/4  R2. |
   \time 3/4  R2. |
@@ -103,9 +103,11 @@ sopranoOneVoice = \relative c'' {
 
 }
 
+
 sopranoOneVerse = \lyricmode {
   An -- gjel' -- skij so -- bor
-  u -- di -- wi -- "sja," srja Tje -- "bje w"  mjert -- wyh    wmje -- niw -- scha -- "sja,"
+  u -- di -- wi -- "sja," 
+  srja Tje -- "bje w"  mjert -- wyh    wmje -- niw -- scha -- "sja,"
 
   %p2
   i ot a -- da -- wsja swo -- boshd -- scha.

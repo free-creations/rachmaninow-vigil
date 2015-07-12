@@ -32,10 +32,11 @@ opage ={\pageBreak}
 \include "02_sopranoTwoNotes.ly"
 \include "10_sopranoThreeNotes.ly"
 
-\include "11_altoSoloNotes.ly"
+
 \include "03_altoOneNotes.ly"
 \include "04_altoTwoNotes.ly"
 
+\include "11_tenoreSoloNotes.ly"
 \include "05_tenoreOneNotes.ly"
 \include "06_tenoreTwoNotes.ly"
 
@@ -73,12 +74,6 @@ opage ={\pageBreak}
     \addlyrics { \sopranoThreeVerse }
     \addlyrics { \sopranoThreeCyrillic }
     
-        \new Staff \with {
-      instrumentName = "A. S"
-      shortInstrumentName = "A. S"
-    } {  \global \altoOneVoice}
-    \addlyrics { \altoOneVerse }
-    \addlyrics { \altoOneCyrillic }
 
     \new Staff \with {
       instrumentName = "A. I"
@@ -93,6 +88,14 @@ opage ={\pageBreak}
     } {  \global \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
     \addlyrics { \altoTwoCyrillic }
+    
+            \new Staff \with {
+      instrumentName = "T. S"
+      shortInstrumentName = "T. S"
+    } {  \global \tenoreSoloVoice}
+    \addlyrics { \tenoreSoloVerse }
+    \addlyrics { \tenoreSoloCyrillic }
+
 
     \new Staff \with {
       instrumentName = "T. I"

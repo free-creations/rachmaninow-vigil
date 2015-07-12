@@ -1,0 +1,8 @@
+tenoreSoloVoice = {
+ c
+}
+
+tenoreSoloVerse = {
+}
+
+tenoreSoloCyrillic = {}

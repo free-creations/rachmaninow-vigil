@@ -88,8 +88,8 @@ opage ={\pageBreak}
     } {  \global \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
     \addlyrics { \altoTwoCyrillic }
-    
-            \new Staff \with {
+
+    \new Staff \with {
       instrumentName = "T. S"
       shortInstrumentName = "T. S"
     } {  \global \tenoreSoloVoice}

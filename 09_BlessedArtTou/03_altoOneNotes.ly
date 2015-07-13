@@ -165,6 +165,22 @@ altoOneVerse = \lyricmode {
   Pad -- schi -- ja shje ot shis -- ni "k sjej" na -- pra -- wi,
   is  Tje -- bje    wo -- plo -- ti -- wyj -- sja Bog i tschje -- lo -- "wjek."
   Al -- li -- luj -- i -- a,
+
+  %p9
+  al -- li -- luj -- i -- a,
+  al -- li -- luj -- i -- a,
+  sla -- wa  Tje -- "bje," Bo --  "shje."
+
+  Al -- li -- luj -- i -- a,
+  al -- li -- luj -- i -- a,
+  al -- li -- luj -- i -- a,
+
+  sla -- "wa,"
+  Tje -- "bje," Bo -- "shje."
+
+  Sla -- wa __
+  Sla -- wa
+  Tje -- "bje," Bo -- "shje."
 }
 
 altoOneCyrillic = \lyricmode {

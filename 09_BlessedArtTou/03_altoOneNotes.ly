@@ -39,7 +39,34 @@ altoOneVoice = \relative c'' {
   \time 5/4  g8 \p \< g8  g8 g8 g4  \mf -- g4 -- g8 \p g8 |
   \time 4/4  g2 \> ( as4 ) bes4 \pp |
   \time 4/4  as2 g4 g4 \< |
-  \time 4/4  as4 ( \p g4 ) f4 \> es8 [ (f8 ) \! ]
+  \time 4/4  as4 ( \p g4 ) f4 \> es8 [ (f8 ) \! ] |
+
+  \opage %p5
+  \time 6/4   g1 \pp ~ g4 f4 \< |
+  \time 4/4    es1 \> ~ |
+  \time 4/4  es4 \pp d4 c4 ( bes4 |
+  \time 4/4  a4 ) r4 r8 d8 d8 e8 |
+  \time 4/4  f4 -- f8 f8 e4. -- e8 |
+  \time 5/4  d4 f8 f8 g4 -- f4 d8 e8 |
+  \time 4/4  f8 f8 e8 e8 d2 \fermata |
+  \time 6/4  g4 \pp \< g4 g2 -- \> f4  g4 |
+  \time 4/4  es4 ( \p c4 ) d4 ( es4 ) |
+  \time 4/4  d4 ( es4 ) bes4 \> c4 |
+
+  \opage %p6
+  \time 4/4  g2 \pp c4 bes4 ( |
+  \time 4/4  bes'1  |
+  \time 4/4  a2 ) bes4 \< ( c4 ) |
+  \time 4/4  d4 \mf c4 a4 c4 |
+  \time 4/4  bes4 \> a4 g8  ( [ a8 ) ] bes4  |
+  \time 4/4  a4  \pp g4  a4 a8 \f a8 |
+  \time 4/4  d4 a8 c8 b4 -> bes8 g8 |
+  \time 4/4  a4 -> d,4 \p ~ d2 ~ |
+  \time 5/4  d1 ~ d4 ~ |
+  \time 4/4  d1 |
+  \time 4/4  d1 \pp |
+
+  \opage %p7
 }
 
 altoOneVerse = \lyricmode {
@@ -71,7 +98,23 @@ altoOneVerse = \lyricmode {
   %p4
   Sje -- lo ra -- no __ mi -- ro -- no -- si -- zy  tje -- tscha -- "hu." __
   no prjed -- "sta k" nim An -- "gjel," i rje -- "tschje:" __
-  ry -- da -- ni -- ja wrje -- mja prje %--
+  ry -- da -- ni -- ja wrje -- mja prje --
+
+  %p5
+  "sta," __
+  nje pla -- tschi -- "tje." __
+
+  Bla -- go -- slo -- wjen je -- "si,"
+  Gos -- po -- di,
+  na -- u -- tschi mja o -- praw -- da -- ni -- jem Two -- "im."
+
+  Mi -- ro -- no -- si -- zy Shje -- "ny,"
+  "s mi" -- ry pri --
+
+  %p6
+  schjed -- schi -- ja __
+  tschto "s mjert" -- wy -- mi Shi -- wa -- go po -- mysch -- lja -- je -- "tje?"
+  Ja -- ko Bog bo wos -- krje -- sje ot gro -- "ba." __
 }
 
 altoOneCyrillic = \lyricmode {
@@ -101,8 +144,21 @@ altoOneCyrillic = \lyricmode {
   %p4
   Зе -- ло ра -- но __ ми -- ро -- но -- си -- цы  те -- ча -- "ху." __
   но пред -- "ста к" ним Ан -- "гел," и ре -- "че:" __
-  ры -- да -- ни -- я вре -- мя пре %--
+  ры -- да -- ни -- я вре -- мя пре --
 
+  %p5
+  "ста," __
+  не пла -- чи -- "те." __
 
+  Бла -- го -- сло -- вен е -- "си,"
+  Гос -- по -- ди,
+  на -- у -- чи мя о -- прав -- да -- ни -- ем Тво -- "им."
 
+  Ми -- ро -- но -- си -- цы Же -- "ны,"
+  "с ми" -- ры при --
+
+  %p6
+  шед -- ши -- я __
+  что "с мерт" -- вы -- ми Жи -- ва -- го по -- мыш -- ля -- е -- "те?"
+  Я -- ко Бог бо вос -- кре -- се от гро -- "ба." __
 }

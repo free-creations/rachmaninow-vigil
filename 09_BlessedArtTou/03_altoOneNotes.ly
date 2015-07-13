@@ -29,7 +29,17 @@ altoOneVoice = \relative c'' {
   \time 4/4  r2 r8 d8 \pp d8 e8 |
   \time 4/4  f4 -- f8 f8 e4. -- e8 |
   \time 5/4  d4 f8 f8 g4 -- f4 d8 e8 |
-  \time 4/4  f8 f8 e8 e8 d2 \fermata
+  \time 4/4  f8 f8 e8 e8 d2 \fermata |
+
+  \opage %p4
+  \time 4/4  g4 \p g4 \< g4 -- \> f4 ( |
+  \time 6/4  g4 ) -- \< f8 \p es8 d4 d4 es4 f4 \< |
+  \time 4/4  bes1 \mf |
+  \time 4/4  g2 ~ \p \> g4. \! r8  |
+  \time 5/4  g8 \p \< g8  g8 g8 g4  \mf -- g4 -- g8 \p g8 |
+  \time 4/4  g2 \> ( as4 ) bes4 \pp |
+  \time 4/4  as2 g4 g4 \< |
+  \time 4/4  as4 ( \p g4 ) f4 \> es8 [ (f8 ) \! ]
 }
 
 altoOneVerse = \lyricmode {
@@ -39,12 +49,29 @@ altoOneVerse = \lyricmode {
   krje -- post' ra -- so -- riw -- "scha,"
   "i s" so -- bo -- ju A -- da -- ma wos -- dwig -- "scha,"
 
+
+
   %p2
   i ot a -- da wsja swo -- boshd -- "scha."
   Bla -- go -- slo -- wjen je -- "si,"
   Gos -- po -- "di,"
   na -- u -- tschi mja o -- praw -- da -- ni -- jem  Two -- "im."
-  An -- gjel mi -- ro -- no -- si -- zam wje %--
+  An -- gjel mi -- ro -- no -- si -- zam wje --
+
+  %p3
+  schtscha -- "schje:"
+  wi -- di -- tje wy "grob,"
+  i u -- ra -- su -- mjej -- "tje:"
+  Spas bo wos -- krje -- sje ot gro -- "ba."
+
+  Bla -- go -- slo -- wjen je -- "si,"
+  Gos -- po -- "di,"
+  na -- u -- tschi  mja o -- praw -- da -- ni -- jem Two -- "im."
+
+  %p4
+  Sje -- lo ra -- no __ mi -- ro -- no -- si -- zy  tje -- tscha -- "hu." __
+  no prjed -- "sta k" nim An -- "gjel," i rje -- "tschje:" __
+  ry -- da -- ni -- ja wrje -- mja prje %--
 }
 
 altoOneCyrillic = \lyricmode {
@@ -70,6 +97,12 @@ altoOneCyrillic = \lyricmode {
   Бла -- го -- сло -- вен е -- "си,"
   Гос -- по -- "ди,"
   на -- у -- чи  мя о -- прав -- да -- ни -- ем Тво -- "им."
+
+  %p4
+  Зе -- ло ра -- но __ ми -- ро -- но -- си -- цы  те -- ча -- "ху." __
+  но пред -- "ста к" ним Ан -- "гел," и ре -- "че:" __
+  ры -- да -- ни -- я вре -- мя пре %--
+
 
 
 }

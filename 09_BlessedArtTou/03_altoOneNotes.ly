@@ -1,5 +1,5 @@
 altoOneVoice = \relative c'' {
-  \time 2/4 R2 |
+  \time 2/4  R2 |
   \time 4/4  R1 |
   \time 5/4  R4*5 |
   \time 6/4  R1. |
@@ -18,7 +18,7 @@ altoOneVoice = \relative c'' {
   \time 5/4  d4 f8 \< f8 g4 \> -- f4 d8  \pp e8 |
   \time 6/4  f8 f8 e8 e8 d2 -- r2 |
   \time 4/4  R1 |
-  \time 6/4    a'2 -- \p \> a2 -- f4 \! f4 |
+  \time 6/4  a'2 -- \p \> a2 -- f4 \! f4 |
   \time 6/4  a2 -- a2 -- f4 f4 |
 
   \opage %p3
@@ -42,8 +42,8 @@ altoOneVoice = \relative c'' {
   \time 4/4  as4 ( \p g4 ) f4 \> es8 [ (f8 ) \! ] |
 
   \opage %p5
-  \time 6/4   g1 \pp ~ g4 f4 \< |
-  \time 4/4    es1 \> ~ |
+  \time 6/4  g1 \pp ~ g4 f4 \< |
+  \time 4/4  es1 \> ~ |
   \time 4/4  es4 \pp d4 c4 ( bes4 |
   \time 4/4  a4 ) r4 r8 d8 d8 e8 |
   \time 4/4  f4 -- f8 f8 e4. -- e8 |
@@ -64,9 +64,42 @@ altoOneVoice = \relative c'' {
   \time 4/4  a4 -> d,4 \p ~ d2 ~ |
   \time 5/4  d1 ~ d4 ~ |
   \time 4/4  d1 |
-  \time 4/4  d1 \pp |
+  \time 4/4  d1 \pp ~ |
 
   \opage %p7
+  \time 4/4  d1 ~ |
+  \time 4/4  d2 bes4 ( a4 ) |
+  \time 4/4  f'1 ( \p  ~ |
+  \time 4/4  f2  e4 f4 ) |
+  \time 5/4  f1 \mf ~ f4 ~ |
+  \time 6/4  f1. |
+  \time 4/4  e8 \pp e8 d8 e8 f4 -- e4 -- |
+  \time 5/4  c8 d8 e4 -- e8 e8 d8 d8 c4 -- |
+  \time 4/4  e8 \p e8 d8 e8 f4 -- e4 -- |
+
+  \opage %p8
+  \time 4/4  e8 \mf e8 e8 e8 e8 e8 e16 \> ( [ d16 ) ] c8 |
+  \time 3/4  d8  \p -> d8 d8 d8 c4 |
+  \time 4/4  e4 \p -- d8 e8 f4 -- e4 -- |
+  \time 6/4  f8 g4 -> f8 f8 f8 f16 ( [ e16 ) ] d8 e8 e8 d4 -- |
+  \time 5/4  a'4 \mf -- a8 a8 g8 \< a8 bes4 \> -- a4 \! -- |
+  \time 3/4  f8 f8 a4 -> f4 |
+  \time 6/4  a8 a8 a4 -- a8 a8 a4 -- a8 a8 bes4 -> |
+  \time 4/4  bes4 \f -- a8 g8 a2 -> |
+  \time 3/4  d8  \mf a8 c8 g8 bes8 ( [ -- f8 ) ] |
+
+  \opage %p9
+  \time 3/4  bes8 f8 a8 e8 g8 [( d8 ]) |
+  \time 3/4  bes'8 \mf a8 bes8 bes8 a4 -- |
+  \time 4/4  bes8 \>  c8 g8 a8 g4 \!  f4 |
+  \time 3/4  f8 \f f8 e8 e8 d4  -> |
+  \time 3/4  f8 f8 e8 e8 d4 -> |
+  \time 3/4  e8 \f f8 g8 e8 f4 |
+  \time 4/4  f8 \> f8 f8 f8 e4 -- \! d4 |
+  \time 3/4  d2. \p |
+  \time 3/4  d2. -- ~ |
+  \time 3/4  d2. |
+  \time 6/4  d8 --\p d8 -- d8 -- d8 -- e2 -- \> d2 -- \pp \fermata \bar "|."
 }
 
 altoOneVerse = \lyricmode {
@@ -75,8 +108,6 @@ altoOneVerse = \lyricmode {
   smjert -- nu -- ju  "shje," Spa -- "sje,"
   krje -- post' ra -- so -- riw -- "scha,"
   "i s" so -- bo -- ju A -- da -- ma wos -- dwig -- "scha,"
-
-
 
   %p2
   i ot a -- da wsja swo -- boshd -- "scha."
@@ -115,6 +146,25 @@ altoOneVerse = \lyricmode {
   schjed -- schi -- ja __
   tschto "s mjert" -- wy -- mi Shi -- wa -- go po -- mysch -- lja -- je -- "tje?"
   Ja -- ko Bog bo wos -- krje -- sje ot gro -- "ba." __
+  Sla --
+
+  %p7
+  "wa,"
+  sla -- "wa," __
+  I ny -- nje i pris -- "no,"
+  i wo wje ki wje -- "kow,"
+  a -- "min'."
+  Shis -- no -- "daw" -- za roshd -- "schi,"
+
+  %p8
+  grje -- "ha,"
+  Dje -- "wo,"
+  A -- da -- ma is -- ba -- wi -- la je -- "si."
+  Ra -- dost' shje   Je -- wje
+  "w pje" -- tscha -- li mjes -- to po -- da -- la    je -- "si;"
+  Pad -- schi -- ja shje ot shis -- ni "k sjej" na -- pra -- wi,
+  is  Tje -- bje    wo -- plo -- ti -- wyj -- sja Bog i tschje -- lo -- "wjek."
+  Al -- li -- luj -- i -- a,
 }
 
 altoOneCyrillic = \lyricmode {
@@ -161,4 +211,40 @@ altoOneCyrillic = \lyricmode {
   шед -- ши -- я __
   что "с мерт" -- вы -- ми Жи -- ва -- го по -- мыш -- ля -- е -- "те?"
   Я -- ко Бог бо вос -- кре -- се от гро -- "ба." __
+  Сла --
+
+  %p7
+  "ва,"
+  сла -- "ва," __
+  И ны -- не и прис -- "но,"
+  и во ве ки ве -- "ков,"
+  а -- "минь."
+  Жиз -- но -- "дав" -- ца рожд -- "ши,"
+
+  %p8
+  гре -- "ха,"
+  Де -- "во,"
+  А -- да -- ма из -- ба -- ви -- ла е -- "си."
+  Ра -- дость же   Е -- ве
+  "в пе" -- ча -- ли мес -- то по -- да -- ла    е -- "си;"
+  Пад -- ши -- я же от жиз -- ни "к сей" на -- пра -- ви,
+  из  Те -- бе    во -- пло -- ти -- вый -- ся Бог и че -- ло -- "век."
+  Ал -- ли -- луй -- и -- а,
+
+  %p9
+  ал -- ли -- луй -- и -- а,
+  ал -- ли -- луй -- и -- а,
+  сла -- ва  Те -- "бе," Бо --  "же."
+
+  Ал -- ли -- луй -- и -- а,
+  ал -- ли -- луй -- и -- а,
+  ал -- ли -- луй -- и -- а,
+
+  сла -- "ва,"
+  Те -- "бе," Бо -- "же."
+
+  Сла -- ва __
+  Сла -- ва
+  Те -- "бе," Бо -- "же."
+
 }

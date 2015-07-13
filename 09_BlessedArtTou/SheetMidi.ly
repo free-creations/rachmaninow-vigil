@@ -73,7 +73,7 @@ opage ={\pageBreak}
     } { \global \sopranoThreeVoice }
     \addlyrics { \sopranoThreeVerse }
     \addlyrics { \sopranoThreeCyrillic }
-    
+
 
     \new Staff \with {
       instrumentName = "A. I"

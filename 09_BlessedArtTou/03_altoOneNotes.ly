@@ -18,7 +18,7 @@ altoOneVoice = \relative c'' {
   \time 5/4  d4 f8 \< f8 g4 \> -- f4 d8  \pp e8 |
   \time 6/4  f8 f8 e8 e8 d2 -- r2 |
   \time 4/4  R1 |
-  \time 6/4  a'2 -- \p \> a2 -- f4 \! f4 |
+  \time 6/4  a'2 -- \p  a2 -- f4  f4 |
   \time 6/4  a2 -- a2 -- f4 f4 |
 
   \opage %p3

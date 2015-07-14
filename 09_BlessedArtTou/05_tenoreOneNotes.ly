@@ -30,6 +30,16 @@ tenoreOneVoice = \relative c' {
   \time 4/4  a4 -- a8 a8 a4. -- a8 |
   \time 5/4  a4 a8 a8 a4 -- a4 a8 a8 |
   \time 4/4  a8 a8 a8 a8 a2 \fermata |
+
+  \opage %p4
+  \time 4/4  R1 |
+  \time 6/4  r1 r4 d4 \p \< |
+  \time 4/4  g4 -- \mf ( f4 -- es4--  ) d4 \> |
+  \time 4/4  c4 \mp  ( bes8 \> [ a8 ) ] g4. \p r8  |
+  \time 5/4  R4*5 | % 6
+  \time 4/4  R1 | % 7
+  \time 4/4  R1 | % 8
+  \time 4/4  R1
 }
 
 tenoreOneVerse = \lyricmode {
@@ -57,6 +67,9 @@ tenoreOneVerse = \lyricmode {
   Gos -- po -- "di,"
   na -- u -- tschi  mja o -- praw -- da -- ni -- jem Two -- "im."
 
+  %p4
+  ry -- da -- ju -- schtschi -- "ja,"
+
 }
 
 tenoreOneCyrillic  = \lyricmode {
@@ -83,6 +96,9 @@ tenoreOneCyrillic  = \lyricmode {
   Бла -- го -- сло -- вен е -- "си,"
   Гос -- по -- "ди,"
   на -- у -- чи  мя о -- прав -- да -- ни -- ем Тво -- "им."
+
+  %p4
+  ры -- да -- ю -- щи -- "я,"
 
 
 }

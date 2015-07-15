@@ -68,7 +68,7 @@ tenoreOneVoice = \relative c' {
 
   \opage %p7
   \time 4/4  f8 \< g8 \! a4 -- a4 --  a8 \> a8 |
-  \time 4/4  a8 \ppp  f8 g8 a8 g4 f4 |
+  \time 4/4  a8 \ppp  f8 g8 a8 g4-- f4 |
   \time 4/4  a4 \p bes4 -- bes8 \> bes8  a4 |
   \time 4/4  a8 \p \< bes8 c8 --\> c8   bes8 bes8 a4 -- |
   \time 5/4  a8 \mf bes8 \< c4 -- bes8 c8 d4 -- \> c4 |
@@ -95,7 +95,7 @@ tenoreOneVoice = \relative c' {
   \time 3/4  d8 \f ( [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( [ a8 ] |
   \time 3/4  d8 -> [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( -> [ a8 ) ] |
   \time 3/4  bes2 \mf bes4 |
-  \time 4/4  c4 \p d4 e4 \> f4 |
+  \time 4/4  c4 \p d4 e4-- \> f4 |
   \time 3/4  f,8 \! \mf f8 e8 e8 d4 |
   \time 3/4  f8 \p f8 e8 e8 d4 |
   \time 3/4  e8 f8 g8 e8 f4-- |

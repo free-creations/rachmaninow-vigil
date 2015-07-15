@@ -1,8 +1,9 @@
 tenoreTwoVoice = \relative c' {
-  \time 2/4  r8 d8 \pp d8 e8 |
-  \time 4/4  f4 -- f8 f8 e4. -- e8 |
-  \time 5/4  d4 f8 \< f8 g4 \> f4 d8  \pp e8 |
-  \time 6/4  f8 f8 e8 e8 d2 -- r2 |
+  \time 2/4 r8 a8 \pp a8 a8 | 
+  \time 4/4  a4 -- a8 a8 a4.-- a8 |
+  \time 5/4  a4 a8 \< a8 a4 \> a4 a8  \pp a8 |
+  \time 6/4  a8 a8 a8 a8 a2 -- r2 | 
+  
   \time 4/4  R1 |
   \time 4/4  R1 |
   \time 6/4  R1. |
@@ -12,11 +13,11 @@ tenoreTwoVoice = \relative c' {
 
   \opage %p2
   \time 6/4   d2-- \ff d2-- c16-- [( d16 e8 ]) d8-- -> r8 |
-  \time 6/4  f4. -> f8 -- e2 \> -> d2 \! |
-  \time 4/4  r2 r8  a8 \pp a8 a8 |
-  \time 4/4  a4 -- a8 a8 a4. -- a8 |
-  \time 5/4  a4 a8 \<  a8 a4 -- \> a4 a8  \pp a8 |
-  \time 6/4  a8 a8 a8 a8 a2 -- r2 |
+  \time 6/4  f4. -> f8 -- e2 \> -> a,2 ~ |
+  \time 4/4  a1 \pp -+ ~ |
+  \time 4/4  a1 ~ |
+  \time 5/4  a1 ~ a4 ~ |
+  \time 6/4  a1 r2 |
   \time 4/4  c4 \mf -- c4 -- d4 -- c4 -- |
   \time 6/4  c4. -- \> c8 \p c8 c8 c16 ( [ b16 ) ] a8 b4  -- a4  -- |
   \time 6/4  c4 -- c8 c8 c8 c8 c16 ( [ b16 ) ] a8 b8 b8 a4 |
@@ -84,8 +85,8 @@ tenoreTwoVoice = \relative c' {
   \time 4/4  g2 \p \< e4 \> ( a4  |
   \time 3/4  f2  e4  \pp ) |
   \time 4/4  g4  \p f8 g8 a4 -- g4-- |
-  \time 6/4  a8 bes4 -> a8 a8 a8 a8 a8 a8 a4 a8 -- |
-  \time 5/4  a4 \mf  a8 a8 g8 a8 bes4 -- a4-- |
+  \time 6/4  a8 bes4 -> a8 a8 a8 a8 a8 a8 a8 a4 -- |
+  \time 5/4  a4-- \mf  a8 a8 g8 a8 bes4 -- a4-- |
   \time 3/4  a8 a8 a4 -> a4 |
   \time 6/4  a8 a8 d4 -- d8 d8 d4 -- e8 e8 f4 -> |
   \time 4/4  d4 \f -- d8 d8 e4 \> ( -> d4 ) |
@@ -104,24 +105,8 @@ tenoreTwoVoice = \relative c' {
   \time 3/4    f8 \! \mf f8 e8 e8 d4 |
   \time 3/4   f8 \p f8 e8 e8 d4 |
   \time 3/4  e8 f8 g8 e8 f4-- |
-  \time 6/4   bes8--  \p bes8-- bes8-- a8-- a2-- \> f2 \pp \fermata \bar "|."
+  \time 6/4   bes8--  \p bes8-- bes8-- a8-- g2-- \> f2 \pp \fermata \bar "|."
 
-  %{
-  \time 3/4 d2 d4 |
-  \time 3/4  g8 \mf d8 f8 c8 d8 [ (-- a8 ]) |
-  \time 4/4    f'4 \mf \> d4 e4 -- d4 |
-
-  \time 3/4   d8 \f ( [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( [ a8 ] |
-  \time 3/4  d8 -> [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( -> [ a8 ) ] |
-
-  \time 3/4    bes2 \mf bes4 |
-  \time 4/4   c4 \p d4 e4 \> f4 |
-
-  \time 3/4    f,8 \! \mf f8 e8 e8 d4 |
-  \time 3/4   f8 \p f8 e8 e8 d4 |
-  \time 3/4  e8 f8 g8 e8 f4 |
-  \time 6/4   bes8  \p bes8 bes8 a8 a2 \> f2 \pp \fermata \bar "|."
-  %}
 }
 
 tenoreTwoVerse = \lyricmode {
@@ -132,10 +117,8 @@ tenoreTwoVerse = \lyricmode {
   krje -- post' ra -- so -- riw -- "scha,"
 
   %p2
-  i ot a -- da wsja swo -- boshd -- "scha."
-  Bla -- go -- slo -- wjen je -- "si,"
-  Gos -- po -- "di,"
-  na -- u -- tschi mja o -- praw -- da -- ni -- jem Two -- "im."
+  i ot a -- da wsja swo -- boshd -- "scha." __
+
   Po -- tschto mi -- ra "s mi" -- lo -- "sti w" -- ny -- mi slje -- sa -- "mi,"
   o u -- tschje -- ni -- "zy,"
   ras -- two -- rja -- je -- "tje?"
@@ -209,10 +192,8 @@ tenoreTwoCyrillic  = \lyricmode {
   кре -- пость ра -- зо -- рив -- "ша,"
 
   %p2
-  и от а -- да вся сво -- божд -- "ша."
-  Бла -- го -- сло -- вен е -- "си,"
-  Гос -- по -- "ди,"
-  на -- у -- чи мя о -- прав -- да -- ни -- ем Тво -- "им."
+  и от а -- да вся сво -- божд -- "ша." __
+
   По -- что ми -- ра "с ми" -- ло -- "сти в" -- ны -- ми сле -- за -- "ми,"
   о у -- че -- ни -- "цы,"
   рас -- тво -- ря -- е -- "те?"

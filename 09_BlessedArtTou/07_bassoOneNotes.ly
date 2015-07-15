@@ -71,7 +71,7 @@ bassoOneVoice = \relative f {
   \time 4/4  d8 d8 d8 d8 c4 -- c4 |
   \time 4/4  c4 \p d4 -- c8 \> c8 c4 |
   \time 4/4  c8 \p \< c8 c8 -- \> d8  c8 c8 c4 -- |
-  \time 5/4  c8 \mf c8\< c4 c8 c8  d4 -- \> c4 |
+  \time 5/4  c8 \mf c8\< c4-- c8 c8  d4 -- \> c4 |
   \time 6/4  d4-- \mf d4-- d4-- a'16 \p ( [ g16 ) ] f8 \> g8 g8 f4 |
   \time 4/4  e8 \pp e8 f8 e8 d4-- e4-- |
   \time 5/4  g8 f8 e4-- e8 e8 e8 e8 e4-- |

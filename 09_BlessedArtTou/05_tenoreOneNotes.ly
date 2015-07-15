@@ -78,28 +78,28 @@ tenoreOneVoice = \relative c' {
   \time 4/4  c8 \p c8 b8 c8 d4 -- c4 -- |
 
   \opage %p8
-  \time 4/4   b4 ( \p c4 )\< d4 ( c4 \> ~ |
+  \time 4/4  b4 ( \p \< c4 ) d4 \> (  c4  ~ |
   \time 3/4  c4  b4  a4 \pp ) |
-  \time 4/4    c4 -- \p c8 c8 c4 -- c4 -- |
+  \time 4/4  c4 -- \p c8 c8 c4 -- c4 -- |
   \time 6/4  d8 d4 -> d8 d8 d8 d8 d8 cis8 cis8  d4 -- |
-  \time 5/4    a4 \mf \mf c8 c8 bes8 c8 d4 -- c4 |
+  \time 5/4  c4 \mf \mf c8 c8 bes8 c8 d4 -- c4-- |
   \time 3/4  f16 ( [ e16 ] ) d8  e4 -> d4 |
-  \time 6/4  d8 e8 f4 f8 f8 f8 ( -- [ g8 ) ] g8 e8 f4 -> |
-  \time 4/4   d4 \f -- d8 d8 e4 \> ( -> d4 ) |
-  \time 3/4   d2 \mf d4 -- |
+  \time 6/4  d8 e8 f4-- f8 f8 f8 ( -- [ g8 ) ] g8 e8 f4 -> |
+  \time 4/4  d4 \f -- d8 d8 e4 \> ( -> d4 ) |
+  \time 3/4  d2 \mf d4 -- |
 
   \opage
-  \time 3/4 d2 d4 |
+  \time 3/4  d2 d4 |
   \time 3/4  g8 \mf d8 f8 c8 d8 [ (-- a8 ]) |
-  \time 4/4    f'4 \mf \> d4 e4 -- d4 |
-  \time 3/4   d8 \f ( [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( [ a8 ] |
+  \time 4/4  f'4 \mf \> d4 e4 -- d4 |
+  \time 3/4  d8 \f ( [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( [ a8 ] |
   \time 3/4  d8 -> [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( -> [ a8 ) ] |
-  \time 3/4    bes2 \mf bes4 |
-  \time 4/4   c4 \p d4 e4 \> f4 |
-  \time 3/4    f,8 \! \mf f8 e8 e8 d4 |
-  \time 3/4   f8 \p f8 e8 e8 d4 |
-  \time 3/4  e8 f8 g8 e8 f4 |
-  \time 6/4   bes8  \p bes8 bes8 a8 a2 \> f2 \pp \fermata \bar "|."
+  \time 3/4  bes2 \mf bes4 |
+  \time 4/4  c4 \p d4 e4 \> f4 |
+  \time 3/4  f,8 \! \mf f8 e8 e8 d4 |
+  \time 3/4  f8 \p f8 e8 e8 d4 |
+  \time 3/4  e8 f8 g8 e8 f4-- |
+  \time 6/4  bes8--  \p bes8-- bes8-- a8-- a2-- \> f2 \pp \fermata \bar "|."
 }
 
 tenoreOneVerse = \lyricmode {

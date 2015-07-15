@@ -81,28 +81,47 @@ tenoreTwoVoice = \relative c' {
 
 
   \opage %p8
-  \time 4/4   b4 ( \p c4 )\< d4 ( c4 \> ~ |
-  \time 3/4  c4  b4  a4 \pp ) |
-  \time 4/4    c4 -- \p c8 c8 c4 -- c4 -- |
-  \time 6/4  d8 d4 -> d8 d8 d8 d8 d8 cis8 cis8  d4 -- |
-  \time 5/4    a4 \mf \mf c8 c8 bes8 c8 d4 -- c4 |
-  \time 3/4  f16 ( [ e16 ] ) d8  e4 -> d4 |
-  \time 6/4  d8 e8 f4 f8 f8 f8 ( -- [ g8 ) ] g8 e8 f4 -> |
-  \time 4/4   d4 \f -- d8 d8 e4 \> ( -> d4 ) |
-  \time 3/4   d2 \mf d4 -- |
+  \time 4/4  g2 \p \< e4 \> ( a4  |
+  \time 3/4  f2  e4  \pp ) |
+  \time 4/4  g4  \p f8 g8 a4 -- g4-- |
+  \time 6/4  a8 bes4 -> a8 a8 a8 a8 a8 a8 a4 a8 -- |
+  \time 5/4  a4 \mf  a8 a8 g8 a8 bes4 -- a4-- |
+  \time 3/4  a8 a8 a4 -> a4 |
+  \time 6/4  a8 a8 d4 -- d8 d8 d4 -- e8 e8 f4 -> |
+  \time 4/4  d4 \f -- d8 d8 e4 \> ( -> d4 ) |
+  \time 3/4  d2 \mf d4 -- |
 
   \opage
   \time 3/4 d2 d4 |
-  \time 3/4  g8 \mf d8 f8 c8 d8 [ (-- a8 ]) |
-  \time 4/4    f'4 \mf \> d4 e4 -- d4 |
+  \time 3/4  R4*3 |
+  \time 4/4  d8 \mf \> a8 bes8 f8 a4 \! -- d4 | % 4
   \time 3/4   d8 \f ( [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( [ a8 ] |
   \time 3/4  d8 -> [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( -> [ a8 ) ] |
+
+  \time 3/4  g2 \mf f4 |
+  \time 4/4   f4 \p f4 bes4 \> a4 | % 8
+
+  \time 3/4    f8 \! \mf f8 e8 e8 d4 |
+  \time 3/4   f8 \p f8 e8 e8 d4 |
+  \time 3/4  e8 f8 g8 e8 f4-- |
+  \time 6/4   bes8--  \p bes8-- bes8-- a8-- a2-- \> f2 \pp \fermata \bar "|."
+
+  %{
+  \time 3/4 d2 d4 |
+  \time 3/4  g8 \mf d8 f8 c8 d8 [ (-- a8 ]) |
+  \time 4/4    f'4 \mf \> d4 e4 -- d4 |
+
+  \time 3/4   d8 \f ( [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( [ a8 ] |
+  \time 3/4  d8 -> [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( -> [ a8 ) ] |
+
   \time 3/4    bes2 \mf bes4 |
   \time 4/4   c4 \p d4 e4 \> f4 |
+
   \time 3/4    f,8 \! \mf f8 e8 e8 d4 |
   \time 3/4   f8 \p f8 e8 e8 d4 |
   \time 3/4  e8 f8 g8 e8 f4 |
   \time 6/4   bes8  \p bes8 bes8 a8 a2 \> f2 \pp \fermata \bar "|."
+  %}
 }
 
 tenoreTwoVerse = \lyricmode {
@@ -165,19 +184,18 @@ tenoreTwoVerse = \lyricmode {
   is  Tje -- bje    wo -- plo -- ti -- wyj -- sja Bog i tschje -- lo -- "wjek."
   Al -- li --
 
-  %p9
-  luj -- "ia,"
-  al -- li -- luj -- i -- "a,"
-
-  Tje -- "bje," Bo -- "shje."
-  Al -- li -- luj -- i -- "a,"
-  Sla -- wa Tje -- "bje," Bo -- "shje."
-
-  Al -- li -- luj -- i -- "a,"
-  al -- li -- luj -- i -- "a,"
-  al -- li -- luj -- i -- "a."
-
-  Sla -- wa Tje -- "bje," Bo -- "shje."
+  %p9 
+  luj -- "ia," 
+ 
+  Sla -- wa Tje -- "bje," Bo -- "shje." 
+  Al -- li -- luj -- i -- "a," 
+  Sla -- wa Tje -- "bje," Bo -- "shje." 
+ 
+  Al -- li -- luj -- i -- "a," 
+  al -- li -- luj -- i -- "a," 
+  al -- li -- luj -- i -- "a." 
+ 
+  Sla -- wa Tje -- "bje," Bo -- "shje." 
 
 
 
@@ -247,9 +265,8 @@ tenoreTwoCyrillic  = \lyricmode {
 
   %p9
   луй -- "иа,"
-  ал -- ли -- луй -- и -- "а,"
 
-  Те -- "бе," Бо -- "же."
+  Сла -- ва Те -- "бе," Бо -- "же."
   Ал -- ли -- луй -- и -- "а,"
   Сла -- ва Те -- "бе," Бо -- "же."
 

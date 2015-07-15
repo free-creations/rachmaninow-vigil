@@ -91,15 +91,15 @@ tenoreOneVoice = \relative c' {
   \opage
   \time 3/4 d2 d4 |
   \time 3/4  g8 \mf d8 f8 c8 d8 [ (-- a8 ]) |
-  \time 4/4    f'4 \mf d4 e4 -- d4 |
+  \time 4/4    f'4 \mf \> d4 e4 -- d4 |
   \time 3/4   d8 \f ( [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( [ a8 ] |
   \time 3/4  d8 -> [ c8 ) ] c8 ( -> [ bes8 ) ] bes8 ( -> [ a8 ) ] |
   \time 3/4    bes2 \mf bes4 |
   \time 4/4   c4 \p d4 e4 \> f4 |
   \time 3/4    f,8 \! \mf f8 e8 e8 d4 |
   \time 3/4   f8 \p f8 e8 e8 d4 |
-  \time 3/4  e8 f8 g8 e8 \< f4 |
-  \time 6/4   bes8 \! \p bes8 bes8 a8 a2 \> f2 \pp \fermata \bar "|."
+  \time 3/4  e8 f8 g8 e8 f4 |
+  \time 6/4   bes8  \p bes8 bes8 a8 a2 \> f2 \pp \fermata \bar "|."
 }
 
 tenoreOneVerse = \lyricmode {

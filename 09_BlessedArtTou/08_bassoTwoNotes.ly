@@ -104,7 +104,66 @@ bassoTwoVoice = \relative c {
 
 }
 
-bassoTwoVerse = {
+bassoTwoVerse = \lyricmode {
+  Bla -- go -- slo -- wjen je -- "si,"
+  Gos -- po -- "di,"
+  na -- u -- tschi mja o -- praw -- da -- ni -- jem Two -- "im." __
+
+  %p2
+  i ot a -- da wsja swo -- boshd -- "scha."
+  Bla -- go -- slo -- wjen je -- "si,"
+  Gos -- po -- "di,"
+  na -- u -- tschi mja o -- praw -- da -- ni -- jem Two -- "im." __
+
+  %p3
+  wos -- krje -- "sje."
+  Bla -- go -- slo -- wjen je -- "si,"
+  Gos -- po -- "di,"
+  na -- u -- tschi  mja o -- praw -- da -- ni -- jem Two -- "im."
+
+  %p4
+
+  %p5
+  Bla -- go -- slo -- wjen je -- "si,"
+  Gos -- po -- di,
+  na -- u -- tschi mja o -- praw -- da -- ni -- jem Two -- "im."
+  Mi -- ro -- no -- si -- zy Shje -- "ny,"
+  "s mi" -- ry pri --
+
+  %p6
+  schjed --  schi -- "ja,"
+  Ja -- ko Bog bo wos -- krje -- sje ot gro -- "ba."
+  Sla -- wa Ot -- "zu,"
+  i  Sy -- nu       i  Swja -- to -- mu Du  -- "hu."
+  Po -- klo -- nim -- sja Ot -- "zu,"
+
+  %p7
+  i Je -- go Sy -- no -- "wi,"
+  i Swja -- to -- mu Du -- "hu,"
+  Swja -- tjej Tro -- i -- zje
+  wo je -- di -- nom su -- schtschje -- "stwje,"
+  "s sje" --  ra -- fi -- my so -- wu -- "schtschje:"
+
+  "Swjat," "swjat," swjat je -- "si," Gos -- po -- "di."
+  I ny -- nje i pris -- "no,"
+  i wo wje ki wje -- "kow,"
+  a -- "min'."
+  Shis -- no -- "daw" -- za roshd -- "schi,"
+
+  %p8
+  roshd -- "schi," __
+
+  Ra -- dost' shje   Je -- wje
+  "w pje" -- tscha -- li mjes -- to po -- da -- la    je -- "si;"
+  Pad -- schi -- ja shje ot shis -- ni "k sjej" na -- pra -- wi,
+  is  Tje -- bje    wo -- plo -- ti -- wyj -- sja Bog i tschje -- lo -- "wjek."
+
+  %p9
+  Al -- li -- luj -- "ia,"
+  Sla -- wa Tje -- "bje," Bo -- "shje."
+
+  Sla -- "wa." __
+  Sla -- wa Tje -- "bje," Bo -- "shje."
 }
 
 bassoTwoCyrillic = \lyricmode {
@@ -164,7 +223,7 @@ bassoTwoCyrillic = \lyricmode {
   %p9
   Ал -- ли -- луй -- "иа,"
   Сла -- ва Те -- "бе," Бо -- "же."
-  
+
   Сла -- "ва." __
   Сла -- ва Те -- "бе," Бо -- "же."
 

@@ -160,6 +160,15 @@ bassoOneVerse = \lyricmode {
   "w pje" -- tscha -- li mjes -- to po -- da -- la    je -- "si;"
   Pad -- schi -- ja shje ot shis -- ni "k sjej" na -- pra -- wi,
   is  Tje -- bje    wo -- plo -- ti -- wyj -- sja Bog i tschje -- lo -- "wjek."
+
+  %p9
+  Al -- li -- luj -- "ia,"
+  Sla -- wa Tje -- "bje," Bo -- "shje."
+
+  Al -- li -- luj -- i -- "a,"
+  al -- li -- luj -- i -- "a," __
+
+  Sla -- wa Tje -- "bje," Bo -- "shje."
 }
 
 

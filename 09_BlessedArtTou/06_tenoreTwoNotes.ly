@@ -61,23 +61,24 @@ tenoreTwoVoice = \relative c' {
   \time 4/4  d2.) r4 \f |
   \time 4/4  R1 |
   \time 4/4  R1 |
-  \time 4/4  r2 r4 f8 \f f8 |
-  \time 4/4  g4 f8 f8 f4 -> f16 ( [ e16 ) ] d8 |
-  \time 4/4  e4 -> d4 \p \fermata r2 |
-  \time 5/4  f,4 -- \ppp f8 f8 e8 f8 g4 -- f4 |
+  \time 4/4  r2  r4 \p d8 \f d8 |
+  \time 4/4  d4 d8 d8 d4 -> d8 d8 |
+  \time 4/4  e4 -> a,4 \p \fermata r2 |
+  \time 5/4  f4 -- \ppp f8 f8 e8 f8 g4 -- f4 |
   \time 4/4  d8 e8 f8 f8 e4 -- d4 |
   \time 4/4  d8 e8 f8 -- ( [ g8 ) ] g8 e8 f4 -- |
 
   \opage %p7
   \time 4/4  f8 \< g8 \! a4 -- a4 --  a8 \> a8 |
   \time 4/4  a8 \ppp  f8 g8 a8 g4 f4 |
-  \time 4/4  a4 \p bes4 -- bes8 \> bes8  a4 |
-  \time 4/4  a8 \p \< bes8 c8 --\> c8   bes8 bes8 a4 -- |
-  \time 5/4  a8 \mf bes8 \< c4 -- bes8 c8 d4 -- \> c4 |
-  \time 6/4  f4  \mf -- f4-- f4-- f16 \p ( [ e16 ) ] d8 \>  e8 e8 d4 |
-  \time 4/4  a8  \pp c8 b8 c8 d4-- c4-- |
-  \time 5/4  a8 b8 c4 -- c16 ( [ b16 ) ] a8 b8 b8 a4 -- | % 9
-  \time 4/4  c8 \p c8 b8 c8 d4 -- c4 -- |
+  \time 4/4  f4 \p g4 -- g8\> g8 f4 | % 4
+  \time 4/4  f8 \p \< f8 f8 -- \> f8  g8 g8 a4 -- |
+  \time 5/4  f8 \mf f8 \< f4 -- f8 f8 f4 \> --f4 |
+  \time 6/4  bes4  \mf -- bes4-- bes4-- bes8 \p bes8 \> a8 a8 a4 |
+  \time 4/4  a8 \pp a8 a8 a8 a4-- a4-- |
+  \time 5/4  a8 a8 a4-- a8 a8 d8 d8 c4-- |
+  \time 4/4  a8 \p a8 a8 a8 a4-- a4-- |
+
 
   \opage %p8
   \time 4/4   b4 ( \p c4 )\< d4 ( c4 \> ~ |

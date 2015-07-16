@@ -133,7 +133,7 @@ opage ={\pageBreak}
 }
 
 %%% ------ Midi Score
-%{
+
 \score {
   <<
     \articulate
@@ -147,7 +147,6 @@ opage ={\pageBreak}
       \new Staff = "T 2" {\global \tenoreTwoVoice}
       \new Staff = "B 1" {\global \bassoOneVoice}
       \new Staff = "B 2" {\global \bassoTwoVoice}
-      \new Staff = "B 3" {\global \bassoThreeVoice}
 
       \new Staff = "Female"   {
         <<
@@ -161,23 +160,24 @@ opage ={\pageBreak}
 
       \new Staff = "FemaleViolin"   {
         <<
-          \sopranoOneVoice \\
+          {\global \sopranoOneVoice} \\
           \sopranoTwoVoice \\
           \sopranoThreeVoice \\
           \altoOneVoice \\
           \altoTwoVoice
         >>
       }
+      \new Staff = "TenoreSolo"   {\global \tenoreSoloVoice}
+
       \new Staff = "Male"   {
         <<
-          \tenoreOneVoice \\
+          {\global \tenoreOneVoice} \\
           \tenoreTwoVoice \\
           \bassoOneVoice \\
           \bassoTwoVoice \\
-          \bassoThreeVoice \\
         >>
       }
-      \new Staff = "SubBass" {\global \bassoThreeVoice}
+      \new Staff = "SubBass" {\global \bassoTwoVoice}
     >>
   >>
   \midi {

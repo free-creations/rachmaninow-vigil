@@ -42,7 +42,7 @@ opage ={\pageBreak}
 
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
-\include "09_bassoThreeNotes.ly"
+
 
 
 
@@ -125,12 +125,6 @@ opage ={\pageBreak}
     \addlyrics { \bassoTwoVerse }
     \addlyrics { \bassoTwoCyrillic }
 
-    \new Staff \with {
-      instrumentName = "B. III"
-      shortInstrumentName = "B. III"
-    } {\global \clef bass \bassoThreeVoice }
-    \addlyrics { \bassoThreeVerse }
-    \addlyrics { \bassoThreeCyrillic }
   >>
 
 

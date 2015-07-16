@@ -1,8 +1,0 @@
-bassoThreeVoice = {
- c
-}
-
-bassoThreeVerse = {
-}
-
-bassoThreeCyrillic = {}

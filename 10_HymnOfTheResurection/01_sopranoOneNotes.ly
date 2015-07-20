@@ -1,7 +1,7 @@
 sopranoOneVoice = \relative c'' {
   \time 4/2  R1*2 |
   \time 4/2  R1*2 |
-  \time 6/2  r2 d4 \pp d4 e2 -- d4 d4 \< e4 (-- \mp \> c4 bes4 ) c4  |
+  \time 6/2  r2 d4 \pp d4 e2 -- d4 d4 \< e4 (-- \mp \> c4 bes4 ) c4 \p |
   \time 5/2  d2 \mp  -- d4 \pp d4 d4 e4 d2 -- d4 d4 |
   \time 5/2  e2 -- \mp d4 \pp d4  ~ d4 d4 e2 \mp \> -- d4  d4  \pp ~ |
   \time 4/2  d2 r2 r1 |
@@ -22,7 +22,7 @@ sopranoOneVoice = \relative c'' {
   \time 4/2  d2 ( c2 d2 e2 |
   \time 6/2  d2 c2 bes2 c2 ~ c1 |
   \time 4/2  d2 ) d4 \p \< e4 f4 \mf \> ( e4 )  d4 c4 \p |
-  \time 4/2  d2 -- d4 c4 d4 d4 \> d4  c4  |
+  \time 4/2  d2 -- d4 c4 d4 d4  d4 \>  c4  |
   \time 4/2  d2  \pp c8 ( [ d8  ] e4 ) d1 \fermata |
   \time 6/2  bes2 \f -> g2 -> a2 -> bes4 ( -> a8 [ bes8 ) ] c4 bes4 a2-> |
   \time 3/2  d2. \ff -> d4 \p d4 c4 |

@@ -1,8 +1,13 @@
-bassoOneVoice = {
+bassoOneVoice = \relative f {
  c
 }
 
-bassoOneVerse = {
+bassoOneVerse = \lyricmode {
+  
 }
 
-bassoOneCyrillic = {}
+
+bassoOneCyrillic = \lyricmode {
+  
+
+}

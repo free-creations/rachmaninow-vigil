@@ -1,6 +1,15 @@
-tenoreOneVoice = {
- c
+tenoreOneVoice = \relative c' {
+  c
 }
 
-tenoreOneVerse = {
+tenoreOneVerse = \lyricmode {
+  
+
+
 }
+
+tenoreOneCyrillic  = \lyricmode {
+  
+
+}
+

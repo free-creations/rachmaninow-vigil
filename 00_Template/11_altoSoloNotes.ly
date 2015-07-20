@@ -1,8 +1,0 @@
-altoSoloVoice = {
- c
-}
-
-altoSoloVerse = {
-}
-
-altoSoloCyrillic = {}

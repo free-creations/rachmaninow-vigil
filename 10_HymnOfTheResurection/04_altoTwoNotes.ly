@@ -1,6 +1,13 @@
-altoTwoVoice = {
- c
+
+altoTwoVoice = \relative c'' {
+  c
 }
 
-altoTwoVerse = {
+altoTwoVerse = \lyricmode {
+  
+}
+
+altoTwoCyrillic = \lyricmode {
+  
+
 }

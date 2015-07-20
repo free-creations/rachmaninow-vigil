@@ -1,8 +1,13 @@
-sopranoTwoVoice = {
- c
+
+sopranoTwoVoice = \relative c '' {
+  c
 }
 
-sopranoTwoVerse = {
+
+sopranoTwoVerse = \lyricmode {
+
 }
 
-sopranoTwoCyrillic = {}
+sopranoTwoCyrillic =  \lyricmode {
+ 
+}

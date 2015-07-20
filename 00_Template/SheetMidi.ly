@@ -23,6 +23,18 @@ global = {
   \override Score.BarNumber #'break-visibility = #'#(#t #t #t)
 }
 
+midiGlobal = {
+  \key f \major
+  \numericTimeSignature
+  \time 1/4  s4
+}
+
+greyText = {
+  \override Lyrics.LyricText  #'color =  #(x11-color 'grey40)
+  \override Lyrics.LyricHyphen  #'color =  #(x11-color 'grey40)
+  \override Lyrics.LyricExtender  #'color =  #(x11-color 'grey40)
+}
+
 obreak = {}
 opage ={\pageBreak}
 
@@ -32,16 +44,18 @@ opage ={\pageBreak}
 \include "02_sopranoTwoNotes.ly"
 \include "10_sopranoThreeNotes.ly"
 
-\include "11_altoSoloNotes.ly"
+
 \include "03_altoOneNotes.ly"
 \include "04_altoTwoNotes.ly"
 
+\include "11_tenoreSoloNotes.ly"
 \include "05_tenoreOneNotes.ly"
 \include "06_tenoreTwoNotes.ly"
 
 \include "07_bassoOneNotes.ly"
 \include "08_bassoTwoNotes.ly"
 \include "09_bassoThreeNotes.ly"
+
 
 
 
@@ -57,7 +71,7 @@ opage ={\pageBreak}
       shortInstrumentName = "S. I"
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneVerse }
-    \addlyrics { \sopranoOneCyrillic }
+    \addlyrics { \greyText \sopranoOneCyrillic }
 
     \new Staff \with {
       instrumentName = "S. II"
@@ -72,13 +86,7 @@ opage ={\pageBreak}
     } { \global \sopranoThreeVoice }
     \addlyrics { \sopranoThreeVerse }
     \addlyrics { \sopranoThreeCyrillic }
-    
-        \new Staff \with {
-      instrumentName = "A. S"
-      shortInstrumentName = "A. S"
-    } {  \global \altoOneVoice}
-    \addlyrics { \altoOneVerse }
-    \addlyrics { \altoOneCyrillic }
+
 
     \new Staff \with {
       instrumentName = "A. I"
@@ -93,6 +101,14 @@ opage ={\pageBreak}
     } {  \global \altoTwoVoice }
     \addlyrics { \altoTwoVerse }
     \addlyrics { \altoTwoCyrillic }
+
+    \new Staff \with {
+      instrumentName = "T. S"
+      shortInstrumentName = "T. S"
+    } {  \global \clef "treble_8" \tenoreSoloVoice}
+    \addlyrics { \tenoreSoloVerse }
+    \addlyrics { \tenoreSoloCyrillic }
+
 
     \new Staff \with {
       instrumentName = "T. I"
@@ -128,6 +144,7 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoThreeVoice }
     \addlyrics { \bassoThreeVerse }
     \addlyrics { \bassoThreeCyrillic }
+
   >>
 
 
@@ -136,55 +153,62 @@ opage ={\pageBreak}
 }
 
 %%% ------ Midi Score
-%{
+
 \score {
   <<
     \articulate
     <<
-      \new Staff = "S 1" {\global \sopranoOneVoice}
-      \new Staff = "S 2" {\global \sopranoTwoVoice}
-      \new Staff = "S 3" {\global \sopranoThreeVoice}
-      \new Staff = "A 1" {\global \altoOneVoice}
-      \new Staff = "A 2" {\global \altoTwoVoice}
-      \new Staff = "T 1" {\global \tenoreOneVoice}
-      \new Staff = "T 2" {\global \tenoreTwoVoice}
-      \new Staff = "B 1" {\global \bassoOneVoice}
-      \new Staff = "B 2" {\global \bassoTwoVoice}
-      \new Staff = "B 3" {\global \bassoThreeVoice}
+      % single voices for Piano
+      \new Staff = "S 1" {\midiGlobal \sopranoOneVoice}
+      \new Staff = "S 2" {\midiGlobal \sopranoTwoVoice}
+      \new Staff = "S 3" {\midiGlobal \sopranoThreeVoice}
+      \new Staff = "A 1" {\midiGlobal \altoOneVoice}
+      \new Staff = "A 2" {\midiGlobal \altoTwoVoice}
+      \new Staff = "T 1" {\midiGlobal \tenoreOneVoice}
+      \new Staff = "T 2" {\midiGlobal \tenoreTwoVoice}
+      \new Staff = "B 1" {\midiGlobal \bassoOneVoice}
+      \new Staff = "B 2" {\midiGlobal \bassoTwoVoice}
+      \new Staff = "B 3" {\midiGlobal \bassoTwoVoice}
 
-      \new Staff = "Female"   {
+      % Background voices
+      \new Staff = "S 1 B" {\midiGlobal \sopranoOneVoice}
+      \new Staff = "S 2 B" {\midiGlobal \sopranoTwoVoice}
+      \new Staff = "S 3 B" {\midiGlobal \sopranoThreeVoice}
+      \new Staff = "A 1 B" {\midiGlobal \altoOneVoice}
+      \new Staff = "A 2 B" {\midiGlobal \altoTwoVoice}
+      \new Staff = "T 1 B" {\midiGlobal \tenoreOneVoice}
+      \new Staff = "T 2 B" {\midiGlobal \tenoreTwoVoice}
+      \new Staff = "B 1 B" {\midiGlobal \bassoOneVoice}
+      \new Staff = "B 2 B" {\midiGlobal \bassoTwoVoice}
+      \new Staff = "B 3 B" {\midiGlobal \bassoThreeVoice}
+      \new Staff = "Solo B" {\midiGlobal \tenoreSoloVoice}
+
+      \new Staff = "FemaleOrgan"   {
         <<
-          \sopranoOneVoice \\
-          \sopranoTwoVoice \\
-          \sopranoThreeVoice \\
-          \altoOneVoice \\
-          \altoTwoVoice
+          {\midiGlobal \sopranoOneVoice} \\
+          {\midiGlobal \sopranoTwoVoice} \\
+          {\midiGlobal \sopranoThreeVoice} \\
+          {\midiGlobal \altoOneVoice} \\
+          {\midiGlobal \altoTwoVoice}
         >>
       }
 
-      \new Staff = "FemaleViolin"   {
+      \new Staff = "MaleOrgan"   {
         <<
-          \sopranoOneVoice \\
-          \sopranoTwoVoice \\
-          \sopranoThreeVoice \\
-          \altoOneVoice \\
-          \altoTwoVoice
+          {\midiGlobal \tenoreOneVoice } \\
+          {\midiGlobal \tenoreTwoVoice } \\
+          {\midiGlobal \bassoOneVoice } \\
+          {\midiGlobal \bassoTwoVoice } \\
+          {\midiGlobal \bassoThreeVoice }
         >>
       }
-      \new Staff = "Male"   {
-        <<
-          \tenoreOneVoice \\
-          \tenoreTwoVoice \\
-          \bassoOneVoice \\
-          \bassoTwoVoice \\
-          \bassoThreeVoice \\
-        >>
-      }
-      \new Staff = "SubBass" {\global \bassoThreeVoice}
+
+      \new Staff = "SubBass" {\midiGlobal \bassoThreeVoice}
+      \new Staff = "SoloOrgan"   {\midiGlobal \tenoreSoloVoice}
     >>
   >>
   \midi {
-    \tempo 4=84
+    \tempo 4=66
   }
 }
 

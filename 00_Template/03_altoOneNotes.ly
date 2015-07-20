@@ -1,8 +1,11 @@
-altoOneVoice = {
- c
+altoOneVoice = \relative c'' {
+  c
 }
 
-altoOneVerse = {
+altoOneVerse = \lyricmode {
+
 }
 
-altoOneCyrillic = {}
+altoOneCyrillic = \lyricmode {
+ 
+}

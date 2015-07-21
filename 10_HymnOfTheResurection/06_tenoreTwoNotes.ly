@@ -13,7 +13,7 @@ tenoreTwoVoice = \relative c' {
   \time 5/2  c1. ~ c2 r2 \fermata|
   \time 5/2  d2 \ff -- d2 -- d4 -- c2 -> d4. ( -> e8 ) f4 -> |
   \time 6/2  d2 -- d4 c 4 d4 d4 c4 c4 d4 ( -> d8 [ e8]) f4 e4 |
-  \time 4/2  c2( -- a2) a2 g2 |
+  \time 4/2  c2( \> -- a2) a2 g2 |
   \time 4/2  f2 \p g4 \> g4 g2-- \pp  g2 ~-- |
   \time 8/2  g2 r2 r2 a4 \pp a4 g2 -- a2 -- a2-- \p \> ( g4 f8 [ g8 ) ] |
 

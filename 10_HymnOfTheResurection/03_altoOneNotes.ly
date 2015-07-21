@@ -12,7 +12,7 @@ altoOneVoice = \relative c' {
   \time 4/2  f4 \pp f4 f4 e4 f2-- g2-- \< |
   \time 5/2  a1  \mf -- \> a8  [ ( g8 ] f4) g2 \pp g2 \fermata |
   \time 5/2  bes2-- \ff bes2-- bes4-- c2-> d4.( -> c8 ) bes4->  |
-  \time 6/2  bes2-- bes4 c4 bes4 d4 c4 c4 d4. ( c8 ) bes4 bes4 |
+  \time 6/2  bes2-- bes4 c4 bes4 d4 c4 c4 d4.-> ( c8 ) bes4 bes4 |
   \time 4/2  a2 \> ( g2 ) a2 a2 |
   \time 4/2  f2 \p es8 \> [( d8 ) ] es4 d2--  \pp  d2 -- ~ |
   \time 8/2  d\breve \pp ~ d\breve ~ |

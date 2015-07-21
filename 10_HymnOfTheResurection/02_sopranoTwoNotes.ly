@@ -4,7 +4,7 @@ sopranoTwoVoice = \relative c '' {
   \time 4/2  R1*2 |
   \time 6/2  r2 a4 \pp a4 g2 -- a4 a4 \< a2-- \mp \> ( g4  ) f8 \p ( [ g8  ) ] |
   \time 5/2  a2 \mp -- a4 \pp a4  a4 g4 a2 -- a4 a4 |
-  \time 5/2  c2-- \mp a4 \pp a4 ( a4 ) a4  c2 \mp \> -- bes4 \! a4  \pp ~ |
+  \time 5/2  c2-- \mp a4 \pp a4 ( a4 ) a4  c2 \mp \> -- bes4  a4  \pp ~ |
   \time 4/2  a2 r2 r1 |
   \time 6/2  R2*6 |
 

@@ -1,4 +1,4 @@
-bassoTwoVoice = \relative c {
+bassoTwoVoiceA = \relative c {
   \time 4/2  d2 \f c2  d4 d4 d4 d4 |
   \time 4/2  f8 ( -> [ e8 ] d4 ) d2 c4 ( d4 e4 ) d4 |
   \time 6/2  d\breve \pp ~ d1 ~ |
@@ -27,7 +27,7 @@ bassoTwoVoice = \relative c {
   \time 6/2  f2 \f -> bes,2 -> d2 -> g4.( -> f8) e4 c4 f2 -> |
   \time 3/2  bes2. \ff  -> bes4 \p bes4  f4 |
   \time 3/2  bes4( bes,4 \< d4 f4 ) c'4 ( a4 ) |
-  
+
   \opage %4
   \time 4/2  d2 \ff ( c2 )  d4 d4 d4 d4 |
   \time 2/2  f8 ( [ e8 ]) d4  c8 ( [ d8 ) ] e4 |
@@ -35,14 +35,19 @@ bassoTwoVoice = \relative c {
   \time 4/2  bes2 -> bes,4-> bes4-> bes2-> g'8-> ( [ a8 ) ] bes4 -> |
   \time 4/2  bes1 \ff ~ -> bes1  ~ |
   \time 4/2  bes1 \p ~ \fermata bes2 \! r2 |
-  
-  \time 4/2  g,2 -- \p c4 g4 g2 -- d'8 [( c8 )] g4 | 
-  \time 4/2  g1 -- ( a1 \ppp ) ~ | % 9
-  \time 4/2  a\breve ~ | 
+
+  \time 4/2  g,2 -- \p c4 g4 g2 -- d'8 [( c8 )] g4 |
+
+}
+
+bassoTwoVoiceB = \relative c {
+  \time 4/2  g1 -- ( a1 \ppp ) ~ |
+  \time 4/2  a\breve ~ |
   \time 4/2  a\breve \fermata \bar "|."
+}
 
-  
-
+bassoTwoVoice = {
+  \bassoTwoVoiceA \bassoTwoVoiceB
 }
 
 bassoTwoVerse =  {

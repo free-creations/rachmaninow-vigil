@@ -15,7 +15,7 @@ tenoreOneVoice = \relative c' {
   \time 6/2  g2 -- g4 e4 g4 f4 e4 e4 g4 ( -> d8 [ e8 ) ] f4 g4 |
   \time 4/2  f2 \> ( -- e2 ) d2 c2 |
   \time 4/2  d2 \p c4 \> c4 bes2 \pp -- bes2 -- ~ |
-  \time 8/2  bes2 r2 r2 d4 \pp d4 e2 -- d2 -- d4-- ( c4 \> bes4 c4 ) |
+  \time 8/2  bes2 r2 r2 d4 \pp d4 e2 -- d2 -- d4-- \p ( c4 \> bes4 c4 ) |
 
   \opage %p3
   \time 4/2  d4 \pp d4 d4 ( e4 d2 ) d4 c4 |
@@ -59,10 +59,11 @@ tenoreOneVerse = \lyricmode {
   Sje bo pri -- i -- dje krje -- stom ra -- dost' wsje -- mu mi -- "ru,"
 
   %p4
-  ра -- "дость;"
-  по -- ем вос -- кре -- се -- ни -- е Е -- "го:"
-  рас -- пя -- ти -- е бо пре -- тер -- "пев," __
-  смер -- ти -- ю смерть раз -- ру -- "ши." __
+  ra -- "dost';" 
+  po -- jem wos -- krje -- sje -- ni -- je Je -- "go:" 
+  ras -- pja -- ti -- je bo prje -- tjer -- "pjew," __ 
+  smjer -- ti -- ju smjert' ras -- ru -- "schi." __ 
+ 
 
 
 }

@@ -1,11 +1,17 @@
-bassoThreeVoice = \relative c {
-  c
+bassoThreeVoiceB = \relative c {
+  \time 4/2  g1 -- ( a1 \>  |
+  \time 4/2  d,\breve \ppp ) ~ |
+  \time 4/2  d\breve \fermata \bar "|."
 }
 
-bassoThreeVerse = \lyricmode {
-  
+bassoThreeVoice =  {
+  \bassoTwoVoiceA \bassoThreeVoiceB
 }
 
-bassoThreeCyrillic = \lyricmode {
-  
+bassoThreeVerse =  {
+  \bassoOneVerse
+}
+
+bassoThreeCyrillic =  {
+  \bassoOneCyrillic
 }

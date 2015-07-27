@@ -77,7 +77,7 @@ sopranoOneVerse = \lyricmode {
   Is -- po -- wje -- daj -- tje -- sja
 
   %page 4
-  Wo -- gu nje -- bjes -- no -- "mu."
+  Bo -- gu nje -- bjes -- no -- "mu."
   Al -- li -- luj -- i -- "a,"
   al -- li -- luj -- i -- "a," __
   al -- li -- luj -- i -- "a," __
@@ -113,7 +113,7 @@ sopranoOneCyrillic = \lyricmode {
   Ис -- по -- ве -- дай -- те -- ся
 
   %page 4
-  Во -- гу не -- бес -- но -- "му."
+  Бо -- гу не -- бес -- но -- "му."
   Ал -- ли -- луй -- и -- "а,"
   ал -- ли -- луй -- и -- "а," __
   ал -- ли -- луй -- и -- "а," __

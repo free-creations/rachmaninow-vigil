@@ -3,7 +3,7 @@
 #(ly:set-option 'midi-extension "mid")
 
 \header {
-  title = "Title"
+  title = "11. Meine Seele lobpreise den Herrn"
   tagline = ##f
 }
 
@@ -13,7 +13,7 @@
 }
 
 global = {
-  \key f \major
+  \key bes \major
   \numericTimeSignature
   \dynamicUp
   \autoBeamOff
@@ -21,6 +21,7 @@ global = {
   % \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
   \override Score.BarNumber #'break-visibility = #'#(#t #t #t)
+  \override BreathingSign.text = \markup { \musicglyph #"scripts.upbow" }
 }
 
 midiGlobal = {
@@ -92,7 +93,7 @@ opage ={\pageBreak}
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
-
+    %{
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
@@ -157,7 +158,7 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoThreeVoice }
     \addlyrics { \bassoThreeLatinG }
     \addlyrics { \greyText \bassoThreeCyrillic }
-
+    %}
   >>
 
 
@@ -166,6 +167,7 @@ opage ={\pageBreak}
 }
 
 %%% ------ Midi Score
+%{
 
 \score {
   <<

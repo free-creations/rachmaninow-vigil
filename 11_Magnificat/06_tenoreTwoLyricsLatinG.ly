@@ -1,0 +1,6 @@
+
+
+tenoreTwoLatinG = \lyricmode {
+
+
+}

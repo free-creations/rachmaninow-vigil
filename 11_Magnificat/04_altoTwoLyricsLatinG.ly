@@ -1,0 +1,6 @@
+
+
+altoTwoLatinG = \lyricmode {
+
+
+}

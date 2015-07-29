@@ -1,6 +1,4 @@
-bassoTwoVoice = {
- c
+bassoTwoVoice = \relative c {
+  c
 }
 
-bassoTwoVerse = {
-}

@@ -1,0 +1,6 @@
+
+
+bassoTwoLatinG = \lyricmode {
+
+
+}

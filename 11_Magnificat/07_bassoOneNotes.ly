@@ -1,6 +1,4 @@
-bassoOneVoice = {
+bassoOneVoice = \relative f {
  c
 }
 
-bassoOneVerse = {
-}

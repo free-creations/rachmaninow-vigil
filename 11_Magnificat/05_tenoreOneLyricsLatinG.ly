@@ -1,0 +1,6 @@
+
+
+tenoreOneLatinG = \lyricmode {
+
+
+}

@@ -4,10 +4,3 @@ sopranoTwoVoice = \relative c '' {
 }
 
 
-sopranoTwoVerse = \lyricmode {
-
-}
-
-sopranoTwoCyrillic =  \lyricmode {
- 
-}

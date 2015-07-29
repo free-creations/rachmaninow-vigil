@@ -41,24 +41,44 @@ opage ={\pageBreak}
 \include "articulate.ly"
 
 \include "01_sopranoOneNotes.ly"
-\include "02_sopranoTwoNotes.ly"
-\include "10_sopranoThreeNotes.ly"
+\include "01_sopranoOneLyricsCyrillic.ly"
+\include "01_sopranoOneLyricsLatinG.ly"
 
+\include "02_sopranoTwoNotes.ly"
+\include "02_sopranoTwoLyricsCyrillic.ly"
+\include "02_sopranoTwoLyricsLatinG.ly"
+
+\include "10_sopranoThreeNotes.ly"
+\include "10_sopranoThreeLyricsCyrillic.ly"
+\include "10_sopranoThreeLyricsLatinG.ly"
 
 \include "03_altoOneNotes.ly"
-\include "04_altoTwoNotes.ly"
+\include "03_altoOneLyricsCyrillic.ly"
+\include "03_altoOneLyricsLatinG.ly"
 
-\include "11_tenoreSoloNotes.ly"
+\include "04_altoTwoNotes.ly"
+\include "04_altoTwoLyricsCyrillic.ly"
+\include "04_altoTwoLyricsLatinG.ly"
+
 \include "05_tenoreOneNotes.ly"
+\include "05_tenoreOneLyricsCyrillic.ly"
+\include "05_tenoreOneLyricsLatinG.ly"
+
 \include "06_tenoreTwoNotes.ly"
+\include "06_tenoreTwoLyricsCyrillic.ly"
+\include "06_tenoreTwoLyricsLatinG.ly"
 
 \include "07_bassoOneNotes.ly"
+\include "07_bassoOneLyricsCyrillic.ly"
+\include "07_bassoOneLyricsLatinG.ly"
+
 \include "08_bassoTwoNotes.ly"
+\include "08_bassoTwoLyricsCyrillic.ly"
+\include "08_bassoTwoLyricsLatinG.ly"
+
 \include "09_bassoThreeNotes.ly"
-
-
-
-
+\include "09_bassoThreeLyricsCyrillic.ly"
+\include "09_bassoThreeLyricsLatinG.ly"
 
 
 %%% ------ Print Score
@@ -70,80 +90,73 @@ opage ={\pageBreak}
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
     } { \global \sopranoOneVoice }
-    \addlyrics { \sopranoOneVerse }
+    \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
 
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
     } { \global \sopranoTwoVoice }
-    \addlyrics { \sopranoTwoVerse }
-    \addlyrics { \sopranoTwoCyrillic }
+    \addlyrics { \sopranoTwoLatinG }
+    \addlyrics { \greyText \sopranoTwoCyrillic }
 
     \new Staff \with {
       instrumentName = "S. III"
       shortInstrumentName = "S. III"
     } { \global \sopranoThreeVoice }
-    \addlyrics { \sopranoThreeVerse }
-    \addlyrics { \sopranoThreeCyrillic }
+    \addlyrics { \sopranoThreeLatinG }
+    \addlyrics { \greyText \sopranoThreeCyrillic }
 
 
     \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
     } {  \global \altoOneVoice}
-    \addlyrics { \altoOneVerse }
-    \addlyrics { \altoOneCyrillic }
+    \addlyrics { \altoOneLatinG }
+    \addlyrics { \greyText \altoOneCyrillic }
 
     \new Staff \with {
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
     } {  \global \altoTwoVoice }
-    \addlyrics { \altoTwoVerse }
-    \addlyrics { \altoTwoCyrillic }
-
-    \new Staff \with {
-      instrumentName = "T. S"
-      shortInstrumentName = "T. S"
-    } {  \global \clef "treble_8" \tenoreSoloVoice}
-    \addlyrics { \tenoreSoloVerse }
-    \addlyrics { \tenoreSoloCyrillic }
+    \addlyrics { \altoTwoLatinG }
+    \addlyrics { \greyText \altoTwoCyrillic }
 
 
     \new Staff \with {
       instrumentName = "T. I"
       shortInstrumentName = "T. I"
     } { \global \clef "treble_8" \tenoreOneVoice }
-    \addlyrics { \tenoreOneVerse }
-    \addlyrics { \tenoreOneCyrillic }
+    \addlyrics { \tenoreOneLatinG }
+    \addlyrics { \greyText \tenoreOneCyrillic }
 
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"
     } { \global \clef "treble_8" \tenoreTwoVoice }
-    \addlyrics { \tenoreTwoVerse }
-    \addlyrics { \tenoreTwoCyrillic }
+    \addlyrics { \tenoreTwoLatinG }
+    \addlyrics { \greyText \tenoreTwoCyrillic }
 
     \new Staff \with {
       instrumentName = "B. I"
       shortInstrumentName = "B. I"
     } {\global \clef bass \bassoOneVoice }
-    \addlyrics { \bassoOneVerse }
-    \addlyrics { \bassoOneCyrillic }
+    \addlyrics { \bassoOneLatinG }
+    \addlyrics { \greyText \bassoOneCyrillic }
 
     \new Staff \with {
       instrumentName = "B. II"
       shortInstrumentName = "B. II"
     } {\global \clef bass \bassoTwoVoice }
-    \addlyrics { \bassoTwoVerse }
-    \addlyrics { \bassoTwoCyrillic }
+    \addlyrics { \bassoTwoLatinG }
+    \addlyrics { \greyText \bassoTwoCyrillic }
 
     \new Staff \with {
       instrumentName = "B. III"
       shortInstrumentName = "B. III"
     } {\global \clef bass \bassoThreeVoice }
-    \addlyrics { \bassoThreeVerse }
-    \addlyrics { \bassoThreeCyrillic }
+    \addlyrics { \bassoThreeLatinG }
+    \addlyrics { \greyText \bassoThreeCyrillic }
 
   >>
 
@@ -181,7 +194,7 @@ opage ={\pageBreak}
       \new Staff = "B 1 B" {\midiGlobal \bassoOneVoice}
       \new Staff = "B 2 B" {\midiGlobal \bassoTwoVoice}
       \new Staff = "B 3 B" {\midiGlobal \bassoThreeVoice}
-      \new Staff = "Solo B" {\midiGlobal \tenoreSoloVoice}
+      \new Staff = "Solo B" {\midiGlobal }
 
       \new Staff = "FemaleOrgan"   {
         <<
@@ -204,7 +217,7 @@ opage ={\pageBreak}
       }
 
       \new Staff = "SubBass" {\midiGlobal \bassoThreeVoice}
-      \new Staff = "SoloOrgan"   {\midiGlobal \tenoreSoloVoice}
+      \new Staff = "SoloOrgan"   {\midiGlobal }
     >>
   >>
   \midi {

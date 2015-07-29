@@ -45,19 +45,45 @@ obreak = {}
 opage ={}
 
 \include "01_sopranoOneNotes.ly"
-\include "02_sopranoTwoNotes.ly"
-\include "10_sopranoThreeNotes.ly"
+\include "01_sopranoOneLyricsCyrillic.ly"
+\include "01_sopranoOneLyricsLatinG.ly"
 
+\include "02_sopranoTwoNotes.ly"
+\include "02_sopranoTwoLyricsCyrillic.ly"
+\include "02_sopranoTwoLyricsLatinG.ly"
+
+\include "10_sopranoThreeNotes.ly"
+\include "10_sopranoThreeLyricsCyrillic.ly"
+\include "10_sopranoThreeLyricsLatinG.ly"
 
 \include "03_altoOneNotes.ly"
-\include "04_altoTwoNotes.ly"
+\include "03_altoOneLyricsCyrillic.ly"
+\include "03_altoOneLyricsLatinG.ly"
 
-\include "11_tenoreSoloNotes.ly"
+\include "04_altoTwoNotes.ly"
+\include "04_altoTwoLyricsCyrillic.ly"
+\include "04_altoTwoLyricsLatinG.ly"
+
 \include "05_tenoreOneNotes.ly"
+\include "05_tenoreOneLyricsCyrillic.ly"
+\include "05_tenoreOneLyricsLatinG.ly"
+
 \include "06_tenoreTwoNotes.ly"
+\include "06_tenoreTwoLyricsCyrillic.ly"
+\include "06_tenoreTwoLyricsLatinG.ly"
 
 \include "07_bassoOneNotes.ly"
+\include "07_bassoOneLyricsCyrillic.ly"
+\include "07_bassoOneLyricsLatinG.ly"
+
 \include "08_bassoTwoNotes.ly"
+\include "08_bassoTwoLyricsCyrillic.ly"
+\include "08_bassoTwoLyricsLatinG.ly"
+
+\include "09_bassoThreeNotes.ly"
+\include "09_bassoThreeLyricsCyrillic.ly"
+\include "09_bassoThreeLyricsLatinG.ly"
+
 
 
 %---------- Soprano-------------------------------
@@ -67,7 +93,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "S. I"
     } { \global \sopranoOneVoice }
-    \addlyrics { \sopranoOneVerse }
+    \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
   }
 }
@@ -78,7 +104,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "S. II"
     } { \global \sopranoTwoVoice }
-    \addlyrics { \sopranoTwoVerse }
+    \addlyrics { \sopranoTwoLatinG }
     \addlyrics { \greyText \sopranoTwoCyrillic }
   }
 }
@@ -89,7 +115,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "S. III"
     } { \global \sopranoThreeVoice }
-    \addlyrics { \sopranoThreeVerse }
+    \addlyrics { \sopranoThreeLatinG }
     \addlyrics { \greyText \sopranoThreeCyrillic }
   }
 }
@@ -101,7 +127,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "A. I"
     } { \global  \altoOneVoice }
-    \addlyrics { \altoOneVerse }
+    \addlyrics { \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
   }
 }
@@ -111,7 +137,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "A. II"
     } { \global  \altoTwoVoice }
-    \addlyrics { \altoTwoVerse }
+    \addlyrics { \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic}
   }
 }
@@ -123,7 +149,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "T. I"
     } {\clef "treble_8" \global \tenoreOneVoice }
-    \addlyrics { \tenoreOneVerse }
+    \addlyrics { \tenoreOneLatinG }
     \addlyrics { \greyText \tenoreOneCyrillic }
   }
 }
@@ -133,7 +159,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "T. II"
     } { \clef "treble_8" \global  \tenoreTwoVoice }
-    \addlyrics { \tenoreTwoVerse }
+    \addlyrics { \tenoreTwoLatinG }
     \addlyrics { \greyText \tenoreTwoCyrillic }
   }
 }
@@ -145,7 +171,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "B. I"
     } { \clef bass \global  \bassoOneVoice }
-    \addlyrics { \bassoOneVerse }
+    \addlyrics { \bassoOneLatinG }
     \addlyrics { \greyText \bassoOneCyrillic }
   }
 }
@@ -155,8 +181,19 @@ opage ={}
     \new Staff \with {
       instrumentName = "B. II"
     } { \clef bass \global   \bassoTwoVoice }
-    \addlyrics { \bassoTwoVerse }
+    \addlyrics { \bassoTwoLatinG }
     \addlyrics { \greyText \bassoTwoCyrillic }
+  }
+}
+
+\book {
+  \bookOutputName "09_bassoThree"
+  \score {
+    \new Staff \with {
+      instrumentName = "B. III"
+    } { \clef bass \global   \bassoThreeVoice }
+    \addlyrics { \bassoThreeLatinG }
+    \addlyrics { \greyText \bassoThreeCyrillic }
   }
 }
 

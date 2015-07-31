@@ -93,14 +93,14 @@ opage ={\pageBreak}
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
-    %{
+    
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
     } { \global \sopranoTwoVoice }
     \addlyrics { \sopranoTwoLatinG }
     \addlyrics { \greyText \sopranoTwoCyrillic }
-
+%{
     \new Staff \with {
       instrumentName = "S. III"
       shortInstrumentName = "S. III"

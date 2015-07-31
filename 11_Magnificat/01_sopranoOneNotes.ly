@@ -38,7 +38,7 @@ sopranoOneVoice = \relative c'' {
   \time 6/4  c4 -- bes8 bes8 bes8 bes8 bes8 bes8 bes16 [( as16 ]) g8 bes4 |
 
   \opage %p5
-  \time 7/4  bes4-- \p bes4-- bes4-- bes8 \> a8 bes8  \pp bes8 bes8 bes16 ( [ c16 ])  bes16[( c16 ]) bes16[(\< c16 ) ] |
+  \time 7/4  bes4-- \p bes4-- bes4-- bes8 \> a8 bes8  \pp bes8 bes8 bes16-- ( [ c16 ])  bes16--[( c16 ]) bes16--[(\< c16 ) ] |
   \time 6/4  d8. \p ( [ es16 ] d16 [ bes16 c8 ] bes16 [ g16 a8 ) ] bes2. \pp |
   \time 5/4  d8 f8 \bar "|" g2 \ff g4 f8 d8 |
   \time 4/4  es4 es4 es4 d8( \> [ bes8 ]) |
@@ -51,7 +51,7 @@ sopranoOneVoice = \relative c'' {
 
   \opage %p6
   \time 3/4  g2 \ppp r8 es'8 \pp |
-  \time 4/4  f4 es8 es8 es16 ( [ d16 ) ] c8 d8 es8 |
+  \time 4/4  f4-- es8 es8 es16 ( [ d16 ) ] c8 d8 \breathe es8 |
   \time 15/8 f4 -- es8 es8 es8 es8 es8 es8 es8 es8 \bar "" es16 ( [ d16 ) ] c8 d8 es8 \breathe es8 |
   \time 6/4  f4 -- es8 es8 es16 ( [ d16 ) ] c8 d8 es8 es16 ( [ d16 ) ] c8 d4 | % 6
   \time 6/4  es8 \p ( [d8 )] c8 bes8 bes8 \> bes8 d8  \pp d8 d8 d8 d16-- ( [ es16 ) ]  d16-- ( [ es16 ) ] |

@@ -1,4 +1,4 @@
 
-sopranoTwoLatinG = \lyricmode {
-  "Gos 2"
+sopranoTwoLatinG = {
+  \sopranoOneLatinG
 }

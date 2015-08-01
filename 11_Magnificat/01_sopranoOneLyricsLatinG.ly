@@ -1,9 +1,9 @@
 
 sopranoOneLatinG = \lyricmode {
   Gos -- po -- "da." 
-  Tschest -- nej -- schu -- ju -- Che -- ru -- wim i  
+  Tschest -- nej -- schu -- ju  Che -- ru -- wim i  
   slaw -- nej -- schu -- ju bes sraw -- ne -- ni -- ja     
-  Se -- raf -- "im,"
+  Se -- ra -- "fim,"
   bes ist -- le -- ni -- ja   Bo -- ga Slo -- wa
   
   %p2

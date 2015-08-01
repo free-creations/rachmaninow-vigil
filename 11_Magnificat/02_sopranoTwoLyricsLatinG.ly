@@ -1,4 +1,4 @@
 
-sopranoTwoLatinG = {
+sopranoTwoLatinG =  {
   \sopranoOneLatinG
 }

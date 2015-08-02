@@ -17,7 +17,7 @@ tenoreOneVoice = \relative c' {
   \time 3/4  bes4 ) bes4 d4 |
   \time 6/4  c4 ( bes4) \< c4 d4 ( c4 d4 ) |
   \time 6/4  es4 \f ( d4 ) c8 ( [ es8 ) ] f4 \> ( es4 d8 [ c8 ) ] |
-  \time 6/4  d4 \p \> ( c8 [ bes8 ] c4 ) d2 \pp r8 d8 \p |
+  \time 6/4  d4-- \p \> ( c8 [ bes8 ] c4 ) d2 \pp r8 d8 \p |
   \time 4/4  es4 -- d8 d8 d8 d8 d8 \pp \breathe d8 \p |
 
   \opage %p3
@@ -73,7 +73,7 @@ tenoreOneVoice = \relative c' {
   \time 4/4  e4 -- d8 d8 d16 ( [ e16 ) ] d8 d8 d8  |
   \time 15/8 e4 -- d8 d8 d8 d8 d8 fis16 ( [ e16 ) ]  \bar ""  d8 d8 d16 ( [ e?16 ) ] d8 d8 \breathe d8 d8 |
   \time 6/4  e4 -- d8 d8 d16 ( [ e16 ) ] d8 d8-- d8 d16 [ e16 ] d8 d4 |
-  \time 9/4  d4 \p d8 ( es8 ) d4 c8 \< d8 es8.-- \mp \> ( [ d16 ] c16  [ d16 es8 ] d8  )  d8 \pp d8 d8 d16 ( [ es16 ) ] d16 ( [ es16 ) ] |
+  \time 9/4  d4 \p d8 [( es8 ]) d4 c8 \< d8 es8.-- \mp \> ( [ d16 ] c16  [ d16 es8 ] d8  )  d8 \pp d8 d8 d16-- ( [ es16 ) ] d16-- ( [ es16 ) ] |
   \time 6/4  d8.-- \p \> ( [ es16 ] f8 [ es8  ] d4 ) bes2. \pp \fermata \bar "|."
 
 }

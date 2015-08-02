@@ -1,4 +1,4 @@
 
-tenoreTwoLatinG = \lyricmode {
-  "Gos 6"
+tenoreTwoLatinG =  {
+  \tenoreOneLatinG
 }

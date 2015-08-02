@@ -1,6 +1,6 @@
 
 tenoreOneLatinG = \lyricmode {
-  We -- li -- tschit du -- scha   Mo -- "ja,"
+  We -- li -- tschit du -- scha   Mo -- "ja," __
   We -- li -- tschit du -- scha __
 
   Tschest -- nej -- schu -- ju  Che -- ru -- wim i
@@ -13,7 +13,7 @@ tenoreOneLatinG = \lyricmode {
   su --  schtschu -- ju   Bo -- go -- ro -- di -- "zu,"
   Tja  we -- li -- tscha __ "jem."
 
-  Se bo ot ny -- ne u -- bla --
+  Se bo ot ny -- ne __ u -- bla --
   schat Mja wsi __ ro -- "di,"
   wsi __ ro -- "di."
   Tschest -- nej -- schu -- ju Che -- ru -- wim i
@@ -58,7 +58,7 @@ tenoreOneLatinG = \lyricmode {
   po -- mja -- nu -- ti mi -- lo -- "sti,"
   ja -- ko -- sche  gla -- go -- la __
   Aw -- ra -- a -- mu i __
-  se -- me -- ni je -- "go,"
+  se -- me -- ni je -- "go," __
   da -- sche do we -- "ka." __
 
   %p8

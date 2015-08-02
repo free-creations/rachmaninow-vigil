@@ -108,7 +108,7 @@ opage ={\pageBreak}
     } { \global \sopranoThreeVoice }
     \addlyrics { \sopranoThreeLatinG }
     \addlyrics { \greyText \sopranoThreeCyrillic }
-%}
+
 
     \new Staff \with {
       instrumentName = "A. I"
@@ -116,14 +116,14 @@ opage ={\pageBreak}
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
-
+%}
     \new Staff  \with {      
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
     } { \global \altoTwoVoice }
     \addlyrics { \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic }
-%{
+
 
     \new Staff \with {
       instrumentName = "T. I"
@@ -131,7 +131,7 @@ opage ={\pageBreak}
     } { \global \clef "treble_8" \tenoreOneVoice }
     \addlyrics { \tenoreOneLatinG }
     \addlyrics { \greyText \tenoreOneCyrillic }
-
+%{
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"

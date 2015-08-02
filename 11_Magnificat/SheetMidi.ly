@@ -85,6 +85,7 @@ opage ={\pageBreak}
 %%% ------ Print Score
 \score {
 
+
   \new ChoirStaff   <<
 %{
     \new Staff \with {
@@ -93,14 +94,14 @@ opage ={\pageBreak}
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
-    %}
+    
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
     } { \global \sopranoTwoVoice }
     \addlyrics { \sopranoTwoLatinG }
     \addlyrics { \greyText \sopranoTwoCyrillic }
-%{
+
     \new Staff \with {
       instrumentName = "S. III"
       shortInstrumentName = "S. III"
@@ -115,14 +116,14 @@ opage ={\pageBreak}
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
-%{
-    \new Staff \with {
+
+    \new Staff  \with {      
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
-    } {  \global \altoTwoVoice }
+    } { \global \altoTwoVoice }
     \addlyrics { \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic }
-
+%{
 
     \new Staff \with {
       instrumentName = "T. I"
@@ -170,6 +171,7 @@ opage ={\pageBreak}
 %{
 
 \score {
+\removeWithTag #'altoThree
   <<
     \articulate
     <<

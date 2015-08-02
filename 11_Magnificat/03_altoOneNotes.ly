@@ -34,7 +34,7 @@ altoOneVoice = \relative c' {
   \time 6/4  c4 \p ( d8 [ es8 ) ] d4 c4 c4 bes4 |
   \time 9/4  c2. ~ c2. ~ c2 r8 g'8 \pp |
   \time 4/4  as4 \p -- g8 \pp  g8 g16 ( [ f16 ) ] g8 f8 g8 |
-  \time 15/8 as4 g8 g8 g8 g8 \bar "" g8 g8 g8 g8 g16 ( [ f16 ) ] g8 f8 \breathe g8 g8 |
+  \time 15/8 as4 g8 g8 g8 g8 \bar "" g8 g8-- g8 g8 g16 ( [ f16 ) ] g8 f8 \breathe g8 g8 |
   \time 6/4  as4 g8 g8 g8 g8 as16 [( f16 )] g8 g16 ( [ f16 ) ] g8 f4 |
 
   \opage %p5
@@ -43,7 +43,7 @@ altoOneVoice = \relative c' {
   \time 5/4  g8 g8 \bar "|" bes4 \ff  bes8-> d8-> es4-> ( bes4 |
   \time 4/4  g4 ) g8-> bes8-> c4-> g4 \> |
   \time 4/4   as4 \mf bes4 \! as4 \<  g4  |
-  \time 4/4  g2 \f g4\mf es4 |
+  \time 4/4  g2-- \f g4\mf es4 |
   \time 4/4   f4 \p g4 f4 es8 \< \< es8 |
   \time 4/4  es4 \mf \>  -- es4 es8  es8 es8 c8 |
   \time 4/4   d4 \pp d4 e8 ( [ d8 \<  ] ) e8  ( [ fis8 ) ] |

@@ -1,4 +1,4 @@
 
-altoTwoLatinG = \lyricmode {
-  "Gos 4"
+altoTwoLatinG =  {
+  \altoOneLatinG
 }

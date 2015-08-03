@@ -1,9 +1,13 @@
 
-bassoOneCyrillic = \lyricmode {
+bassoOneCyrillic_A = \lyricmode {
   Ве -- ли -- чит ду -- ша Мо -- я Гос -- по -- "да,"
   и воз -- ра -- до -- ва -- ся
   дух Мой о
-  % Бо -- зе % only Basso 2
+}
+bassoOneCyrillic_B = \lyricmode {
+   Бо -- зе % only Basso 2
+}
+bassoOneCyrillic_C = \lyricmode {
   Спа -- се  Мо -- "ем."
 
   %p2
@@ -46,11 +50,15 @@ bassoOneCyrillic = \lyricmode {
   ко от -- цем на -- "шим,"
 
   Ав -- ра -- а -- му и
-  се -- ме -- ни е -- "го," 
+  се -- ме -- ни е -- "го,"
   до ве -- "ка." __
-  
+
   %p8
-    су -- щу -- ю Бо -- го -- ро -- ди -- "цу,"
+  су -- щу -- ю Бо -- го -- ро -- ди -- "цу,"
   Тя -- ве -- ли -- ча -- "ем."
 
+}
+
+bassoOneCyrillic = {
+  \bassoOneCyrillic_A \bassoOneCyrillic_C
 }

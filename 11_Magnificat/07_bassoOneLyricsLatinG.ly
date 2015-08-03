@@ -1,9 +1,13 @@
 
-bassoOneLatinG = \lyricmode {
+bassoOneLatinG_A = \lyricmode {
   We -- li -- tschit du -- scha Mo -- ja Gos -- po -- "da,"
   i wos -- ra -- do -- wa -- sja
   duch Moj o
-  % Бо -- зе % only Basso 2
+}
+bassoOneLatinG_B = \lyricmode {
+   Bo -- se % only Basso 2
+}
+bassoOneLatinG_C = \lyricmode {
   Spa -- se  Mo -- "jem."
 
   %p2
@@ -46,11 +50,15 @@ bassoOneLatinG = \lyricmode {
   ko ot -- zem na -- "schim,"
 
   Aw -- ra -- a -- mu i
-  se -- me -- ni je -- "go," 
+  se -- me -- ni je -- "go,"
   do we -- "ka." __
-  
+
   %p8
-    su -- schtschu -- ju Bo -- go -- ro -- di -- "zu,"
+  su -- schtschu -- ju Bo -- go -- ro -- di -- "zu,"
   Tja -- we -- li -- tscha -- "jem."
 
+}
+
+bassoOneLatinG = {
+  \bassoOneLatinG_A \bassoOneLatinG_C
 }

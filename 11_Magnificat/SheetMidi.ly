@@ -131,28 +131,28 @@ opage ={\pageBreak}
     } { \global \clef "treble_8" \tenoreOneVoice }
     \addlyrics { \tenoreOneLatinG }
     \addlyrics { \greyText \tenoreOneCyrillic }
-%}
+
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"
     } { \global \clef "treble_8" \tenoreTwoVoice }
     \addlyrics { \tenoreTwoLatinG }
     \addlyrics { \greyText \tenoreTwoCyrillic }
-
+%}
     \new Staff \with {
       instrumentName = "B. I"
       shortInstrumentName = "B. I"
     } {\global \clef bass \bassoOneVoice }
     \addlyrics { \bassoOneLatinG }
     \addlyrics { \greyText \bassoOneCyrillic }
-%{
+
     \new Staff \with {
       instrumentName = "B. II"
       shortInstrumentName = "B. II"
     } {\global \clef bass \bassoTwoVoice }
     \addlyrics { \bassoTwoLatinG }
     \addlyrics { \greyText \bassoTwoCyrillic }
-
+%{
     \new Staff \with {
       instrumentName = "B. III"
       shortInstrumentName = "B. III"

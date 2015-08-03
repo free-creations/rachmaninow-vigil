@@ -65,7 +65,7 @@ bassoOneVoice =  \relative g, {
   \time 4/4  g,2. \ff g4 |
   \time 4/4  g2. d8 \f ( [ f8 ) ] |
   \time 4/4  g2.-- g4 |
-  \time 4/4  g4 ( f4 ) es4 ( d4 ~ |
+  \time 4/4  g4 \pp ( f4 ) es4 ( d4 ~ |
 
   \opage %p8
   \time 4/4  d2 ) \fermata r2 |

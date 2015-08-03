@@ -1,3 +1,4 @@
-bassoTwoCyrillic = \lyricmode {
-  "Гос 8"
+
+bassoTwoCyrillic = {
+  \bassoOneCyrillic_A \bassoOneCyrillic_B \bassoOneCyrillic_C
 }

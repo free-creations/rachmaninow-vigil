@@ -144,43 +144,44 @@ opage ={\pageBreak}
 }
 
 %%% ------ Midi Score
-%{
+
 
 \score {
 \removeWithTag #'altoThree
+\removeWithTag #'tenoreThree
   <<
     \articulate
     <<
       % single voices for Piano
       \new Staff = "S 1" {\midiGlobal \sopranoOneVoice}
       \new Staff = "S 2" {\midiGlobal \sopranoTwoVoice}
-      \new Staff = "S 3" {\midiGlobal \sopranoThreeVoice}
+      \new Staff = "S 3" {\midiGlobal }
       \new Staff = "A 1" {\midiGlobal \altoOneVoice}
       \new Staff = "A 2" {\midiGlobal \altoTwoVoice}
       \new Staff = "T 1" {\midiGlobal \tenoreOneVoice}
       \new Staff = "T 2" {\midiGlobal \tenoreTwoVoice}
       \new Staff = "B 1" {\midiGlobal \bassoOneVoice}
       \new Staff = "B 2" {\midiGlobal \bassoTwoVoice}
-      \new Staff = "B 3" {\midiGlobal \bassoTwoVoice}
+      \new Staff = "B 3" {\midiGlobal }
 
       % Background voices
       \new Staff = "S 1 B" {\midiGlobal \sopranoOneVoice}
       \new Staff = "S 2 B" {\midiGlobal \sopranoTwoVoice}
-      \new Staff = "S 3 B" {\midiGlobal \sopranoThreeVoice}
+      \new Staff = "S 3 B" {\midiGlobal }
       \new Staff = "A 1 B" {\midiGlobal \altoOneVoice}
       \new Staff = "A 2 B" {\midiGlobal \altoTwoVoice}
       \new Staff = "T 1 B" {\midiGlobal \tenoreOneVoice}
       \new Staff = "T 2 B" {\midiGlobal \tenoreTwoVoice}
       \new Staff = "B 1 B" {\midiGlobal \bassoOneVoice}
       \new Staff = "B 2 B" {\midiGlobal \bassoTwoVoice}
-      \new Staff = "B 3 B" {\midiGlobal \bassoThreeVoice}
+      \new Staff = "B 3 B" {\midiGlobal }
       \new Staff = "Solo B" {\midiGlobal }
 
       \new Staff = "FemaleOrgan"   {
         <<
           {\midiGlobal \sopranoOneVoice} \\
           {\midiGlobal \sopranoTwoVoice} \\
-          {\midiGlobal \sopranoThreeVoice} \\
+          {\midiGlobal } \\
           {\midiGlobal \altoOneVoice} \\
           {\midiGlobal \altoTwoVoice}
         >>
@@ -192,16 +193,16 @@ opage ={\pageBreak}
           {\midiGlobal \tenoreTwoVoice } \\
           {\midiGlobal \bassoOneVoice } \\
           {\midiGlobal \bassoTwoVoice } \\
-          {\midiGlobal \bassoThreeVoice }
+          {\midiGlobal  }
         >>
       }
 
-      \new Staff = "SubBass" {\midiGlobal \bassoThreeVoice}
+      \new Staff = "SubBass" {\midiGlobal \bassoTwoVoice}
       \new Staff = "SoloOrgan"   {\midiGlobal }
     >>
   >>
   \midi {
-    \tempo 4=66
+    \tempo 4=33
   }
 }
 

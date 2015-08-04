@@ -4,7 +4,7 @@ tenoreTwoVoice = \relative c {
   \time 6/4  a4 \< ( g8 [ a8 ) ] bes4 c2  \f ( bes4 |
   \time 6/4    d4 \p \> c8 [ bes8 ] a4  bes2 ) \pp r8 bes8 \p |
   \time 4/4  es4 \mp -- \> bes8 bes8  bes16 [( c16 ) ] bes8 f8  \pp \breathe bes8 \p |
-  \time 15/8  es4 \mp \> -- bes8 bes8  bes8 bes8 bes8 g8 bes8 bes8 bes16 \p ( [ c16  ) ] bes8 f8 \pp \breathe bes8 \p bes8 |
+  \time 15/8  es4 \mp \> -- bes8 bes8  bes8 bes8 bes8 g8 bes8 bes8 bes16 \p ( [ c16  ) ] bes8 f8 \pp \breathe bes8 \p \< bes8 |
   \time 6/4    es4 \mp \> -- bes8 bes8  bes16 ( [ c16 ) ] bes8 f8 bes8 \bar ""
 
   \opage %p2
@@ -32,7 +32,7 @@ tenoreTwoVoice = \relative c {
   \time 9/4  bes2--( \mf bes8 [ c8 ]) bes4-- \p ( a2 ~ a2 ) a4 |
   \time 6/4  g2 \p  g8 ( [ f8  ) ] es4 es4 es4  |
   \time 9/4  es2 ( f4 g4 \> f8 [ es8 ] d4 c2 \pp ) r8  es'8 \pp |
-  \time 4/4  as,4 \p es8 \pp es8 es8 g8 bes8 \breathe es8 |
+  \time 4/4  as,4-- \p es8 \pp es8 es8 g8 bes8 \breathe es8 |
   \time 15/8 as,4-- es8 es8 es8 es8 \bar ""  es8 g8-- es8 es8 es8 g8 bes8 \breathe es8 es8 |
   \time 6/4  as,4 es8 es8 g16 ( [ f16 ) ] es8 bes'8 es,8 es8 g8 bes4 |
 
@@ -53,7 +53,24 @@ tenoreTwoVoice = \relative c {
   \time 4/4  es4-- c8 c8 c16 [( d16 ]) es8 g,8 \breathe c8 |
   \time 15/8 es4-- c8 c8 c8 c8 c8 es16 ( -- [ d16 ) ] c8 c8 \bar "" c16 ( [ d16 ]) es8 g,8 \breathe c8 c8 |
   \time 6/4  f8-- [( es16 d16 ]) c8  c8  c16 [( d16 )] es8 g,8 c8 c16 [( d16 ) ] es8 g,4 |
-  \time 6/4  c8 \p ( [ g8 ]) g8 g8 g8 \> a8 f8 \pp f8 f8 f8 f16-- ( [ g16 ) ] f16-- ( [ g16 ) ] |
+  \time 6/4  c8 \p ( [ g8 ]) g8 g8 g8 \> a8 f8 \pp f8 f8 f8
+
+  <<
+    \tag #'tenoreThree
+    \new Voice {
+      \voiceTwo {
+        \stemUp \slurUp \autoBeamOff
+        bes8 bes8 |
+      }
+    }
+    {
+      \oneVoice
+      \tag #'tenoreThree {\stemDown \slurDown}
+      f16_- ( [ g16 ) ] f16_- ( [ g16 ) ] |
+    }
+  >>
+  \oneVoice
+
   \time 6/4  f2. \p \> f2. \pp |
 
   \opage %7
@@ -62,10 +79,28 @@ tenoreTwoVoice = \relative c {
   \time 6/4  c4 d4 c4 ( bes4 ) bes4 g4 |
   \time 6/4  g4 g4 c4 ( a4 ) a8 ( [ c8  ] d4 ) |
 
-  \time 6/4  es4 ( c4 ) d4 c4 d4 d4 |
-  \time 4/4  d4 \ff c4 bes4 bes8 [( a8 ]) |
-  \time 4/4  c4 ( bes4 g4 f4 ) |
-  \time 4/4  g4 ( f4 ) es4 d4 |
+  <<
+    \tag #'tenoreThree
+    \new Voice {
+      \voiceTwo {
+        \stemUp \slurUp
+        \time 6/4  es4 ( c8[ es8] ) f4 es4 f4 f4 |
+        \time 4/4  g4 \ff f4 es4 d4 |
+        \time 4/4  es4 ( d4 c4 bes4 ) |
+        \time 4/4  c4 ( bes4 ) a4 g4 |
+      }
+    }
+    {
+      \oneVoice
+      \tag #'tenoreThree {\stemDown \slurDown}
+      \time 6/4  es'4 ( c4 ) d4 c4 d4 d4 |
+      \time 4/4  d4 \ff c4 bes4 bes8 [( a8 ]) |
+      \time 4/4  c4 ( bes4 g4 f4 ) |
+      \time 4/4  g4 ( f4 ) es4 d4 |
+    }
+  >>
+  \oneVoice
+
   \time 4/4  g4 ( \pp  f4 ) es4 ( d4 ~ |
 
 
@@ -74,14 +109,27 @@ tenoreTwoVoice = \relative c {
   \time 4/4  c4 -- g8 g8 g8 b8 d8 \breathe g,8 |
   \time 15/8  c4 -- g8 g8 g8 g8 g8 b8 \bar "" g8 g8 g8 b8 d8 \breathe g,8 g8 |
   \time 6/4  c4 -- g8 g8 g8 b8 b16-- ( [ a16 ) ] g8 g8 b8 d4 |
-  \time 9/4   d4 \p d8 [( es8 ]) d4 g,8 \< g8 g4.-- \mp \> ( a8  bes8 \! ) f8\pp  f8 f8 f16-- ( [ g16  )  ] f16-- [( g16 ) ] |
+  \time 9/4   d4 \p d8 [( es8 ]) d4 g,8 \< g8 g4.-- \mp \> ( a8  bes8 \! )
+
+  <<
+    \tag #'tenoreThree
+    \new Voice {
+      \voiceTwo {
+        \stemUp \slurUp \autoBeamOff
+        bes8 \pp bes8 bes8 bes8 bes8 |
+      }
+    }
+    {
+      \oneVoice
+      \tag #'tenoreThree {\stemDown \slurDown}
+      f8\pp  f8 f8 f16_- ( [ g16  )  ] f16_- [( g16 ) ] |
+    }
+
+  >>
+  \oneVoice
+
   \time 6/4  f4.-- \p \> ( g8  ~ g8[  c8 )] bes2. \pp \fermata  \bar  "|."
-
-
-
-
-
-
+  
 }
 
 

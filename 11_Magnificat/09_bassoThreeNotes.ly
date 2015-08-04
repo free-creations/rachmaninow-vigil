@@ -1,3 +1,0 @@
-bassoThreeVoice = \relative c {
-  c
-}

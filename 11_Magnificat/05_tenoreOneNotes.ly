@@ -4,7 +4,7 @@ tenoreOneVoice = \relative c' {
   \time 6/4  c2  d4  es2. \f ( |
   \time 6/4  d2. \p  bes2 \pp ) r8 bes8 \p |
   \time 4/4  es4-- \mp \> d8 d8 d8 d8 c8  \pp \breathe d8 \p |
-  \time 15/8 es4-- \mp \> d8 d8  d8 d8 d8 bes16-- ( [ c16 ) ] d8 d8 d8 \p d8 c8 \pp \breathe d8 \p d8 |
+  \time 15/8 es4-- \mp \> d8 d8  d8 d8 d8 bes16-- ( [ c16 ) ] d8 d8 d8 \p d8 c8 \pp \breathe d8 \p \< d8 |
   \time 6/4  es4-- \mp \> d8  d8  d8 d8 c8-- d8 \bar ""
 
 

@@ -17,7 +17,7 @@ bassoTwoVoice =  \relative g, {
   \time 3/4  g4  g4 \p bes8 \< d8 |
   \time 6/4  es4  \f ( d4  ) c4 \ff f4 \f ( es4 ) d8 ( [ f8 \ff ) ] |
   \time 6/4  g4\f( f es) d4 ( \> c) d8 ( [ es8 ) ] |
-  \time 6/4  f2. \p \> bes,2 \pp r4  |
+  \time 6/4  f2.-- \p \> bes,2 \pp r4  |
   \time 4/4  R1 |
 
   \opage %p3
@@ -43,11 +43,11 @@ bassoTwoVoice =  \relative g, {
   \time 5/4  bes'8 g8 \bar "|" es'4 \ff ( d4 ) c4 g8 bes8 |
   \time 4/4  c4 bes4 as4 es8 \> ( [ g8 ) ] |
   \time 4/4  as4 \mf g4 f4 \< es8[( d8]) |
-  \time 4/4  c4 ( d4 ) es4 g4 |
+  \time 4/4  c4-- \f \> ( d4 ) es4 g4 |
   \time 4/4  f4 \p es4 d4 c8 \< bes8 |
   \time 4/4  as4-- \mf \> bes4 c8 \p c8 c8 es8 |
   \time 4/4  d4 \pp c4 bes8 \< ( [ c8 ) ] bes8 ( [ a8 ) ] |
-  \time 4/4  g4 \p \> a4 bes8 \pp ( [ c8 ] d4 ) |
+  \time 4/4  g4-- \p \> a4 bes8 \pp ( [ c8 ] d4 ) |
 
   \opage %p6
   \time 3/4  es2 \ppp r4 |
@@ -58,7 +58,7 @@ bassoTwoVoice =  \relative g, {
   \time 6/4  bes,2. \p \> bes'2. \pp |
 
   \opage %p7
-  \time 8/4  g4 \pp f4 \mp \bar "|" bes4 ( a4 ) bes4 c4 bes8 ( [ c8 ) ] a4 |
+  \time 8/4  g4 \pp f4  \bar "|" bes4 ( a4 ) bes4 c4 bes8 ( [ c8 ) ] a4 |
   \time 6/4  bes4 a4 bes4 a4 ( g8 [ a8 ) ] f4 |
   \time 6/4  g4 a4 bes4 d4 ( c8 [ d8 ) ] bes4 |
   \time 6/4  c4 bes4 g4 ( bes4 ) c8 bes8 \f bes8  c8 |

@@ -49,10 +49,6 @@ opage ={\pageBreak}
 \include "02_sopranoTwoLyricsCyrillic.ly"
 \include "02_sopranoTwoLyricsLatinG.ly"
 
-\include "10_sopranoThreeNotes.ly"
-\include "10_sopranoThreeLyricsCyrillic.ly"
-\include "10_sopranoThreeLyricsLatinG.ly"
-
 \include "03_altoOneNotes.ly"
 \include "03_altoOneLyricsCyrillic.ly"
 \include "03_altoOneLyricsLatinG.ly"
@@ -77,17 +73,16 @@ opage ={\pageBreak}
 \include "08_bassoTwoLyricsCyrillic.ly"
 \include "08_bassoTwoLyricsLatinG.ly"
 
-\include "09_bassoThreeNotes.ly"
-\include "09_bassoThreeLyricsCyrillic.ly"
-\include "09_bassoThreeLyricsLatinG.ly"
+
 
 
 %%% ------ Print Score
 \score {
-
+%\removeWithTag #'altoThree
+%\removeWithTag #'tenoreThree
 
   \new ChoirStaff   <<
-%{
+
     \new Staff \with {
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
@@ -103,14 +98,6 @@ opage ={\pageBreak}
     \addlyrics { \greyText \sopranoTwoCyrillic }
 
     \new Staff \with {
-      instrumentName = "S. III"
-      shortInstrumentName = "S. III"
-    } { \global \sopranoThreeVoice }
-    \addlyrics { \sopranoThreeLatinG }
-    \addlyrics { \greyText \sopranoThreeCyrillic }
-
-
-    \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
     } {  \global \altoOneVoice}
@@ -123,7 +110,6 @@ opage ={\pageBreak}
     } { \global \altoTwoVoice }
     \addlyrics { \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic }
-
 
     \new Staff \with {
       instrumentName = "T. I"
@@ -138,7 +124,7 @@ opage ={\pageBreak}
     } { \global \clef "treble_8" \tenoreTwoVoice }
     \addlyrics { \tenoreTwoLatinG }
     \addlyrics { \greyText \tenoreTwoCyrillic }
-%}
+
     \new Staff \with {
       instrumentName = "B. I"
       shortInstrumentName = "B. I"
@@ -152,18 +138,8 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoTwoVoice }
     \addlyrics { \bassoTwoLatinG }
     \addlyrics { \greyText \bassoTwoCyrillic }
-%{
-    \new Staff \with {
-      instrumentName = "B. III"
-      shortInstrumentName = "B. III"
-    } {\global \clef bass \bassoThreeVoice }
-    \addlyrics { \bassoThreeLatinG }
-    \addlyrics { \greyText \bassoThreeCyrillic }
-    %}
+
   >>
-
-
-
   \layout { }
 }
 

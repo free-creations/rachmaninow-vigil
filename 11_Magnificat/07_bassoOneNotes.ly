@@ -16,7 +16,7 @@ bassoOneVoice =  \relative g, {
   \time 3/4  g4  g4 \p bes8 \< d8 |
   \time 6/4  es4  \f ( d4  ) c4 \ff f4 \f ( es4 ) d8 ( [ f8 \ff ) ] |
   \time 6/4  g2.\f g2 \> f8 ( [ g8 ) ] |
-  \time 6/4  f2. \p \> f2 \pp r4  |
+  \time 6/4  f2.-- \p \> f2 \pp r4  |
   \time 4/4  R1
 
   \opage %p3

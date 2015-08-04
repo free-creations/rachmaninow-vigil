@@ -6,7 +6,7 @@ altoOneVoice = \relative c' {
   \time 6/4  d,2. \p g2 ) \pp r8 f8 \p | % 6
   \time 4/4  g4--\mp \> f8 f8  f8  f8 f8  \pp \breathe f8 \p | % 7
   \time 15/8 g4 \mp \> -- f8 f8 f8 f8 f8 f16--  ( [ es16 ) ] f8 f8  f8 \p  f8 f8  \pp \breathe f8 \p \< f8 | % 8
-  \time 6/4  g4 \mp \> f8 f8  f8 f8 f8 f8 \bar ""
+  \time 6/4  g4-- \mp \> f8 f8  f8 f8 f8 f8 \bar ""
 
   \opage %p2
   f8 f8 f4 \pp |
@@ -17,12 +17,12 @@ altoOneVoice = \relative c' {
   \time 3/4  g2 \p f4  |
   \time 6/4  g4 g4 \< a8 ( [ bes8 ) ] a8 ( [ g8 ] a4 ) bes8 ( [ g8 ) ] |
   \time 6/4  c2. \f ( ~ c4 \> bes2 ) |
-  \time 6/4  f2.  \p  d2 \pp r8  g8 \p |
+  \time 6/4  f2.--  \p  d2 \pp r8  g8 \p |
   \time 4/4  g4 -- g8 g8 g16 ( [ fis16 ) ] e8 fis8  \pp \breathe g8 \p |
 
   \opage %p3
-  \time 15/8 g4 -- g8 g8 g8 g8 g8 fis8 g8 g8 g16 ( [ fis16 ) ] e8 fis8 g8 g8 |
-  \time 6/4  g4 g8 g8 g16 ( [ fis16 ) ] e8 \bar "" fis8 g8 g16 \> ( [ fis16 ) ] e8 fis4  \pp |
+  \time 15/8 g4 -- g8 g8 g8 g8 g8 fis8 g8 g8 g16 ( [ fis16 ) ] e8 fis8 \breathe g8 g8 |
+  \time 6/4  g4-- g8 g8 g16 ( [ fis16 ) ] e8 \bar "" fis8 g8 g16 \> ( [ fis16 ) ] e8 fis4  \pp |
   \time 6/4  g4 \p -- \> g8  f8 bes,8 es8 d8 \pp d8 d8 d16 ( [ es16 ) ] d16 ( [ es16 ) ] d16 \< ( [ es16 ) ] |
   \time 6/4  f8. \p \> ( [ g16 ] f8  [ g8 ] f8 [ es8 ]) d2.  \pp |
   \time 6/4  r2. a'4 \f g4 a8 a8 |
@@ -33,9 +33,9 @@ altoOneVoice = \relative c' {
   \time 9/4  es4 \mf \> ( -- f4  g4 ) bes,4 \p ( -- a2 ~ a2 ) d4 |
   \time 6/4  c4 \p ( d8 [ es8 ) ] d4 c4 c4 bes4 |
   \time 9/4  c2. ~ c2. ~ c2 r8 g'8 \pp |
-  \time 4/4  as4 \p -- g8 \pp  g8 g16 ( [ f16 ) ] g8 f8 g8 |
-  \time 15/8 as4 g8 g8 g8 g8 \bar "" g8 g8-- g8 g8 g16 ( [ f16 ) ] g8 f8 \breathe g8 g8 |
-  \time 6/4  as4 g8 g8 g8 g8 as16 [( f16 )] g8 g16 ( [ f16 ) ] g8 f4 |
+  \time 4/4  as4 \p -- g8 \pp  g8 g16 ( [ f16 ) ] g8 f8 \breathe g8 |
+  \time 15/8 as4-- g8 g8 g8 g8 \bar "" g8 g8-- g8 g8 g16 ( [ f16 ) ] g8 f8 \breathe g8 g8 |
+  \time 6/4  as4-- g8 g8 g8 g8 as16 [( f16 )] g8 g16 ( [ f16 ) ] g8 f4 |
 
   \opage %p5
   \time 7/4  g4-- \p g4-- g4-- g8 \>  fis8 g8 \pp g8 g8 g8-- g8-- g8-- |
@@ -47,7 +47,7 @@ altoOneVoice = \relative c' {
   \time 4/4   f4 \p g4 f4 es8 \< \< es8 |
   \time 4/4  es4 \mf \>  -- es4 es8  es8 es8 c8 |
   \time 4/4   d4 \pp d4 e8 ( [ d8 \<  ] ) e8  ( [ fis8 ) ] |
-  \time 4/4   g4 \p \> f4 es4 \pp ( d4 ) |
+  \time 4/4   g4-- \p \> f4 es4 \pp ( d4 ) |
 
   \opage %p6
   \time 3/4  c2 \ppp r8 g'8 \pp |

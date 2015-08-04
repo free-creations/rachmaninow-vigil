@@ -35,7 +35,7 @@ sopranoTwoVoice = \relative c '' {
   \time 6/4  g2 \p g4 g4 f4 es4 | % 3
   \time 9/4  es2 ( d4 \> c2 )\pp r4  r2 r8 g'8 \pp |
   \time 4/4  as4 \p \p -- g8 \pp g8 g16 ( [ f16 ) ] g8 f8 \breathe g8 |
-  \time 15/8 as4-- g8 g8 g8 g8 \bar "" g8 g8 g8 g8 g16 ( [ f16 ) ] g8 f8 \breathe g8 g8 |
+  \time 15/8 as4-- g8 g8 g8 g8 \bar "" g8 g8-- g8 g8 g16 ( [ f16 ) ] g8 f8 \breathe g8 g8 |
   \time 6/4  as4 -- g8 g8 g8 g8 as16 ( [ f16 ) ] g8 g16 ( [ f16 ) ] g8  f4 |
   
   \opage %p5
@@ -46,7 +46,7 @@ sopranoTwoVoice = \relative c '' {
   \time 4/4  c4  \mf c4 c4 \< b4 | 
   \time 4/4  c4 \f ( -- \> bes4 ) c4 \mf bes4 | 
   \time 4/4  a4 \p a4 a4 g8 \< g8 |
-  \time 4/4  as4  \mf \> g4 as8  as8 as8 g8 | 
+  \time 4/4  as4  \mf \> g4 as8 \p  as8 as8 g8 | 
   \time 4/4  fis4 \pp fis4 g8 ( [ fis8 \< ) ] g8 ( [ a8 ) ] |
   \time 4/4  bes4 -- \p \> a4 g4 \pp ( fis4 ) |
   
@@ -55,13 +55,13 @@ sopranoTwoVoice = \relative c '' {
   \time 4/4  c4-- c8 c8 c16 ([ b16 ]) a8 b8 \breathe c8 | 
   \time 15/8  c4 -- c8 c8 c8 c8 c8 b8 c8 c8 \bar ""  c16 [( b!16 ]) a8 b8 \breathe c8  c8 | 
   \time 6/4  c4 -- c8 c8 c16 [( b16 ]) a8 b8 c8 c16 [( b16 ]) a8 b4 | 
-  \time 6/4  c8 \p [( bes8 ]) c8 bes8 bes8 \> a8 bes8  \pp bes8 bes8 bes8 bes8-- bes8-- | 
+  \time 6/4  c8-- \p [( bes8 ]) c8 bes8 bes8 \> a8 bes8  \pp bes8 bes8 bes8 bes8-- bes8-- | 
   \time 6/4  bes2-- \p \> ( ~ bes8 [ a8 ) ] bes2. \pp |
   
   \opage %p7
   \time 8/4  r4 r4 \bar "|" s2 r1 |
   \time 6/4  R1.*2 |
-  \time 6/4  r2. r4 g4 bes4 \pp |
+  \time 6/4  r2. r4 g4 \pp bes4  |
   \time 6/4  bes4 a8 [( bes8 ]) c2 c4 ( bes4 ) |
   \time 6/4  es2 d4 es4 f4 d8 ( [ f8 ) ] |
   \time 4/4  g4( \ff f4 es4) d4 |

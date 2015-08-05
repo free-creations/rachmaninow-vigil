@@ -7,7 +7,7 @@
 
 
 \paper {
-  paper-height = 800\mm
+  paper-height = 1000\mm
   paper-width = 140\mm
   top-margin = 8\mm
   bottom-margin = 2\mm
@@ -28,6 +28,12 @@ greyText = {
   \override Lyrics.LyricText  #'color =  #(x11-color 'grey40)
   \override Lyrics.LyricHyphen  #'color =  #(x11-color 'grey40)
   \override Lyrics.LyricExtender  #'color =  #(x11-color 'grey40)
+}
+
+blackText = {
+  \override Lyrics.LyricText  #'color =  #black
+  \override Lyrics.LyricHyphen  #'color =  #black
+  \override Lyrics.LyricExtender  #'color =  #black
 }
 
 global = {
@@ -51,10 +57,6 @@ opage ={}
 \include "02_sopranoTwoNotes.ly"
 \include "02_sopranoTwoLyricsCyrillic.ly"
 \include "02_sopranoTwoLyricsLatinG.ly"
-
-\include "10_sopranoThreeNotes.ly"
-\include "10_sopranoThreeLyricsCyrillic.ly"
-\include "10_sopranoThreeLyricsLatinG.ly"
 
 \include "03_altoOneNotes.ly"
 \include "03_altoOneLyricsCyrillic.ly"
@@ -80,10 +82,6 @@ opage ={}
 \include "08_bassoTwoLyricsCyrillic.ly"
 \include "08_bassoTwoLyricsLatinG.ly"
 
-\include "09_bassoThreeNotes.ly"
-\include "09_bassoThreeLyricsCyrillic.ly"
-\include "09_bassoThreeLyricsLatinG.ly"
-
 
 
 %---------- Soprano-------------------------------
@@ -93,7 +91,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "S. I"
     } { \global \sopranoOneVoice }
-    \addlyrics { \sopranoOneLatinG }
+    \addlyrics { \blackText \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
   }
 }
@@ -104,21 +102,12 @@ opage ={}
     \new Staff \with {
       instrumentName = "S. II"
     } { \global \sopranoTwoVoice }
-    \addlyrics { \sopranoTwoLatinG }
+    \addlyrics { \blackText \sopranoTwoLatinG }
     \addlyrics { \greyText \sopranoTwoCyrillic }
   }
 }
 
-\book {
-  \bookOutputName "10_sopranoThree"
-  \score {
-    \new Staff \with {
-      instrumentName = "S. III"
-    } { \global \sopranoThreeVoice }
-    \addlyrics { \sopranoThreeLatinG }
-    \addlyrics { \greyText \sopranoThreeCyrillic }
-  }
-}
+
 %---------- Alto -------------------------------
 \book {
   \bookOutputName "03_altoOne"
@@ -127,7 +116,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "A. I"
     } { \global  \altoOneVoice }
-    \addlyrics { \altoOneLatinG }
+    \addlyrics { \blackText \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
   }
 }
@@ -137,7 +126,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "A. II"
     } { \global  \altoTwoVoice }
-    \addlyrics { \altoTwoLatinG }
+    \addlyrics { \blackText \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic}
   }
 }
@@ -149,7 +138,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "T. I"
     } {\clef "treble_8" \global \tenoreOneVoice }
-    \addlyrics { \tenoreOneLatinG }
+    \addlyrics { \blackText \tenoreOneLatinG }
     \addlyrics { \greyText \tenoreOneCyrillic }
   }
 }
@@ -171,7 +160,7 @@ opage ={}
     \new Staff \with {
       instrumentName = "B. I"
     } { \clef bass \global  \bassoOneVoice }
-    \addlyrics { \bassoOneLatinG }
+    \addlyrics { \blackText \bassoOneLatinG }
     \addlyrics { \greyText \bassoOneCyrillic }
   }
 }
@@ -181,20 +170,11 @@ opage ={}
     \new Staff \with {
       instrumentName = "B. II"
     } { \clef bass \global   \bassoTwoVoice }
-    \addlyrics { \bassoTwoLatinG }
+    \addlyrics { \blackText \bassoTwoLatinG }
     \addlyrics { \greyText \bassoTwoCyrillic }
   }
 }
 
-\book {
-  \bookOutputName "09_bassoThree"
-  \score {
-    \new Staff \with {
-      instrumentName = "B. III"
-    } { \clef bass \global   \bassoThreeVoice }
-    \addlyrics { \bassoThreeLatinG }
-    \addlyrics { \greyText \bassoThreeCyrillic }
-  }
-}
+
 
 %}

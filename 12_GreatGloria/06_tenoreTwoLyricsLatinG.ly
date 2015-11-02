@@ -1,4 +1,4 @@
-%%% Do not edit, file is generated automatically from 06_tenoreTwoLyricsCyrillic.ly
+%%% Do not edit. This file is generated automatically from 06_tenoreTwoLyricsCyrillic.ly
 
 tenoreTwoLatinG = \lyricmode {
   "Gos 6"

@@ -22,6 +22,11 @@ global = {
   \accidentalStyle "modern-voice-cautionary"
   \override Score.TimeSignature #'stencil = ##f
 }
+greyText = {
+  \override Lyrics.LyricText  #'color =  #(x11-color 'grey40)
+  \override Lyrics.LyricHyphen  #'color =  #(x11-color 'grey40)
+  \override Lyrics.LyricExtender  #'color =  #(x11-color 'grey40)
+}
 
 obreak = {}
 
@@ -39,9 +44,16 @@ obreak = {}
 \include "06_tenoreTwoNotes.ly"
 
 \include "07_bassoOneNotes.ly"
-\include "08_bassoTwoNotes.ly"
-\include "09_bassoThreeNotes.ly"
+\include "07_bassoOneLyricsCyrillic.ly"
+\include "07_bassoOneLyricsLatinG.ly"
 
+\include "08_bassoTwoNotes.ly"
+\include "08_bassoTwoLyricsCyrillic.ly"
+\include "08_bassoTwoLyricsLatinG.ly"
+
+\include "09_bassoThreeNotes.ly"
+\include "09_bassoThreeLyricsCyrillic.ly"
+\include "09_bassoThreeLyricsLatinG.ly"
 
 
 
@@ -49,7 +61,9 @@ obreak = {}
 \score {
 
   \new ChoirStaff   <<
+    %{
     \new Staff \with {
+      
       instrumentName = "T. solo"
     } { \clef "treble_8" \tenoreSoloVoice }
     \addlyrics { \tenoreSoloVerse }
@@ -80,21 +94,28 @@ obreak = {}
     } { \clef "treble_8" \tenoreTwoVoice }
 
     \addlyrics { \tenoreTwoVerse }
+%}
 
     \new Staff \with {
       instrumentName = "B. I"
-    } { \clef bass \bassoOneVoice }
-    \addlyrics { \bassoOneVerse }
+      shortInstrumentName = "B. I"
+    } {\global \clef bass \bassoOneVoice }
+    \addlyrics { \bassoOneLatinG }
+    \addlyrics { \greyText \bassoOneCyrillic }
+
     \new Staff \with {
       instrumentName = "B. II"
-    } { \clef bass \bassoTwoVoice }
-    \addlyrics { \bassoTwoVerse }
+      shortInstrumentName = "B. II"
+    } {\global \clef bass \bassoTwoVoice }
+    \addlyrics { \bassoTwoLatinG }
+    \addlyrics { \greyText \bassoTwoCyrillic }
 
     \new Staff \with {
       instrumentName = "B. III"
-    } { \clef bass \bassoThreeVoice }
-    \addlyrics { \bassoThreeVerse }
-
+      shortInstrumentName = "B. III"
+    } {\global \clef bass \bassoThreeVoice }
+    \addlyrics { \bassoThreeLatinG }
+    \addlyrics { \greyText \bassoThreeCyrillic }
 
   >>
   \layout { }
@@ -102,7 +123,7 @@ obreak = {}
 
 %%% ------ Midi Score
 
-
+%{
 \score {
   <<
     \articulate
@@ -144,4 +165,4 @@ obreak = {}
 }
 
 
-
+%}

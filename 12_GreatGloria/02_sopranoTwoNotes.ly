@@ -1,6 +1,6 @@
-sopranoTwoVoice = {
- c
+
+sopranoTwoVoice = \relative c '' {
+  c
 }
 
-sopranoTwoVerse = {
-}
+

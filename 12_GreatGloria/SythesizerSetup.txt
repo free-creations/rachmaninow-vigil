@@ -1,0 +1,30 @@
+channel 1 -8 Voices: Kawai CS7 Digitalpiano (5 Mellow Grand)
+
+------------------------------------------
+channel x - y Choir 
+Synth 4 Papelmedia_Ahh-Choir through calf Multi Chorus
+Delays: (max 60 Ticks -> 1/32)
+ch 1  S I 	delay 15
+ch 2  S II 	delay 32
+ch 3  S III 	delay 15
+ch 4  A I 	delay 20
+ch 5  A II 	delay 40
+ch 6  T I 	delay 17
+ch 7  T II 	delay 27
+ch 8  B I 	delay 13
+ch 9  B II 	delay 23
+ch 10 B III	delay 11
+ch 11 Solo	delay 7
+
+-------------------------------------------
+Synt 2
+channels 9 - 14 Orchestra: Jeux14 
+
+
+09) Female: 1/30 Fonds rec 8
+12) Male: 1/35 Soft pos. 16-8-4
+13) Male subbass: 0/ 15 Bourdon 16
+14) Solo: 0/90 Petit Jeu
+
+Reverb lv2rack IR Basilica di Foligno
+.config/rncbc.org/Qsynth.conf

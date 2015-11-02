@@ -1,6 +1,5 @@
-tenoreTwoVoice = {
- c
+tenoreTwoVoice = \relative c' {
+  c
 }
 
-tenoreTwoVerse = {
-}
+

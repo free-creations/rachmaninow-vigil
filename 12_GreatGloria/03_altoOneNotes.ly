@@ -1,6 +1,4 @@
-altoOneVoice = {
- c
+altoOneVoice = \relative c'' {
+  c
 }
 
-altoOneVerse = {
-}

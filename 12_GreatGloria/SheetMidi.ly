@@ -3,7 +3,7 @@
 #(ly:set-option 'midi-extension "mid")
 
 \header {
-  title = "Title"
+  title = "12. Die große Lobpreisung"
   tagline = ##f
 }
 
@@ -13,7 +13,7 @@
 }
 
 global = {
-  \key f \major
+  \key es \major
   \numericTimeSignature
   \dynamicUp
   \autoBeamOff
@@ -24,9 +24,7 @@ global = {
 }
 
 midiGlobal = {
-  \key f \major
-  \numericTimeSignature
-  \time 1/4  s4
+ \global
 }
 
 greyText = {
@@ -179,7 +177,7 @@ opage ={\pageBreak}
 }
 
 %%% ------ Midi Score
-
+%{
 \score {
   <<
     \articulate

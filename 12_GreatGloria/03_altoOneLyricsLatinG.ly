@@ -10,7 +10,16 @@ altoOneLatinG = \lyricmode {
   
   Kla -- nja -- jem Ti "sja," sla -- wo -- slo --  wim "Tja,"
   bla -- go -- da --  rim "Tja,"
-  we %%-- ли 
+  we --
+  
+  % page 2
+  li -- ki -- ja ra -- di sla -- wy Two -- je -- "ja."
+  Gos -- po -- di Za -- rju Ne -- bes -- "ny,"
+  
+  Bo -- sche Ot -- tsche Wse -- der -- schi te -- "lju,"__  Gos -- po -- "di,"
+  
+  Sy -- ne  Je -- di -- no -- rod -- "ny," I i -- su -- se Chri -- "ste ,"   
+  i Swja -- tyji  Du -- "sche."
   
   
 }

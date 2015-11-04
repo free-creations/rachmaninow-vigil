@@ -50,11 +50,49 @@ altoOneLatinG = \lyricmode {
   so -- chra -- ni -- ti -- sja "nam."
   Bu -- "di,"
   Gos -- po -- "di,"
-  mi -- lost Two -- ja    na "nas,"
+  mi -- lost __ Two -- ja    na "nas,"
   ja -- ko -- sche u -- po -- wa -- chom na "Tja."
   Bla -- go -- slo -- wen je -- "si,"
   Gos -- po -- "di,"
-  na -- u -- tschi mja o -- praw -- da-- ni -- jem Two -- "im." __
+  na -- u -- tschi mja o -- praw -- da -- ni -- jem Two -- "im." __
+  
+  %page 7
+  Bla -- go -- slo -- wen je -- "si,"
+  Gos -- po -- "di,"
+  na --  u -- tschi mja o -- praw -- da -- ni -- jem Two -- "im."
+  Bla -- go -- slo -- wen je -- "si,"
+  
+  %page 8
+  Gos -- po -- "di,"
+  na --  u -- tschi mja o -- praw -- da -- ni -- jem Two -- "im." __  
+  "K Te" -- be pri -- be -- "goch." __
+  
+  %page 9
+  As "rech:"     
+  Gos -- po -- "di," __
+  po -- mi -- luj "mja,"
+  is -- ze -- li du -- schu mo -- "ju,"
+  ja -- ko so -- gre -- schich Te -- "be." __
+  
+  %page 10
+  Gos -- po -- "di," __
+  "K Te" -- be pri -- be -- "goch." __
+  na --  u -- tschi mja Two --
+  ri -- ti wo -- lju Two -- "ju,"
+  ja -- ko Ty je -- si __ Bog __ "moj:"
+  
+  %page 11
+  ja -- ko u Te -- be is -- totsch -- nik schi --  wo -- "ta,"
+  wo swe -- te Two -- jem u -- srim "swet."
+  Pro -- ba -- wi mi -- lost Two -- ju __ we __
+  
+  du -- schtschim "Tja."
+  Swja -- ty Bo -- "sche,"
+  Swja -- ty Krep -- "ki,"
+  Swja -- ty bes -- smert -- "nmj,"
+  po.
+  
+  
 
 
 

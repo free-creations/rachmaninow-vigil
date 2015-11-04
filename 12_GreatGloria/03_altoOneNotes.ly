@@ -119,7 +119,61 @@ altoOneVoice = \relative es' {
       as4 g4 g4
     }
   }|
+
+  \opage %8
+
+  \time 4/2{
+    \times 2/3  {
+      g4 \mp g4 g4
+    }
+    \times 2/3  {
+      g4  g4 g4
+    }
+    \times 2/3  {
+      g4 \< g4  f8 ( [ g8  ) ]
+    }
+    as2 \ff \>
+  }| % 2
+  \time 4/2{
+    \times 2/3  {
+      as4 g4 g4
+    }
+    f1 \p ~ f4 r4
+  }|
+  \time 4/2  R1*2 |
+  \time 4/2  r1 r2 g2 -- \p |
+  \time 4/2  g2 -- g4 \< f8 ( [ g8 ) ] as2 \mp ( g4 \p ) r4 |
+
+  \opage %9
+  \time 4/2  R1*2 |
+  \time 4/2  r1 f2-- \mf g2-- |
+  \time 4/2  as2-- g4 \p g4 ~ g4 f4 g4 g4 |
+  \time 4/2  g4 g4 g4 g4 g4 g4 g4 g4 |
+  \time 4/4  g4 g4 g4 f8 \< ( [ g8 ) ] | % 6
+  \time 4/2  as2 \mp \> g2 f2 \p ( ~ f4 \< g4 )
+
+  \opage %10
+  \time 3/2  g2-- \mf \> g2-- g2-- \p  |
+  \time 3/2  g4-. g4-. g8-.  [ f8  ] es4 -. f2-- | % 3
+  \time 3/2  f4 g4 as2-- g4 g4 -.  | % 4
+  \time 3/2  g4 \p g4 -. g4 -. g4 -. g4 -. g4 -. | % 5
+  \time 3/2  g4-. g4 -. g4 -. g4 -. g4-- \< ( f8  [ g8 ) ] | % 6
+  \time 3/2  as2( \f \> g2 ) f2 \p
+
+  \opage %11
+  \time 3/2  bes4 \p bes4 bes4 bes4 bes4 bes4 |
+  \time 3/2  bes4 \mp \> bes4 bes4 \p  bes4 \< bes2 | % 3
+  \time 3/2  es,8 \mf [ f8 ] g4 g4 g4 g4( \<  f8 [ g8 ] ) | % 4
+  \time 3/2  as2 \f \> g2  f2 | % 5
+  \time 3/2  bes4 \mp bes4 bes4 \<  bes4 bes4 bes4 | % 6
+  \time 4/2  c2 ( \ff g4 c4  ) c2 ( g4 c4 ) |
+  \time 4/2  bes2 \> g2 bes1 \breathe | % 8
+  \time 4/4  g4  \p g4 f4 -- es8 ([ f8 ] ) | % 9
+  \time 4/4  g4 g4 f4 es8 ( [ f8 ) ] |
+  \time 4/4  g8 ( [ f8 ) ] g4 f4 ( g4 ) | % 11
+  \time 4/4  as2 \mf \> g4 as4
   
-  g \mp
+  g \p
+
 }
 

@@ -74,7 +74,32 @@ sopranoOneLatinG = \lyricmode {
   Swja -- ty Bo -- "sche,"
   Swja -- ty Krep -- "ki,"
   Swja -- ty bes -- smert -- "nmj,"
-  po %%% --
+  po --
+
+  %page 12
+  mi -- luj "nas."
+  Swja -- ty  Bo -- "sche,"
+  Swja -- ty krep -- "ki,"
+  Swja -- tyji Bes -- smert -- "ny,"
+  po -- mi -- luj "nas."
+
+  Swja -- ty  Bo -- "sche,"
+  Swja -- ty krep -- "ki,"
+  Swja -- ty bes -- smert -- "ny,"
+  po -- mi -- luj  "nas."
+  Sla -- wa Ot -- zu i Sy -- nu i Swja -- to -- mu Du -- "chu,"
+  
+    %page 13
+  i ny -- ne i pris -- no i wo we -- ki we -- "kow,"
+  a -- "min."
+  Swja -- ty Bes --
+  smert -- "ny,"
+  po -- mi -- luj "nas."
+  
+  Swja -- ty Bo -- "sche,"
+  Swja -- ty krep -- "ki,"
+  Swja -- ty bes -- smert -- "ny,"
+  po -- mi -- luj  "nas."
 
 
 }

@@ -99,7 +99,32 @@ sopranoOneVoice = \relative c'' {
   \time 4/4  es8 ( [ d8 ) ] es4 d4 \< ( es4 ) | % 11
   \time 4/4  f2  \mf \> -- es4 d4 
   
-  es \p
+  \opage %12
+  \time 3/2  es2-- \p \> d2 c2 \pp | % 2
+  \time 4/4  c4 \p c4 d4-- c8 ( [ d8 ) ] |
+  \time 4/4  es4 es4 d4-- c8 [ d8 ] | % 4
+  \time 4/4  es8 ( [ d8 ) ] es4 d4 \< ( es4 ) | % 5
+  \time 4/4  f2 \mp \> es4 d4  | % 6
+  \time 3/2  es2-- \p \> d2--  c2-- | % 7
+  \time 4/4  c4-- \pp  c4 d4-- c8 ( [ d8 ) ] | % 8
+  \time 4/4  es4-- es4 d4-- c8 [( d8 ]) | % 9
+  \time 4/4  es8-- ( [ d8 ) ] es4 d4( \< es4 ) | 
+  \time 4/4  f2 \f \> es4 d4 | % 11
+  \time 3/2  es2 \p \> d2  c2 \pp | % 12
+  \time 4/2  d2-- \mf  d4 es4 d4-- d4 d4 d4 | % 13
+  \time 4/2  d4 d4 d4 d8 \< ( [ es8 ) ] f2-- \f\> es2
+  
+
+  
+  \opage %13
+  \time 4/2  es4\mf es4 es4 es4 es4 -> es4 es4 es4 | % 2
+  \time 4/2  es2 -> es4 es4 f4 es4 f2 | % 3
+  \time 4/2  f2 \f ( es2 ) f2 es4( f4)  | % 4
+  \time 4/2  g2 -> f4 \mf es4 f4 es4 d2 | % 5
+  \time 4/2  c2 \f d2 es2 d2  | % 6
+  \time 4/2  f4 ( es4 ) f2 es2 d2 | % 7
+  \time 4/2  f4 ( es4 ) f4 \<  g4 as2-> \ff g4 \> es4 | % 8
+  \time 4/2  g2  -- f2 -- es1 \p \fermata \bar "|."
 
 
 

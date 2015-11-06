@@ -97,7 +97,7 @@ altoOneLatinG = \lyricmode {
   %page 12
   mi -- luj "nas."
   Swja -- ty  Bo -- "sche,"
-  Swja -- ty Krep -- "ki,"
+  Swja -- ty krep -- "ki,"
   Swja -- tyji Bes -- smert -- "ny,"
   po -- mi -- luj "nas."
   Swja -- ty  Bo -- "sche,"

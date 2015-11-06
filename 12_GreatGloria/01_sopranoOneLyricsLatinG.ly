@@ -42,24 +42,39 @@ sopranoOneLatinG = \lyricmode {
   Gos -- po -- "di,"
   mi -- lost __ Two -- ja    na "nas,"
   ja -- ko -- sche u -- po -- wa -- chom na "Tja."
-  
+
   Po -- mi -- luj -- "mja."
   Is -- ze --
-  
+
   %page 7
   li __ du -- schu mo -- "ju." __
   "K Te" -- be __
-  
+
   %page 8
   pri -- be -- "goch." __
-  
+
   Gos -- po -- "di,"
   pri -- be -- schi -- schtsche byl __
-  
+
   %page 9
-  je -- si "nam." 
+  je -- si "nam."
   Is -- ze -- li du -- schu mo -- "ju," __
-  ja
+  ja --
+  %page 10
+  ko so -- gre -- schich Te -- "be," __
+  na -- u -- tschi __ "mja," __
+  ja -- ko __ Ty __ je -- si __ Bog __ "moj:"
+
+  %page 11
+  ja -- ko u Te -- be is -- totsch -- nik schi --  wo -- "ta,"
+  wo swe -- te Two -- jem __ u -- srim "swet."
+  Pro -- ba -- wi mi -- lost Two -- ju __ we __
+
+  du -- schtschim "Tja."
+  Swja -- ty Bo -- "sche,"
+  Swja -- ty Krep -- "ki,"
+  Swja -- ty bes -- smert -- "nmj,"
+  po %%% --
 
 
 }

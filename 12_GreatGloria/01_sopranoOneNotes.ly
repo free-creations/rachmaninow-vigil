@@ -56,38 +56,53 @@ sopranoOneVoice = \relative c'' {
   \time 4/2  f1. \mf \>  ( es2  | % 8
   \time 4/2  d2   es2 \p ) d4 \< ( es4 ) f2 ~ \f \> ( | % 9
   \time 4/2  f4  es4  d2 \p ~ d4 ) r4 d4 \< es4 \!
-  
+
   \opage %7
-  \time 4/2  f1. ( \mf \> ~ f4 es4 ) \mp | 
+  \time 4/2  f1. ( \mf \> ~ f4 es4 ) \mp |
   \time 4/2  c4 \< ( es4 ) f4--\f \> ( es4  ) d4 \mf \< ( es4 ) f2  \f \> ( ~
   \time 4/2  f4  es4 d2 \p d4 ) r4 d4 \< ( es4  ) | % 4
   \time 4/2  f1. (--  \f \> ~ f4 es4 )  |
-  
+
   \opage %8
-  \time 4/2  d4 \mf \< ( es4 f4-- \f \> es4 ) d4 \mf \< ( es4 ) f2 (  \ff \> ~ | 
+  \time 4/2  d4 \mf \< ( es4 f4-- \f \> es4 ) d4 \mf \< ( es4 ) f2 (  \ff \> ~ |
   \time 4/2  f4 es4 d1 \p ~ d4 ) r4 | % 3
   \time 4/2  f,2-- \ppp es2-- d2-- es2 -- | % 4
   \time 4/2  f2-- ( es2 d2 es2 | % 5
   \time 4/2  f2-- ) es2-- d2-- es2 (
-  
+
   \opage %9
-  \time 4/2  f1) \p es2 \ppp es2  | 
+  \time 4/2  f1) \p es2 \ppp es2  |
   \time 4/2  d\breve | % 3
   \time 4/2  r1 r2 r4 d'8 \pp \< ( [ es8  ] | % 4
   \time 4/2  f4-- \p \> ) es4 d2 \pp r2 r4 d8 \< ( [ es8 ] | % 5
   \time 4/4  f4 \p \> f4 ) es2 \pp | % 6
-  \time 4/2  r4 d8 \< ([ es8 )] f4 \mp \> ( es4 d2 ) d4 ( \p \<  es4 \!
-  
+  \time 4/2  r4 d8 \< ([ es8 )] f4 \mp \> ( es4 d2 ) d4 ( \p \<  es4 
+
   \opage %10
- \time 3/2  f2 \mf \> s2 d4 \! \p d4 \mp | % 2
-  d4 d4 c4 bes8 [ c8 ] d4 \< s4 | % 3
-  f4 \! ( es8 [ d8 ] es1 ) -- \break | % 4
-  d2 \p c4 bes8 \< -. [ c8 ] d2 \! ( ~ s4 \> | % 5
-  <d c>4 \! [ <bes c>8 ) ] ( s8 \< bes8 ) [ c8 ] d4. \! \< ( es8 ) | % 6
-  d2 \! \> ( c2 ) bes2 \!
+  \time 3/2  f2) \mf \> es2 d4  \p d4 | % 2
+  \time 3/2  d4 d4 c4(-- bes8 [ c8 ]) d4 \< es4 | % 3
+  \time 3/2  f4 \mp \> ( es8 [ d8 ]) es1 \p --  | % 4
+  \time 3/2  d2  c4 ( \< bes8  [ c8 ])  d2( \mp \> ~ | % 5
+  \time 3/2  d4  c8[ bes8]) c4( --\p \< bes8 [ c8 ]) d4.( \mp  es8 ) | % 6
+  \time 3/2  d2 \> ( c2 ) bes2 \p
   
+  \opage %11
+  \time 3/2  f'4 \p es4 es4 d8( [ c8 ]) d4 bes8( \< [ c8 ]) | 
+  \time 3/2  d4\mp \> d4 es8 \p ( [ d8 ) ] c4 \< d2 | % 3
+  \time 3/2  es4 \mf es4 es8 ( [ d8 ) ] c4 c4( \< d4)  | % 4
+  \time 3/2  f2 \f es2 \> d2 | % 5
+  \time 3/2  es4 \mf f4 f4 \< f4 f4 g4 | % 6
+  \time 4/2  as2-> \ff ( g4-> f8->   [ g8 ]) as2-> ( g4-> as8-> [ g8 ) ]  | % 7
+  \time 4/2  f2 \>  es2 f1 \breathe | % 8
+  \time 4/4  c4 \p c4 d4 c8 [( d8 ]) | % 9
+  \time 4/4  es4 es4 d4 -- c8 ( [ d8 ) ] | 
+  \time 4/4  es8 ( [ d8 ) ] es4 d4 \< ( es4 ) | % 11
+  \time 4/4  f2  \mf \> -- es4 d4 
   
-  
+  es \p
+
+
+
 
 
 

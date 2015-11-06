@@ -95,7 +95,7 @@ opage ={\pageBreak}
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
-
+%{
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
@@ -110,14 +110,14 @@ opage ={\pageBreak}
     \addlyrics { \sopranoThreeLatinG }
     \addlyrics { \greyText \sopranoThreeCyrillic }
 
-
+%}
     \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
-
+%{
     \new Staff \with {
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
@@ -168,7 +168,7 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoThreeVoice }
     \addlyrics { \bassoThreeLatinG }
     \addlyrics { \greyText \bassoThreeCyrillic }
-
+%}
   >>
 
 

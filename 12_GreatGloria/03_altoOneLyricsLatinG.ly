@@ -8,7 +8,7 @@ altoOneLatinG = \lyricmode {
   Chwa -- lim "Tja,"
   bla -- go -- slo -- wim "Tja,"
 
-  Kla -- nja -- jem Ti "sja," sla -- wo -- slo --  wim "Tja,"
+  Kla -- nja -- jem -- ti -- "sja," sla -- wo -- slo --  wim "Tja,"
   bla -- go -- da --  rim "Tja,"
   we --
 
@@ -18,8 +18,8 @@ altoOneLatinG = \lyricmode {
 
   Bo -- sche Ot -- tsche Wse -- der -- schi te -- "lju,"__  Gos -- po -- "di,"
 
-  Sy -- ne  Je -- di -- no -- rod -- "ny," I i -- su -- se Chri -- "ste ,"
-  i Swja -- tyji  Du -- "sche."
+  Sy -- ne  Je -- di -- no -- rod -- "ny," I -- i -- su -- se Chri -- "ste ,"
+  i Swja -- tyji __ Du -- "sche."
 
   %page 3
   Gos -- po -- di  Bo -- "sche," Agn -- tsche Bo -- "schi,"
@@ -35,7 +35,9 @@ altoOneLatinG = \lyricmode {
   I i -- sus Chris -- "tos," "w sla" -- wu Bo -- ga
   Ot -- "za."
   A -- "min."
-  Na wsjak den  bla -- go -- slow -- lju Tja i wos -- chwa --
+  Na wsjak "den,"
+  bla -- go -- slow -- lju "Tja"
+  i wos -- chwa --
   lju i -- mja   Two -- je wo     we -- ki    i "w wek" we -- "ka." __
 
   %page 5
@@ -83,14 +85,39 @@ altoOneLatinG = \lyricmode {
   
   %page 11
   ja -- ko u Te -- be is -- totsch -- nik schi --  wo -- "ta,"
-  wo swe -- te Two -- jem u -- srim "swet."
+  wo swe -- te Two -- jem __ u -- srim "swet."
   Pro -- ba -- wi mi -- lost Two -- ju __ we __
   
   du -- schtschim "Tja."
   Swja -- ty Bo -- "sche,"
   Swja -- ty Krep -- "ki,"
   Swja -- ty bes -- smert -- "nmj,"
-  po.
+  po --
+  
+  %page 12
+  mi -- luj "nas."
+  Swja -- ty  Bo -- "sche,"
+  Swja -- ty Krep -- "ki,"
+  Swja -- tyji Bes -- smert -- "ny,"
+  po -- mi -- luj "nas."
+  Swja -- ty  Bo -- "sche,"
+  Swja -- ty Bes -- smert -- "ny,"
+  po -- mi -- luj  "nas."
+  Sla -- wa Ot -- zu i Sy -- nu i Swja -- to -- mu Du -- "chu,"
+  
+  %page 13
+  i ny -- ne i pris -- no i wo we -- ki we -- "kow,"
+  a -- "min."
+  Swja -- ty Bes --
+  smert -- "ny,"
+  po -- mi -- luj "nas."
+  Swja -- ty Bo -- "sche,"
+  Swja -- ty Krep -- "ki,"
+  
+  Swja -- ty Bo -- "sche,"
+  Swja -- ty Krep -- "ki,"
+  Swja -- ty Bes -- smert -- "ny,"
+  po -- mi -- luj "nas."
   
   
 

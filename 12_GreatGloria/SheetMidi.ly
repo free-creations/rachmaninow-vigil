@@ -88,7 +88,7 @@ opage ={\pageBreak}
 \score {
 
   \new ChoirStaff   <<
-
+%{
     \new Staff \with {
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
@@ -125,14 +125,14 @@ opage ={\pageBreak}
     \addlyrics { \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic }
 
-
+%}
     \new Staff \with {
       instrumentName = "T. I"
       shortInstrumentName = "T. I"
     } { \global \clef "treble_8" \tenoreOneVoice }
     \addlyrics { \tenoreOneLatinG }
     \addlyrics { \greyText \tenoreOneCyrillic }
-
+%{
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"

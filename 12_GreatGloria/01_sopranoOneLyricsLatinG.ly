@@ -80,7 +80,7 @@ sopranoOneLatinG = \lyricmode {
   mi -- luj "nas."
   Swja -- ty  Bo -- "sche,"
   Swja -- ty krep -- "ki,"
-  Swja -- tyji Bes -- smert -- "ny,"
+  Swja -- tyji bes -- smert -- "ny,"
   po -- mi -- luj "nas."
 
   Swja -- ty  Bo -- "sche,"
@@ -92,7 +92,7 @@ sopranoOneLatinG = \lyricmode {
     %page 13
   i ny -- ne i pris -- no i wo we -- ki we -- "kow,"
   a -- "min."
-  Swja -- ty Bes --
+  Swja -- ty bes --
   smert -- "ny,"
   po -- mi -- luj "nas."
   

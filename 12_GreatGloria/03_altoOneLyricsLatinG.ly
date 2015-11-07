@@ -98,17 +98,17 @@ altoOneLatinG = \lyricmode {
   mi -- luj "nas."
   Swja -- ty  Bo -- "sche,"
   Swja -- ty krep -- "ki,"
-  Swja -- tyji Bes -- smert -- "ny,"
+  Swja -- tyji bes -- smert -- "ny,"
   po -- mi -- luj "nas."
   Swja -- ty  Bo -- "sche,"
-  Swja -- ty Bes -- smert -- "ny,"
+  Swja -- ty bes -- smert -- "ny,"
   po -- mi -- luj  "nas."
   Sla -- wa Ot -- zu i Sy -- nu i Swja -- to -- mu Du -- "chu,"
   
   %page 13
   i ny -- ne i pris -- no i wo we -- ki we -- "kow,"
   a -- "min."
-  Swja -- ty Bes --
+  Swja -- ty bes --
   smert -- "ny,"
   po -- mi -- luj "nas."
   Swja -- ty Bo -- "sche,"
@@ -116,7 +116,7 @@ altoOneLatinG = \lyricmode {
   
   Swja -- ty Bo -- "sche,"
   Swja -- ty Krep -- "ki,"
-  Swja -- ty Bes -- smert -- "ny,"
+  Swja -- ty bes -- smert -- "ny,"
   po -- mi -- luj "nas."
   
   

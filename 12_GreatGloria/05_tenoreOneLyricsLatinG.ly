@@ -23,7 +23,12 @@ tenoreOneLatinG = \lyricmode {
   I i -- sus Chris -- "tos," "w sla" -- wu Bo -- ga
   Ot -- "za."
   A -- "min." __
-  
+
   %page 5
-  Spo
+  Spo -- do -- "bi,"
+  Gos -- po -- "di,"
+  "w den" sej bes gre -- cha so -- chra -- ni -- ti -- sja "nam." __
+   Spo -- do -- "bi,"
+  Gos -- po -- "di," "w den" sej so -- chra -- ni -- ti sja "nam,"
+
 }

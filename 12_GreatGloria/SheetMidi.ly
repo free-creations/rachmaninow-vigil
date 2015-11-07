@@ -24,7 +24,7 @@ global = {
 }
 
 midiGlobal = {
- \global
+  \global
 }
 
 greyText = {
@@ -88,14 +88,15 @@ opage ={\pageBreak}
 \score {
 
   \new ChoirStaff   <<
-%{
+     %{
     \new Staff \with {
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
+      \consists "Bar_number_engraver"
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
-%{
+
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
@@ -110,14 +111,15 @@ opage ={\pageBreak}
     \addlyrics { \sopranoThreeLatinG }
     \addlyrics { \greyText \sopranoThreeCyrillic }
 
-%}
+    %}
     \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
+
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
-%{
+    %{
     \new Staff \with {
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
@@ -125,14 +127,14 @@ opage ={\pageBreak}
     \addlyrics { \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic }
 
-%}
+    %}
     \new Staff \with {
       instrumentName = "T. I"
       shortInstrumentName = "T. I"
     } { \global \clef "treble_8" \tenoreOneVoice }
     \addlyrics { \tenoreOneLatinG }
     \addlyrics { \greyText \tenoreOneCyrillic }
-%{
+    %{
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"
@@ -168,12 +170,29 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoThreeVoice }
     \addlyrics { \bassoThreeLatinG }
     \addlyrics { \greyText \bassoThreeCyrillic }
-%}
+    %}
   >>
 
 
 
-  \layout { }
+  \layout {
+    \context {
+      \Score
+      \remove "Timing_translator"
+      \remove "Default_bar_line_engraver"
+
+    }
+    \context {
+      \Staff
+      \consists "Bar_number_engraver"
+      \consists "Timing_translator"
+      \consists "Default_bar_line_engraver"
+    }
+    \context {
+      \Score
+      \override SpanBar #'transparent = ##t %Turns off staff lines between staves
+    }
+  }
 }
 
 %%% ------ Midi Score

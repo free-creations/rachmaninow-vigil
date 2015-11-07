@@ -24,35 +24,35 @@ sopranoOneVoice = \relative c'' {
 
   \opage %4
   \time 14/2 as4 ) \mp \> -- g4  g4 f4  as2  -- g2 f2 ( -- g2 ) as4 \pp  g4 as4
-  g4 as1 -- es'2-- \p \< es2-- es2-- es2-- \bar "" \set Score.currentBarNumber = #18
-  \time 7/2  es2 es1 \ff es4 ( d4 c2 ) bes2 \p \fermata r2 | \set Score.currentBarNumber = #19
-  \time 4/2  r4 d4 \pp d2 -- d4 d4 d4 d4 \bar "!" \set Score.currentBarNumber = #19
-  \time 3/2  d4 d2 -- d4 d4 d4 \bar "!" \set Score.currentBarNumber = #19
-  \time 3/2  d4 d4 d4 d4 d4 d4 \bar "!" \set Score.currentBarNumber = #19
-  \time 4/2  d4 \p \> d4 d4 \pp d4 d1 \mp \bar "!" \set Score.currentBarNumber = #19
-  \time 6/2  d1 \p ~ d1. d2 \pp \bar "|" \set Score.currentBarNumber = #20
+  g4 as1 -- es'2-- \p \< es2-- es2-- es2-- \bar "" \set Staff.currentBarNumber = #18
+  \time 7/2  es2 es1 \ff es4 ( d4 c2 ) bes2 \p \fermata r2 | \set Staff.currentBarNumber = #19
+  \time 4/2  r4 d4 \pp d2 -- d4 d4 d4 d4 \bar "!" \set Staff.currentBarNumber = #19
+  \time 3/2  d4 d2 -- d4 d4 d4 \bar "!" \set Staff.currentBarNumber = #19
+  \time 3/2  d4 d4 d4 d4 d4 d4 \bar "!" \set Staff.currentBarNumber = #19
+  \time 4/2  d4 \p \> d4 d4 \pp d4 d1 \mp \bar "!" \set Staff.currentBarNumber = #19
+  \time 6/2  d1 \p ~ d1. d2 \pp \bar "|" \set Staff.currentBarNumber = #20
 
   \opage %5
-  \time 2/2  c2 c4 \pp c4 \bar "" \set Score.currentBarNumber = #20
-  \time 2/4  c4 c4 \bar "!" \set Score.currentBarNumber = #20
-  \time 4/4  c4 c4 c4 c4 \bar "!" \set Score.currentBarNumber = #20
-  \time 4/4  c4 c4 \< c4 c4 \bar "!" \set Score.currentBarNumber = #20
-  \time 4/4  c2. \mp \> c4 \p \bar "!" \set Score.currentBarNumber = #20
-  \time 4/4  c4 c4 c4 c4 \bar "!" \set Score.currentBarNumber = #20
-  \time 4/4  c1 \p \> -- \bar "!" \set Score.currentBarNumber = #20
-  \time 4/2  c1 \pp ~ c2 \! c2 \pp | \set Score.currentBarNumber = #21
-  \time 4/4  bes2. bes4 \bar "!" \set Score.currentBarNumber = #21
-  \time 4/4  bes4 bes4 bes4 bes4  \bar "!" \set Score.currentBarNumber = #21
-  \time 4/4  bes2 bes4 \< bes4  \bar "!" \set Score.currentBarNumber = #21
-  \time 3/2  bes2 \mp \> -- bes2 -- bes4 \p \< bes4   \bar "|" \set Score.currentBarNumber = #22
+  \time 2/2  c2 c4 \pp c4 \bar "" \set Staff.currentBarNumber = #20
+  \time 2/4  c4 c4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  c4 c4 c4 c4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  c4 c4 \< c4 c4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  c2. \mp \> c4 \p \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  c4 c4 c4 c4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  c1 \p \> -- \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/2  c1 \pp ~ c2 \! c2 \pp | \set Staff.currentBarNumber = #21
+  \time 4/4  bes2. bes4 \bar "!" \set Staff.currentBarNumber = #21
+  \time 4/4  bes4 bes4 bes4 bes4  \bar "!" \set Staff.currentBarNumber = #21
+  \time 4/4  bes2 bes4 \< bes4  \bar "!" \set Staff.currentBarNumber = #21
+  \time 3/2  bes2 \mp \> -- bes2 -- bes4 \p \< bes4   \bar "|" \set Staff.currentBarNumber = #22
 
   \opage %6
-  \time 4/2  bes2 \mp \> bes1.  \bar "!" \set Score.currentBarNumber = #22
-  \time 4/4  bes2 \! \pp bes2  \bar "!" \set Score.currentBarNumber = #22
-  \time 4/2  bes2 bes4 bes4 bes1 -- \breathe   \bar "|" \set Score.currentBarNumber = #23
-  \time 9/2  g4 \p \< as4 bes2 \mp  -- as4 \p \< as4  as2 \mp -- as2 \p ~ as4 as4 \p as8 ( [ g8 )  ] f4 \pp g1 -- | \set Score.currentBarNumber = #24
-  \time 9/4  es'4 \mf es4 es4 \<  d4  es4 f1  \ff \> \bar "" \set Score.currentBarNumber = #24
-  \time 12/4 es2 es2  d1 \p \fermata r2 d4 \< ( es4  )  \bar "|" \set Score.currentBarNumber = #25
+  \time 4/2  bes2 \mp \> bes1.  \bar "!" \set Staff.currentBarNumber = #22
+  \time 4/4  bes2 \! \pp bes2  \bar "!" \set Staff.currentBarNumber = #22
+  \time 4/2  bes2 bes4 bes4 bes1 -- \breathe   \bar "|" \set Staff.currentBarNumber = #23
+  \time 9/2  g4 \p \< as4 bes2 \mp  -- as4 \p \< as4  as2 \mp -- as2 \p ~ as4 as4 \p as8 ( [ g8 )  ] f4 \pp g1 -- | \set Staff.currentBarNumber = #24
+  \time 9/4  es'4 \mf es4 es4 \<  d4  es4 f1  \ff \> \bar "" \set Staff.currentBarNumber = #24
+  \time 12/4 es2 es2  d1 \p \fermata r2 d4 \< ( es4  )  \bar "|" \set Staff.currentBarNumber = #25
   \time 4/2  f1. \mf \>  ( es2  | % 8
   \time 4/2  d2   es2 \p ) d4 \< ( es4 ) f2 ~ \f \> ( | % 9
   \time 4/2  f4  es4  d2 \p ~ d4 ) r4 d4 \< es4 \!

@@ -24,13 +24,30 @@ tenoreOneVoice = \relative c' {
   \opage %4
   \time 14/2 c2) \mp -- bes2 c2 -- bes2 as2 (-- bes2 ) c4 \pp  bes4 c4 bes4 c1-- 
   c8-- \p \< [( d8 es8 d8 ]) c8-- ( [ d8  es8 d8 ) ] c8-- ( [ d8 es8 d8 ) ] c8-- ( [ d8 es8 d8 ) ] \bar ""
-  \set Score.currentBarNumber = #18
+  \set Staff.currentBarNumber = #18
 
-  \time 7/2  c8-- ( [ d8 es8 d8 ) ] es1-> \ff\> c4 ( d4 c2 ) d2\pp\fermata ~ d2 ~ | \set Score.currentBarNumber = #19
-  \time 4/2  d\breve ~ \bar "!" \set Score.currentBarNumber = #19
-  \time 3/2  d1. ~ \bar "!" \set Score.currentBarNumber = #19
-  \time 3/2  d1. ~ \bar "!" \set Score.currentBarNumber = #19
-  \time 4/2  d\breve ~ \bar "!" \set Score.currentBarNumber = #19
-  \time 6/2  d1(  \pp g,1.) g4 \p ( a4 ) | \set Score.currentBarNumber = #20
+  \time 7/2  c8-- ( [ d8 es8 d8 ) ] es1-> \ff\> c4 ( d4 c2 ) d2\pp\fermata ~ d2 ~ | \set Staff.currentBarNumber = #19
+  \time 4/2  d\breve ~ \bar "!" \set Staff.currentBarNumber = #19
+  \time 3/2  d1. ~ \bar "" \set Staff.currentBarNumber = #19
+  \time 3/2  d1. ~ \bar "" \set Staff.currentBarNumber = #19
+  \time 4/2  d\breve ~ \bar "!" \set Staff.currentBarNumber = #19
+  \time 6/2  d1(  \pp g,1.) g4 \p ( a4 ) | \set Staff.currentBarNumber = #20
+  
+  \opage %5
+  \time 2/2  bes2 \mf \> -- as2 \bar "!"  \set Staff.currentBarNumber = #20
+  \time 2/4  as2-- \p \bar ""  \set Staff.currentBarNumber = #20
+  \time 2/4  as4 as4 \bar "!"  \set Staff.currentBarNumber = #20
+  \time 2/4  g2-- \bar ""  \set Staff.currentBarNumber = #20
+  \time 4/4  g4 ( as4 ) bes4 as4 \bar "!"  \set Staff.currentBarNumber = #20
+  \time 4/4  bes2-- as4 as4 \bar "!"  \set Staff.currentBarNumber = #20
+  \time 4/4  as2-- as8 ( [ g8 ) ] f4 \bar "!"  \set Staff.currentBarNumber = #20
+  \time 4/4  g1( \> \bar "!"  \set Staff.currentBarNumber = #20
+  \time 4/2  f1 \pp ~ f2 )  c'2 \pp  \bar "|"  \set Staff.currentBarNumber = #21
+  \time 4/4  bes2. -- bes4 \bar "!" \set Staff.currentBarNumber = #21
+  \time 4/4  bes4 bes4 bes4 bes4  \bar "!" \set Staff.currentBarNumber = #21
+  \time 4/4  bes2-- bes4 \< bes4  \bar "!" \set Staff.currentBarNumber = #21
+  \time 3/2  bes2-- \mp \> bes2 bes4 \p \< bes4 \bar "|" \set Staff.currentBarNumber = #22
+  
+  bes \mp
 }
 

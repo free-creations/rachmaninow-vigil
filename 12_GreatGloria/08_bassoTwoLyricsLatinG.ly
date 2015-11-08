@@ -1,4 +1,6 @@
 %%% Do not edit. This file is generated automatically from 08_bassoTwoLyricsCyrillic.ly
 bassoTwoLatinG = \lyricmode {
-  "Gos 8"
+  %page 2
+  Gos -- po -- "di,"
+  Sy -- ne
 }

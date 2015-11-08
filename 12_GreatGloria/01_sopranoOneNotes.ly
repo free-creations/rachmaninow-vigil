@@ -59,8 +59,8 @@ sopranoOneVoice = \relative c'' {
 
   \opage %7
   \time 4/2  f1. ( \mf \> ~ f4 es4 ) \mp |
-  \time 4/2  c4 \< ( es4 ) f4--\f \> ( es4  ) d4 \mf \< ( es4 ) f2  \f \> ( ~
-  \time 4/2  f4  es4 d2 \p d4 ) r4 d4 \< ( es4  ) | % 4
+  \time 4/2  d4 \< ( es4 ) f4--\f \> ( es4  ) d4 \mf \< ( es4 ) f2  \f \> ( ~
+  \time 4/2  f4  es4 d2 ~ \p d4 ) r4 d4 \< ( es4  ) | % 4
   \time 4/2  f1. (--  \f \> ~ f4 es4 )  |
 
   \opage %8

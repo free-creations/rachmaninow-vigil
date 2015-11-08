@@ -88,7 +88,7 @@ opage ={\pageBreak}
 \score {
 
   \new ChoirStaff   <<
-     %{
+   %{
     \new Staff \with {
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
@@ -111,7 +111,7 @@ opage ={\pageBreak}
     \addlyrics { \sopranoThreeLatinG }
     \addlyrics { \greyText \sopranoThreeCyrillic }
 
-    %}
+    
     \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
@@ -156,14 +156,14 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoOneVoice }
     \addlyrics { \bassoOneLatinG }
     \addlyrics { \greyText \bassoOneCyrillic }
-
+    %}
     \new Staff \with {
       instrumentName = "B. II"
       shortInstrumentName = "B. II"
     } {\global \clef bass \bassoTwoVoice }
     \addlyrics { \bassoTwoLatinG }
     \addlyrics { \greyText \bassoTwoCyrillic }
-
+%{
     \new Staff \with {
       instrumentName = "B. III"
       shortInstrumentName = "B. III"

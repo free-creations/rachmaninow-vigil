@@ -135,7 +135,7 @@ obreak = {}
       % single voices for Piano
       \new Staff = "S 1" {\midiGlobal \sopranoOneVoice}
       \new Staff = "S 2" {\midiGlobal \sopranoTwoVoice}
-      \new Staff = "S 3" {\midiGlobal \sopranoThreeVoice}
+      \new Staff = "S 3" {\midiGlobal }
       \new Staff = "A 1" {\midiGlobal \altoOneVoice}
       \new Staff = "A 2" {\midiGlobal \altoTwoVoice}
       \new Staff = "T 1" {\midiGlobal \tenoreOneVoice}
@@ -147,7 +147,7 @@ obreak = {}
       % Background voices
       \new Staff = "S 1 B" {\midiGlobal \sopranoOneVoice}
       \new Staff = "S 2 B" {\midiGlobal \sopranoTwoVoice}
-      \new Staff = "S 3 B" {\midiGlobal \sopranoThreeVoice}
+      \new Staff = "S 3 B" {\midiGlobal }
       \new Staff = "A 1 B" {\midiGlobal \altoOneVoice}
       \new Staff = "A 2 B" {\midiGlobal \altoTwoVoice}
       \new Staff = "T 1 B" {\midiGlobal \tenoreOneVoice}
@@ -155,13 +155,13 @@ obreak = {}
       \new Staff = "B 1 B" {\midiGlobal \bassoOneVoice}
       \new Staff = "B 2 B" {\midiGlobal \bassoTwoVoice}
       \new Staff = "B 3 B" {\midiGlobal \bassoThreeVoice}
-      \new Staff = "Solo B" {\midiGlobal }
+      \new Staff = "Solo Tenore" {\midiGlobal \tenoreSoloVoice}
 
       \new Staff = "FemaleOrgan"   {
         <<
           {\midiGlobal \sopranoOneVoice} \\
           {\midiGlobal \sopranoTwoVoice} \\
-          {\midiGlobal \sopranoThreeVoice} \\
+          {\midiGlobal \sopranoTwoVoice} \\
           {\midiGlobal \altoOneVoice} \\
           {\midiGlobal \altoTwoVoice}
         >>
@@ -178,7 +178,7 @@ obreak = {}
       }
 
       \new Staff = "SubBass" {\midiGlobal \bassoThreeVoice}
-      \new Staff = "SoloOrgan"   {\midiGlobal }
+      \new Staff = "SoloOrgan"   {\midiGlobal \tenoreSoloVoice }
     >>
   >>
   \midi {

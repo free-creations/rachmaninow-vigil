@@ -149,14 +149,14 @@ opage ={\pageBreak}
     } { \global \clef "treble_8" \tenoreThreeVoice }
     \addlyrics { \tenoreThreeLatinG }
     \addlyrics { \greyText \tenoreThreeCyrillic }
-
+    %}
     \new Staff \with {
       instrumentName = "B. I"
       shortInstrumentName = "B. I"
     } {\global \clef bass \bassoOneVoice }
     \addlyrics { \bassoOneLatinG }
     \addlyrics { \greyText \bassoOneCyrillic }
-    %}
+    
     \new Staff \with {
       instrumentName = "B. II"
       shortInstrumentName = "B. II"

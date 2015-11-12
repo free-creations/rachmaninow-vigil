@@ -6,6 +6,8 @@ bassoOneLatinG = \lyricmode {
   Sy -- ne
 
   %page 3
-  Agn -- tsche __ Bo -- "schi,"
-  wsem -- ljaj gre -- chi __ mi -- "ra,"
+  Se --  djaj o -- des -- nu -- ju  Ot -- "za,"
+  po -- mi -- luj "nas."
+  Ja -- ko Ty   je -- si  je -- din "Swjat,"
+
 }

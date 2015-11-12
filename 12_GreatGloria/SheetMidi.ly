@@ -156,7 +156,7 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoOneVoice }
     \addlyrics { \bassoOneLatinG }
     \addlyrics { \greyText \bassoOneCyrillic }
-    
+    %}
     \new Staff \with {
       instrumentName = "B. II"
       shortInstrumentName = "B. II"

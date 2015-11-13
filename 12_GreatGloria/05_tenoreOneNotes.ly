@@ -19,10 +19,10 @@ tenoreOneVoice = \relative c' {
   \time 7/2  d2 \p ( -- es2 ) c2 ( d2 ) bes2 ( c2 ) as2 |
   \time 9/2  bes2 ( g2 ) g2 es2 g2 ( d2 es2 ) as2 ( bes2 ) | % 5
   \time 10/2  g4 r4 r2 r1 r1 r1 r1 |
-  \time 5/2  r1 r1  as4\p \< ( bes4  |
+  \time 5/2  r1 r1  as4\pp \< ( bes4  |
 
   \opage %4
-  \time 14/2 c2) \mp -- bes2 c2 -- bes2 as2 (-- bes2 ) c4 \pp  bes4 c4 bes4 c1--
+  \time 14/2 c2) \p\> -- bes2 c2 \pp -- bes2 as2 (-- bes2 ) c4 \pp  bes4 c4 bes4 c1--
   c8-- \p \< [( d8 es8 d8 ]) c8-- ( [ d8  es8 d8 ) ] c8-- ( [ d8 es8 d8 ) ] c8-- ( [ d8 es8 d8 ) ] \bar ""
   \set Staff.currentBarNumber = #18
 
@@ -49,10 +49,10 @@ tenoreOneVoice = \relative c' {
   \time 3/2  bes2-- \mp \> bes2 bes4 \p \< bes4 \bar "|" \set Staff.currentBarNumber = #22
 
   \opage %6
-  \time 4/2  bes2-- \mp  bes1.  --  \bar "!" \set Staff.currentBarNumber = #22
+  \time 4/2  bes2-- \mp  bes1. \p --  \bar "!" \set Staff.currentBarNumber = #22
   \time 4/4  bes2 \pp bes2 \bar "!" \set Staff.currentBarNumber = #22
   \time 4/2  bes2 bes4 bes4 bes1--  \breathe \bar "|" \set Staff.currentBarNumber = #23
-  \time 9/2  es,4 \p \< f4 g2\mp  as4 \p \< bes4 ces2 \mp bes2 \p ~ bes4  ces4  ces8 \> ( [ bes8 ) ] as4 bes1 \pp \bar "|" \set Staff.currentBarNumber = #24
+  \time 9/2  es,4 \p \< f4 g2--\mp  as4 \p \< bes4 ces2 \mp bes2 \p ~ bes4  ces4  ces8 \> ( [ bes8 ) ] as4 bes1 \pp \breathe  \bar "|" \set Staff.currentBarNumber = #24
   \time 9/4  c4 \mf c4 c4 \< b4 c4 d1 \ff \> \bar "" \set Staff.currentBarNumber = #24
   \time 12/4  c2 c2  b1 \p \fermata r1  | % 7
   \time 4/2  R2*4 | % 8
@@ -125,7 +125,7 @@ tenoreOneVoice = \relative c' {
   \time 4/2  g2-> f4 \mf es4 f4 es4 d2 | % 5
   \time 4/2  c4 \ff c4 d4 c8 ( [ d8 ) ] es4 es4 d4 d8 ( [ es8 ) ]  | % 6
   \time 4/2  f4 es4 f4 es8 ( [ d8 ) ] es4 d8 ( [ c8 ) ] d4 es4 | % 7
-  \time 4/2  f4 ( es4 ) f4 \< g4 as2  \ff   g4  \> f4 | % 8
+  \time 4/2  f4 ( es4 ) f4 \< g4 as2->  \fff   g4  \> f4 | % 8
   \time 4/2  es2  -- d2-- c1 \p \fermata \bar "|."
 
 }

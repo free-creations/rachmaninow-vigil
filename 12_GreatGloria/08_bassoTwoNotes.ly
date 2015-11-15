@@ -45,7 +45,7 @@ bassoTwoVoice = \relative g {
   \time 4/4  as2\f \>  bes4  bes4 \p \bar "!" \set Staff.currentBarNumber = #21
   \time 4/4  bes2-- bes4 bes4 \bar "!" \set Staff.currentBarNumber = #21
   \time 4/4  bes2-- bes4 \< bes4  \bar "!" \set Staff.currentBarNumber = #21
-  \time 3/2  bes2 \mp \> bes2 bes4 \p \<  bes4 \! \bar "|" \set Staff.currentBarNumber = #22
+  \time 3/2  bes2 \mp \> bes2 bes4 \p \<  bes4  \bar "|" \set Staff.currentBarNumber = #22
 
   \opage %6
   \time 4/2  bes2 -- \mp \> bes4  bes4  bes4 bes4 bes4 bes4 \bar "!" \set Staff.currentBarNumber = #22

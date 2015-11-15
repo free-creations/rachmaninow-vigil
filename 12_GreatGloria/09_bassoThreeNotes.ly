@@ -26,7 +26,7 @@ bassoThreeVoice = \relative g {
   es'4 ( \p \< d4) c4( d4) es4 ( d4) c4( bes4 ) \bar ""
   \set Staff.currentBarNumber = #18
 
-  \time 7/2  as4  ( bes4 ) c1-> \ff \> c4  ( d4 es2 ) a,2 \p \fermata r2  \bar "|" \set Staff.currentBarNumber = #19
+  \time 7/2  as4  ( bes4 ) c1-> \ff \> c4  ( d4 es2 ) d,2 \p \fermata r2  \bar "|" \set Staff.currentBarNumber = #19
   \time 4/2  R1*2  \bar "" \set Staff.currentBarNumber = #19
   \time 3/2  R1. \bar "" \set Staff.currentBarNumber = #19
   \time 3/2  R1. \bar "" \set Staff.currentBarNumber = #19
@@ -42,16 +42,16 @@ bassoThreeVoice = \relative g {
   \time 4/4  c1 \bar "!" \set Staff.currentBarNumber = #20
   \time 4/4  c1 \> ( \bar "!" \set Staff.currentBarNumber = #20
   \time 4/2  f4  \pp ) r4 r2 r4 f,4 \mf \< f4 g4 \bar "|" \set Staff.currentBarNumber = #21
-  \time 4/4  as2\f \>  bes4  bes4 \p \bar "!" \set Staff.currentBarNumber = #21
-  \time 4/4  bes2-- bes4 bes4 \bar "!" \set Staff.currentBarNumber = #21
-  \time 4/4  bes2-- bes4 \< bes4  \bar "!" \set Staff.currentBarNumber = #21
-  \time 3/2  bes2 \mp \> bes2 bes4 \p \<  bes4 \! \bar "|" \set Staff.currentBarNumber = #22
+  \time 4/4  as2\f \>  ges4  ges4 \p \bar "!" \set Staff.currentBarNumber = #21  
+  \time 4/4  ges2 ges4 ges4  \bar "!" \set Staff.currentBarNumber = #21
+  \time 4/4  ges2 f4 \< ges4 \bar "!" \set Staff.currentBarNumber = #21
+  \time 3/2   as2 \mp \> ges2  f4 \p \< ges4 \bar "|" \set Staff.currentBarNumber = #22  
 
   \opage %6
-  \time 4/2  bes2 -- \mp \> bes4  bes4  bes4 bes4 bes4 bes4 \bar "!" \set Staff.currentBarNumber = #22
-  \time 4/4  bes4 \pp bes4 bes4  bes4 \bar "!" \set Staff.currentBarNumber = #22
-  \time 4/2  bes4 bes4 bes4 bes4 bes1--   \breathe \bar "|" \set Staff.currentBarNumber = #23
-  \time 9/2  es,4 \p \< es4 es2-- \mp es4 \<\p es4 es2\mp es2 \p ~ es4 as4 \p as8 ([ \> bes8  ]) ces4 es1  \pp \breathe \bar "|" \set Staff.currentBarNumber = #24
+  \time 4/2  as2 -- \mp \> ges4  ges4  ges4 ges4 ges4 ges4 \bar "!" \set Staff.currentBarNumber = #22
+  \time 4/4  ges4 \pp ges4 ges4  ges4 \bar "!" \set Staff.currentBarNumber = #22
+  \time 4/2  ges4 ges4 ges8[( f]) es4 f1--   \breathe \bar "|" \set Staff.currentBarNumber = #23
+  \time 9/2  es4 \p \< es4 es2-- \mp es4 \<\p es4 es2\mp es2 \p ~ es4 as4 \p as8 ([ \> bes8  ]) ces4 es1  \pp \breathe \bar "|" \set Staff.currentBarNumber = #24
   \time 9/4  c4 \mf c4 c4 \< d4 c4 bes1  \ff \> \bar "" \set Staff.currentBarNumber = #24
   \time 12/4 c2 c2  g1 \p \fermata -- r1 \bar "|" \set Staff.currentBarNumber = #25
   \time 4/2  R2*4 | % 8
@@ -84,16 +84,16 @@ bassoThreeVoice = \relative g {
   \time 3/2  bes1. \mf  -> | % 2
   \time 3/2  bes1.  | % 3
   \time 3/2  bes1.  | % 4
-  \time 3/2  bes1 \p bes2-- ~ | % 5
+  \time 3/2  bes,1 \p bes2-- ~ | % 5
   \time 3/2  bes2 bes1-- | % 6
-  \time 3/2  bes1 bes2 |
+  \time 3/2  bes1 bes'2 |
 
   \opage %11
-  \time 3/2  bes2.-- \p bes2.-- | % 2
-  \time 3/2  bes2.-- bes2.-- | % 3
-  \time 3/2   bes2.-- bes2.--  | % 4
-  \time 3/2  bes1. | % 5
-  \time 3/2  es4 bes4 bes4 \< bes4 bes4 bes'4 | % 6
+  \time 3/2  es,2.-- \p es2.-- | % 2
+  \time 3/2  es2.-- es2.-- | % 3
+  \time 3/2  es2.-- es2.--  | % 4
+  \time 3/2  es1. | % 5
+  \time 3/2  es'4 bes4 bes4 \< bes4 bes4 bes'4 | % 6
   \time 4/2  c2->\ff  ( es,4 as8 [ bes8 ) ] c2 ( -> es,4  as4 ) |
   \time 4/2  bes2\> c,2 bes1\p \breathe | % 8
   \time 4/4  R1*3 | % 11
@@ -124,7 +124,7 @@ bassoThreeVoice = \relative g {
   
   
   \time 4/2  as2 g4 \< g8 ( [ as8 ) ] bes2 \ff -> c4 \> as4 | % 8
-  \time 4/2  g2--  g,2-- c1 \p \fermata \bar "||"
+  \time 4/2  g2--  g,2-- c,1 \p \fermata \bar "||"
 
 
 

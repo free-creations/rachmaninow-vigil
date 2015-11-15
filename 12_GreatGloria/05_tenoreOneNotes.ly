@@ -104,7 +104,7 @@ tenoreOneVoice = \relative c' {
   \time 4/4  c2 \mf \> c4 d4
 
   \opage %12
-  \time 3/2  es2 \p d2 c2 \pp | % 2
+  \time 3/2  es2 \p \> d2 c2 \pp | % 2
   \time 4/4  c2 g2 ~ | % 3
   \time 4/4  g1 ~ | % 4
   \time 4/4  g2. c4 \p | % 5
@@ -114,7 +114,7 @@ tenoreOneVoice = \relative c' {
   \time 4/4  es4-- es4 d4-- c8 [ d8 ] | % 9
   \time 4/4  es8-- ( [ d8 ) ] es4 d4 \< ( es4  )  |
   \time 4/4  f2 \f \> es4 d4  | % 11
-  \time 3/2  es2-- \p \p d2--  c2-- \pp | % 12
+  \time 3/2  es2-- \p \> d2--  c2-- \pp | % 12
   \time 4/2  bes?2 \mf bes4  bes4 bes4--  bes4 bes4  bes4 |
   \time 4/2  bes4 bes4 bes4 bes8 \< [( c8  ]) d2 \f\> es2 |
   
@@ -122,7 +122,7 @@ tenoreOneVoice = \relative c' {
   \time 4/2  c4 \mf c4 c4 c4 bes4-> c4 c4 bes4 | % 2
   \time 4/2  c2-> c4 c4 d4 c4 d2-> | % 3
   \time 4/2  d2 \f ( c2 ) d2 es4 ( f4 )  | % 4
-  \time 4/2  g2-> f4 \mf es4 f4 es4 d2 | % 5
+  \time 4/2  g2-> f4 \mf es4 f4 es4 d2-- | % 5
   \time 4/2  c4 \ff c4 d4 c8 ( [ d8 ) ] es4 es4 d4 d8 ( [ es8 ) ]  | % 6
   \time 4/2  f4 es4 f4 es8 ( [ d8 ) ] es4 d8 ( [ c8 ) ] d4 es4 | % 7
   \time 4/2  f4 ( es4 ) f4 \< g4 as2->  \fff   g4  \> f4 | % 8

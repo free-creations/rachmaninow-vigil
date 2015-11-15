@@ -127,7 +127,7 @@ opage ={\pageBreak}
     \addlyrics { \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic }
 
-    %}
+
     \new Staff \with {
       instrumentName = "T. I"
       shortInstrumentName = "T. I"
@@ -163,7 +163,7 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoTwoVoice }
     \addlyrics { \bassoTwoLatinG }
     \addlyrics { \greyText \bassoTwoCyrillic }
-%{
+
     \new Staff \with {
       instrumentName = "B. III"
       shortInstrumentName = "B. III"

@@ -62,14 +62,14 @@ bassoOneVoice =\relative g {
   \opage %7
   \time 4/2 R2*4 |
   \time 4/2 R2*4 |
-  \time 4/2 r2 r1  g4 \< ( c4  ) | % 4
+  \time 4/2 r2 r1  g,4 \< ( c4  ) | % 4
   \time 4/2 bes1.(  \f \>  ~ bes4 c4 )
 
   \opage %8
-  \time 4/2  d,4 \mf \< ( c4  bes4 \f \> -- c4 ) d4( \mf \< c4) bes2(  \ff \> ~ | % 2
+  \time 4/2  d4 \mf \< ( c4  bes4 \f \> -- c4 ) d4( \mf \< c4) bes2(  \ff \> ~ | % 2
   \time 4/2  bes4 c4 g1 \p ~ g4 ) r4  | % 3
   \time 4/2  R2*4 | % 4
-  \time 4/2  as'2 \p g4 \pp g4 f4 g4 g4 g4 | % 5
+  \time 4/2  as'2-> \p g4 \pp g4 f4 g4 g4 g4 | % 5
   \time 4/2  f2 g4 g4 f2-- r2 |
 
   \opage %9
@@ -100,24 +100,25 @@ bassoOneVoice =\relative g {
   \time 4/4  r2 r4 f'4 \p
 
   \opage %12
-  \time 3/2  g2-- \p g2--  g2-- \pp | % 2
-  \time 4/4  R1*2 | % 4
-  \time 4/4  r2  r4 f8 \p \< ( [ g8 ) ] | % 5
-  \time 4/4  as2-- \mp \> g4 f4  | % 6
-  \time 3/2  g2-- \p  g2 \> -- g2 -- | % 7
-  \time 4/4  g2 \pp -- g2 | % 8
+  \time 3/2  g2-- \p \> g2--  g2-- \pp | % 2
+  \time 4/4  R1 | % 4
+  \time 4/4  R1 |
+  \time 4/4  r2  r4 f8 \p \< ( [ g8 ) ] |
+  \time 4/4  as2-> \mp \> g4 f4  |
+  \time 3/2  g2-- \p \> g2  -- g2 \pp -- | % 7
+  \time 4/4  g2 \p -- g2-- | % 8
   \time 4/4  g2-- g2-- | % 9
   \time 4/4  g2 g4 \< f8 ( [ g8 ) ] |
   \time 4/4  as2 \f -> \> g4 f4 | % 11
-  \time 3/2  g2 \p -- g2 -- g2 \pp | % 12
+  \time 3/2  g2 \p \> -- g2 -- g2 \pp | % 12
   \time 4/2  bes,2 \mf bes4 bes4 bes4-- bes4 bes4 bes4  | % 13
-  \time 4/2  bes4 bes4 bes4 bes4 \< bes2 \f \> es2 
-  
-  \opage %13  
+  \time 4/2  bes4 bes4 bes4 bes4 \< bes2 \f \> es2
+
+  \opage %13
   \time 4/2  es4 \mf es4 es4 es4 es4 -> es4 es4 es4 | % 2
   \time 4/2  es2 -> es4 es4 f4 es4 f2 -> | % 3
   \time 4/2  d2 \f ( es4 f8 [ g8 ) ] as2-> g4 ( as4 )  | % 4
-  \time 4/2  bes2 -> as4 \mf g4 as4 g4 f2 | % 5
+  \time 4/2  bes2 -> as4 \mf g4 as4 g4 f2-- | % 5
   \time 4/2  as2 \f as2 c2 as2  | % 6
   \time 4/2  c2 c2 c2 as4 ( g4 ) | % 7
   \time 4/2  as2 g4 \< g8 ( [ as8 ) ] bes2 \ff -> c4 \> as4 | % 8

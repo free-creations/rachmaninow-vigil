@@ -35,24 +35,24 @@ bassoOneLatinG = \lyricmode {
 
   %page 7
   "K Te" -- be __
-  
-  
+
+
   %page 8
   pri -- be -- "goch." __
-  
-    Gos -- po -- "di,"
+
+  Gos -- po -- "di,"
   pri -- be -- schi -- schtsche byl je -- si "nam."
-  
+
   %page 9
   "w rod" __ i "rod." __
   po -- mi -- "luj," __
   po -- mi -- luj "mja," __
-  
-    %page 10
+
+  %page 10
   Gos -- po -- "di," __
   Ty je -- si  Bog __ "moj:"
-  
-    %page 11
+
+  %page 11
   ja -- ko u Te -- be is -- totsch -- nik
   schi --  wo -- "ta."
   Pro -- ba -- wi mi -- lost Two -- ju __ we __
@@ -67,23 +67,23 @@ bassoOneLatinG = \lyricmode {
   Swja -- ty bes -- smert -- "ny,"
   po -- mi -- luj  "nas."
   Sla -- wa Ot -- zu i Sy -- nu i Swja -- to -- mu Du -- "chu,"
-  
-      %page 13
+
+  %page 13
   i ny -- ne i pris -- no i wo we -- ki we -- "kow,"
   a -- "min."
   Swja -- ty bes --
   smert -- "ny,"
   po -- mi -- luj "nas."
-  
-  
+
+
   Swja -- ty Bo -- "sche,"
-  
+
   Swja -- ty Krep -- "ki," __
 
   Swja -- ty bes -- smert -- "ny,"
   po -- mi -- luj "nas."
-  
-  
+
+
 
 
 }

@@ -26,7 +26,7 @@ altoOneVoice = \relative es' {
 
   \opage %4
 
-  \time 14/2 es2 \mp -- es2 \p es2 -- es2  es1  -- es4 \pp es4 es4 es4 es1 --
+  \time 14/2 es2  -- es2 \p es2 -- es2  es1  -- es4 \pp es4 es4 es4 es1 --
   as8-- \p \< ( [ bes8 c8 bes8 ) ] as8-- ( [ bes8 c8 bes8 ) ] as8-- ( [ bes8 c8 bes8 ) ] as8-- ( [ bes8 c8 bes8 ) ] \bar ""
   \set Staff.currentBarNumber = #18
 

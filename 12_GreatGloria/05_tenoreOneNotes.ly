@@ -26,7 +26,7 @@ tenoreOneVoice = \relative c' {
   c8-- \p \< [( d8 es8 d8 ]) c8-- ( [ d8  es8 d8 ) ] c8-- ( [ d8 es8 d8 ) ] c8-- ( [ d8 es8 d8 ) ] \bar ""
   \set Staff.currentBarNumber = #18
 
-  \time 7/2  c8-- ( [ d8 es8 d8 ) ] es1-> \ff\> c4 ( d4 c2 ) d2\pp\fermata ~ d2 ~ | \set Staff.currentBarNumber = #19
+  \time 7/2  c8-- ( [ d8 es8 d8 ) ] es1-> \ff\> es4 ( d4 c2 ) d2\pp\fermata ~ d2 ~ | \set Staff.currentBarNumber = #19
   \time 4/2  d\breve ~ \bar "!" \set Staff.currentBarNumber = #19
   \time 3/2  d1. ~ \bar "" \set Staff.currentBarNumber = #19
   \time 3/2  d1. ~ \bar "" \set Staff.currentBarNumber = #19
@@ -70,14 +70,14 @@ tenoreOneVoice = \relative c' {
   \time 4/2  d4 \mf \< ( es4 f4-- \f \> es4 ) d4 \mf \< ( es4 ) f2 (  \ff \> ~ |
   \time 4/2  f4 es4 d1 \p ~ d4 ) r4 | % 3
 
-  \time 4/2   f,2-- \ppp -- g2 -- as2 -- g2 | % 4
-  \time 4/2  as2-- ( g2 f2 g2 | % 5
-  \time 4/2   f2-- ) g2 as2  g4 ( \< f8 [ g8  ]
+  \time 4/2   R2*4 | %f2-- \ppp -- g2 -- as2 -- g2 | % 4
+  \time 4/2   R2*4 | %as2-- ( g2 f2 g2 | % 5
+  \time 4/2   R2*4 | %f2-- ) g2 as2  g4 ( \< f8 [ g8  ]
 
   \opage %9
-  \time 4/2  as1) \p r1 |
+  \time 4/2  R2*4 | %as1) \p r1 |
   \time 4/2  R2*4 |
-  \time 4/2  f'2-- \p g2-- d2-- g2--  | % 4
+  \time 4/2  f2-- \p g2-- d2-- g2--  | % 4
   \time 4/2  f2-- g2-- d2--  g2--  | % 5
   \time 4/4  f2--  g2-- | % 6
   \time 4/2  d2-- g2-- f2-- g2-- |
@@ -96,7 +96,7 @@ tenoreOneVoice = \relative c' {
   \time 3/2  bes4 ( \mf bes4 c8  [ d8 ] es4 ) es4-- \< ( bes8 [ c8 ) ]  | % 4
   \time 3/2  d2-- \f \> es2 bes2 | % 5
   \time 3/2  es4 \mp f4 f4 \< f4 f4 g4 | % 6
-  \time 4/2  as2 \ff ( g4  f8  [ g8 ) ] as2-> ( g4 f8 [ es8 ) ] |
+  \time 4/2  as2-> \ff ( g4  f8  [ g8 ) ] as2-> ( g4 f8 [ es8 ) ] |
   \time 4/2  f2 \> es2 d1  \breathe |
   \time 4/4  bes2 \pp bes2 ~ -- |
   \time 4/4  bes1 ~ |
@@ -104,14 +104,14 @@ tenoreOneVoice = \relative c' {
   \time 4/4  c2 \mf \> c4 d4
 
   \opage %12
-  \time 3/2  es2 \p \> d2 c2 \pp | % 2
+  \time 3/2  es2-- \p \> d2-- c2-- \pp | % 2
   \time 4/4  c2 g2 ~ | % 3
   \time 4/4  g1 ~ | % 4
   \time 4/4  g2. c4 \p | % 5
   \time 4/4  c2-- \mp \> c4 d4  | % 6
   \time 3/2  es2-- \p d2-- \> \> c2-- | % 7
-  \time 4/4  es4--  \pp es4 d4-- c8 [ d8 ] |
-  \time 4/4  es4-- es4 d4-- c8 [ d8 ] | % 9
+  \time 4/4  es4--  \pp es4 d4-- c8 [( d8 ]) |
+  \time 4/4  es4-- es4 d4-- c8 [( d8 ]) | % 9
   \time 4/4  es8-- ( [ d8 ) ] es4 d4 \< ( es4  )  |
   \time 4/4  f2 \f \> es4 d4  | % 11
   \time 3/2  es2-- \p \> d2--  c2-- \pp | % 12

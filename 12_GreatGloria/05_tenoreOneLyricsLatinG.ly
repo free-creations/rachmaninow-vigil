@@ -47,8 +47,8 @@ tenoreOneLatinG = \lyricmode {
   %page 8
   pri -- be -- "goch." __
 
-  Gos -- po -- "di,"
-  pri -- be -- schi -- schtsche byl __
+  % Гос -- по -- "ди,"
+  % при -- бе -- жи -- ще был __
 
   %page 9
   Gos -- po -- "di," __

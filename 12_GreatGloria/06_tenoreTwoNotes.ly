@@ -1,13 +1,5 @@
 tenoreTwoVoice = \relative c' {
-  %{
-  \opage %3
-  \time 8/2  f2 \mf ( g2 ) es2 f2 d2 \> ( es2  ) c2 \p ( d2 ) |
-  \time 7/2  d2 \p ( -- es2 ) c2 ( d2 ) bes2 ( c2 ) as2 |
-  \time 9/2  bes2 ( g2 ) g2 es2 g2 ( d2 es2 ) as2 ( bes2 ) | % 5
-  \time 10/2  g4 r4 r2 r1 r1 r1 r1 |
-  \time 5/2  r1 r1  as4\pp \< ( bes4  |
 
-  %}
   \time 10/4 es1. \p bes1 |
   \time 8/4  es2( c2) bes1  | % 3
   \time 6/2  c2( g1 c2) bes1 ~ | % 4

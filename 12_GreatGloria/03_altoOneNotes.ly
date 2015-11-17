@@ -35,28 +35,28 @@ altoOneVoice = \relative es' {
   \time 3/2  g4 g2 f4 g4 d4 \bar "!" \set Staff.currentBarNumber = #19
   \time 3/2  g4 g4 g4 f4 g4 g8 \< ( [ a8 ] ) \bar "!" \set Staff.currentBarNumber = #19
   \time 4/2  bes4\p  \> bes4 bes4 \pp \< a8 [ g8 ] a2( -- \mp  \> g2) \bar "!" \set Staff.currentBarNumber = #19
-  \time 6/2  d1 \p  ~ d1. \! d2  | \set Staff.currentBarNumber = #20
+  \time 6/2  d1 \p  ~ d1. \! r2  | \set Staff.currentBarNumber = #20
 
   \opage %5
 
-  \time 2/2  c2 f4  \pp es4 \bar "" \set Staff.currentBarNumber = #20
-  \time 2/4  f4 c4 \bar "!" \set Staff.currentBarNumber = #20
-  \time 4/4  f4 es4 f4 c4 \bar "!" \set Staff.currentBarNumber = #20
-  \time 4/4  es4 es8 \< ( [ f8 ) ] g4 f4  \bar "!" \set Staff.currentBarNumber = #20
-  \time 4/4  g4 \mp \> ( -- f8 [ es8 ] f4) \p es4  \bar "!" \set Staff.currentBarNumber = #20
-  \time 4/4  f4 c4 f8 ( [ es8 ) ] d4 \bar "!" \set Staff.currentBarNumber = #20
-  \time 4/4  es1 \p \> -- \bar "!" \set Staff.currentBarNumber = #20
-  \time 4/2  c1 \pp ~ c2  f2 \pp | \set Staff.currentBarNumber = #21
+  \time 2/2  R2*2 \bar ""  \set Staff.currentBarNumber = #20
+  \time 2/4  R4*2 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  R4*4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  R4*4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  R4*4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  R4*4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/4  R4*4 \bar "!" \set Staff.currentBarNumber = #20
+  \time 4/2  r1 r2  f2 \pp | \set Staff.currentBarNumber = #21
   \time 4/4  as2( ges4) ges4 \bar "!" \set Staff.currentBarNumber = #21
   \time 4/4  ges4 ges4 ges4  ges4 \bar "!" \set Staff.currentBarNumber = #21
   \time 4/4  ges2  f4 \< ges4 \bar "!" \set Staff.currentBarNumber = #21
   \time 3/2  as2-- \mp \> ges2--  f4\p \< ges4  \bar "|" \set Staff.currentBarNumber = #22
 
   \opage %6
-  \time 4/2  as2-- \mp ges1. \p -- \! \bar "!" \set Staff.currentBarNumber = #22
+  \time 4/2  as2-- \mp ges1. \p --  \bar "!" \set Staff.currentBarNumber = #22
   \time 4/4  ges2 \pp  ges2 \bar "!" \set Staff.currentBarNumber = #22
   \time 4/2  ges2 ges4 ges4 f1--  \breathe \bar "|" \set Staff.currentBarNumber = #23
-  \time 9/2  es4 \p \< es4 es2 \mp es4 \p\< es4  es2\mp  des2 \p ~ des4  es4 es4 \> es4  es1-- \pp | \set Staff.currentBarNumber = #24
+  \time 9/2  es4 \p \< es4 es2-- \mp es4 \p\< es4  es2--\mp  des2 \p ~ des4  es4 es4 \> es4  es1-- \pp | \set Staff.currentBarNumber = #24
   \time 9/4  g4 \mf g4 g4 \<  g4 g4 as1 \ff \> \bar "" \set Staff.currentBarNumber = #24
   \time 12/4  g2 g2  g1 \p \fermata r1 \bar "|" \set Staff.currentBarNumber = #25
   \time 4/2  {
@@ -150,13 +150,13 @@ altoOneVoice = \relative es' {
   \time 4/2  as2-- g4 \p g4 ~ g4 f4 g4 g4 |
   \time 4/2  g4 g4 g4 g4 g4 g4 g4 g4 |
   \time 4/4  g4 g4 g4 f8 \< ( [ g8 ) ] | % 6
-  \time 4/2  as2 \mp \> g2 f2 \p ( ~ f4 \< g4 )
+  \time 4/2  as2-> \mp \> g2 f2 \p ( ~ f4 \< g4 )
 
   \opage %10
-  \time 3/2  g2-- \mf \> g2-- g2-- \p  |
+  \time 3/2  as2-- \mf \> g2-- g2-- \p  |
   \time 3/2  g4-. g4-. g8-.  [ f8  ] es4 -. f2-- | % 3
   \time 3/2  f4 g4 as2-- g4 g4 -.  | % 4
-  \time 3/2  g4 \p g4 -. g4 -. g4 -. g4 -. g4 -. | % 5
+  \time 3/2  g4-. \p g4 -. g4 -. g4 -. g4 -. g4 -. | % 5
   \time 3/2  g4-. g4 -. g4 -. g4 -. g4-- \< ( f8  [ g8 ) ] | % 6
   \time 3/2  as2( \f \> g2 ) f2 \p
 

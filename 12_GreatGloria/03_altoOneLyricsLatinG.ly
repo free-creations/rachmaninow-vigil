@@ -41,9 +41,9 @@ altoOneLatinG = \lyricmode {
   lju i -- mja   Two -- je wo     we -- ki    i "w wek" we -- "ka." __
 
   %page 5
-  Na wsjak den,  bla -- go -- slow -- lju Tja, wos -- chwa --
-  lju i -- mja   Two -- je __ wo     we -- ki    i "w wek" we -- "ka." __
-  
+  %На всяк день,  бла -- го -- слов -- лю Тя, вос -- хва --
+  %лю и -- мя   Тво -- е __ во     ве -- ки    и "в век" ве -- "ка." __
+  %
   Spo -- do -- "bi,"
   Gos -- po -- "di," "w den" sej so -- chra -- ni -- ti sja "nam,"
   

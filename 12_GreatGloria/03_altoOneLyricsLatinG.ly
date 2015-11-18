@@ -28,7 +28,7 @@ altoOneLatinG = \lyricmode {
 
   mi -- "ra," po -- mi -- luj "nas;"
   wsem -- ljaj gre -- chi mi -- "ra,"
-  pri -- mi mo -- lit -- wu na -- "ra."
+  pri -- mi mo -- lit -- wu na -- "schu."
 
   %page 4
   Ty __ je -- si je -- "din,"

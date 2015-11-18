@@ -110,7 +110,7 @@ opage ={\pageBreak}
     } { \global \sopranoThreeVoice }
     \addlyrics { \sopranoThreeLatinG }
     \addlyrics { \greyText \sopranoThreeCyrillic }
-   
+
     
     \new Staff \with {
       instrumentName = "A. I"
@@ -119,7 +119,7 @@ opage ={\pageBreak}
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
-    
+    %{
     \new Staff \with {
       instrumentName = "A. II"
       shortInstrumentName = "A. II"

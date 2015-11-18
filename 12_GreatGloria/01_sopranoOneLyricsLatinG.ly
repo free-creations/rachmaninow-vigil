@@ -14,7 +14,7 @@ sopranoOneLatinG = \lyricmode {
   i Swja -- tyji __
 
   Du -- "sche." __
-  Gos -- po -- di Bo -- sche --"schu."
+  Gos -- po -- di Bo -- "sche." __
 
   Ty __
 
@@ -53,16 +53,16 @@ sopranoOneLatinG = \lyricmode {
   %page 8
   pri -- be -- "goch." __
 
-  Gos -- po -- "di,"
-  pri -- be -- schi -- schtsche byl __
+ % Гос -- по -- "ди,"
+ % при -- бе -- жи -- ще был __
 
   %page 9
-  je -- si "nam."
+ % е -- си "нам."
   Is -- ze -- li du -- schu mo -- "ju," __
   ja --
   %page 10
   ko so -- gre -- schich Te -- "be," __
-  na -- u -- tschi __ "mja," __
+  na -- u -- tschi __ "mja," 
   ja -- ko __ Ty __ je -- si __ Bog __ "moj:"
 
   %page 11

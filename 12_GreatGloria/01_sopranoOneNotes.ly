@@ -9,11 +9,11 @@ sopranoOneVoice = \relative c'' {
   \opage %2
   \time 6/2  R2*6 |
   \time 6/2  R2*6 |
-  \time 8/2  c1 -- \pp  bes4 r4 r2 r1 r1 | % 4
+  \time 8/2  es1 -- \pp  bes4 r4 r2 r1 r1 | % 4
   \time 5/2  R2*5 |
   \time 4/2  R2*4 | % 6
   \time 9/2  bes4 \mf \< ( c4 ) d4 d4 \f d8 ( [ c8 ] bes4 ) c2 \mf \<
-  c8  ( [ d8 ] es4 ) d4 \mf d4 d8 \> ( [ c8 ] bes4 ) c2 \f d4 ( es4) (|
+  c8  ( [ d8 ] es4 ) d4 \f d4 d8 \> ( [ c8 ] bes4 ) c2 \mf d4 ( es4 |
 
   \opage %3
   \time 8/2  f2 ) \f  es2 es2-- d4 c4 d8 \> ( [ c8 ] bes4 c1 ) bes4 \mf \< c4 |

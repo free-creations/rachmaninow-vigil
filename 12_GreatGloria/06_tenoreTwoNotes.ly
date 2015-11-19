@@ -13,7 +13,7 @@ tenoreTwoVoice = \relative c' {
   \time 8/2  bes1 ~ bes1 \pp d2-- c2( bes2 as2 | % 4
   \time 5/2  g4) \mf  r4 r2 r2 r2 r2  | % 5
   \time 4/2  R2*4 | % 6
-  \time 9/2  bes1 \p  bes2 as4 ( bes4 ) c2 ( bes2 g2 ) c2( bes4 c4) |
+  \time 9/2  bes1 \p  bes2 as4 ( bes4 ) c2 ( bes2 g2 ) c2( bes4 \< c4) |
 
   \opage %3
   \time 8/2 d2 \mf ( es2 )  c2 d2 bes2 \> ( c2 ) c2 \p ( d2) |
@@ -102,7 +102,7 @@ tenoreTwoVoice = \relative c' {
   \time 4/4  R1 |
   \time 4/4  R1 |
   \time 4/4  R1 |
-  \time 4/4  r2 r4 c4 |
+  \time 4/4  r2 r4 c4\p |
 
   \opage %12
   \time 3/2  c2-- \p b2-- c2-- \pp | % 2

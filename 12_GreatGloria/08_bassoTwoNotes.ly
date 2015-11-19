@@ -82,7 +82,7 @@ bassoTwoVoice = \relative g {
 
   \opage %10
   \time 3/2  bes1. \mf  -> | % 2
-  \time 3/2  bes1.  | % 3
+  \time 3/2  bes1. \mp  | % 3
   \time 3/2  bes1.  | % 4
   \time 3/2  bes1 \p bes2-- ~ | % 5
   \time 3/2  bes2 bes1-- | % 6
@@ -105,8 +105,8 @@ bassoTwoVoice = \relative g {
   \time 4/4  R1 |
   \time 4/4  R1 |
   \time 4/4  r2 r4 f4 \p  |
-  \time 3/2  g2 \> g,2 c2 | % 7
-  \time 4/4  c4 \pp c g4 g4 | % 8
+  \time 3/2  g2 \> g,2 c2\pp  | % 7
+  \time 4/4  c4 \p c g4 g4 | % 8
   \time 4/4  c4 c4 g4 g4 | % 9
   \time 4/4  c4 c4 g4 \< ( c4 ) |
   \time 4/4  bes2-> \f \> c4 f4 | % 11

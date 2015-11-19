@@ -34,7 +34,7 @@ greyText = {
 }
 
 obreak = {}
-opage ={\pageBreak}
+opage ={}
 
 \include "articulate.ly"
 
@@ -88,7 +88,7 @@ opage ={\pageBreak}
 \score {
 
   \new ChoirStaff   <<
-   %{
+
     \new Staff \with {
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
@@ -96,7 +96,7 @@ opage ={\pageBreak}
     } { \global \sopranoOneVoice }
     \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
-   %}
+
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
@@ -111,7 +111,7 @@ opage ={\pageBreak}
     \addlyrics { \sopranoThreeLatinG }
     \addlyrics { \greyText \sopranoThreeCyrillic }
 
-    %{
+
     \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
@@ -119,22 +119,22 @@ opage ={\pageBreak}
     } {  \global \altoOneVoice}
     \addlyrics { \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
-    %{
+
     \new Staff \with {
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
     } {  \global \altoTwoVoice }
     \addlyrics { \altoTwoLatinG }
     \addlyrics { \greyText \altoTwoCyrillic }
- 
-%{
+
+
     \new Staff \with {
       instrumentName = "T. I"
       shortInstrumentName = "T. I"
     } { \global \clef "treble_8" \tenoreOneVoice }
     \addlyrics { \tenoreOneLatinG }
     \addlyrics { \greyText \tenoreOneCyrillic }
-    
+
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"
@@ -149,14 +149,14 @@ opage ={\pageBreak}
     } { \global \clef "treble_8" \tenoreThreeVoice }
     \addlyrics { \tenoreThreeLatinG }
     \addlyrics { \greyText \tenoreThreeCyrillic }
-   %{
+
     \new Staff \with {
       instrumentName = "B. I"
       shortInstrumentName = "B. I"
     } {\global \clef bass \bassoOneVoice }
     \addlyrics { \bassoOneLatinG }
     \addlyrics { \greyText \bassoOneCyrillic }
-   
+
     \new Staff \with {
       instrumentName = "B. II"
       shortInstrumentName = "B. II"
@@ -170,7 +170,7 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoThreeVoice }
     \addlyrics { \bassoThreeLatinG }
     \addlyrics { \greyText \bassoThreeCyrillic }
-    %}
+
   >>
 
 
@@ -182,6 +182,7 @@ opage ={\pageBreak}
       \remove "Default_bar_line_engraver"
 
     }
+    % move the barline engraver to the staff context (in bar 19 staves have different barlines)
     \context {
       \Staff
       \consists "Bar_number_engraver"
@@ -196,7 +197,7 @@ opage ={\pageBreak}
 }
 
 %%% ------ Midi Score
-%{
+
 \score {
   <<
     \articulate
@@ -209,6 +210,7 @@ opage ={\pageBreak}
       \new Staff = "A 2" {\midiGlobal \altoTwoVoice}
       \new Staff = "T 1" {\midiGlobal \tenoreOneVoice}
       \new Staff = "T 2" {\midiGlobal \tenoreTwoVoice}
+      \new Staff = "T 3" {\midiGlobal \tenoreThreeVoice}
       \new Staff = "B 1" {\midiGlobal \bassoOneVoice}
       \new Staff = "B 2" {\midiGlobal \bassoTwoVoice}
       \new Staff = "B 3" {\midiGlobal \bassoTwoVoice}
@@ -221,6 +223,7 @@ opage ={\pageBreak}
       \new Staff = "A 2 B" {\midiGlobal \altoTwoVoice}
       \new Staff = "T 1 B" {\midiGlobal \tenoreOneVoice}
       \new Staff = "T 2 B" {\midiGlobal \tenoreTwoVoice}
+      \new Staff = "T 3 B" {\midiGlobal \tenoreThreeVoice}
       \new Staff = "B 1 B" {\midiGlobal \bassoOneVoice}
       \new Staff = "B 2 B" {\midiGlobal \bassoTwoVoice}
       \new Staff = "B 3 B" {\midiGlobal \bassoThreeVoice}
@@ -240,6 +243,7 @@ opage ={\pageBreak}
         <<
           {\midiGlobal \tenoreOneVoice } \\
           {\midiGlobal \tenoreTwoVoice } \\
+          {\midiGlobal \tenoreThreeVoice } \\
           {\midiGlobal \bassoOneVoice } \\
           {\midiGlobal \bassoTwoVoice } \\
           {\midiGlobal \bassoThreeVoice }
@@ -251,7 +255,7 @@ opage ={\pageBreak}
     >>
   >>
   \midi {
-    \tempo 4=66
+    \tempo 2=66
   }
 }
 

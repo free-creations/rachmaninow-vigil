@@ -12,7 +12,7 @@ tenoreOneVoice = \relative c' {
   \time 8/2  r1  f2 \pp es2 f2--  es2 r1 | % 4
   \time 5/2  b4 ( \mf c4) d4 d4 d8 [( c8 ] b4 ) c2 c8 \< ( [ d8 ] es4 )  | % 5
   \time 4/2  d4 \f d4 \>d8 ( [ c8 ] b4 c2 \p ) c8 ( [ d8 ] es4 ) |
-  \time 9/2  d1 \p  d2 es2 es2 ( d1 ) es2 ( d4 es4 ) |
+  \time 9/2  d1 \p  d2 es2 es2 ( d1 ) es2 ( d4 \< es4 ) |
 
   \opage %3
   \time 8/2  f2 \mf ( g2 ) es2 f2 d2 \> ( es2  ) c2 \p ( d2 ) |

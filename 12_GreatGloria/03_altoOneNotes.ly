@@ -13,12 +13,12 @@ altoOneVoice = \relative es' {
   \time 6/2  as2 \mf g4 g4 ~ g4 g4 \> g8 ( [ f8 ) ] es4 \mp f2 f4 ( g4 )
   \time 8/2  as2 -- \p  g2 as2 -- g2 g4 g4 g8 ( [ f8 ) ] es4 f1 ~ |
   \time 5/2  f1 r2 as2 -- \p g4  g4 |
-  \time 4/2  g2  g4 g4 g8 [( f8  ]) es4 f2 -- ~ |
+  \time 4/2  g2--  g4 g4 g8 [( f8  ]) es4 f2 -- ~ |
   \time 9/2  f2 f4 \< ( g4 ) as4 \mf g4 as2 -- g4 \> g4  g2 --  g4 \p g4 g8 ( [ -- f8 ] es4  ) f4 \<  f8 ( [ g8 ) ]  |
 
   \opage %3
   \time 8/2  as2 \mf g4 g4 g4 g4 g4 \> g4 g4 g4 g2 \p g8  ( [ f8 ) ] es4 f2 |
-  \time 7/2  as2 -- g4 g4 g2 -- g4 \< g4  as2 \mp \> g2 f4 ( \p \< g4 ) |
+  \time 7/2  as2 -- g4 g4 g2 \mp -- g4 \< g4  as2 \mp \> g2 f4 ( \p \< g4 ) |
   \time 9/2  as2-- \mp g4 \> g4 g4 \p g4 g4 g4 g2.-- g4 g8 ( [ f8 ) ] es4 f1 |
 
   \time 10/2  es4 r4 r2 r1 r1 r1 r1 |
@@ -77,7 +77,7 @@ altoOneVoice = \relative es' {
     \times 2/3  {
       g4 \< g4 f8 ( [ g8 ) ]
     }
-    as2 \f \> -> | % 9
+    as2 \mp \> -> | % 9
     \times 2/3  {
       as4 g4 g4
     }
@@ -124,7 +124,7 @@ altoOneVoice = \relative es' {
 
   \time 4/2{
     \times 2/3  {
-      g4 \mp g4 g4
+      g4 \mf g4 g4
     }
     \times 2/3  {
       g4  g4 g4
@@ -184,7 +184,7 @@ altoOneVoice = \relative es' {
   \time 4/4  g2-- g2-- |
   \time 4/4  g2-- g4-- \< f8  ( [ g8 ) ]  |
   \time 4/4  as2  \f \> -- g4 as4  |
-  \time 3/2  g2 \p -- g2--  g2-- \pp | % 12
+  \time 3/2  g2 \p\> -- g2--  g2-- \pp | % 12
   \time 4/2  f2  \mf f4 g4 f4-- f4 f4 f4 |
   \time 4/2  f4 f4 f4 f8 \< [( g8 ]) as2-- \f \> g2 
 
@@ -195,7 +195,7 @@ altoOneVoice = \relative es' {
   \time 4/2  bes2-> bes4 \mf \mf bes4 bes4 bes4 bes2-- | % 5
   \time 4/2  es,4 \ff es4 f4 es8 ( [ f8 ) ] g4 g4 f4 f8 ( [ g8 ) ]  | % 6
   \time 4/2  as4 g4 as4 g8 ( [ f8 ) ] g4 f8 ( [ es8 ) ] f4 g4 | % 7
-  \time 4/2  as2 g4 \< g8 [ as8 ] bes2 \ff -> c4 \> c4 | % 8
+  \time 4/2  as2 g4 \< g8 [ as8 ] bes2 \fff -> c4 \> c4 | % 8
   \time 4/2  c2--  g2--  g1 \p \fermata \bar "|."
 
 }

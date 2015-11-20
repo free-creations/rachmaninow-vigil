@@ -18,7 +18,7 @@ bassoOneVoice =\relative g {
   \time 8/2  R2*8 | % 2
   \time 7/2  R2*7 |
   \time 9/2  R2*9 | % 5
-  \time 10/2  r2  bes,4( \ppp c4) des2-- c4 c4 c2-- c4 c4 bes4 c4 des2-- c2 bes4 ( c4 ) |
+  \time 10/2  r2  bes,4( \p c4) des2-- c4 c4 c2-- c4 c4 bes4 c4 des2-- c2 bes4 ( c4 ) |
   \time 5/2  des4 c4 des4 c4 c8 ( [ bes8 ) ] as4 bes2 bes2
 
   \opage %4

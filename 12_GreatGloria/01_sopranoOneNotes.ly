@@ -1,4 +1,5 @@
 sopranoOneVoice = \relative c'' {
+  \tempo 2=100
   \time 10/4 R4*10 |
   \time 8/4  R4*8  |
   \time 6/2  R2*6 |
@@ -20,13 +21,14 @@ sopranoOneVoice = \relative c'' {
   \time 7/2  d4 \f \> ( -- c4 c2 \mf ) c2 \f \> -- bes2 ( ~ bes1  c2 ) |
   \time 9/2  bes1  \p\< c2 c2\mf \> bes1. as1( \pp    | % 5
   \time 10/2 g1 ) r\breve r\breve | % 6
-  \time 5/2  r\breve f4 ( \p \< g4 |
+  \time 5/2  r\breve \tempo 2=90 f4 ( \p \< g4 |
 
   \opage %4
-  \time 14/2 as4 ) \mp \> -- g4  g4 f4  as2  -- g2 f2 ( -- g2 ) as4 \pp  g4 as4
-  g4 as1 -- es'2-- \p \< es2-- es2-- es2-- \bar "" \set Staff.currentBarNumber = #18
-  \time 7/2  es2 es1 \ff es4 ( d4 c2 ) bes2 \p \fermata r2 | \set Staff.currentBarNumber = #19
-  \time 4/2  r4 d4 \pp d2 -- d4 d4 d4 d4 \bar "!" \set Staff.currentBarNumber = #19
+  \time 14/2 as4 ) \mp \> -- g4  g4 f4  as2  -- g2 f2 ( -- g2 ) 
+  \tempo 2=88 as4 \pp \tempo 2=86  g4 \tempo 2=84 as4 \tempo 2=82 g4 \tempo 2=76 as1 -- 
+  \tempo 2=100   es'2-- \p \< es2-- es2-- es2-- \bar "" \set Staff.currentBarNumber = #18
+  \time 7/2  es2 es1 \ff \tempo 2=98 es4 ( \tempo 2=96 d4 \tempo 2=94 c2 ) \tempo 2=92 bes2 \p \fermata r2 | \set Staff.currentBarNumber = #19
+  \time 4/2  \tempo 2=100 r4 d4 \pp d2 -- d4 d4 d4 d4 \bar "!" \set Staff.currentBarNumber = #19
   \time 3/2  d4 d2 -- d4 d4 d4 \bar "!" \set Staff.currentBarNumber = #19
   \time 3/2  d4 d4 d4 d4 d4 d4 \bar "!" \set Staff.currentBarNumber = #19
   \time 4/2  d4 \p \> d4 d4 \pp d4 d1 \mp \bar "!" \set Staff.currentBarNumber = #19
@@ -50,36 +52,36 @@ sopranoOneVoice = \relative c'' {
   \time 4/2  bes2-- \mp \> bes1.--  \bar "!" \set Staff.currentBarNumber = #22
   \time 4/4  bes2 \! \pp bes2  \bar "!" \set Staff.currentBarNumber = #22
   \time 4/2  bes2 bes4 bes4 bes1 -- \breathe   \bar "|" \set Staff.currentBarNumber = #23
-  \time 9/2  g4 \p \< as4 bes2 \mp  -- as4 \p \< as4  as2 \mp -- as2 \p ~ as4 as4 \p as8 ( [ g8 )  ] f4 \pp g1 -- \breathe | \set Staff.currentBarNumber = #24
-  \time 9/4  es'4 \mf es4 es4 \<  d4  es4 f1  \ff \> \bar "" \set Staff.currentBarNumber = #24
-  \time 12/4 es2 es2  d1 \p \fermata r2 d4 \< ( es4  )  \bar "|" \set Staff.currentBarNumber = #25
+  \time 9/2  \tempo 2=90 g4  \p \< as4 bes2 \mp  -- as4 \p \< as4  as2 \mp -- as2 \p ~ as4 as4 \p as8 ( [ g8 )  ] f4 \pp g1 -- \breathe | \set Staff.currentBarNumber = #24
+  \time 9/4  \tempo 2=88 es'4 \mf es4 es4 \<  d4  es4 \tempo 2=86 f1  \ff \> \bar "" \set Staff.currentBarNumber = #24
+  \time 12/4  es2 es2  \tempo 2=82 d1 \p \fermata r2 \tempo 2=100 d4 \< ( es4  )  \bar "|" \set Staff.currentBarNumber = #25
   \time 4/2  f1. \mf \>  ( es2  | % 8
   \time 4/2  d2   es2 \p ) d4 \< ( es4 ) f2 ~ \mp \> ( | % 9
-  \time 4/2  f4  es4  d2 \p ~ d4 ) r4 d4 \< es4 
+  \time 4/2  \tempo 2=98 f4   \tempo 2=96 es4  \tempo 2=94 d2 \p ~ d4 ) r4 \tempo 2=100 d4 \< es4 
 
   \opage %7
   \time 4/2  f1. ( \mf \> ~ f4 es4 ) \mp |
   \time 4/2  d4 \< ( es4 ) f4--\f \> ( es4  ) d4 \mf \< ( es4 ) f2  \f \> ( ~
-  \time 4/2  f4  es4 d2 ~ \p d4 ) r4 d4 \< ( es4  ) | % 4
+  \time 4/2  \tempo 2=98 f4  \tempo 2=96 es4 \tempo 2=94 d2 ~ \p d4 ) r4 \tempo 2=100 d4 \< ( es4  ) | % 4
   \time 4/2  f1. (--  \f \> ~ f4 es4 )  |
 
   \opage %8
   \time 4/2  d4 \mf \< ( es4 f4-- \f \> es4 ) d4 \mf \< ( es4 ) f2 (  \ff \> ~ |
-  \time 4/2  f4 es4 d1 \p ~ d4 ) r4 | % 3
-  \time 4/2  R2*4 | % f,2-- \ppp es2-- d2-- es2 -- | % 4
+  \time 4/2  \tempo 2=98 f4 \tempo 2=96 es4 \tempo 2=94 d1 \p ~ \tempo 2=92 d4 ) r4 | % 3
+  \time 4/2  \tempo 2=100 R2*4 | % f,2-- \ppp es2-- d2-- es2 -- | % 4
   \time 4/2  R2*4 | % f2-- ( es2 d2 es2 | % 5
   \time 4/2  R2*4 | % f2-- ) es2-- d2-- es2 (
 
   \opage %9
   \time 4/2  R2*4 | % f1) \p es2 \ppp es2  |
   \time 4/2  R2*4 | %  d\breve | % 3
-  \time 4/2  r1 r2 r4 d8 \pp \< ( [ es8  ] | % 4
+  \time 4/2  \tempo 2=102 r1 r2 r4 d8 \pp \< ( [ es8  ] | % 4
   \time 4/2  f4-- \p \> ) es4 d2 \pp r2 r4 d8 \< ( [ es8 ] | % 5
   \time 4/4  f4 \p \> f4 ) es2 \pp | % 6
   \time 4/2  r4 d8 \< ([ es8 )] f4-> \mp \> ( es4 d2 ) d4 ( \p \<  es4 
 
   \opage %10
-  \time 3/2  f2) \mf \> es2 d4  \p d4 | % 2
+  \time 3/2  \tempo 2=104 f2) \mf \> es2 d4  \p d4 | % 2
   \time 3/2  d4 d4 c4(-- bes8 [ c8 ]) d4 \< es4 | % 3
   \time 3/2  f4 \mp \> ( es8 [ d8 ]) es1 \p --  | % 4
   \time 3/2  d2  c4 ( \< bes8  [ c8 ])  d2( \mp \> ~ | % 5
@@ -92,9 +94,9 @@ sopranoOneVoice = \relative c'' {
   \time 3/2  es4 \mf es4 es8 ( [ d8 ) ] c4 c4( \< d4)  | % 4
   \time 3/2  f2-- \f es2 \> d2 | % 5
   \time 3/2  es4 \mp f4 f4 \< f4 f4 g4 | % 6
-  \time 4/2  as2-> \ff ( g4-> f8->   [ g8 ]) as2-> ( g4-> as8-> [ g8 ) ]  | % 7
-  \time 4/2  f2 \>  es2 f1 \breathe | % 8
-  \time 4/4  c4 \p c4 d4-- c8 [( d8 ]) | % 9
+  \time 4/2  \tempo 2=98  as2-> \ff ( g4-> f8->   [ g8 ]) as2-> ( g4-> as8-> [ g8 ) ]  | % 7
+  \time 4/2  \tempo 2=94 f2  \>  \tempo 2=90 es2 \tempo 2=80 f1 \breathe | % 8
+  \time 4/4  \tempo 2=100 c4 \p c4 d4-- c8 [( d8 ]) | % 9
   \time 4/4  es4 es4 d4 -- c8 ( [ d8 ) ] | 
   \time 4/4  es8 ( [ d8 ) ] es4 d4 \< ( es4 ) | % 11
   \time 4/4  f2  \mf \> -- es4 d4 
@@ -123,8 +125,8 @@ sopranoOneVoice = \relative c'' {
   \time 4/2  g2 -> f4 \mf es4 f4 es4 d2 | % 5
   \time 4/2  c2 \f d2 es2 d2  | % 6
   \time 4/2  f4 ( es4 ) f2 es2 d2 | % 7
-  \time 4/2  f4 ( es4 ) f4 \<  g4 as2-> \ff g4 \> es4 | % 8
-  \time 4/2  g2  -- f2 -- es1 \p \fermata \bar "|."
+  \time 4/2  f4 ( es4 ) f4 \<  g4 \tempo 2=96 as2-> \ff \tempo 2=90 g4 \> \tempo 2=80 es4 | % 8
+  \time 4/2  \tempo 2=68 g2  -- \tempo 2=64 f2 -- \tempo 2=44 es1 \p \fermata \bar "|."
 
 
 

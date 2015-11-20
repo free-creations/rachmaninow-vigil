@@ -21,6 +21,7 @@ global = {
   % \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
   \override Score.BarNumber #'break-visibility = #'#(#t #t #t)
+ % \set Score.tempoHideNote = ##t
 }
 
 midiGlobal = {
@@ -255,7 +256,7 @@ opage ={}
     >>
   >>
   \midi {
-    \tempo 2=66
+    
   }
 }
 

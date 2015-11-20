@@ -1,4 +1,4 @@
-channel 1 -8 Voices: Kawai CS7 Digitalpiano (5 Mellow Grand)
+channel 1 - 11 Voices: Kawai CS7 Digitalpiano (5 Mellow Grand)
 
 ------------------------------------------
 channel x - y Choir 
@@ -11,10 +11,11 @@ ch 4  A I 	delay 20
 ch 5  A II 	delay 40
 ch 6  T I 	delay 17
 ch 7  T II 	delay 27
-ch 8  B I 	delay 13
-ch 9  B II 	delay 23
-ch 10 B III	delay 11
-ch 11 Solo	delay 7
+ch 8  T III 	delay 27
+ch 9  B I 	delay 13
+ch 11  B II 	delay 23
+ch 12 B III	delay 11
+ch 13 Solo	delay 7
 
 -------------------------------------------
 Synt 2

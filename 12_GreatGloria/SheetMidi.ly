@@ -214,7 +214,7 @@ opage ={}
       \new Staff = "T 3" {\midiGlobal \tenoreThreeVoice}
       \new Staff = "B 1" {\midiGlobal \bassoOneVoice}
       \new Staff = "B 2" {\midiGlobal \bassoTwoVoice}
-      \new Staff = "B 3" {\midiGlobal \bassoTwoVoice}
+      \new Staff = "B 3" {\midiGlobal \bassoThreeVoice}
 
       % Background voices
       \new Staff = "S 1 B" {\midiGlobal \sopranoOneVoice}

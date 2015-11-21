@@ -72,12 +72,12 @@ altoTwoVoice = \relative c' {
     { \voiceOne { g4 f4 es4( d4) } }
     \new Voice { \voiceTwo  \tag #'altoThree {es4 d4 c4( bes4) } }
   >> \oneVoice
-  \time 4/4  es4 ( d4 ) c4 bes4 |
-  \time 4/4  c4 \pp ( bes4 ) a4( bes4 ~
+  \time 4/4  es4 \> ( d4 ) c4 bes4 |
+  \time 4/4  c4  ( bes4 ) a4( bes4 ~
 
 
   \opage %8
-  \time 4/4  bes2)  \fermata r4 r8 g'8 \pp |
+  \time 4/4  bes2) \ppp \fermata r4 r8 g'8 \pp |
   \time 4/4  g4-- g8 g8 g8 g8 fis8 \breathe g8 |
   \time 15/8 g4 -- g8 g8 g8 g8 g8 fis8 -- \bar ""  g8 g8 g8 g8 fis?8 \breathe g8 g8 |
   \time 6/4  g4 -- g8 g8 g8 g8 fis8-- g8 g8 g8 fis4 |

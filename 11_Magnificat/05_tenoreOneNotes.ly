@@ -40,7 +40,7 @@ tenoreOneVoice = \relative c' {
   \opage %5
   \time 7/4  bes4-- \p bes4-- bes4-- bes8 \> c8 bes8 \pp bes8 bes8 bes16-- ( [ c16 ]) bes16-- ([ c16 ]) bes16--( [ c16 ) ] |
   \time 6/4  d8.--\p ( [ g16 ]  f8 \> [ es8 ] d8 [ c8 ]) d2. \pp |
-  \time 5/4  d8 d8 \bar "|"  g2 \ff  g4 g8 f8 |
+  \time 5/4  d8\< d8 \bar "|"  g2 \ff  g4 g8 f8 |
   \time 4/4  es4 es4 es4 es8 [( \> d8]) |
   \time 4/4  c4  \mf  c4 c4 \<  d4 |
   \time 4/4  es4-- \f \>  ( d4 ) c4  c4 |
@@ -65,11 +65,11 @@ tenoreOneVoice = \relative c' {
   \time 6/4  es4 ( c8 [ es8 ) ] f4 es4 f4 g8 ( [ a8 ) ] |
   \time 4/4  bes4 a4 g4 d8 ( [ f8 ) ] |
   \time 4/4  g2. ( f4 ) |
-  \time 4/4  es4 ( d4 ) c4 bes4 |
-  \time 4/4  g2 \pp  g2 (
+  \time 4/4  es4 \> ( d4 ) c4 bes4 |
+  \time 4/4  g2   g2 (
 
   \opage %8
-  \time 4/4  g2 ) \fermata r4 r8 d'8 \pp |
+  \time 4/4  g2 ) \ppp \fermata r4 r8 d'8 \pp |
   \time 4/4  e4 -- d8 d8 d16 ( [ e16 ) ] d8 d8 d8  |
   \time 15/8 e4 -- d8 d8 d8 d8 d8 fis16 ( [ e16 ) ]  \bar ""  d8 d8 d16 ( [ e?16 ) ] d8 d8 \breathe d8 d8 |
   \time 6/4  e4 -- d8 d8 d16 ( [ e16 ) ] d8 d8-- d8 d16 [ e16 ] d8 d4 |

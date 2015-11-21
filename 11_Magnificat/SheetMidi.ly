@@ -138,7 +138,7 @@ opage ={\pageBreak}
     } {\global \clef bass \bassoTwoVoice }
     \addlyrics { \bassoTwoLatinG }
     \addlyrics { \greyText \bassoTwoCyrillic }
-
+%}
   >>
   \layout { }
 }
@@ -202,7 +202,7 @@ opage ={\pageBreak}
     >>
   >>
   \midi {
-    \tempo 4=33
+    
   }
 }
 

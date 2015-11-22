@@ -41,7 +41,7 @@ sopranoTwoVoice = \relative c '' {
   \opage %p5
   \time 7/4  g4-- \p g4-- g4-- g8 \> fis8 g8  \pp g8 g8 g8-- g8-- g8--  | 
   \time 6/4  bes2--  \p ( ~ bes8 [ a8 ] ) bes2. \pp | 
-  \time 5/4  d8 \< bes8 \bar "|" es4( \ff f4) g4 f8 d8 | 
+  \time 5/4  d8\f \< bes8 \bar "|" es4( \ff f4) g4 f8 d8 | 
   \time 4/4  c4 d4 es4 d8 \> [( g,8 ]) | 
   \time 4/4  c4  \mf c4 c4 \< b4 | 
   \time 4/4  c4 \f ( -- \> bes4 ) c4 \mf bes4 | 
@@ -63,7 +63,7 @@ sopranoTwoVoice = \relative c '' {
   \time 6/4  R1.*2 |
   \time 6/4  r2. r4 g4 \pp bes4  |
   \time 6/4  bes4 a8 [( bes8 ]) c2 c4 ( bes4 ) |
-  \time 6/4  es2 d4 es4 f4 d8 ( [ f8 ) ] |
+  \time 6/4  es2 \< d4 es4 f4 d8 ( [ f8 ) ] |
   \time 4/4  g4( \ff f4 es4) d4 |
   \time 4/4  c4 bes4 a4 ( g4 ) |
   \time 4/4  c4 \> ( bes4 ) a4 g4 |

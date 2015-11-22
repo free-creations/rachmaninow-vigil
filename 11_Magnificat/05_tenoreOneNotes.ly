@@ -40,7 +40,7 @@ tenoreOneVoice = \relative c' {
   \opage %5
   \time 7/4  bes4-- \p bes4-- bes4-- bes8 \> c8 bes8 \pp bes8 bes8 bes16-- ( [ c16 ]) bes16-- ([ c16 ]) bes16--( [ c16 ) ] |
   \time 6/4  d8.--\p ( [ g16 ]  f8 \> [ es8 ] d8 [ c8 ]) d2. \pp |
-  \time 5/4  d8\< d8 \bar "|"  g2 \ff  g4 g8 f8 |
+  \time 5/4  d8\<\f d8 \bar "|"  g2 \ff  g4 g8 f8 |
   \time 4/4  es4 es4 es4 es8 [( \> d8]) |
   \time 4/4  c4  \mf  c4 c4 \<  d4 |
   \time 4/4  es4-- \f \>  ( d4 ) c4  c4 |
@@ -62,8 +62,8 @@ tenoreOneVoice = \relative c' {
   \time 6/4  d4 c4 g4 c2 a4 bes4 c4 d4 bes2 d4 |
   \time 6/4  c4 d4 c4 ( bes4 ) bes4 g4 |
   \time 6/4  g4 g4 c4 ( a4 ) a8 ( [ c8  ] d4 ) |
-  \time 6/4  es4 ( c8 [ es8 ) ] f4 es4 f4 g8 ( [ a8 ) ] |
-  \time 4/4  bes4 a4 g4 d8 ( [ f8 ) ] |
+  \time 6/4  es4 (\< c8 [ es8 ) ] f4 es4 f4 g8 ( [ a8 ) ] |
+  \time 4/4  bes4\ff a4 g4 d8 ( [ f8 ) ] |
   \time 4/4  g2. ( f4 ) |
   \time 4/4  es4 \> ( d4 ) c4 bes4 |
   \time 4/4  g2   g2 (

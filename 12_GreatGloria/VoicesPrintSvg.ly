@@ -7,7 +7,7 @@
 
 
 \paper {
-  paper-height = 800\mm
+  paper-height = 1200\mm
   paper-width = 140\mm
   top-margin = 8\mm
   bottom-margin = 2\mm
@@ -30,8 +30,9 @@ greyText = {
   \override Lyrics.LyricExtender  #'color =  #(x11-color 'grey40)
 }
 
+
 global = {
-  \key f \major
+  \key es \major
   \numericTimeSignature
   \dynamicUp
   \autoBeamOff
@@ -39,6 +40,27 @@ global = {
   \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
   %\override Score.BarNumber #'break-visibility = #'#(#t #t #t)
+  \set Score.tempoHideNote = ##t
+}
+
+\layout {
+  \context {
+    \Score
+    \remove "Timing_translator"
+    \remove "Default_bar_line_engraver"
+
+  }
+  % move the barline engraver to the staff context (in bar 19 staves have different barlines)
+  \context {
+    \Staff
+    \consists "Bar_number_engraver"
+    \consists "Timing_translator"
+    \consists "Default_bar_line_engraver"
+  }
+  \context {
+    \Score
+    \override SpanBar #'transparent = ##t %Turns off staff lines between staves
+  }
 }
 
 obreak = {}
@@ -71,6 +93,11 @@ opage ={}
 \include "06_tenoreTwoNotes.ly"
 \include "06_tenoreTwoLyricsCyrillic.ly"
 \include "06_tenoreTwoLyricsLatinG.ly"
+
+
+\include "11_tenoreThreeNotes.ly"
+\include "11_tenoreThreeLyricsCyrillic.ly"
+\include "11_tenoreThreeLyricsLatinG.ly"
 
 \include "07_bassoOneNotes.ly"
 \include "07_bassoOneLyricsCyrillic.ly"
@@ -163,7 +190,16 @@ opage ={}
     \addlyrics { \greyText \tenoreTwoCyrillic }
   }
 }
-
+\book {
+  \bookOutputName "11_tenoreThree"
+  \score {
+    \new Staff \with {
+      instrumentName = "T. III"
+    } { \clef "treble_8" \global  \tenoreThreeVoice }
+    \addlyrics { \tenoreTwoLatinG }
+    \addlyrics { \greyText \tenoreTwoCyrillic }
+  }
+}
 %---------- Basso -------------------------------
 \book {
   \bookOutputName "07_bassoOne"

@@ -145,40 +145,7 @@ deleteDynamics = #(define-music-function (parser location music) (ly:music?)
                      music))
 
 %---------- Soprano-------------------------------
-%{
-\book {
-  \bookOutputName "01_sopranoOne"
-  \score {
-    \new Staff \with {
-      instrumentName = "S. I"
-    } { \global \sopranoOneVoice }
-    \addlyrics { \sopranoOneLatinG }
-    \addlyrics { \greyText \sopranoOneCyrillic }
-  }
-}
 
-\book {
-  \bookOutputName "02_sopranoTwo"
-  \score {
-    \new Staff \with {
-      instrumentName = "S. II"
-    } { \global \sopranoTwoVoice }
-    \addlyrics { \sopranoTwoLatinG }
-    \addlyrics { \greyText \sopranoTwoCyrillic }
-  }
-}
-
-\book {
-  \bookOutputName "10_sopranoThree"
-  \score {
-    \new Staff \with {
-      instrumentName = "S. III"
-    } { \global \sopranoThreeVoice }
-    \addlyrics { \sopranoThreeLatinG }
-    \addlyrics { \greyText \sopranoThreeCyrillic }
-  }
-}
-%}
 \book {
   \bookOutputName "01_sopranoOne"
   \header {

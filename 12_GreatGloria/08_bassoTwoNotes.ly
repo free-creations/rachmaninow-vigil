@@ -124,7 +124,7 @@ bassoTwoVoice = \relative g {
   
   
   \time 4/2  as2 g4 \< g8 ( [ as8 ) ] bes2 \ff -> c4 \> as4 | % 8
-  \time 4/2  g2--  g,2-- c1 \p \fermata \bar "||"
+  \time 4/2  g2--  g,2-- c1 \p \fermata \bar "|."
 
 
 

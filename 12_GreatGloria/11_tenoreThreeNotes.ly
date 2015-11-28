@@ -69,7 +69,7 @@ tenoreThreeVoice = \relative c' {
   \time 4/2 bes1.(  \f \> ~ bes4 c4 )
 
   \opage %8
-  \time 4/2 g4 \mp \< ( c4 bes4-- \f\> c4 ) g4\mf\< ( c4 ) bes2( \ff \> ~ | % 2
+  \time 4/2 g4 \mf \< ( c4 bes4-- \f\> c4 ) g4\mf\< ( c4 ) bes2( \ff \> ~ | % 2
   \time 4/2 bes4 c4 g1 \p ~ g4) r4  | % 3
   \time 4/2   f2-- \ppp -- g2 -- as2 -- g2 | % 4
   \time 4/2   as2-- ( g2 f2 g2 | % 5
@@ -81,7 +81,7 @@ tenoreThreeVoice = \relative c' {
   \time 4/2  b1  ~ b1  ~  | % 4
   \time 4/2  b2. b8 \< ( [ c8 ) ] d4( \p \> c4) b2\pp ~ | % 5
   \time 4/4  b1  -- | % 6
-  \time 4/2  b1 ~ -> b4 b8 \< ( [ c8 ) ] d4(-> \p\> c4) \pp
+  \time 4/2  b1 ~ -> b4 b8 \< ( [ c8 ) ] d4(-> \p c4) \pp
 
   \opage %10
   \time 3/2  d2-> \mf es2-> bes2-> | % 2

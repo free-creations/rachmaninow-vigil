@@ -81,7 +81,7 @@ bassoOneVoice =\relative g {
   \time 4/2  f2.\p f8 \pp \< ( [ g8 ) ] as2 \p ( g2 \pp )
 
   \opage %10
-  \time 3/2  f2 \mf  \> ( -> g1 \mp ) | % 2
+  \time 3/2  f2 \mf   ( -> g1 \mp ) | % 2
   \time 3/2  g1->  ( f4 \< g4 ) | % 3
   \time 3/2  as1 -> \mf \> (  g2) | % 4
   \time 3/2  g1  \p g2 ~ -- | % 5

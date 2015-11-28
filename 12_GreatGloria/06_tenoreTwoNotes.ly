@@ -81,7 +81,7 @@ tenoreTwoVoice = \relative c' {
   \time 4/2  b1  ~ b1  ~  | % 4
   \time 4/2  b2. b8 \< ( [ c8 ) ] d4( \p \> c4) b2\pp ~ | % 5
   \time 4/4  b1  -- | % 6
-  \time 4/2  b1 ~ -> b4 b8 \< ( [ c8 ) ] d4(-> \p\> c4) \pp
+  \time 4/2  b1 ~ -> b4 b8 \< ( [ c8 ) ] d4(-> \p c4) \pp
 
   \opage %10
   \time 3/2  d2-> \mf es2-> bes2-> | % 2

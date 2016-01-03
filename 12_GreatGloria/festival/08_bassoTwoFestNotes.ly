@@ -8,8 +8,8 @@ bassoTwoVoice = \relative g {
   \time 8/2 r 1 r 1 r 1 r 1 |
   \time 7/2 f2( \p -- g2) es2( -- f2) d2( -- es2) c2 |
   \time 9/2 d2( bes2) c2 as2 bes2( g2 as2) f2( bes2) |
-  \time 10/2 es,\breve( \ppp es\breve es1 |
-  \time 5/2 es\breve es2) |
+  \time 10/2 es,\breve( \ppp ~ es\breve ~ es1 ~ |
+  \time 5/2 es\breve ~ es2) |
   
 
   \opage
@@ -24,10 +24,10 @@ bassoTwoVoice = \relative g {
 
   \opage
   \time 2/2 c,2 -- \p c2 \bar "!"
-  \set Staff . currentBarNumber = # 20 \time 4/4 c1( -- \bar "!"
-  \set Staff . currentBarNumber = # 20 \time 2/4 c2 \bar ""
+  \set Staff . currentBarNumber = # 20 \time 4/4 c1( -- ~ \bar "!"
+  \set Staff . currentBarNumber = # 20 \time 2/4 c2 ~ \bar ""
   \set Staff . currentBarNumber = # 20 \time 4/4 c1) \bar "!"
-  \set Staff . currentBarNumber = # 20 \time 4/4 c1( -- \bar ""
+  \set Staff . currentBarNumber = # 20 \time 4/4 c1( -- ~ \bar ""
   \set Staff . currentBarNumber = # 20 \time 4/4 c1) \bar "!"
   \set Staff . currentBarNumber = # 20 \time 4/4 c1( \> \bar "!"
   \set Staff . currentBarNumber = # 20 \time 4/2 f4) \pp r 4 r 2 r 4 f,4 \mf \< f4 g4 \bar "|"
@@ -41,7 +41,7 @@ bassoTwoVoice = \relative g {
   \time 4/2 bes2 -- \mp \> bes4 bes4 bes4 bes4 bes4 bes4 \bar "!"
   \set Staff . currentBarNumber = # 22 \time 4/4 bes4 \pp bes4 bes4 bes4 \bar "!"
   \set Staff . currentBarNumber = # 22 \time 4/2 bes4 bes4 bes4 bes4 bes1 -- \breathe \bar "|"
-  \set Staff . currentBarNumber = # 23 \time 9/2 es,4 \p \< es4 es2 -- \mp es4 \< \p es4 es2 \mp es2( \p es4) as4 \p as8( [ \> bes8) ] ces4 es1 \pp \breathe \bar "|"
+  \set Staff . currentBarNumber = # 23 \time 9/2 es,4 \p \< es4 es2 -- \mp es4 \< \p es4 es2 \mp es2( \p ~ es4) as4 \p as8( [ \> bes8) ] ces4 es1 \pp \breathe \bar "|"
   \set Staff . currentBarNumber = # 24 \time 9/4 c4 \mf c4 c4 \< d4 c4 bes1 \ff \> \bar ""
   \set Staff . currentBarNumber = # 24 \time 12/4 c2 c2 g1 \p \fermata -- r 1 \bar "|"
   \set Staff . currentBarNumber = # 25 \time 4/2 R 2 * 4 |
@@ -53,28 +53,28 @@ bassoTwoVoice = \relative g {
   \time 4/2 R 2 * 4 |
   \time 4/2 R 2 * 4 |
   \time 4/2 r 2 r 1 g4( \< c4) |
-  \time 4/2 bes1.( \f \> bes4 c4) 
+  \time 4/2 bes1.( \f \> ~ bes4 c4) 
 
   \opage
-  \time 4/2 d4( \mf \< c4 bes4 \f \> -- c4) d4( \mf \< c4) bes2( \ff \> |
-  \time 4/2 bes4 c4 g1 \p g4) r 4 |
+  \time 4/2 d4( \mf \< c4 bes4 \f \> -- c4) d4( \mf \< c4) bes2( \ff \> ~ |
+  \time 4/2 bes4 c4 g1 \p ~ g4) r 4 |
   \time 4/2 as2 \ppp -- c2 -- f,2 c'2 -- |
   \time 4/2 bes2( -- \p c2 \pp g2 c2 |
   \time 4/2 as2) -- c2 -- f,2 -- c'2( 
 
   \opage
   \time 4/2 bes1) \p \> c2 c2 \ppp |
-  \time 4/2 g\breve( |
-  \time 4/2 g1) g1( \pp -> |
-  \time 4/2 g1) g1( -> \pp |
+  \time 4/2 g\breve( ~ |
+  \time 4/2 g1) g1( ~ \pp -> |
+  \time 4/2 g1) g1( -> \pp ~ |
   \time 4/4 g1) |
-  \time 4/2 g1( g1) 
+  \time 4/2 g1( ~ g1) 
 
   \opage
   \time 3/2 bes1. \mf -> |
   \time 3/2 bes1. \mp |
   \time 3/2 bes1. |
-  \time 3/2 bes1 \p bes2( -- |
+  \time 3/2 bes1 \p bes2( -- ~ |
   \time 3/2 bes2) bes1 -- |
   \time 3/2 bes1 bes2 |
   

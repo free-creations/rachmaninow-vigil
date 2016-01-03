@@ -4,21 +4,21 @@ sopranoTwoVoice = \relative c'' {
   \time 6/2 R 2 * 6 |
   \time 6/2 R 2 * 6 |
   \time 6/2 c2 \p -- es2 bes2 -- es2 d2 -- c4 c4 |
-  \time 4/2 bes2 -- \> c2 bes1( \pp |
+  \time 4/2 bes2 -- \> c2 bes1( ~ \pp |
   
 
   \opage
-  \time 6/2 bes\breve bes1 |
-  \time 6/2 bes\breve bes1) |
-  \time 8/2 c2( -- \pp bes2) bes1( bes1) r 1 |
+  \time 6/2 bes\breve ~ bes1 ~ |
+  \time 6/2 bes\breve ~ bes1) |
+  \time 8/2 c2( -- \pp bes2) bes1( ~ bes1) r 1 |
   \time 5/2 R 2 * 5 |
   \time 4/2 R 2 * 4 |
-  \time 9/2 bes4( \mf \< c4) d4 d4 \f d8( [ c8 ] bes4) c2 \mf \< c8( [ d8 ] es4) d4 \f d4 d8( \> [ c8 ] bes4) c2( \mf bes2 |
+  \time 9/2 bes4( \mf \< c4) d4 d4 \f d8( [ c8 ] bes4) c2 \mf \< c8( [ d8 ] es4) d4 \f d4 d8( \> [ c8 ] bes4) c2( \mf bes2 ~ |
   
 
   \opage
-  \time 8/2 bes1 bes1 bes4) r 4 r 1 bes4 \mf \< c4 |
-  \time 7/2 d4( \f \> -- c4 c2) \mf c2 \f \> -- bes2( bes1 c2) |
+  \time 8/2 bes1 ~ bes1 ~ bes4) r 4 r 1 bes4 \mf \< c4 |
+  \time 7/2 d4( \f \> -- c4 c2) \mf c2 \f \> -- bes2( ~ bes1 c2) |
   \time 9/2 bes1 \p \< c2 c2 \mf \> bes1. as1( \pp |
   \time 10/2 g1) r \breve r \breve |
   \time 5/2 r \breve f4( \p \< g4 |
@@ -42,7 +42,7 @@ sopranoTwoVoice = \relative c'' {
   \set Staff . currentBarNumber = # 20 \time 4/4 bes2( -- \mp \> as4) as4 \p \bar "!"
   \set Staff . currentBarNumber = # 20 \time 4/4 as4 as4 as4 as4 \bar "!"
   \set Staff . currentBarNumber = # 20 \time 4/4 g1 \p -- \bar "!"
-  \set Staff . currentBarNumber = # 20 \time 4/2 f1( \pp f2) \! c'2 \pp |
+  \set Staff . currentBarNumber = # 20 \time 4/2 f1( \pp ~ f2) \! c'2 \pp |
   \set Staff . currentBarNumber = # 21 \time 4/4 bes2. -- bes4 \bar "!"
   \set Staff . currentBarNumber = # 21 \time 4/4 bes4 bes4 bes4 bes4 \bar "!"
   \set Staff . currentBarNumber = # 21 \time 4/4 bes2 -- bes4 \< bes4 \bar "!"
@@ -53,22 +53,22 @@ sopranoTwoVoice = \relative c'' {
   \time 4/2 bes2 -- \mp \> bes1. -- \bar "!"
   \set Staff . currentBarNumber = # 22 \time 4/4 bes2 \! \pp bes2 \bar "!"
   \set Staff . currentBarNumber = # 22 \time 4/2 bes2 bes4 bes4 bes1 -- \breathe \bar "|"
-  \set Staff . currentBarNumber = # 23 \time 9/2 g4 \p \< as4 bes2 \mp -- as4 \p \< as4 as2 \mp -- as2( \p as4) as4 \p as8( [ g8) ] f4 \pp g1 -- \breathe |
+  \set Staff . currentBarNumber = # 23 \time 9/2 g4 \p \< as4 bes2 \mp -- as4 \p \< as4 as2 \mp -- as2( \p ~ as4) as4 \p as8( [ g8) ] f4 \pp g1 -- \breathe |
   \set Staff . currentBarNumber = # 24 \time 9/4 c4 \mf c4 c4 \< b4 c4 d1 \ff \> \bar ""
   \set Staff . currentBarNumber = # 24 \time 12/4 c2 c2 b1 \p \fermata r 2 b4( \p \< c4) \bar "|"
   \set Staff . currentBarNumber = # 25 \time 4/2 d1.( \mf \> c2 |
-  \time 4/2 b2 c2) \p b4( \< c4) d2( \mp \> |
-  \time 4/2 d4 c4 b2 \p b4) r 4 b4 \< c4 
+  \time 4/2 b2 c2) \p b4( \< c4) d2( ~ \mp \> |
+  \time 4/2 d4 c4 b2 \p ~ b4) r 4 b4 \< c4 
 
   \opage
-  \time 4/2 d1.( \mf \> d4 c4) \mp |
-  \time 4/2 b4( \< c4) d4( -- \f \> c4) b4( \mf \< c4) d2( \f \> \time 4/2 d4 c4 b2 \p b4) r 4 d4( \< c4) |
-  \time 4/2 d1.( -- \f \> d4 c4) |
+  \time 4/2 d1.( \mf \> ~ d4 c4) \mp |
+  \time 4/2 b4( \< c4) d4( -- \f \> c4) b4( \mf \< c4) d2( \f \> ~ \time 4/2 d4 c4 b2 ~ \p b4) r 4 d4( \< c4) |
+  \time 4/2 d1.( -- \f \> ~ d4 c4) |
   
 
   \opage
-  \time 4/2 b4( \mf \< c4 d4 -- \f \> c4) b4( \mf \< c4) d2( \ff \> |
-  \time 4/2 d4 c4 b1 \p b4) r 4 |
+  \time 4/2 b4( \mf \< c4 d4 -- \f \> c4) b4( \mf \< c4) d2( \ff \> ~ |
+  \time 4/2 d4 c4 b1 \p ~ b4) r 4 |
   \time 4/2 f2 -- \ppp es2 -- d2 -- es2 -- |
   \time 4/2 f2( -- es2 d2 es2 |
   \time 4/2 f2) -- es2 -- d2 -- es2( 

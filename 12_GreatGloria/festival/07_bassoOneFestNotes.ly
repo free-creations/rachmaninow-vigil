@@ -2,7 +2,7 @@ bassoOneVoice = \relative g {
   \time 10/4 R 4 * 10 \time 8/4 R 4 * 8 \time 6/2 R 2 * 6 \time 6/2 R 2 * 6 \time 6/2 R 2 * 6 \time 4/2 R 2 * 4 
 
   \opage
-  \time 6/2 R 2 * 6 \time 6/2 R 2 * 6 \time 8/2 R 2 * 8 \time 5/2 g1( -- \p g2) f2 as2 |
+  \time 6/2 R 2 * 6 \time 6/2 R 2 * 6 \time 8/2 R 2 * 8 \time 5/2 g1( -- \p ~ g2) f2 as2 |
   \time 4/2 g1( as2 \> f2) |
   \time 9/2 bes4 \pp r 4 r 1 r 1 r 1 r 1 
 
@@ -25,10 +25,10 @@ bassoOneVoice = \relative g {
 
   \opage
   \time 2/2 c,2 -- \p c2 \bar "!"
-  \set Staff . currentBarNumber = # 20 \time 4/4 c1( -- \bar "!"
-  \set Staff . currentBarNumber = # 20 \time 2/4 c2 \bar ""
+  \set Staff . currentBarNumber = # 20 \time 4/4 c1( -- ~ \bar "!"
+  \set Staff . currentBarNumber = # 20 \time 2/4 c2 ~ \bar ""
   \set Staff . currentBarNumber = # 20 \time 4/4 c1) \bar "!"
-  \set Staff . currentBarNumber = # 20 \time 4/4 c1( -- \bar ""
+  \set Staff . currentBarNumber = # 20 \time 4/4 c1( -- ~ \bar ""
   \set Staff . currentBarNumber = # 20 \time 4/4 c1) \bar "!"
   \set Staff . currentBarNumber = # 20 \time 4/4 c1( \> \bar "!"
   \set Staff . currentBarNumber = # 20 \time 4/2 f4) \pp r 4 r 2 r 4 f4 \mf \< f4 g4 \bar "|"
@@ -42,7 +42,7 @@ bassoOneVoice = \relative g {
   \time 4/2 as2 -- \mp \> ges4 ges4 ges4 ges4 ges4 ges4 \bar "!"
   \set Staff . currentBarNumber = # 22 \time 4/4 ges4 \pp ges4 ges4 ges4 \bar "!"
   \set Staff . currentBarNumber = # 22 \time 4/2 ges4 ges4 ges8( [ f8) ] es4 f1 -- \breathe \bar "|"
-  \set Staff . currentBarNumber = # 23 \time 9/2 es4 \p \< es4 es2 -- \mp es4 \< \p es4 es2 \mp es2( \p es4) as,4 \p as8( [ \> bes8) ] ces4 es1 \pp \breathe \bar "|"
+  \set Staff . currentBarNumber = # 23 \time 9/2 es4 \p \< es4 es2 -- \mp es4 \< \p es4 es2 \mp es2( \p ~ es4) as,4 \p as8( [ \> bes8) ] ces4 es1 \pp \breathe \bar "|"
   \set Staff . currentBarNumber = # 24 \time 9/4 c4 \mf c4 c4 \< d4 c4 bes1 \ff \> \bar ""
   \set Staff . currentBarNumber = # 24 \time 12/4 c2 c2 d1 \p \fermata -- r 1 \bar "|"
   \set Staff . currentBarNumber = # 25 \time 4/2 R 2 * 4 |
@@ -54,11 +54,11 @@ bassoOneVoice = \relative g {
   \time 4/2 R 2 * 4 |
   \time 4/2 R 2 * 4 |
   \time 4/2 r 2 r 1 g,4( \< c4) |
-  \time 4/2 bes1.( \f \> bes4 c4) 
+  \time 4/2 bes1.( \f \> ~ bes4 c4) 
 
   \opage
-  \time 4/2 d4( \mf \< c4 bes4 \f \> -- c4) d4( \mf \< c4) bes2( \ff \> |
-  \time 4/2 bes4 c4 g1 \p g4) r 4 |
+  \time 4/2 d4( \mf \< c4 bes4 \f \> -- c4) d4( \mf \< c4) bes2( \ff \> ~ |
+  \time 4/2 bes4 c4 g1 \p ~ g4) r 4 |
   \time 4/2 R 2 * 4 |
   \time 4/2 as'2 -> \p g4 \pp g4 f4 g4 g4 g4 |
   \time 4/2 f2 g4 g4 f2 -- r 2 |
@@ -66,9 +66,9 @@ bassoOneVoice = \relative g {
 
   \opage
   \time 4/2 r 2 as2( \p \> g2) g2 \ppp |
-  \time 4/2 f\breve( |
-  \time 4/2 f2 es2 d1 \pp |
-  \time 4/2 d2.) d8( \< [ es8) ] f4( \p \> es4) d2( \pp |
+  \time 4/2 f\breve( ~ |
+  \time 4/2 f2 es2 d1 ~ \pp |
+  \time 4/2 d2.) d8( \< [ es8) ] f4( \p \> es4) d2( \pp ~ |
   \time 4/4 d2.) d8( \< [ es8) ] |
   \time 4/2 f2. \p f8( \pp \< [ g8) ] as2( \p g2) \pp 
 
@@ -76,7 +76,7 @@ bassoOneVoice = \relative g {
   \time 3/2 f2( \mf -> g1) \mp |
   \time 3/2 g1( -> f4 \< g4) |
   \time 3/2 as1( -> \mf \> g2) |
-  \time 3/2 g1 \p g2( -- |
+  \time 3/2 g1 \p g2( ~ -- |
   \time 3/2 g2) g1 -- |
   \time 3/2 f2( g2) as2 
 

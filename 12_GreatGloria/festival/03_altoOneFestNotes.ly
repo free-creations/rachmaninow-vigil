@@ -2,16 +2,16 @@ altoOneVoice = \relative es' {
   \time 10/4 es4( \p -- f4 g4) g4 g8( [ f8) ] es4 f2 -- f8( [ g8 ] as4) |
   \time 8/4 g4 g4 g8( [ f8) ] es4 f1 -- |
   \time 6/2 g4 g4 g4 g4 g2 -- g8( [ f8) ] es4 f2 -- f4 \< g4 |
-  as2 \mp \> -- g4 g4( -- \p g4) g4 g8( [ f8) ] es4 f2 -- f4( g4) |
+  as2 \mp \> -- g4 g4( -- \p ~ g4) g4 g8( [ f8) ] es4 f2 -- f4( g4) |
   as2 -- \p g4 g4 g4 g4 g8( [ f8) ] es4 f2 g4 g4 |
   \time 4/2 g2 -- g8( [ f8) ] es4 f2 f4 \< g4 |
   
 
   \opage
   \time 6/2 as2 -- \mf g4 \> g4 g4 \mp g4 g4 g4 g8( [ f8) ] es4 f2 -- |
-  \time 6/2 as2 \mf g4 g4( g4) g4 \> g8( [ f8) ] es4 \mp f2 f4( g4) \time 8/2 as2 -- \p g2 as2 -- g2 g4 g4 g8( [ f8) ] es4 f1( |
+  \time 6/2 as2 \mf g4 g4( ~ g4) g4 \> g8( [ f8) ] es4 \mp f2 f4( g4) \time 8/2 as2 -- \p g2 as2 -- g2 g4 g4 g8( [ f8) ] es4 f1( ~ |
   \time 5/2 f1) r 2 as2 -- \p g4 g4 |
-  \time 4/2 g2 -- g4 g4 g8( [ f8) ] es4 f2( -- |
+  \time 4/2 g2 -- g4 g4 g8( [ f8) ] es4 f2( -- ~ |
   \time 9/2 f2) f4( \< g4) as4 \mf g4 as2 -- g4 \> g4 g2 -- g4 \p g4 g8( [ -- f8 ] es4) f4 \< f8( [ g8) ] |
   
 
@@ -20,7 +20,7 @@ altoOneVoice = \relative es' {
   \time 7/2 as2 -- g4 g4 g2 \mp -- g4 \< g4 as2 \mp \> g2 f4( \p \< g4) |
   \time 9/2 as2 -- \mp g4 \> g4 g4 \p g4 g4 g4 g2. -- g4 g8( [ f8) ] es4 f1 |
   \time 10/2 es4 r 4 r 2 r 1 r 1 r 1 r 1 |
-  \time 5/2 r 1 r 1 es2( \pp \< 
+  \time 5/2 r 1 r 1 es2( ~ \pp \< 
 
   \opage
   \time 14/2 es2) -- es2 \p es2 -- es2 es1 -- es4 \pp es4 es4 es4 es1 -- as8( -- \p \< [ bes8 c8 bes8) ] as8( -- [ bes8 c8 bes8) ] as8( -- [ bes8 c8 bes8) ] as8( -- [ bes8 c8 bes8) ] \bar ""
@@ -29,7 +29,7 @@ altoOneVoice = \relative es' {
   \set Staff . currentBarNumber = # 19 \time 3/2 g4 g2 f4 g4 d4 \bar "!"
   \set Staff . currentBarNumber = # 19 \time 3/2 g4 g4 g4 f4 g4 g8( \< [ a8) ] \bar "!"
   \set Staff . currentBarNumber = # 19 \time 4/2 bes4 \p \> bes4 bes4 \pp \< a8 [ g8 ] a2( -- \mp \> g2) \bar "!"
-  \set Staff . currentBarNumber = # 19 \time 6/2 d1( \p d1.) \! r 2 |
+  \set Staff . currentBarNumber = # 19 \time 6/2 d1( \p ~ d1.) \! r 2 |
   \set Staff . currentBarNumber = # 20 
 
   \opage
@@ -51,13 +51,13 @@ altoOneVoice = \relative es' {
   \time 4/2 as2 -- \mp ges1. \p -- \bar "!"
   \set Staff . currentBarNumber = # 22 \time 4/4 ges2 \pp ges2 \bar "!"
   \set Staff . currentBarNumber = # 22 \time 4/2 ges2 ges4 ges4 f1 -- \breathe \bar "|"
-  \set Staff . currentBarNumber = # 23 \time 9/2 es4 \p \< es4 es2 -- \mp es4 \p \< es4 es2 -- \mp des2( \p des4) es4 es4 \> es4 es1 -- \pp \breathe |
+  \set Staff . currentBarNumber = # 23 \time 9/2 es4 \p \< es4 es2 -- \mp es4 \p \< es4 es2 -- \mp des2( \p ~ des4) es4 es4 \> es4 es1 -- \pp \breathe |
   \set Staff . currentBarNumber = # 24 \time 9/4 g4 \mf g4 g4 \< g4 g4 as1 \ff \> \bar ""
   \set Staff . currentBarNumber = # 24 \time 12/4 g2 g2 g1 \p \fermata r 1 \bar "|"
   \set Staff . currentBarNumber = # 25 \time 4/2 {
   r 2 \times 2/3 {
   f4 \mf f4 g4 }
-  as2( \f \times 2/3 {
+  as2( \f ~ \times 2/3 {
   as4) g4 \mf g4 }
   }
   \time 4/2 {
@@ -70,14 +70,14 @@ altoOneVoice = \relative es' {
   as2 \mp \> -> |
   \times 2/3 {
   as4 g4 g4 }
-  f1( \p f4) r 4 }
+  f1( \p ~ f4) r 4 }
   
 
   \opage
   \time 4/2 {
   r 2 \times 2/3 {
   f4 \p \< f4 g4 }
-  as2( \mf \times 2/3 {
+  as2( \mf ~ \times 2/3 {
   as4) \! \> g4 g4 }
   }
   |
@@ -93,10 +93,10 @@ altoOneVoice = \relative es' {
   \time 4/2 {
   \times 2/3 {
   as4 \p g4 g4 }
-  f1( \p f4) r 4 |
+  f1( \p ~ f4) r 4 |
   r 2 \times 2/3 {
   f4 \< f4 f4 }
-  as2( \f \> -> \times 2/3 {
+  as2( \f \> ~ -> \times 2/3 {
   as4) g4 g4 }
   }
   |
@@ -115,7 +115,7 @@ altoOneVoice = \relative es' {
   \time 4/2 {
   \times 2/3 {
   as4 g4 g4 }
-  f1( \p f4) r 4 }
+  f1( \p ~ f4) r 4 }
   |
   \time 4/2 R 1 * 2 |
   \time 4/2 r 1 r 2 g2 -- \p |
@@ -125,10 +125,10 @@ altoOneVoice = \relative es' {
   \opage
   \time 4/2 R 1 * 2 |
   \time 4/2 r 1 f2 -- \mf g2 -- |
-  \time 4/2 as2 -- g4 \p g4( g4) f4 g4 g4 |
+  \time 4/2 as2 -- g4 \p g4( ~ g4) f4 g4 g4 |
   \time 4/2 g4 g4 g4 g4 g4 g4 g4 g4 |
   \time 4/4 g4 g4 g4 f8( \< [ g8) ] |
-  \time 4/2 as2 -> \mp \> g2 f2( \p f4 \< g4) 
+  \time 4/2 as2 -> \mp \> g2 f2( \p ~ f4 \< g4) 
 
   \opage
   \time 3/2 as2 -- \mf \> g2 -- g2 -- \p |

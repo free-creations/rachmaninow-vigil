@@ -87,7 +87,7 @@ opage ={}
 
 %%% ------ Print Score
 \score {
-\tempo 4=100 
+
   \new ChoirStaff   <<
 
     \new Staff \with {

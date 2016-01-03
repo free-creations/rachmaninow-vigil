@@ -32,17 +32,17 @@ sopranoTwoLatinG = \lyricmode {
   lju i -- mja   Two -- je __ wo     we -- ki    i "w wek" we -- "ka." __
 
   Spo -- do -- "bi,"
-  Gos -- po -- "di," "w den" sej so -- chra -- ni -- ti sja "nam,"
+  Gos -- po -- "di," "w den" sei so -- chra -- ni -- ti sja "nam,"
 
   %page 6
-  "w den" sej __
+  "w den" sei __
   so -- chra -- ni -- ti -- sja "nam."
   Bu -- "di,"
   Gos -- po -- "di,"
   mi -- lost __ Two -- ja    na "nas,"
   ja -- ko -- sche u -- po -- wa -- chom na "Tja."
 
-  Po -- mi -- luj -- "mja."
+  Po -- mi -- lui -- "mja."
   Is -- ze --
 
   %page 7
@@ -63,7 +63,7 @@ sopranoTwoLatinG = \lyricmode {
   ko so -- gre -- schich Te -- "be," __
   na -- u -- tschi __ mja __
   two -- ri -- ti wo -- lju Two -- "ju,"
-  ja -- ko Ty je -- si __ Bog __ "moj:"
+  ja -- ko Ty je -- si __ Bog __ "moi:"
 
   %page 11
   ja -- ko u Te -- be is -- totsch -- nik schi --  wo -- "ta,"
@@ -73,20 +73,20 @@ sopranoTwoLatinG = \lyricmode {
   du -- schtschim "Tja."
   Swja -- ty Bo -- "sche,"
   Swja -- ty Krep -- "ki,"
-  Swja -- ty bes -- smert -- "nmj,"
+  Swja -- ty bes -- smert -- "nmi,"
   po --
 
   %page 12
-  mi -- luj "nas."
+  mi -- lui "nas."
   Swja -- ty  Bo -- "sche,"
   Swja -- ty krep -- "ki,"
   Swja -- tyji bes -- smert -- "ny,"
-  po -- mi -- luj "nas."
+  po -- mi -- lui "nas."
 
   Swja -- ty  Bo -- "sche,"
   Swja -- ty krep -- "ki,"
   Swja -- ty bes -- smert -- "ny,"
-  po -- mi -- luj  "nas."
+  po -- mi -- lui  "nas."
   Sla -- wa Ot -- zu i Sy -- nu i Swja -- to -- mu Du -- "chu,"
 
   %page 13
@@ -94,12 +94,12 @@ sopranoTwoLatinG = \lyricmode {
   a -- "min."
   Swja -- ty bes --
   smert -- "ny,"
-  po -- mi -- luj "nas."
+  po -- mi -- lui "nas."
 
   Swja -- ty Bo -- "sche,"
   Swja -- ty krep -- "ki,"
   Swja -- ty bes -- smert -- "ny,"
-  po -- mi -- luj  "nas."
+  po -- mi -- lui  "nas."
 
 
 }

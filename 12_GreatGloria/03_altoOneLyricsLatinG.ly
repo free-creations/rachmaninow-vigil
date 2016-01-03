@@ -24,10 +24,10 @@ altoOneLatinG = \lyricmode {
   %page 3
   Gos -- po -- di  Bo -- "sche," Agn -- tsche Bo -- "schi,"
   Sy -- ne O -- "tetsch,"
-  wsem -- ljaj grech
+  wsem -- ljai grech
 
-  mi -- "ra," po -- mi -- luj "nas;"
-  wsem -- ljaj gre -- chi mi -- "ra,"
+  mi -- "ra," po -- mi -- lui "nas;"
+  wsem -- ljai gre -- chi mi -- "ra,"
   pri -- mi mo -- lit -- wu na -- "schu."
 
   %page 4
@@ -45,10 +45,10 @@ altoOneLatinG = \lyricmode {
   %лю и -- мя   Тво -- е __ во     ве -- ки    и "в век" ве -- "ка." __
   %
   Spo -- do -- "bi,"
-  Gos -- po -- "di," "w den" sej so -- chra -- ni -- ti sja "nam,"
+  Gos -- po -- "di," "w den" sei so -- chra -- ni -- ti sja "nam,"
   
   %page 6
-  "w den" sej __ 
+  "w den" sei __ 
   so -- chra -- ni -- ti -- sja "nam."
   Bu -- "di,"
   Gos -- po -- "di,"
@@ -72,7 +72,7 @@ altoOneLatinG = \lyricmode {
   %page 9
   As "rech:"     
   Gos -- po -- "di," __
-  po -- mi -- luj "mja,"
+  po -- mi -- lui "mja,"
   is -- ze -- li du -- schu mo -- "ju,"
   ja -- ko so -- gre -- schich Te -- "be." __
   
@@ -81,7 +81,7 @@ altoOneLatinG = \lyricmode {
   "K Te" -- be pri -- be -- "goch." __
   na --  u -- tschi mja Two --
   ri -- ti wo -- lju Two -- "ju,"
-  ja -- ko Ty je -- si __ Bog __ "moj:"
+  ja -- ko Ty je -- si __ Bog __ "moi:"
   
   %page 11
   ja -- ko u Te -- be is -- totsch -- nik schi --  wo -- "ta,"
@@ -91,18 +91,18 @@ altoOneLatinG = \lyricmode {
   du -- schtschim "Tja."
   Swja -- ty Bo -- "sche,"
   Swja -- ty Krep -- "ki,"
-  Swja -- ty bes -- smert -- "nmj,"
+  Swja -- ty bes -- smert -- "nmi,"
   po --
   
   %page 12
-  mi -- luj "nas."
+  mi -- lui "nas."
   Swja -- ty  Bo -- "sche,"
   Swja -- ty krep -- "ki,"
   Swja -- tyji bes -- smert -- "ny,"
-  po -- mi -- luj "nas."
+  po -- mi -- lui "nas."
   Swja -- ty  Bo -- "sche,"
   Swja -- ty bes -- smert -- "ny,"
-  po -- mi -- luj  "nas."
+  po -- mi -- lui  "nas."
   Sla -- wa Ot -- zu i Sy -- nu i Swja -- to -- mu Du -- "chu,"
   
   %page 13
@@ -110,14 +110,14 @@ altoOneLatinG = \lyricmode {
   a -- "min."
   Swja -- ty bes --
   smert -- "ny,"
-  po -- mi -- luj "nas."
+  po -- mi -- lui "nas."
   Swja -- ty Bo -- "sche,"
   Swja -- ty Krep -- "ki,"
   
   Swja -- ty Bo -- "sche,"
   Swja -- ty Krep -- "ki,"
   Swja -- ty bes -- smert -- "ny,"
-  po -- mi -- luj "nas."
+  po -- mi -- lui "nas."
   
   
 

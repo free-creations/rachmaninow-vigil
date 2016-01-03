@@ -5,7 +5,7 @@ bassoThreeLatinG = \lyricmode {
 
   %page 3
   Agn -- tsche __ Bo -- "schi,"
-  wsem -- ljaj gre -- chi __ mi -- "ra," __
+  wsem -- ljai gre -- chi __ mi -- "ra," __
 
   %page 4
   Ty __ je -- si je -- "din,"
@@ -46,7 +46,7 @@ bassoThreeLatinG = \lyricmode {
 
   %page 10
   Gos -- po -- "di," __
-  Ty je -- si  Bog __ "moj:"
+  Ty je -- si  Bog __ "moi:"
 
   %page 11
   ja -- ko Ty je -- si Bog
@@ -56,12 +56,12 @@ bassoThreeLatinG = \lyricmode {
   Po  --
 
   %page 12
-  mi -- luj "nas."
-  po -- mi -- luj "nas."
+  mi -- lui "nas."
+  po -- mi -- lui "nas."
   Swja -- ty  Bo -- "sche,"
   Swja -- ty krep -- "ki,"
   Swja -- ty bes -- smert -- "ny,"
-  po -- mi -- luj  "nas."
+  po -- mi -- lui  "nas."
   Sla -- wa Ot -- zu i Sy -- nu i Swja -- to -- mu Du -- "chu,"
 
   %page 13
@@ -69,7 +69,7 @@ bassoThreeLatinG = \lyricmode {
   a -- "min."
   Swja -- ty bes --
   smert -- "ny,"
-  po -- mi -- luj "nas."
+  po -- mi -- lui "nas."
 
 
   Swja -- ty Bo -- "sche,"
@@ -77,6 +77,6 @@ bassoThreeLatinG = \lyricmode {
   Swja -- ty Krep -- "ki," __
 
   Swja -- ty bes -- smert -- "ny,"
-  po -- mi -- luj "nas."
+  po -- mi -- lui "nas."
 
 }

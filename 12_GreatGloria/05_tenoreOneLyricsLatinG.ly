@@ -66,7 +66,7 @@ tenoreOneLatinG = \lyricmode {
   Pro -- ba -- wi mi -- lost Two -- ju __ we __
   du -- schtschim "Tja."
   Swja -- ty __
-  bes -- smert -- "nmi,"
+  bes -- smert -- "ny"
   po --
 
   %page 12

@@ -4,9 +4,20 @@ set -e
 
 
 
-process_xml () {
-  local file="01_sopranoOne.xml"
+function  process_xml ()
+{
 
+  local file="$1"
+
+  if [ -e "$file" ]
+  then
+    echo "processing $file."
+  else
+    echo "$file not found."
+    exit -1
+  fi
+
+ 
   local wave="./audio/${file%xml}wav"
   local tmpwave="$wave.tmp.$$"
   local tmpxml="$file.tmp.$$"
@@ -24,11 +35,23 @@ process_xml () {
   rm -f "$tmpwave" 
 
   echo "File: $wave  written "
+  echo ""
 
 }
 
 
-process_xml
+process_xml "01_sopranoOne.xml"
+process_xml "02_sopranoTwo.xml"
+process_xml "03_altoOne.xml"
+process_xml "04_altoTwo.xml"
+process_xml "05_tenoreOne.xml"
+process_xml "06_tenoreTwo.xml"
+process_xml "07_bassoOne.xml"
+process_xml "08_bassoTwo.xml"
+process_xml "09_bassoThree.xml"
+process_xml "10_sopranoThree.xml"
+process_xml "11_tenoreThree.xml"
+
 
 
 exit 0

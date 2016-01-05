@@ -73,7 +73,7 @@ sopranoOneLatinG = \lyricmode {
   du -- schtschim "Tja."
   Swja -- ty Bo -- "sche,"
   Swja -- ty Krep -- "ki,"
-  Swja -- ty bes -- smert -- "nmi,"
+  Swja -- ty bes -- smert -- "ny,"
   po --
 
   %page 12

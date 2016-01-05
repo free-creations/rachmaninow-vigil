@@ -20,8 +20,8 @@ global = {
   \accidentalStyle "modern-voice-cautionary"
   % \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
-  \override Score.BarNumber #'break-visibility = #'#(#f #f #f)
- % \set Score.tempoHideNote = ##t
+  \override Score.BarNumber #'break-visibility = #'#(#t #t #t)
+  % \set Score.tempoHideNote = ##t
 }
 
 
@@ -73,8 +73,55 @@ opage ={}
 
 
 sopranoOneVoiceSynced = { \clef "treble_8" \global \syncNotes \transpose c c,{\sopranoOneVoice} \syncNotes }
-sopranoOneVoiceMidi = { \theTempo \global \syncNotes \sopranoOneVoice \syncNotes }
+sopranoOneVoiceMidi = { \global \syncNotes \sopranoOneVoice \syncNotes }
 sopranoOneLyricsSynced = {\syncText \sopranoOneLatinCz \syncText}
+
+
+sopranoTwoVoiceSynced = { \clef "treble_8" \global \syncNotes \transpose c c,{\sopranoTwoVoice} \syncNotes }
+sopranoTwoVoiceMidi = { \global \syncNotes \sopranoTwoVoice \syncNotes }
+sopranoTwoLyricsSynced = {\syncText \sopranoTwoLatinCz \syncText}
+
+sopranoThreeVoiceSynced = { \clef "treble_8" \global \syncNotes \transpose c c,{\sopranoThreeVoice} \syncNotes }
+sopranoThreeVoiceMidi = { \global \syncNotes \sopranoThreeVoice \syncNotes }
+sopranoThreeLyricsSynced = {\syncText \sopranoThreeLatinCz \syncText}
+%-----------
+
+altoOneVoiceSynced = { \clef "treble_8" \global \syncNotes \transpose c c,{\altoOneVoice} \syncNotes }
+altoOneVoiceMidi = { \global \syncNotes \altoOneVoice \syncNotes }
+altoOneLyricsSynced = {\syncText \altoOneLatinCz \syncText}
+
+altoTwoVoiceSynced = { \clef "treble_8" \global \syncNotes \transpose c c,{\altoTwoVoice} \syncNotes }
+altoTwoVoiceMidi = { \global \syncNotes \altoTwoVoice \syncNotes }
+altoTwoLyricsSynced = {\syncText \altoTwoLatinCz \syncText}
+%-----------
+
+tenoreOneVoiceSynced = { \clef "treble_8" \global \syncNotes {\tenoreOneVoice} \syncNotes }
+tenoreOneVoiceMidi = { \global \syncNotes \tenoreOneVoice \syncNotes }
+tenoreOneLyricsSynced = {\syncText \tenoreOneLatinCz \syncText}
+
+tenoreTwoVoiceSynced = { \clef "treble_8" \global \syncNotes {\tenoreTwoVoice} \syncNotes }
+tenoreTwoVoiceMidi = { \global \syncNotes \tenoreTwoVoice \syncNotes }
+tenoreTwoLyricsSynced = {\syncText \tenoreTwoLatinCz \syncText}
+
+tenoreThreeVoiceSynced = { \clef "treble_8" \global \syncNotes {\tenoreThreeVoice} \syncNotes }
+tenoreThreeVoiceMidi = { \global \syncNotes \tenoreThreeVoice \syncNotes }
+tenoreThreeLyricsSynced = {\syncText \tenoreThreeLatinCz \syncText}
+
+%-----------
+
+bassoOneVoiceSynced = { \clef bass \global \syncNotes {\bassoOneVoice} \syncNotes }
+bassoOneVoiceMidi = { \global \syncNotes \bassoOneVoice \syncNotes }
+bassoOneLyricsSynced = {\syncText \bassoOneLatinCz \syncText}
+
+bassoTwoVoiceSynced = { \clef bass \global \syncNotes {\bassoTwoVoice} \syncNotes }
+bassoTwoVoiceMidi = { \global \syncNotes \bassoTwoVoice \syncNotes }
+bassoTwoLyricsSynced = {\syncText \bassoTwoLatinCz \syncText}
+
+bassoThreeVoiceSynced = { \clef bass \global \syncNotes {\bassoThreeVoice} \syncNotes }
+bassoThreeVoiceMidi = { \global \syncNotes \bassoThreeVoice \syncNotes }
+bassoThreeLyricsSynced = {\syncText \bassoThreeLatinCz \syncText}
+
+
 
 
 %%% ------ Print Score
@@ -85,92 +132,112 @@ sopranoOneLyricsSynced = {\syncText \sopranoOneLatinCz \syncText}
     \new Staff \with {
       instrumentName = "S. I"
       shortInstrumentName = "S. I"
-    } 
+    }
     \festivalsyl #"01_sopranoOne.xml" { \theTempo }
     { \sopranoOneVoiceSynced }
     \addlyrics { \sopranoOneLyricsSynced }
-%{
 
     \new Staff \with {
       instrumentName = "S. II"
       shortInstrumentName = "S. II"
-    } { \global \sopranoTwoVoice }
-    \addlyrics { \sopranoTwoLatinG }
-    \addlyrics { \greyText \sopranoTwoCyrillic }
+    }
+    \festivalsyl #"02_sopranoTwo.xml" { \theTempo }
+    { \sopranoTwoVoiceSynced }
+    \addlyrics { \sopranoTwoLyricsSynced }
 
     \new Staff \with {
       instrumentName = "S. III"
       shortInstrumentName = "S. III"
-    } { \global \sopranoThreeVoice }
-    \addlyrics { \sopranoThreeLatinG }
-    \addlyrics { \greyText \sopranoThreeCyrillic }
-
+    }
+    \festivalsyl #"10_sopranoThree.xml" { \theTempo }
+    { \sopranoThreeVoiceSynced }
+    \addlyrics { \sopranoThreeLyricsSynced }
+    %-----
 
     \new Staff \with {
       instrumentName = "A. I"
       shortInstrumentName = "A. I"
-
-    } {  \global \altoOneVoice}
-    \addlyrics { \altoOneLatinG }
-    \addlyrics { \greyText \altoOneCyrillic }
+    }
+    \festivalsyl #"03_altoOne.xml" { \theTempo }
+    { \altoOneVoiceSynced }
+    \addlyrics { \altoOneLyricsSynced }
 
     \new Staff \with {
       instrumentName = "A. II"
       shortInstrumentName = "A. II"
-    } {  \global \altoTwoVoice }
-    \addlyrics { \altoTwoLatinG }
-    \addlyrics { \greyText \altoTwoCyrillic }
-
+    }
+    \festivalsyl #"04_altoTwo.xml" { \theTempo }
+    { \altoTwoVoiceSynced }
+    \addlyrics { \altoTwoLyricsSynced }
+    %-----
 
     \new Staff \with {
       instrumentName = "T. I"
       shortInstrumentName = "T. I"
-    } { \global \clef "treble_8" \tenoreOneVoice }
-    \addlyrics { \tenoreOneLatinG }
-    \addlyrics { \greyText \tenoreOneCyrillic }
+    }
+    \festivalsyl #"05_tenoreOne.xml" { \theTempo }
+    { \tenoreOneVoiceSynced }
+    \addlyrics { \tenoreOneLyricsSynced }
 
     \new Staff \with {
       instrumentName = "T. II"
       shortInstrumentName = "T. II"
-    } { \global \clef "treble_8" \tenoreTwoVoice }
-    \addlyrics { \tenoreTwoLatinG }
-    \addlyrics { \greyText \tenoreTwoCyrillic }
-
+    }
+    \festivalsyl #"06_tenoreTwo.xml" { \theTempo }
+    { \tenoreTwoVoiceSynced }
+    \addlyrics { \tenoreTwoLyricsSynced }
 
     \new Staff \with {
       instrumentName = "T. III"
       shortInstrumentName = "T. III"
-    } { \global \clef "treble_8" \tenoreThreeVoice }
-    \addlyrics { \tenoreThreeLatinG }
-    \addlyrics { \greyText \tenoreThreeCyrillic }
+    }
+    \festivalsyl #"11_tenoreThree.xml" { \theTempo }
+    { \tenoreThreeVoiceSynced }
+    \addlyrics { \tenoreThreeLyricsSynced }
+    %-----
 
     \new Staff \with {
       instrumentName = "B. I"
       shortInstrumentName = "B. I"
-    } {\global \clef bass \bassoOneVoice }
-    \addlyrics { \bassoOneLatinG }
-    \addlyrics { \greyText \bassoOneCyrillic }
+    }
+    \festivalsyl #"07_bassoOne.xml" { \theTempo }
+    { \bassoOneVoiceSynced }
+    \addlyrics { \bassoOneLyricsSynced }
 
     \new Staff \with {
       instrumentName = "B. II"
       shortInstrumentName = "B. II"
-    } {\global \clef bass \bassoTwoVoice }
-    \addlyrics { \bassoTwoLatinG }
-    \addlyrics { \greyText \bassoTwoCyrillic }
+    }
+    \festivalsyl #"08_bassoTwo.xml" { \theTempo }
+    { \bassoTwoVoiceSynced }
+    \addlyrics { \bassoTwoLyricsSynced }
 
     \new Staff \with {
       instrumentName = "B. III"
       shortInstrumentName = "B. III"
-    } {\global \clef bass \bassoThreeVoice }
-    \addlyrics { \bassoThreeLatinG }
-    \addlyrics { \greyText \bassoThreeCyrillic }
-%}
-
+    }
+    \festivalsyl #"09_bassoThree.xml" { \theTempo }
+    { \bassoThreeVoiceSynced }
+    \addlyrics { \bassoThreeLyricsSynced }
   >>
-
-
-
   \layout {
+    \context {
+      \Score
+      \remove "Timing_translator"
+      \remove "Default_bar_line_engraver"
+
+    }
+    % move the barline engraver to the staff context (in bar 19 staves have different barlines)
+    \context {
+      \Staff
+      \consists "Bar_number_engraver"
+      \consists "Timing_translator"
+      \consists "Default_bar_line_engraver"
+    }
+    \context {
+      \Score
+      \override SpanBar #'transparent = ##t %Turns off staff lines between staves
+    }
   }
 }
 
@@ -181,62 +248,71 @@ sopranoOneLyricsSynced = {\syncText \sopranoOneLatinCz \syncText}
     <<
       % single voices for Piano
       \new Staff = "S 1" {\sopranoOneVoiceMidi}
-      %{
-      \new Staff = "S 2" {\midiGlobal \sopranoTwoVoice}
-      \new Staff = "S 3" {\midiGlobal \sopranoThreeVoice}
-      \new Staff = "A 1" {\midiGlobal \altoOneVoice}
-      \new Staff = "A 2" {\midiGlobal \altoTwoVoice}
-      \new Staff = "T 1" {\midiGlobal \tenoreOneVoice}
-      \new Staff = "T 2" {\midiGlobal \tenoreTwoVoice}
-      \new Staff = "T 3" {\midiGlobal \tenoreThreeVoice}
-      \new Staff = "B 1" {\midiGlobal \bassoOneVoice}
-      \new Staff = "B 2" {\midiGlobal \bassoTwoVoice}
-      \new Staff = "B 3" {\midiGlobal \bassoThreeVoice}
+      \new Staff = "S 2" {\sopranoTwoVoiceMidi}
+      \new Staff = "S 3" {\sopranoThreeVoiceMidi}
+
+      \new Staff = "A 1" {\altoOneVoiceMidi}
+      \new Staff = "A 2" {\altoTwoVoiceMidi}
+
+      \new Staff = "T 1" {\tenoreOneVoiceMidi}
+      \new Staff = "T 2" {\tenoreTwoVoiceMidi}
+      \new Staff = "T 3" {\tenoreThreeVoiceMidi}
+
+
+      \new Staff = "B 1" {\bassoOneVoiceMidi}
+      \new Staff = "B 2" {\bassoTwoVoiceMidi}
+      \new Staff = "B 3" {\bassoThreeVoiceMidi}
+
+
 
       % Background voices
-      \new Staff = "S 1 B" {\midiGlobal \sopranoOneVoice}
-      \new Staff = "S 2 B" {\midiGlobal \sopranoTwoVoice}
-      \new Staff = "S 3 B" {\midiGlobal \sopranoThreeVoice}
-      \new Staff = "A 1 B" {\midiGlobal \altoOneVoice}
-      \new Staff = "A 2 B" {\midiGlobal \altoTwoVoice}
-      \new Staff = "T 1 B" {\midiGlobal \tenoreOneVoice}
-      \new Staff = "T 2 B" {\midiGlobal \tenoreTwoVoice}
-      \new Staff = "T 3 B" {\midiGlobal \tenoreThreeVoice}
-      \new Staff = "B 1 B" {\midiGlobal \bassoOneVoice}
-      \new Staff = "B 2 B" {\midiGlobal \bassoTwoVoice}
-      \new Staff = "B 3 B" {\midiGlobal \bassoThreeVoice}
-      \new Staff = "Solo B" {\midiGlobal }
+      \new Staff = "B S 1" {\sopranoOneVoiceMidi}
+      \new Staff = "B S 2" {\sopranoTwoVoiceMidi}
+      \new Staff = "B S 3" {\sopranoThreeVoiceMidi}
+
+      \new Staff = "B A 1" {\altoOneVoiceMidi}
+      \new Staff = "B A 2" {\altoTwoVoiceMidi}
+
+      \new Staff = "B T 1" {\tenoreOneVoiceMidi}
+      \new Staff = "B T 2" {\tenoreTwoVoiceMidi}
+      \new Staff = "B T 3" {\tenoreThreeVoiceMidi}
+
+
+      \new Staff = "B B 1" {\bassoOneVoiceMidi}
+      \new Staff = "B B 2" {\bassoTwoVoiceMidi}
+      \new Staff = "B B 3" {\bassoThreeVoiceMidi}
+
+      \new Staff = "Solo B" {\global }
 
       \new Staff = "FemaleOrgan"   {
         <<
-          {\midiGlobal \sopranoOneVoice} \\
-          {\midiGlobal \sopranoTwoVoice} \\
-          {\midiGlobal \sopranoThreeVoice} \\
-          {\midiGlobal \altoOneVoice} \\
-          {\midiGlobal \altoTwoVoice}
+          {\sopranoOneVoiceMidi} \\
+          {\sopranoTwoVoiceMidi} \\
+          {\sopranoThreeVoiceMidi} \\
+          {\altoOneVoiceMidi} \\
+          {\altoTwoVoiceMidi}
         >>
       }
 
       \new Staff = "MaleOrgan"   {
         <<
-          {\midiGlobal \tenoreOneVoice } \\
-          {\midiGlobal \tenoreTwoVoice } \\
-          {\midiGlobal \tenoreThreeVoice } \\
-          {\midiGlobal \bassoOneVoice } \\
-          {\midiGlobal \bassoTwoVoice } \\
-          {\midiGlobal \bassoThreeVoice }
+          {\tenoreOneVoiceMidi } \\
+          {\tenoreTwoVoiceMidi } \\
+          {\tenoreThreeVoiceMidi } \\
+          {\bassoOneVoiceMidi } \\
+          {\bassoTwoVoiceMidi } \\
+          {\bassoThreeVoiceMidi }
         >>
       }
 
-      \new Staff = "SubBass" {\midiGlobal \bassoThreeVoice}
-      \new Staff = "SoloOrgan"   {\midiGlobal }
-      %}
-    >>
+      \new Staff = "SubBass" {\bassoThreeVoiceMidi}
+      \new Staff = "SoloOrgan"   {\global }
       
+    >>
+
   >>
   \midi {
-    
+    \theTempo
+
   }
 }
-
-%}

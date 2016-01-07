@@ -1,0 +1,2 @@
+
+sopranoTwoCyrillic = \sopranoOneCyrillic

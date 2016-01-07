@@ -1,0 +1,2 @@
+
+altoTwoCyrillic =  \altoOneCyrillic 

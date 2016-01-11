@@ -10,7 +10,7 @@ sopranoOneVoice = \relative c'' {
   d8  \p e8 f4 \< f4 e8 ( [ f8 ) ] 
   
   \opage %2
-  g4 \mf \> -- f4 e8 ( [ d8 ] e4 ~ | % 2
+  g4 \mf \> -- f4  e8 -- \p \> ( [ d8 ] e4 ~ | % 2
   e4 ) d4 c2 \pp | % 3
   \time 6/4  
   a4 \p \< b8 [ c8 ] d2 \mf \> c2 \obreak | % 4

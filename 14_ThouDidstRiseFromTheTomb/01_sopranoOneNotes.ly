@@ -1,0 +1,4 @@
+sopranoOneVoice = \relative c'' {
+
+ c
+}

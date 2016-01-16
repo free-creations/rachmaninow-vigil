@@ -1,0 +1,4 @@
+tenoreOneVoice = \relative c' {
+  c
+}
+

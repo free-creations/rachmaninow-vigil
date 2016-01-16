@@ -1,0 +1,5 @@
+tenoreTwoVoice = \relative c' {
+  c
+}
+
+

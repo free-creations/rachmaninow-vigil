@@ -1,0 +1,6 @@
+
+sopranoTwoVoice = \relative c '' {
+  c
+}
+
+

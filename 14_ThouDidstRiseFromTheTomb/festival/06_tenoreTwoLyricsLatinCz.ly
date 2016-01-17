@@ -1,5 +1,19 @@
 %%% Do not edit. This file is generated automatically from 06_tenoreTwoLyricsCyrillic.ly
 
 tenoreTwoLatinCz = \lyricmode {
-  "Gos 6"
+  Vos -- kres níz gro -- ba ní u -- zy ras -- ter --
+  zal ě -- si __ ha -- "da"
+  raz -- ru -- šil
+
+  %p2
+  ě -- si o -- suž -- de --  ni -- ě smer -- "ti"
+  Gos -- po -- "di"
+  vsja ot se -- tej vra -- ga níz -- ba -- vi -- "vy"
+  ja -- vi -- vy že Se -- be __ ha -- po -- sto -- "lom"
+  
+  %p3
+  po -- slal ě -- si na pro -- po -- "ved"
+  ní te -- mi mir Tvojí po -- dal ě -- si vse -- len -- "nej" __
+
+  Mno -- go -- mi -- los -- ti -- "ve" __
 }

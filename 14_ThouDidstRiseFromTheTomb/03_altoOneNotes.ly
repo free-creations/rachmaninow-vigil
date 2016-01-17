@@ -6,7 +6,7 @@ altoOneVoice = \relative c' {
   b2 b4. \> ( c8 ) \obreak | % 5
   d4 \pp \< e8  ( [ f8 ) ] g8 ( [ a8 ) ] bes4 | % 6
   a2. \mf \> ( ~ a8 [ g8 ) ] | % 7
-  f2 \p e2 \pp | % 8
+  f2 \p e2 \pp \breathe| % 8
   f4 \p \< f4  f2 \mp --
 
   \opage %2
@@ -14,7 +14,7 @@ altoOneVoice = \relative c' {
   \times 2/3  {
     f8  ( [ g8  a8 ) ]
   }
-  bes2 \f -- bes8 \< [ c8 ] | % 3
+  bes2 \f -- bes8 \< [( c8 ]) | % 3
   bes8 \ff \> ( [ a8 ) ] g8  ( [ a8 ] bes4 ) a4 | % 4
   a8  ( [ c8 ) ] b4 a2  \p \breathe | \obreak | % 5
   \time 2/4
@@ -30,7 +30,7 @@ altoOneVoice = \relative c' {
   f8 ( [ e8 ] f4 ) e2 \pp \breathe
 
   \opage %3
-  a,4 \p  ( b8 [ c8 ] d4. \> e8 ) | % 2
+  a,4-- \p  ( b8 [ c8 ] d4. \> e8 ) | % 2
   f4. \pp ( g8 f8 [ e8 ) ] d8 ( [ e8 ) ] | % 3
   f4. ( g8 ) f8 ( [ e8 ) ] d8 ( [ f8 ) ] | % 4
   e4 e4 e4 ( f4 ) \obreak | % 5

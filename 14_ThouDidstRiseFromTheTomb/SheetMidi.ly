@@ -3,7 +3,7 @@
 #(ly:set-option 'midi-extension "mid")
 
 \header {
-  title = "Title"
+  title = "14. Thou Didst Rise from the Tomb"
   tagline = ##f
 }
 

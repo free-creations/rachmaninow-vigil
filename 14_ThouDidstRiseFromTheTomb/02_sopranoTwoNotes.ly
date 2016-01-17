@@ -1,6 +1,0 @@
-
-sopranoTwoVoice = \relative c '' {
-  c
-}
-
-

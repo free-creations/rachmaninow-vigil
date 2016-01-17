@@ -13,7 +13,7 @@
 }
 
 global = {
-  \key f \major
+  \key c \major
   \numericTimeSignature
   \dynamicUp
   \autoBeamOff
@@ -24,9 +24,7 @@ global = {
 }
 
 midiGlobal = {
-  \key f \major
-  \numericTimeSignature
-  \time 1/4  s4
+  \global
 }
 
 greyText = {
@@ -35,7 +33,7 @@ greyText = {
   \override Lyrics.LyricExtender  #'color =  #(x11-color 'grey40)
 }
 
-obreak = {}
+obreak = {\break}
 opage ={\pageBreak}
 
 \include "articulate.ly"
@@ -44,13 +42,6 @@ opage ={\pageBreak}
 \include "01_sopranoOneLyricsCyrillic.ly"
 \include "01_sopranoOneLyricsLatinG.ly"
 
-\include "02_sopranoTwoNotes.ly"
-\include "02_sopranoTwoLyricsCyrillic.ly"
-\include "02_sopranoTwoLyricsLatinG.ly"
-
-\include "10_sopranoThreeNotes.ly"
-\include "10_sopranoThreeLyricsCyrillic.ly"
-\include "10_sopranoThreeLyricsLatinG.ly"
 
 \include "03_altoOneNotes.ly"
 \include "03_altoOneLyricsCyrillic.ly"
@@ -76,9 +67,7 @@ opage ={\pageBreak}
 \include "08_bassoTwoLyricsCyrillic.ly"
 \include "08_bassoTwoLyricsLatinG.ly"
 
-\include "09_bassoThreeNotes.ly"
-\include "09_bassoThreeLyricsCyrillic.ly"
-\include "09_bassoThreeLyricsLatinG.ly"
+
 
 
 %%% ------ Print Score
@@ -93,19 +82,6 @@ opage ={\pageBreak}
     \addlyrics { \sopranoOneLatinG }
     \addlyrics { \greyText \sopranoOneCyrillic }
 
-    \new Staff \with {
-      instrumentName = "S. II"
-      shortInstrumentName = "S. II"
-    } { \global \sopranoTwoVoice }
-    \addlyrics { \sopranoTwoLatinG }
-    \addlyrics { \greyText \sopranoTwoCyrillic }
-
-    \new Staff \with {
-      instrumentName = "S. III"
-      shortInstrumentName = "S. III"
-    } { \global \sopranoThreeVoice }
-    \addlyrics { \sopranoThreeLatinG }
-    \addlyrics { \greyText \sopranoThreeCyrillic }
 
 
     \new Staff \with {
@@ -151,13 +127,6 @@ opage ={\pageBreak}
     \addlyrics { \bassoTwoLatinG }
     \addlyrics { \greyText \bassoTwoCyrillic }
 
-    \new Staff \with {
-      instrumentName = "B. III"
-      shortInstrumentName = "B. III"
-    } {\global \clef bass \bassoThreeVoice }
-    \addlyrics { \bassoThreeLatinG }
-    \addlyrics { \greyText \bassoThreeCyrillic }
-
   >>
 
 
@@ -166,7 +135,7 @@ opage ={\pageBreak}
 }
 
 %%% ------ Midi Score
-
+%{
 \score {
   <<
     \articulate

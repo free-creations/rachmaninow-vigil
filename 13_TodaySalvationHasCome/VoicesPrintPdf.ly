@@ -1,18 +1,14 @@
 \version "2.18.2"
 
 
-\header {
-  tagline = ##f
-}
+
 
 
 \paper {
-  paper-height = 800\mm
-  paper-width = 140\mm
-  top-margin = 8\mm
-  bottom-margin = 2\mm
-  left-margin = 6\mm
-  right-margin = 2\mm
+  #(set-paper-size "a4")
+  ragged-last-bottom = ##f
+  bottom-margin = 1\cm
+  top-margin = 1\cm
 
 
   fonts = #
@@ -22,6 +18,34 @@
    "'Inconsolata', 'Courier New', monospace"
    (/ (* staff-height pt) 2.5))
 
+
+  print-page-number = ##t
+  print-first-page-number = ##t
+  oddHeaderMarkup = \markup \null
+  evenHeaderMarkup = \markup \null
+  oddFooterMarkup = \markup {
+    \fill-line {
+      \line {"13. Tropar \"Heute ist das Heil gekommen\"" }
+      \line {
+        \on-the-fly \print-page-number-check-first
+        \fromproperty #'page:page-number-string
+      }
+    }
+  }
+  evenFooterMarkup = \markup {
+    \fill-line {
+      \line {
+        \on-the-fly \print-page-number-check-first
+        \fromproperty #'page:page-number-string
+      }
+      \line {"13. Tropar \"Heute ist das Heil gekommen\"" }
+
+    }
+  }
+
+
+
+
 }
 
 greyText = {
@@ -30,15 +54,15 @@ greyText = {
   \override Lyrics.LyricExtender  #'color =  #(x11-color 'grey40)
 }
 
+
 global = {
-  \key f \major
-  \numericTimeSignature
+  \key c \major
   \dynamicUp
   \autoBeamOff
   \accidentalStyle "modern-voice-cautionary"
-  \override Score.TimeSignature #'stencil = ##f
+  % \override Score.TimeSignature #'stencil = ##f
   \set Score.markFormatter = #format-mark-box-numbers
-  %\override Score.BarNumber #'break-visibility = #'#(#t #t #t)
+  \override Score.BarNumber #'break-visibility = #'#(#f #f #t)
 }
 
 obreak = {}
@@ -51,10 +75,6 @@ opage ={}
 \include "02_sopranoTwoNotes.ly"
 \include "02_sopranoTwoLyricsCyrillic.ly"
 \include "02_sopranoTwoLyricsLatinG.ly"
-
-\include "10_sopranoThreeNotes.ly"
-\include "10_sopranoThreeLyricsCyrillic.ly"
-\include "10_sopranoThreeLyricsLatinG.ly"
 
 \include "03_altoOneNotes.ly"
 \include "03_altoOneLyricsCyrillic.ly"
@@ -76,19 +96,20 @@ opage ={}
 \include "07_bassoOneLyricsCyrillic.ly"
 \include "07_bassoOneLyricsLatinG.ly"
 
-\include "08_bassoTwoNotes.ly"
-\include "08_bassoTwoLyricsCyrillic.ly"
-\include "08_bassoTwoLyricsLatinG.ly"
 
-\include "09_bassoThreeNotes.ly"
-\include "09_bassoThreeLyricsCyrillic.ly"
-\include "09_bassoThreeLyricsLatinG.ly"
+\layout {
 
+}
 
 
 %---------- Soprano-------------------------------
 \book {
   \bookOutputName "01_sopranoOne"
+  \header {
+    title = "13. Tropar \"Heute ist das Heil gekommen\""
+    tagline = ##f
+    subtitle = "Soprano I"
+  }
   \score {
     \new Staff \with {
       instrumentName = "S. I"
@@ -100,6 +121,11 @@ opage ={}
 
 \book {
   \bookOutputName "02_sopranoTwo"
+  \header {
+    title = "13. Tropar \"Heute ist das Heil gekommen\""
+    tagline = ##f
+    subtitle = "Soprano II"
+  }
   \score {
     \new Staff \with {
       instrumentName = "S. II"
@@ -109,19 +135,14 @@ opage ={}
   }
 }
 
-\book {
-  \bookOutputName "10_sopranoThree"
-  \score {
-    \new Staff \with {
-      instrumentName = "S. III"
-    } { \global \sopranoThreeVoice }
-    \addlyrics { \sopranoThreeLatinG }
-    \addlyrics { \greyText \sopranoThreeCyrillic }
-  }
-}
 %---------- Alto -------------------------------
 \book {
   \bookOutputName "03_altoOne"
+  \header {
+    title = "13. Tropar \"Heute ist das Heil gekommen\""
+    tagline = ##f
+    subtitle = "Alto I"
+  }
   \score {
 
     \new Staff \with {
@@ -133,6 +154,11 @@ opage ={}
 }
 \book {
   \bookOutputName "04_altoTwo"
+  \header {
+    title = "13. Tropar \"Heute ist das Heil gekommen\""
+    tagline = ##f
+    subtitle = "Alto II"
+  }
   \score {
     \new Staff \with {
       instrumentName = "A. II"
@@ -145,6 +171,11 @@ opage ={}
 %---------- Tenore -------------------------------
 \book {
   \bookOutputName "05_tenoreOne"
+  \header {
+    title = "13. Tropar \"Heute ist das Heil gekommen\""
+    tagline = ##f
+    subtitle = "Tenore I"
+  }
   \score {
     \new Staff \with {
       instrumentName = "T. I"
@@ -155,6 +186,11 @@ opage ={}
 }
 \book {
   \bookOutputName "06_tenoreTwo"
+  \header {
+    title = "13. Tropar \"Heute ist das Heil gekommen\""
+    tagline = ##f
+    subtitle = "Tenore II"
+  }
   \score {
     \new Staff \with {
       instrumentName = "T. II"
@@ -163,10 +199,14 @@ opage ={}
     \addlyrics { \greyText \tenoreTwoCyrillic }
   }
 }
-
 %---------- Basso -------------------------------
 \book {
   \bookOutputName "07_bassoOne"
+  \header {
+    title = "13. Tropar \"Heute ist das Heil gekommen\""
+    tagline = ##f
+    subtitle = "Basso I"
+  }
   \score {
     \new Staff \with {
       instrumentName = "B. I"
@@ -175,26 +215,8 @@ opage ={}
     \addlyrics { \greyText \bassoOneCyrillic }
   }
 }
-\book {
-  \bookOutputName "08_bassoTwo"
-  \score {
-    \new Staff \with {
-      instrumentName = "B. II"
-    } { \clef bass \global   \bassoTwoVoice }
-    \addlyrics { \bassoTwoLatinG }
-    \addlyrics { \greyText \bassoTwoCyrillic }
-  }
-}
 
-\book {
-  \bookOutputName "09_bassoThree"
-  \score {
-    \new Staff \with {
-      instrumentName = "B. III"
-    } { \clef bass \global   \bassoThreeVoice }
-    \addlyrics { \bassoThreeLatinG }
-    \addlyrics { \greyText \bassoThreeCyrillic }
-  }
-}
 
-%}
+
+
+

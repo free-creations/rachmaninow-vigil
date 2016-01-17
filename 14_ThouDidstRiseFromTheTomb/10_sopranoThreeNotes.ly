@@ -1,5 +1,0 @@
-
-sopranoThreeVoice = \relative c '' {
-  c
-}
-

@@ -1,0 +1,4 @@
+altoOneVoice = \relative c'' {
+  c
+}
+

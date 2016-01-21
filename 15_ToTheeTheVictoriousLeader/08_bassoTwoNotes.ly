@@ -1,0 +1,4 @@
+bassoTwoVoice = \relative c {
+  c
+}
+

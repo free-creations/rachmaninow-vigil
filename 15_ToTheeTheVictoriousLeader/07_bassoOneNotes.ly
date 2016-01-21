@@ -1,0 +1,4 @@
+bassoOneVoice = \relative f {
+ c
+}
+

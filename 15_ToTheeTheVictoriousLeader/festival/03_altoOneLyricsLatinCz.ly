@@ -1,5 +1,5 @@
 %%% Do not edit. This file is generated automatically from 03_altoOneLyricsCyrillic.ly
 
-altoOneLatinG = \lyricmode {
+altoOneLatinCz = \lyricmode {
   "Gos 3"
 }

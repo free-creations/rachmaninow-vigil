@@ -1,5 +1,5 @@
 %%% Do not edit. This file is generated automatically from 02_sopranoTwoLyricsCyrillic.ly
 
-sopranoTwoLatinG = \lyricmode {
+sopranoTwoLatinCz = \lyricmode {
   "Gos 2"
 }

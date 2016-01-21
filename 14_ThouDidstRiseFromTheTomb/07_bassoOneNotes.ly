@@ -5,7 +5,7 @@ bassoOneVoice = \relative f {
   d2. f8 [( e8 ]) |
   d4. ( e8 ) f2 \obreak | % 5
   e8 \pp ( [ f8 ) ] g8 ( [ a8 ) ] bes8 ( [ c8 ) ] d4 | % 6
-  d,4. \mf \< ( e8 ) f8 \f\> [ g8 ] f8 [ e8 ] | % 7
+  d,4. \mf \< ( e8 ) f8 \f\> [( g8 ]) f8 [( e8 ]) | % 7
   d8  \p ( [ e8 ] f4 \mp  ) e2  \p | % 8
   d4 \p \< d4  g2 \mp |
 

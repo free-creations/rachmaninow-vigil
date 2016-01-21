@@ -1,14 +1,14 @@
 %%% Do not edit. This file is generated automatically from 03_altoOneLyricsCyrillic.ly
 
 altoOneLatinCz = \lyricmode {
-    Vos -- kres níz gro -- ba ní u -- zy ras -- ter --
+    Vos -- kres níz gro -- ba ní hu -- zy ras -- ter --
   zal ě -- si __ ha -- "da"
   raz -- ru -- šil
   
     %p2
-  ě -- si o -- suž -- de --  ni -- ě smer -- "ti"
+  ě -- si ho -- suž -- de --  ni -- ě smer -- "ti"
   Gos -- po -- "di"
-  ot se -- tej vra -- ga níz -- ba -- vi -- "vy"
+  hot se -- tej vra -- ga níz -- ba -- vi -- "vy"
   ja -- vi -- vy že Se -- be ha -- po -- sto -- lom Tvo -- "ním"
 
   %p3

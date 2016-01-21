@@ -11,7 +11,6 @@ bassoTwoVoice = \relative c {
   d'4  d4 b2-- \mp
 
   \opage %2
-  \time 4/4
   c8 \p ( [ d8 ) ] e4 a,2 | % 2
   d4 \< g2 \f g4  | % 3
   g4 g2 \>  f4 ( ~ | % 4

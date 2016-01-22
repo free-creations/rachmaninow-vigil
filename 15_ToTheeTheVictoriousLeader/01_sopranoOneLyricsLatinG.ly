@@ -15,7 +15,7 @@ sopranoOneLatinG = \lyricmode {
   %page 3
    di -- "ze;" __ 
    no ja -- ko i -- mu -- schtscha --
-   ja der -- scha -- wu  ne -- po -- be -- di mu -- "ju," __
+   ja der -- scha -- wu  ne -- po -- be -- di __ mu -- "ju," __
    ot
    
    %page 4

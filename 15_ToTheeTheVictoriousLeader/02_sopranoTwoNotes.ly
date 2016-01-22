@@ -3,7 +3,7 @@ sopranoTwoVoice = \relative  e'' {
   \time 4/4 |
   c4 \p c8 [( b8 ]) c8 [( b8 ]) a4 \< | % 2
   c8 -- \mp\> ([ b8 a8 g8 ]) b2  -- | % 3
-  b4.( \p a8) b4.( a8 ) | % 4
+  b4.--( \p a8) b4.--( a8 ) | % 4
   b4 g8 \< ([ a8 )] b8 [( g8 ]) a8( [ b8 ] \obreak |
   c8  [ d8 e8 f8 ) ] g8 ( [ e8 )] c4 | % 6
   f4.\ff \> ( e8 ) e4  d4 | % 7

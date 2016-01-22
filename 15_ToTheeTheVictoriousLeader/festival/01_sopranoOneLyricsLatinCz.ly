@@ -15,7 +15,7 @@ sopranoOneLatinCz = \lyricmode {
   %page 3
    di -- "ce" __ 
    no ja -- ko ní -- mu -- šča --
-   ja der -- ža -- vu  ne -- po -- be -- di mu -- "ju" __
+   ja der -- ža -- vu  ne -- po -- be -- di __ mu -- "ju" __
    hot
    
    %page 4

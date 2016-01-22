@@ -100,6 +100,13 @@ opage ={\pageBreak}
     \addlyrics { \altoOneLatinG }
     \addlyrics { \greyText \altoOneCyrillic }
 
+    \new Staff \with {
+      instrumentName = "A. II"
+      shortInstrumentName = "A. II"
+    } {  \global \altoTwoVoice}
+    \addlyrics { \altoTwoLatinG }
+    \addlyrics { \greyText \altoTwoCyrillic }
+
 
     \new Staff \with {
       instrumentName = "T. I"

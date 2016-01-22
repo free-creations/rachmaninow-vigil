@@ -2,7 +2,7 @@ sopranoOneVoice = \relative  e'' {
   \time 4/4
   e4 \p e8 ([ d8 )] e8 ([ d8 )] c8 \< ( [ d8 ) ] | % 2
   e8-- \mp \> ([ d8 c8 b8 )] d2  -- | % 3
-  d4.( \p  c8 ) d4. ( c8 ) | % 4
+  d4.--( \p  c8 ) d4.-- ( c8 ) | % 4
   d4 b8 \<  [( c8 ]) d8 [ ( b8 )] c8 [( d8] \obreak | % 5
   e8  [ d8 e8 f8 ) ] g8 ( [ e8 )] c4 | % 6
   a'2 \ff \> g4  f4 | % 7

@@ -1,4 +1,2 @@
 
-altoTwoCyrillic = \lyricmode {
-  "Гос 4"
-}
+altoTwoCyrillic = \altoOneCyrillic

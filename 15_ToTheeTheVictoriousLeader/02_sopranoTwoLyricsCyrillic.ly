@@ -1,4 +1,2 @@
 
-sopranoTwoCyrillic = \lyricmode {
-  "Гос 2"
-}
+sopranoTwoCyrillic = \sopranoOneCyrillic

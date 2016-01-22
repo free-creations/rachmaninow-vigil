@@ -33,7 +33,7 @@ greyText = {
   \override Lyrics.LyricExtender  #'color =  #(x11-color 'grey40)
 }
 
-obreak = {}
+obreak = {\break}
 opage ={\pageBreak}
 
 \include "articulate.ly"

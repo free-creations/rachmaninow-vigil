@@ -10,7 +10,7 @@ bassoOneVoice = \relative f {
   
 
   \opage
-  \time 4/4 c,8( \p [ d8) ] e4 a,2 |
+  c,8( \p [ d8) ] e4 a,2 |
   d4 \< g2 \f g4 |
   g4 g2 \> f4( ~ |
   f4 g4) a,4 \p \< b8 c8 \obreak |

@@ -9,7 +9,7 @@ tenoreOneVoice = \relative a {
   c4 \p \< d8( [ e8) ] f4.( \mp -- g8) 
 
   \opage
-  \time 4/4 e2 \p e,4 f8( \< [ g8) ] |
+  e2 \p e,4 f8( \< [ g8) ] |
   \times 2/3 {
   a8( -- [ bes8 -- c8) -- ] }
   d4( \f cis4) -> d8( \< [ e8) ] |

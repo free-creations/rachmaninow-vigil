@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE SINGING PUBLIC "-//SINGING//DTD SINGING mark up//EN" "Singing.v0_1.dtd" []>
-<SINGING BPM="33.0">
+<SINGING BPM="86.0">
 <REST BEATS="4.0"></REST>
 <DURATION BEATS="0.5"><PITCH NOTE="C5">ti</PITCH></DURATION>
 <REST BEATS="0.5"></REST>

@@ -16,7 +16,7 @@ tenoreOneLatinCz = \lyricmode {
   di -- "ce"
   Bo -- go -- ro -- di -- "ce"
   no ja -- ko ní -- mu -- šča --
-  ja der -- ža -- vu  ne -- po -- be -- di __ mu -- "ju" __
+  ja der -- ža -- vu  ne -- po -- be -- di -- mu -- "ju" __
   hot    
 
   %page 4

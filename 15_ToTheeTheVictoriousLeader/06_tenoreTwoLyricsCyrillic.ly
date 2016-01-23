@@ -1,4 +1,2 @@
 
-tenoreTwoCyrillic = \lyricmode {
-  "Гос 6"
-}
+tenoreTwoCyrillic = \tenoreOneCyrillic

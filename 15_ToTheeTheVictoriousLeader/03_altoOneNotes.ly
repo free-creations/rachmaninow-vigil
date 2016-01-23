@@ -36,7 +36,7 @@ altoOneVoice = \relative c'' {
   a2 ->( bes8\> [ c8 a8 b8 ]) | % 3
   c4 \mf \> b4 a2  \obreak | % 4
   \time 6/4
-  c4\f c4 g8 ( -> a4 f8 ) g4 -> ( a8 [ b8 ) ] | % 5
+  c4\f c4 g8 ( -> a4 f8 ) g4->  ( a8 [ b8 ) ] | % 5
   \time 4/4
   c4 \ff  c4 g4 a8 [( b8 ]) | % 6
   c2 ( ~ c8[ g8] ) a8 ( [ b8 ) ] \obreak | % 7

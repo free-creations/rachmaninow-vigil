@@ -37,7 +37,7 @@ tenoreOneVoice = \relative c' {
   d8 ( ->[ e8 f8 g8 ] f8\> [ e8 ] d4 ) | % 3
   e4 \mf \> d4  c2 \obreak | % 4
   \time 6/4
-  e4  \f d4 d2 -> e8 ( f4 d8 ) | % 5
+  e4  \f d4 d2 -> e8-> ( f4 d8 ) | % 5
   \time 4/4
   g4 \ff g4 g4 g4 | % 6
   g4 ( ~ g8 [ f8 ] e8 [ d8 ) ] e8 ([ f8 ]) \obreak | % 7

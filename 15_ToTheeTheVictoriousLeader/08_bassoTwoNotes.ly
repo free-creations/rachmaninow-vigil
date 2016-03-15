@@ -4,8 +4,8 @@ bassoTwoVoice = \relative d {
   g2 g'2 ~ \obreak |
 
   g2 g8 ( [ c,8 ) ] e8 ( [ g8 ) ] | % 6
-  c2 \ff g4 \> c,4 | % 7
-  \time 2/4  g2 \mf | % 8
+  c2 \ff g4 \> g4 | % 7
+  \time 2/4  c,2 \mf | % 8
   \time 4/4  R1 | % 9
   g2 \p g4 g4
 
